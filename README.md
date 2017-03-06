@@ -43,10 +43,11 @@ We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-me
 ## Third party
 If you want to have the latest GAME_MASTER version as a developer, you can use 
 ```
-wget https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions/latest/pokemongo.json
+wget https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
 ```
 
 ## Contributors
 
 Livio Brunner <<a href="mailto:contact@brunnerliv.io">contact@brunnerliv.io</a>>
-Ryan Barker <<a href="mailto:celandro@gmail.com">celandro@gmail.com</a>
+
+Ryan Barker <<a href="mailto:celandro@gmail.com">celandro@gmail.com</a>>
