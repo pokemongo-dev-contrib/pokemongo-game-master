@@ -11,6 +11,7 @@ This project heavily relies on the help of you. So please contribute.
 The file system should be order like this
 ```
 └── versions
+    ├── latest-version.txt
     ├── 0.57.1
     │   ├── GAME_MASTER.json
     │   └── GAME_MASTER.protobuf
@@ -21,12 +22,23 @@ The file system should be order like this
         ├── GAME_MASTER.json
         └── GAME_MASTER.protobuf
 ```
-When you create a pull request, make sure to create a new folder in 
-the `versions`-directory. If the protobuf file is the latest version, 
-call the folder `latest`. If you want to add not the latest version, 
-call the folder like the version of the protobuf file (e.g. `0.57.3`).
+##### Add latest version
+1. Add a folder, named like the latest version (e.g. `0.57.3`)
+2. Copy the latest protobuf file into the new folder and rename it to `GAME_MASTER.protobuf`
+3. See [Generating a new json file](#generating-a-new-json-file)
+4. Remove the folder called `versions/latest`
+5. Duplicate the folder, with your new protobuf files and rename it to `latest` (Now your protobuf file should exist 2 times in the project)
+6. Update latest version in `versions/latest-version.txt`
+7. Create pull request
 
-Make sure to add always a protobuf file and a json file.
+
+
+##### Add older version
+1. Add a folder, named like the version (e.g. `0.57.3`)
+2. Copy the protobuf file into the new folder and rename it to `GAME_MASTER.protobuf`
+3. See [Generating a new json file](#generating-a-new-json-file)
+4. Create pull request
+
 
 ### Generating a new json file
 1. Copy a protobuf file to the latest directory
