@@ -57,6 +57,13 @@ If you want to have the latest GAME_MASTER version as a developer, you can use
 ```
 wget https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
 ```
+### Projects
+
+- [pokemongo-data-normalizer](https://github.com/BrunnerLivio/pokemongo-data-normalizer) - GAME_MASTER data normalized to better processable data
+- [pokemongo-web-api](https://github.com/BrunnerLivio/pokemongo-web-api) - Web API for GAME_MASTER data
+- [Pogonium](https://github.com/truimagz/pogonium) - Pokédex for Pokemon Go
+
+
 
 ## Contributors
 
