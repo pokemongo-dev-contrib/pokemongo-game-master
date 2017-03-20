@@ -1,4 +1,7 @@
 ﻿# Pokemon Go Game Master
+
+[![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-game-master)](https://ghit.me/repo/BrunnerLivio/pokemongo-game-master)
+
 This repository is collection of the decoded GAME_MASTER-protobuf files
 
 ## Contribute
