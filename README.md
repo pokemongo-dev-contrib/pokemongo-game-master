@@ -34,7 +34,7 @@ Make sure to add always a protobuf file and a json file.
 2. Build the json converter (requires java and maven)
   * mvn package
 3. Generate the file
-  * java -cp target\pokemongo-game-master-2.7.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json
+  * java -cp target\pokemongo-game-master-2.8.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json
 
 #### Commits
 
