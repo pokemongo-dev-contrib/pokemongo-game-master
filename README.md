@@ -49,9 +49,9 @@ The file system should be order like this
 1. Copy a protobuf file to the latest directory
   * Gamemaster file can be found on android devices at [internal storage OR sd card]/Android/data/com.ninaticlabs.pokemongo/files/remote_config_cache
 2. Build the json converter (requires java and maven)
-  * mvn package
+  * `mvn package`
 3. Generate the file
-  * java -cp target\pokemongo-game-master-2.7.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json
+  * `java -cp target\pokemongo-game-master-2.7.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json`
 
 #### Commits
 
