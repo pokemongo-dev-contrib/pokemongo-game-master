@@ -51,8 +51,8 @@ The file system should be order like this
 2. Build the json converter (requires java and maven)
   * `mvn package`
 3. Generate the file
-  * WINDOWS: `java -cp target\pokemongo-game-master-2.8.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json`
-  * *NIX: `java -cp target/pokemongo-game-master-2.8.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf > versions/latest/GAME_MASTER.json`
+  * WINDOWS: `java -cp target\pokemongo-game-master-2.9.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json`
+  * *NIX: `java -cp target/pokemongo-game-master-2.9.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf > versions/latest/GAME_MASTER.json`
 
   
 #### Commits
