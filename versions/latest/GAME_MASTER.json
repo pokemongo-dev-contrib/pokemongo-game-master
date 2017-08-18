@@ -3280,6 +3280,13 @@
       "targets": [3, 50, 300]
     }
   }, {
+    "templateId": "BADGE_PIKACHU_OUTBREAK_YOKOHAMA_2017",
+    "badgeSettings": {
+      "badgeType": 2002,
+      "badgeRank": 2,
+      "targets": [100]
+    }
+  }, {
     "templateId": "BADGE_POKEDEX_ENTRIES",
     "badgeSettings": {
       "badgeType": "BADGE_POKEDEX_ENTRIES",
@@ -17191,7 +17198,6 @@
         "shoulderModeScale": 0.5
       },
       "encounter": {
-        "baseCaptureRate": 0.02,
         "baseFleeRate": 0.1,
         "collisionRadiusM": 0.37,
         "collisionHeightM": 1.184,
@@ -17209,9 +17215,9 @@
         "maxPokemonActionFrequencyS": 1.6
       },
       "stats": {
-        "baseStamina": 212,
-        "baseAttack": 330,
-        "baseDefense": 200
+        "baseStamina": 193,
+        "baseAttack": 300,
+        "baseDefense": 182
       },
       "quickMoves": ["PSYCHO_CUT_FAST", "CONFUSION_FAST"],
       "cinematicMoves": ["PSYCHIC", "SHADOW_BALL", "HYPER_BEAM", "FOCUS_BLAST"],
@@ -18920,7 +18926,7 @@
       "heightStdDev": 0.05125,
       "weightStdDev": 0.725,
       "familyId": "FAMILY_ODDISH",
-      "kmBuddyDistance": 1.0,
+      "kmBuddyDistance": 3.0,
       "modelHeight": 0.4
     }
   }, {
@@ -22737,7 +22743,6 @@
         "shoulderModeScale": 0.5
       },
       "encounter": {
-        "baseCaptureRate": 0.02,
         "baseFleeRate": 0.04,
         "collisionRadiusM": 0.55,
         "collisionHeightM": 0.91,
@@ -22803,7 +22808,6 @@
         "shoulderModeScale": 0.5
       },
       "encounter": {
-        "baseCaptureRate": 0.02,
         "baseFleeRate": 0.04,
         "collisionRadiusM": 0.55,
         "collisionHeightM": 0.91,
@@ -22870,7 +22874,6 @@
         "shoulderModeScale": 0.5
       },
       "encounter": {
-        "baseCaptureRate": 0.02,
         "baseFleeRate": 0.04,
         "collisionRadiusM": 0.65,
         "collisionHeightM": 1.35,
@@ -23223,7 +23226,6 @@
         "shoulderModeScale": 0.5
       },
       "encounter": {
-        "baseCaptureRate": 0.02,
         "baseFleeRate": 0.04,
         "collisionRadiusM": 1.2,
         "collisionHeightM": 3.7,
@@ -31094,5 +31096,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1501300400828"
+  "timestampMs": "1502635854425"
 }
