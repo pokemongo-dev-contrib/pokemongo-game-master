@@ -1,5 +1,4 @@
 * text=auto
 
-*.protobuf text
 *.json text
 *.md text
