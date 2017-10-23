@@ -22,6 +22,7 @@
   "homepage": "https://github.com/BrunnerLivio/pokemongo-game-master#readme",
   "devDependencies": {
     "chai": "^4.1.2",
+    "mocha": "^4.0.1",
     "promise": "^8.0.1",
     "semver": "^5.4.1",
     "semver-extra": "^2.0.1"
