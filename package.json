@@ -1,0 +1,30 @@
+{
+  "name": "pokemongo-game-master",
+  "version": "1.0.0",
+  "description": "Collection of the decoded GAME_MASTER-protobuf files",
+  "main": "test/index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunnerLivio/pokemongo-game-master.git"
+  },
+  "keywords": [
+    "pokemongo",
+    "game-master"
+  ],
+  "author": "Livio Brunner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BrunnerLivio/pokemongo-game-master/issues"
+  },
+  "homepage": "https://github.com/BrunnerLivio/pokemongo-game-master#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1",
+    "promise": "^8.0.1",
+    "semver": "^5.4.1",
+    "semver-extra": "^2.0.1"
+  }
+}
