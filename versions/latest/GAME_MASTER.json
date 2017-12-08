@@ -3487,7 +3487,7 @@
   }, {
     "templateId": "BADGE_POKEDEX_ENTRIES_GEN3",
     "badgeSettings": {
-      "badgeType": 45,
+      "badgeType": "BADGE_POKEDEX_ENTRIES_GEN3",
       "badgeRank": 4,
       "targets": [5, 40, 90]
     }
@@ -5543,16 +5543,16 @@
     "formSettings": {
       "pokemon": "CASTFORM",
       "forms": [{
-        "form": 29,
+        "form": "CASTFORM_NORMAL",
         "assetBundleValue": 11
       }, {
-        "form": 30,
+        "form": "CASTFORM_SUNNY",
         "assetBundleValue": 12
       }, {
-        "form": 31,
+        "form": "CASTFORM_RAINY",
         "assetBundleValue": 13
       }, {
-        "form": 32,
+        "form": "CASTFORM_SNOWY",
         "assetBundleValue": 14
       }]
     }
@@ -5731,16 +5731,16 @@
     "formSettings": {
       "pokemon": "DEOXYS",
       "forms": [{
-        "form": 33,
+        "form": "DEOXYS_NORMAL",
         "assetBundleValue": 11
       }, {
-        "form": 34,
+        "form": "DEOXYS_ATTACK",
         "assetBundleValue": 12
       }, {
-        "form": 35,
+        "form": "DEOXYS_DEFENSE",
         "assetBundleValue": 13
       }, {
-        "form": 36,
+        "form": "DEOXYS_SPEED",
         "assetBundleValue": 14
       }]
     }
