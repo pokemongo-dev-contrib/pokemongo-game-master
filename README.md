@@ -2,7 +2,6 @@
 
 [![ghit.me](https://ghit.me/badge.svg?repo=BrunnerLivio/pokemongo-game-master)](https://ghit.me/repo/BrunnerLivio/pokemongo-game-master)
 [![Online Users in pokemongo-game-master Discord Server](https://discordapp.com/api/guilds/293741011665027073/embed.png)](https://discord.gg/ssVqwvX)
-[![Build Status](https://travis-ci.org/BrunnerLivio/pokemongo-game-master.svg?branch=master)](https://travis-ci.org/BrunnerLivio/pokemongo-game-master)
 
 
 This repository is collection of the decoded GAME_MASTER-protobuf files
@@ -49,11 +48,15 @@ The file system should be order like this
 ### Generating a new json file
 1. Copy a protobuf file to the latest directory
   * Gamemaster file can be found on android devices at [internal storage OR sd card]/Android/data/com.ninaticlabs.pokemongo/files/remote_config_cache
-2. Build the json converter (requires java and maven)
+2. Build and run the json converter (requires java and maven)
   * `mvn package`
-3. Generate the file
-  * WINDOWS: `java -cp target\pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf > versions\latest\GAME_MASTER.json`
-  * *NIX: `java -cp target/pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf > versions/latest/GAME_MASTER.json`
+  * or using docker
+    * WINDOWS: `docker run -it --rm --name my-maven-project -v "C:%HOMEPATH%\.m2":/root/.m2 -v "%cd%":/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
+    * *NIX (untested): `docker run -it --rm --name my-maven-project -v "~\.m2":/root/.m2 -v .:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
+
+3. (Optional) Generate the file manually
+  * WINDOWS: `java -cp target\pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf versions\latest\GAME_MASTER.json`
+  * *NIX: `java -cp target/pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json`
 
   
 #### Commits
