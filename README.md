@@ -50,7 +50,8 @@ The file system should be order like this
   * `mvn package`
   * or using docker
     * WINDOWS: `docker run -it --rm --name my-maven-project -v "C:%HOMEPATH%\.m2":/root/.m2 -v "%cd%":/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
-    * *NIX (untested): `docker run -it --rm --name my-maven-project -v "~\.m2":/root/.m2 -v .:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
+    * WINDOWS POWERSHELL: Same as above but you will need to put in the full path to your home directory for %HOMEPATH% and current dirrectory fo %cd%
+    * *NIX: ` docker run -it --rm --name my-maven-project -v "$HOME/.m2":/root/.m2 -v `pwd`:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
 
 3. (Optional) Generate the file manually
   * WINDOWS: `java -cp target\pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf versions\latest\GAME_MASTER.json`
