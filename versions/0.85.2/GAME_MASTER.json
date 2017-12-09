@@ -25387,7 +25387,7 @@
         "maxPokemonActionFrequencyS": 1.6
       },
       "stats": {
-        "baseStamina": 193,
+        "baseStamina": 212,
         "baseAttack": 239,
         "baseDefense": 274
       },
@@ -31286,7 +31286,7 @@
         "baseAttack": 192,
         "baseDefense": 242
       },
-      "quickMoves": ["WATERFALL_FAST", "DRAGON_TAIL_FAST"],
+      "quickMoves": ["WATER_GUN_FAST", "DRAGON_TAIL_FAST"],
       "cinematicMoves": ["SURF", "BLIZZARD", "HYPER_BEAM"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
@@ -33178,7 +33178,7 @@
     "templateId": "WEATHER_BONUS_SETTINGS",
     "weatherBonusSettings": {
       "cpBaseLevelBonus": 5,
-      "guaranteedIndividualValues": 4,
+      "guaranteedIndividualValues": 5,
       "stardustBonusMultiplier": 1.25,
       "attackBonusMultiplier": 1.2,
       "raidEncounterCpBaseLevelBonus": 5,
@@ -40473,5 +40473,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1512783757581"
+  "timestampMs": "1512762021881"
 }
