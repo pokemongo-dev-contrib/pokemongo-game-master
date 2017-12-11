@@ -30,14 +30,14 @@ The file system should be order like this
 ##### Add latest version
 1. Copy the latest protobuf file into versions/latest directory and rename it to `GAME_MASTER.protobuf`
 2. See [Generating a new json file](#generating-a-new-json-file)
-3. Add a folder, named like the latest version (e.g. `0.57.3`)
+3. Add a folder, named like the latest version (e.g. `0.57.3-1`). For consistency, append a numeric update number to account for future game master updates in a single version
 4. Copy the GAME_MASTER.protobuf and GAME_MASTER.json into the folder (Now your protobuf file should exist 2 times in the project)
 4. Update latest version in `versions/latest-version.txt`
 6. Create pull request
 
 
 ##### Add older version
-1. Add a folder, named like the version (e.g. `0.57.3`)
+1. Add a folder, named like the version (e.g. `0.57.3-1`)
 2. Copy the protobuf file into the new folder and rename it to `GAME_MASTER.protobuf`
 3. See [Generating a new json file](#generating-a-new-json-file) step 3
 4. Create pull request
