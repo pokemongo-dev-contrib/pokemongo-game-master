@@ -2,9 +2,10 @@
   "name": "pokemongo-game-master",
   "version": "1.0.0",
   "description": "Collection of the decoded GAME_MASTER-protobuf files",
-  "main": "test/index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,8 @@
     "promise": "^8.0.1",
     "semver": "^5.4.1",
     "semver-extra": "^2.0.1"
+  },
+  "dependencies": {
+    "request": "^2.83.0"
   }
 }
