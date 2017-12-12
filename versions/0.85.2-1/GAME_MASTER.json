@@ -25880,7 +25880,7 @@
         "baseDefense": 141
       },
       "quickMoves": ["COUNTER_FAST", "FIRE_SPIN_FAST"],
-      "cinematicMoves": ["FOCUS_BLAST", "OVERHEAT", "BRAVE_BIRD"],
+      "cinematicMoves": ["STONE_EDGE", "OVERHEAT", "BRAVE_BIRD"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.91,
@@ -40473,5 +40473,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1512926226442"
+  "timestampMs": "1512783757581"
 }
