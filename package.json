@@ -1,6 +1,6 @@
 {
   "name": "pokemongo-game-master",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of the decoded GAME_MASTER-protobuf files",
   "main": "src/index.js",
   "scripts": {

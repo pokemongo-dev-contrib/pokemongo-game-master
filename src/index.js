@@ -1,6 +1,7 @@
 const request = require('request');
 
 const FETCH_URL = 'https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions';
+const allowedFormats = ['protobuf', 'json'];
 
 /**
  * Returns the content of the request version
