@@ -24,7 +24,8 @@ const getVersion = (version, format) => {
         }
         // Get Date
         request.get(`${FETCH_URL}/${version}/GAME_MASTER.${format}`, (error, response, body) => {
-            if (error) reject(error);
+            if(response.body === '404: Not Found\n') return reject(new Error('Given version could not be found.'));
+            if (error) return reject(error);
 
             // Parse output, if JSON is selected
             if (format === 'json') {
