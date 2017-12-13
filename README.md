@@ -36,9 +36,29 @@ cp ~/your/GAME_MASTER.protobuf .
 We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-messages).
 
 ## Third party
+
+### Bash
+
 If you want to have the latest GAME_MASTER version as a developer, you can use 
 ```bash
 wget https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
+```
+
+### NodeJS
+
+#### Installation
+
+```bash
+npm i -s pokemongo-game-master
+```
+
+#### Usage
+
+```JavaScript
+const gameMaster = require('pokemongo-game-master');
+
+gameMaster.getVersion('latest', 'json').then(console.log); // Returns as object: { itemTemplates: [ ... ], timestampMs: '1512514949791' }
+gameMaster.getVersion('0.83.3', 'protobuf').then(console.log); // Returns the version 0.83.3 as string
 ```
 
 ### Projects
