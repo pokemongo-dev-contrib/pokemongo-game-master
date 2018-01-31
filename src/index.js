@@ -24,7 +24,7 @@ const getVersion = (version, format) => {
         }
         // Get Date
         request.get(`${FETCH_URL}/${version}/GAME_MASTER.${format}`, (error, response, body) => {
-            if(response.body === '404: Not Found\n') return reject(new Error('Given version could not be found.'));
+            if (response.body === '404: Not Found\n') return reject(new Error('Given version could not be found.'));
             if (error) return reject(error);
 
             // Parse output, if JSON is selected
@@ -34,7 +34,7 @@ const getVersion = (version, format) => {
                 } catch (exception) {
                     reject(exception);
                 }
-            // Return as string
+                // Return as string
             } else {
                 resolve(body);
             }
@@ -42,5 +42,25 @@ const getVersion = (version, format) => {
     });
 };
 
+/**
+ * Returns the number of the latest version
+ * @returns {String} Returns the latest version number
+ * 
+ * @example
+ * const gameMaster = require('pokemongo-game-master');
+ * 
+ * const version = await gameMaster.getLatestVersionName);
+ * console.log(version) // E.g. 0.89.0
+ */
+const getLatestVersionName = () => {
+    return new Promise((resolve, reject) => {
+        const URL = `${FETCH_URL}/latest-version.txt`;
+        request.get(URL, (error, response, body) => {
+            if (response.body === '404: Not Found\n') return reject(new Error(`${URL} was not found. Seems like an internal error`));
+            if (error) return reject(error);
+            resolve(body);
+        });
+    });
+};
 
-module.exports = { getVersion };
+module.exports = { getVersion, getLatestVersionName };

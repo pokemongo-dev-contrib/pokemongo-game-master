@@ -8,4 +8,5 @@
  */
 export class PokemongoGameMaster {
     static getVersion(version: string, format: "protobuf" | "json"): Promise<string|object>;
+    static getLatestVersionName(): Promise<string>;
 }
