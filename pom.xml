@@ -3,7 +3,7 @@
 
     <groupId>com.pokebattler</groupId>
     <artifactId>pokemongo-game-master</artifactId>
-    <version>2.23.0</version>
+    <version>2.22.0</version>
     <packaging>jar</packaging>
 
     <name>PokeBattler Fight</name>
