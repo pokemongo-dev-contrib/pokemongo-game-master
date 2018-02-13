@@ -40,7 +40,7 @@ The file system should be order like this
     * *NIX: ` docker run -it --rm --name my-maven-project -v "$HOME/.m2":/root/.m2 -v `pwd`:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json"`
 
 3. (Optional) Generate the file manually
-  * WINDOWS: `java -cp target\pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf versions\latest\GAME_MASTER.json`
-  * *NIX: `java -cp target/pokemongo-game-master-2.15.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json`
+  * WINDOWS: `java -cp target\pokemongo-game-master-2.22.0.jar com.pokebattler.gamemaster.GenerateJSON versions\latest\GAME_MASTER.protobuf versions\latest\GAME_MASTER.json`
+  * *NIX: `java -cp target/pokemongo-game-master-2.22.0.jar com.pokebattler.gamemaster.GenerateJSON versions/latest/GAME_MASTER.protobuf versions/latest/GAME_MASTER.json`
 
   
