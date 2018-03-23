@@ -25,7 +25,7 @@ cp ~/your/GAME_MASTER.protobuf .
 ./bin/add-version.sh -f ./GAME_MASTER.protobuf -v "0.85.3" --latest # Adds the new version "0.85.3", which is the latest version
 
 # Older Version
-./bin/add-version.sh -f ./GAME_MASTER.protobuf -v "0.82.1" # Adds the new version "0.82.1", which is the latest version
+./bin/add-version.sh -f ./GAME_MASTER.protobuf -v "0.82.1" # Adds the new version "0.82.1", which is NOT the latest version
 ```
 
 
