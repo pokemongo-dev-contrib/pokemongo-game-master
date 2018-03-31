@@ -6700,13 +6700,31 @@
       "trainerSlots": [0, 1, 2, 2, 3, 4, 4, 5, 6, 6]
     }
   }, {
-    "templateId": "IAP_CATEGORY_BUNDLE"
+    "templateId": "IAP_CATEGORY_BUNDLE",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_BUNDLE",
+      "sortOrder": 1,
+      "bannerEnabled": true,
+      "bannerTitle": "shop_limited_time"
+    }
   }, {
-    "templateId": "IAP_CATEGORY_ITEMS"
+    "templateId": "IAP_CATEGORY_ITEMS",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_ITEMS",
+      "sortOrder": 2
+    }
   }, {
-    "templateId": "IAP_CATEGORY_POKECOINS"
+    "templateId": "IAP_CATEGORY_POKECOINS",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_POKECOINS",
+      "sortOrder": 6
+    }
   }, {
-    "templateId": "IAP_CATEGORY_UPGRADES"
+    "templateId": "IAP_CATEGORY_UPGRADES",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_UPGRADES",
+      "sortOrder": 3
+    }
   }, {
     "templateId": "IAP_SETTINGS",
     "iapSettings": {
@@ -10856,7 +10874,10 @@
         "evolution": "IVYSAUR",
         "candyCost": 25
       }],
-      "modelScaleV2": 0.89
+      "modelScaleV2": 0.89,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0002_POKEMON_IVYSAUR",
@@ -10915,7 +10936,10 @@
         "evolution": "VENUSAUR",
         "candyCost": 100
       }],
-      "modelScaleV2": 0.89
+      "modelScaleV2": 0.89,
+      "buddyOffsetMale": [9.3, 0.0, 66.7],
+      "buddyOffsetFemale": [9.3, 0.0, 66.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0003_POKEMON_VENUSAUR",
@@ -10968,7 +10992,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.9,
-      "modelScaleV2": 0.84
+      "modelScaleV2": 0.84,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0004_POKEMON_CHARMANDER",
@@ -11022,7 +11049,10 @@
         "evolution": "CHARMELEON",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0005_POKEMON_CHARMELEON",
@@ -11079,7 +11109,10 @@
         "evolution": "CHARIZARD",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.07
+      "modelScaleV2": 1.07,
+      "buddyOffsetMale": [8.8, 0.0, 0.3],
+      "buddyOffsetFemale": [8.8, 0.0, 0.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD",
@@ -11133,7 +11166,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.91,
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [1.9, -11.4, 36.04],
+      "buddyOffsetFemale": [1.9, -11.4, 36.04],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0007_POKEMON_SQUIRTLE",
@@ -11187,7 +11223,10 @@
         "evolution": "WARTORTLE",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.14
+      "modelScaleV2": 1.14,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0008_POKEMON_WARTORTLE",
@@ -11244,7 +11283,10 @@
         "evolution": "BLASTOISE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.5, 0.0, 0.3],
+      "buddyOffsetFemale": [9.5, 0.0, 0.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0009_POKEMON_BLASTOISE",
@@ -11296,7 +11338,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.39,
-      "modelScaleV2": 1.15
+      "modelScaleV2": 1.15,
+      "buddyOffsetMale": [-1.1, 0.0, 25.6],
+      "buddyOffsetFemale": [-1.1, 0.0, 25.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0010_POKEMON_CATERPIE",
@@ -11350,7 +11395,10 @@
         "evolution": "METAPOD",
         "candyCost": 12
       }],
-      "modelScaleV2": 1.63
+      "modelScaleV2": 1.63,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0011_POKEMON_METAPOD",
@@ -11404,7 +11452,10 @@
         "evolution": "BUTTERFREE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0012_POKEMON_BUTTERFREE",
@@ -11458,7 +11509,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.95,
-      "modelScaleV2": 1.14
+      "modelScaleV2": 1.14,
+      "buddyOffsetMale": [4.4, 17.2, 39.1],
+      "buddyOffsetFemale": [4.4, 17.2, 39.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0013_MOVE_WRAP",
@@ -11532,7 +11586,10 @@
         "evolution": "KAKUNA",
         "candyCost": 12
       }],
-      "modelScaleV2": 1.72
+      "modelScaleV2": 1.72,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0014_MOVE_HYPER_BEAM",
@@ -11605,7 +11662,10 @@
         "evolution": "BEEDRILL",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0015_POKEMON_BEEDRILL",
@@ -11659,7 +11719,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.28,
-      "modelScaleV2": 0.77
+      "modelScaleV2": 0.77,
+      "buddyOffsetMale": [7.5, 0.0, 25.2],
+      "buddyOffsetFemale": [7.5, 0.0, 25.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0016_MOVE_DARK_PULSE",
@@ -11733,7 +11796,10 @@
         "evolution": "PIDGEOTTO",
         "candyCost": 12
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 14.0
     }
   }, {
     "templateId": "V0017_POKEMON_PIDGEOTTO",
@@ -11793,7 +11859,10 @@
         "evolution": "PIDGEOT",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, -30.0],
+      "buddyOffsetFemale": [30.0, 0.0, -30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0018_MOVE_SLUDGE",
@@ -11865,7 +11934,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.18,
-      "modelScaleV2": 0.97
+      "modelScaleV2": 0.97,
+      "buddyOffsetMale": [20.0, -27.48, -30.0],
+      "buddyOffsetFemale": [20.0, -27.48, -30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0019_POKEMON_RATTATA",
@@ -11919,7 +11991,10 @@
         "evolution": "RATICATE",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.14
+      "modelScaleV2": 1.14,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0020_MOVE_VICE_GRIP",
@@ -11988,7 +12063,10 @@
       "familyId": "FAMILY_RATTATA",
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.7,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.7, 0.0, -21.2],
+      "buddyOffsetFemale": [9.7, 0.0, -21.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0021_MOVE_FLAME_WHEEL",
@@ -12062,7 +12140,10 @@
         "evolution": "FEAROW",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 14.0
     }
   }, {
     "templateId": "V0022_MOVE_MEGAHORN",
@@ -12134,7 +12215,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.35
+      "modelScaleV2": 1.35,
+      "buddyOffsetMale": [20.0, -25.0, -20.0],
+      "buddyOffsetFemale": [20.0, -25.0, -20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0023_POKEMON_EKANS",
@@ -12188,7 +12272,10 @@
         "evolution": "ARBOK",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.32
+      "modelScaleV2": 1.32,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0024_MOVE_FLAMETHROWER",
@@ -12258,7 +12345,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.28, 0.0, 55.5],
+      "buddyOffsetFemale": [7.28, 0.0, 55.5],
+      "buddyScale": 15.0
     }
   }, {
     "templateId": "V0025_POKEMON_PIKACHU",
@@ -12314,7 +12404,10 @@
         "evolution": "RAICHU",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 11.0
     }
   }, {
     "templateId": "V0026_MOVE_DIG",
@@ -12383,7 +12476,10 @@
       "familyId": "FAMILY_PIKACHU",
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.83,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [6.9, 0.0, -14.2],
+      "buddyOffsetFemale": [6.9, 0.0, -14.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0027_POKEMON_SANDSHREW",
@@ -12437,7 +12533,10 @@
         "evolution": "SANDSLASH",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0028_MOVE_CROSS_CHOP",
@@ -12506,7 +12605,10 @@
       "familyId": "FAMILY_SANDSHREW",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [11.5, 0.0, -1.4],
+      "buddyOffsetFemale": [11.5, 0.0, -1.4],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0029_POKEMON_NIDORAN",
@@ -12560,7 +12662,10 @@
         "evolution": "NIDORINA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0030_MOVE_PSYBEAM",
@@ -12635,7 +12740,10 @@
         "evolution": "NIDOQUEEN",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [2.7, 0.0, 6.7],
+      "buddyOffsetFemale": [2.7, 0.0, 6.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0031_MOVE_EARTHQUAKE",
@@ -12706,7 +12814,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.25,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.69, 0.0, 57.56],
+      "buddyOffsetFemale": [5.69, 0.0, 57.56],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0032_MOVE_STONE_EDGE",
@@ -12778,7 +12889,10 @@
         "evolution": "NIDORINO",
         "candyCost": 25
       }],
-      "modelScaleV2": 0.94
+      "modelScaleV2": 0.94,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0033_MOVE_ICE_PUNCH",
@@ -12853,7 +12967,10 @@
         "evolution": "NIDOKING",
         "candyCost": 100
       }],
-      "modelScaleV2": 0.9
+      "modelScaleV2": 0.9,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0034_MOVE_HEART_STAMP",
@@ -12924,7 +13041,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [13.31, 0.0, 12.8],
+      "buddyOffsetFemale": [13.31, 0.0, 12.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0035_MOVE_DISCHARGE",
@@ -12997,7 +13117,10 @@
         "evolution": "CLEFABLE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-0.2, 0.0, 11.9],
+      "buddyOffsetFemale": [-0.2, 0.0, 11.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0036_MOVE_FLASH_CANNON",
@@ -13067,7 +13190,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.1, 0.0, 45.7],
+      "buddyOffsetFemale": [7.1, 0.0, 45.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0037_POKEMON_VULPIX",
@@ -13121,7 +13247,10 @@
         "evolution": "NINETALES",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-1.6, 0.0, -1.8],
+      "buddyOffsetFemale": [-1.6, 0.0, -1.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0038_MOVE_DRILL_PECK",
@@ -13191,7 +13320,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.11,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 68.3],
+      "buddyOffsetFemale": [0.0, 0.0, 68.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0039_MOVE_ICE_BEAM",
@@ -13265,7 +13397,10 @@
         "evolution": "WIGGLYTUFF",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0040_MOVE_BLIZZARD",
@@ -13336,7 +13471,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [8.8, 0.0, 50.1],
+      "buddyOffsetFemale": [8.8, 0.0, 50.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0041_POKEMON_ZUBAT",
@@ -13393,7 +13531,10 @@
         "evolution": "GOLBAT",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [6.13, 31.63, 32.8],
+      "buddyOffsetFemale": [6.13, 31.63, 32.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0042_MOVE_HEAT_WAVE",
@@ -13469,7 +13610,10 @@
         "evolution": "CROBAT",
         "candyCost": 100
       }],
-      "modelScaleV2": 0.9
+      "modelScaleV2": 0.9,
+      "buddyOffsetMale": [20.0, -50.0, -20.0],
+      "buddyOffsetFemale": [20.0, -50.0, -20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0043_POKEMON_ODDISH",
@@ -13524,7 +13668,10 @@
         "evolution": "GLOOM",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0044_POKEMON_GLOOM",
@@ -13586,7 +13733,10 @@
         "evolutionItemRequirement": "ITEM_SUN_STONE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.7, 0.0, 1.5],
+      "buddyOffsetFemale": [9.7, 0.0, 1.5],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0045_MOVE_AERIAL_ACE",
@@ -13657,7 +13807,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.34, 0.0, 5.3],
+      "buddyOffsetFemale": [5.34, 0.0, 5.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0046_MOVE_DRILL_RUN",
@@ -13730,7 +13883,10 @@
         "evolution": "PARASECT",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.95
+      "modelScaleV2": 0.95,
+      "buddyOffsetMale": [2.7, 0.0, -1.9],
+      "buddyOffsetFemale": [2.7, 0.0, -1.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0047_MOVE_PETAL_BLIZZARD",
@@ -13800,7 +13956,10 @@
       "familyId": "FAMILY_PARAS",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.97,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.6, 0.0, -59.6],
+      "buddyOffsetFemale": [5.6, 0.0, -59.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0048_MOVE_MEGA_DRAIN",
@@ -13874,7 +14033,10 @@
         "evolution": "VENOMOTH",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.72
+      "modelScaleV2": 0.72,
+      "buddyOffsetMale": [6.1, 0.0, -52.23],
+      "buddyOffsetFemale": [6.1, 0.0, -52.23],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0049_MOVE_BUG_BUZZ",
@@ -13946,7 +14108,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.6,
-      "modelScaleV2": 0.8
+      "modelScaleV2": 0.8,
+      "buddyOffsetMale": [20.0, 8.5, 9.1],
+      "buddyOffsetFemale": [20.0, 8.5, 9.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0050_MOVE_POISON_FANG",
@@ -14015,7 +14180,10 @@
         "evolution": "DUGTRIO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.6
+      "modelScaleV2": 1.6,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0051_MOVE_NIGHT_SLASH",
@@ -14082,7 +14250,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.77,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [4.5, 0.0, 51.9],
+      "buddyOffsetFemale": [4.5, 0.0, 51.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0052_POKEMON_MEOWTH",
@@ -14136,7 +14307,10 @@
         "evolution": "PERSIAN",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.2
+      "modelScaleV2": 1.2,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0053_MOVE_BUBBLE_BEAM",
@@ -14205,7 +14379,10 @@
       "familyId": "FAMILY_MEOWTH",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.38,
-      "modelScaleV2": 0.9
+      "modelScaleV2": 0.9,
+      "buddyOffsetMale": [3.5, 0.0, -29.9],
+      "buddyOffsetFemale": [3.5, 0.0, -29.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0054_MOVE_SUBMISSION",
@@ -14277,7 +14454,10 @@
         "evolution": "GOLDUCK",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.87
+      "modelScaleV2": 0.87,
+      "buddyOffsetMale": [0.0, 0.0, 10.0],
+      "buddyOffsetFemale": [0.0, 0.0, 10.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0055_POKEMON_GOLDUCK",
@@ -14329,7 +14509,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.13
+      "modelScaleV2": 1.13,
+      "buddyOffsetMale": [5.78, 0.0, 52.3],
+      "buddyOffsetFemale": [5.78, 0.0, 52.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0056_MOVE_LOW_SWEEP",
@@ -14401,7 +14584,10 @@
         "evolution": "PRIMEAPE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.2, 0.0, 0.2],
+      "buddyOffsetFemale": [5.2, 0.0, 0.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0057_MOVE_AQUA_JET",
@@ -14471,7 +14657,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 34.3],
+      "buddyOffsetFemale": [20.0, 0.0, 34.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0058_MOVE_AQUA_TAIL",
@@ -14543,7 +14732,10 @@
         "evolution": "ARCANINE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0059_MOVE_SEED_BOMB",
@@ -14613,7 +14805,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [11.8, 0.0, 40.4],
+      "buddyOffsetFemale": [11.8, 0.0, 40.4],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0060_MOVE_PSYSHOCK",
@@ -14685,7 +14880,10 @@
         "evolution": "POLIWHIRL",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0061_POKEMON_POLIWHIRL",
@@ -14747,7 +14945,10 @@
         "evolutionItemRequirement": "ITEM_KINGS_ROCK",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 51.8],
+      "buddyOffsetFemale": [20.0, 0.0, 51.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0062_MOVE_ANCIENT_POWER",
@@ -14818,7 +15019,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.42,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 9.3],
+      "buddyOffsetFemale": [30.0, 0.0, 9.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0063_MOVE_ROCK_TOMB",
@@ -14891,7 +15095,10 @@
         "evolution": "KADABRA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0064_MOVE_ROCK_SLIDE",
@@ -14967,7 +15174,10 @@
         "evolution": "ALAKAZAM",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 30.0],
+      "buddyOffsetFemale": [20.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0065_MOVE_POWER_GEM",
@@ -15037,7 +15247,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.45,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 30.0],
+      "buddyOffsetFemale": [20.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0066_MOVE_SHADOW_SNEAK",
@@ -15109,7 +15322,10 @@
         "evolution": "MACHOKE",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0067_MOVE_SHADOW_PUNCH",
@@ -15185,7 +15401,10 @@
         "evolution": "MACHAMP",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0068_POKEMON_MACHAMP",
@@ -15237,7 +15456,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [20.0, 0.0, 30.0],
+      "buddyOffsetFemale": [20.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0069_MOVE_OMINOUS_WIND",
@@ -15310,7 +15532,10 @@
         "evolution": "WEEPINBELL",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0070_MOVE_SHADOW_BALL",
@@ -15388,7 +15613,10 @@
         "evolution": "VICTREEBEL",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [3.4, 0.0, 59.95],
+      "buddyOffsetFemale": [3.4, 0.0, 59.95],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0071_POKEMON_VICTREEBEL",
@@ -15442,7 +15670,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.48,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.1, -8.01, 43.5],
+      "buddyOffsetFemale": [5.1, -8.01, 43.5],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0072_MOVE_MAGNET_BOMB",
@@ -15516,7 +15747,10 @@
         "evolution": "TENTACRUEL",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0073_POKEMON_TENTACRUEL",
@@ -15570,7 +15804,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [4.83, -8.01, 54.06],
+      "buddyOffsetFemale": [4.83, -8.01, 54.06],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0074_MOVE_IRON_HEAD",
@@ -15644,7 +15881,10 @@
         "evolution": "GRAVELER",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-0.2, 0.0, 16.1],
+      "buddyOffsetFemale": [-0.2, 0.0, 16.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0075_MOVE_PARABOLIC_CHARGE",
@@ -15722,7 +15962,10 @@
         "evolution": "GOLEM",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 43.9],
+      "buddyOffsetFemale": [15.0, 0.0, 43.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0076_POKEMON_GOLEM",
@@ -15775,7 +16018,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 30.0],
+      "buddyOffsetFemale": [15.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0077_MOVE_THUNDER_PUNCH",
@@ -15847,7 +16093,10 @@
         "evolution": "RAPIDASH",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0078_MOVE_THUNDER",
@@ -15917,7 +16166,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.65,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [13.0, 0.0, 73.55],
+      "buddyOffsetFemale": [13.0, 0.0, 73.55],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0079_MOVE_THUNDERBOLT",
@@ -15994,7 +16246,10 @@
         "evolutionItemRequirement": "ITEM_KINGS_ROCK",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.9
+      "modelScaleV2": 0.9,
+      "buddyOffsetMale": [9.27, 0.0, -17.2],
+      "buddyOffsetFemale": [9.27, 0.0, -17.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0080_MOVE_TWISTER",
@@ -16065,7 +16320,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.46,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 41.0],
+      "buddyOffsetFemale": [30.0, 0.0, 41.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0081_POKEMON_MAGNEMITE",
@@ -16122,7 +16380,10 @@
         "evolution": "MAGNETON",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.13
+      "modelScaleV2": 1.13,
+      "buddyOffsetMale": [-3.88, -12.4, 86.88],
+      "buddyOffsetFemale": [-3.88, -12.4, 86.88],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0082_MOVE_DRAGON_PULSE",
@@ -16194,7 +16455,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 140.0],
+      "buddyOffsetFemale": [10.0, 0.0, 140.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0083_MOVE_DRAGON_CLAW",
@@ -16261,7 +16525,10 @@
       "familyId": "FAMILY_FARFETCHD",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.75,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0084_MOVE_DISARMING_VOICE",
@@ -16334,7 +16601,10 @@
         "evolution": "DODRIO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [6.0, 0.0, 10.6],
+      "buddyOffsetFemale": [6.0, 0.0, 10.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0085_MOVE_DRAINING_KISS",
@@ -16406,7 +16676,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 10.0],
+      "buddyOffsetFemale": [25.0, 0.0, 10.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0086_MOVE_DAZZLING_GLEAM",
@@ -16478,7 +16751,10 @@
         "evolution": "DEWGONG",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0087_MOVE_MOONBLAST",
@@ -16549,7 +16825,10 @@
       "familyId": "FAMILY_SEEL",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.89,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0088_MOVE_PLAY_ROUGH",
@@ -16622,7 +16901,10 @@
         "evolution": "MUK",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [11.1, 0.0, 31.7],
+      "buddyOffsetFemale": [11.1, 0.0, 31.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0089_MOVE_CROSS_POISON",
@@ -16692,7 +16974,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.88,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0090_MOVE_SLUDGE_BOMB",
@@ -16764,7 +17049,10 @@
         "evolution": "CLOYSTER",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0091_MOVE_SLUDGE_WAVE",
@@ -16836,7 +17124,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, -1.7, 29.51],
+      "buddyOffsetFemale": [15.0, -1.7, 29.51],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0092_MOVE_GUNK_SHOT",
@@ -16911,7 +17202,10 @@
         "evolution": "HAUNTER",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 3.31, 29.73],
+      "buddyOffsetFemale": [25.0, 3.31, 29.73],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0093_POKEMON_HAUNTER",
@@ -16971,7 +17265,10 @@
         "evolution": "GENGAR",
         "candyCost": 100
       }],
-      "modelScaleV2": 0.81
+      "modelScaleV2": 0.81,
+      "buddyOffsetMale": [25.0, 0.0, -25.0],
+      "buddyOffsetFemale": [25.0, 0.0, -25.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0094_MOVE_BONE_CLUB",
@@ -17042,7 +17339,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 36.42],
+      "buddyOffsetFemale": [25.0, 0.0, 36.42],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0095_MOVE_BULLDOZE",
@@ -17113,7 +17413,10 @@
         "evolutionItemRequirement": "ITEM_METAL_COAT",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.61
+      "modelScaleV2": 0.61,
+      "buddyOffsetMale": [15.0, 0.0, 27.78],
+      "buddyOffsetFemale": [15.0, 0.0, 27.78],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0096_MOVE_MUD_BOMB",
@@ -17186,7 +17489,10 @@
         "evolution": "HYPNO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [6.9, 0.0, 55.3],
+      "buddyOffsetFemale": [6.9, 0.0, 55.3],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0097_POKEMON_HYPNO",
@@ -17238,7 +17544,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [3.8, 0.0, 31.05],
+      "buddyOffsetFemale": [3.8, 0.0, 31.05],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0098_POKEMON_KRABBY",
@@ -17292,7 +17601,10 @@
         "evolution": "KINGLER",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-0.1, 0.0, 24.6],
+      "buddyOffsetFemale": [-0.1, 0.0, 24.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0099_MOVE_SIGNAL_BEAM",
@@ -17362,7 +17674,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.37,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, -10.0],
+      "buddyOffsetFemale": [20.0, 0.0, -10.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0100_MOVE_X_SCISSOR",
@@ -17434,7 +17749,10 @@
         "evolution": "ELECTRODE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0101_MOVE_FLAME_CHARGE",
@@ -17504,7 +17822,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 39.2],
+      "buddyOffsetFemale": [20.0, 0.0, 39.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0102_MOVE_FLAME_BURST",
@@ -17577,7 +17898,10 @@
         "evolution": "EXEGGUTOR",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-2.3, 0.0, 40.0],
+      "buddyOffsetFemale": [-2.3, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0103_MOVE_FIRE_BLAST",
@@ -17648,7 +17972,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 23.79],
+      "buddyOffsetFemale": [20.0, 0.0, 23.79],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0104_MOVE_BRINE",
@@ -17720,7 +18047,10 @@
         "evolution": "MAROWAK",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0105_MOVE_WATER_PULSE",
@@ -17789,7 +18119,10 @@
       "familyId": "FAMILY_CUBONE",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 20.0],
+      "buddyOffsetFemale": [0.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0106_MOVE_SCALD",
@@ -17857,7 +18190,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.44,
-      "modelScaleV2": 0.96
+      "modelScaleV2": 0.96,
+      "buddyOffsetMale": [25.0, 0.0, 36.8],
+      "buddyOffsetFemale": [25.0, 0.0, 36.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0107_MOVE_HYDRO_PUMP",
@@ -17925,7 +18261,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.14,
-      "modelScaleV2": 1.13
+      "modelScaleV2": 1.13,
+      "buddyOffsetMale": [20.0, 0.0, 57.7],
+      "buddyOffsetFemale": [20.0, 0.0, 57.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0108_MOVE_PSYCHIC",
@@ -17991,7 +18330,10 @@
       "familyId": "FAMILY_LICKITUNG",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.1, 0.0, 10.1],
+      "buddyOffsetFemale": [15.1, 0.0, 10.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0109_MOVE_PSYSTRIKE",
@@ -18065,7 +18407,10 @@
         "evolution": "WEEZING",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 16.17, 120.0],
+      "buddyOffsetFemale": [20.0, 16.17, 120.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0110_POKEMON_WEEZING",
@@ -18118,7 +18463,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.76,
-      "modelScaleV2": 1.18
+      "modelScaleV2": 1.18,
+      "buddyOffsetMale": [10.0, 27.7, 58.56],
+      "buddyOffsetFemale": [10.0, 27.7, 58.56],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0111_MOVE_ICY_WIND",
@@ -18192,7 +18540,10 @@
         "evolution": "RHYDON",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 58.37],
+      "buddyOffsetFemale": [15.0, 0.0, 58.37],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0112_POKEMON_RHYDON",
@@ -18245,7 +18596,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.85,
-      "modelScaleV2": 1.05
+      "modelScaleV2": 1.05,
+      "buddyOffsetMale": [15.0, 0.0, 15.0],
+      "buddyOffsetFemale": [15.0, 0.0, 15.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0113_POKEMON_CHANSEY",
@@ -18298,7 +18652,10 @@
         "evolution": "BLISSEY",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 50.6],
+      "buddyOffsetFemale": [20.0, 0.0, 50.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0114_MOVE_GIGA_DRAIN",
@@ -18365,7 +18722,10 @@
       "familyId": "FAMILY_TANGELA",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.0, 0.0, 20.0],
+      "buddyOffsetFemale": [7.0, 0.0, 20.0],
+      "buddyScale": 15.0
     }
   }, {
     "templateId": "V0115_MOVE_FIRE_PUNCH",
@@ -18432,7 +18792,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.18,
-      "modelScaleV2": 0.97
+      "modelScaleV2": 0.97,
+      "buddyOffsetMale": [15.0, 0.0, 35.0],
+      "buddyOffsetFemale": [15.0, 0.0, 35.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0116_MOVE_SOLAR_BEAM",
@@ -18505,7 +18868,10 @@
         "evolution": "SEADRA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0117_MOVE_LEAF_BLADE",
@@ -18581,7 +18947,10 @@
         "evolutionItemRequirement": "ITEM_DRAGON_SCALE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 66.33],
+      "buddyOffsetFemale": [30.0, 0.0, 66.33],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0118_MOVE_POWER_WHIP",
@@ -18653,7 +19022,10 @@
         "evolution": "SEAKING",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0119_POKEMON_SEAKING",
@@ -18706,7 +19078,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.36,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 79.69],
+      "buddyOffsetFemale": [20.0, 0.0, 79.69],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0120_POKEMON_STARYU",
@@ -18761,7 +19136,10 @@
         "evolution": "STARMIE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 60.0],
+      "buddyOffsetFemale": [25.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0121_MOVE_AIR_CUTTER",
@@ -18832,7 +19210,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.08,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 62.2],
+      "buddyOffsetFemale": [30.0, 0.0, 62.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0122_MOVE_HURRICANE",
@@ -18899,7 +19280,10 @@
       "familyId": "FAMILY_MR_MIME",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 20.0],
+      "buddyOffsetFemale": [0.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0123_MOVE_BRICK_BREAK",
@@ -18973,7 +19357,10 @@
         "evolutionItemRequirement": "ITEM_METAL_COAT",
         "candyCost": 50
       }],
-      "modelScaleV2": 0.92
+      "modelScaleV2": 0.92,
+      "buddyOffsetMale": [30.0, -20.55, 7.1],
+      "buddyOffsetFemale": [30.0, -20.55, 7.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0124_POKEMON_JYNX",
@@ -19024,7 +19411,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 36.2],
+      "buddyOffsetFemale": [25.0, 0.0, 36.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0125_MOVE_SWIFT",
@@ -19092,7 +19482,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.09
+      "modelScaleV2": 1.09,
+      "buddyOffsetMale": [25.0, 0.0, 40.0],
+      "buddyOffsetFemale": [25.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0126_MOVE_HORN_ATTACK",
@@ -19160,7 +19553,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.35,
-      "modelScaleV2": 0.95
+      "modelScaleV2": 0.95,
+      "buddyOffsetMale": [30.0, 0.0, 49.8],
+      "buddyOffsetFemale": [30.0, 0.0, 49.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0127_MOVE_STOMP",
@@ -19227,7 +19623,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 43.6],
+      "buddyOffsetFemale": [20.0, 0.0, 43.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0128_POKEMON_TAUROS",
@@ -19276,7 +19675,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 30.0],
+      "buddyOffsetFemale": [30.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0129_MOVE_HYPER_FANG",
@@ -19347,7 +19749,10 @@
         "evolution": "GYARADOS",
         "candyCost": 400
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [1.0, 0.0, 13.6],
+      "buddyOffsetFemale": [1.0, 0.0, 13.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0130_POKEMON_GYARADOS",
@@ -19401,7 +19806,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 5.56,
-      "modelScaleV2": 0.62
+      "modelScaleV2": 0.62,
+      "buddyOffsetMale": [23.8, -31.9, 63.0],
+      "buddyOffsetFemale": [23.8, -31.9, 63.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0131_MOVE_BODY_SLAM",
@@ -19469,7 +19877,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.57,
-      "modelScaleV2": 0.97
+      "modelScaleV2": 0.97,
+      "buddyOffsetMale": [20.0, 0.0, 19.7],
+      "buddyOffsetFemale": [20.0, 0.0, 19.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0132_MOVE_REST",
@@ -19534,7 +19945,10 @@
       "familyId": "FAMILY_DITTO",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.33,
-      "modelScaleV2": 1.21
+      "modelScaleV2": 1.21,
+      "buddyOffsetMale": [6.0, 0.0, 0.0],
+      "buddyOffsetFemale": [6.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0133_MOVE_STRUGGLE",
@@ -19617,7 +20031,10 @@
         "evolution": "UMBREON",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 11.0
     }
   }, {
     "templateId": "V0134_MOVE_SCALD_BLASTOISE",
@@ -19686,7 +20103,10 @@
       "familyId": "FAMILY_EEVEE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.89,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
@@ -19755,7 +20175,10 @@
       "familyId": "FAMILY_EEVEE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0136_MOVE_WRAP_GREEN",
@@ -19824,7 +20247,10 @@
       "familyId": "FAMILY_EEVEE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.27,
-      "modelScaleV2": 0.95
+      "modelScaleV2": 0.95,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0137_MOVE_WRAP_PINK",
@@ -19897,7 +20323,10 @@
         "evolutionItemRequirement": "ITEM_UP_GRADE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.6, 0.0, 48.21],
+      "buddyOffsetFemale": [7.6, 0.0, 48.21],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0138_POKEMON_OMANYTE",
@@ -19952,7 +20381,10 @@
         "evolution": "OMASTAR",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0139_POKEMON_OMASTAR",
@@ -20005,7 +20437,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.6, 0.0, 48.21],
+      "buddyOffsetFemale": [7.6, 0.0, 48.21],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0140_POKEMON_KABUTO",
@@ -20060,7 +20495,10 @@
         "evolution": "KABUTOPS",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0141_POKEMON_KABUTOPS",
@@ -20113,7 +20551,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.25,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 35.7],
+      "buddyOffsetFemale": [30.0, 0.0, 35.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0142_POKEMON_AERODACTYL",
@@ -20164,7 +20605,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 3.7,
-      "modelScaleV2": 0.77
+      "modelScaleV2": 0.77,
+      "buddyOffsetMale": [20.0, -30.0, 25.0],
+      "buddyOffsetFemale": [20.0, -30.0, 25.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0143_POKEMON_SNORLAX",
@@ -20213,7 +20657,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 28.01],
+      "buddyOffsetFemale": [10.0, 0.0, 28.01],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0144_POKEMON_ARTICUNO",
@@ -20265,7 +20712,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.6,
-      "modelScaleV2": 0.91
+      "modelScaleV2": 0.91,
+      "buddyOffsetMale": [10.0, -16.9, 28.01],
+      "buddyOffsetFemale": [10.0, -16.9, 28.01],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0145_POKEMON_ZAPDOS",
@@ -20317,7 +20767,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.36,
-      "modelScaleV2": 0.94
+      "modelScaleV2": 0.94,
+      "buddyOffsetMale": [10.0, -22.8, 18.14],
+      "buddyOffsetFemale": [10.0, -22.8, 18.14],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0146_POKEMON_MOLTRES",
@@ -20369,7 +20822,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 3.0,
-      "modelScaleV2": 0.86
+      "modelScaleV2": 0.86,
+      "buddyOffsetMale": [2.85, -40.0, 18.14],
+      "buddyOffsetFemale": [2.85, -40.0, 18.14],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0147_POKEMON_DRATINI",
@@ -20423,7 +20879,10 @@
         "evolution": "DRAGONAIR",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0148_POKEMON_DRAGONAIR",
@@ -20481,7 +20940,10 @@
         "evolution": "DRAGONITE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 39.7],
+      "buddyOffsetFemale": [30.0, 0.0, 39.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0149_POKEMON_DRAGONITE",
@@ -20535,7 +20997,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.28,
-      "modelScaleV2": 0.96
+      "modelScaleV2": 0.96,
+      "buddyOffsetMale": [20.0, -26.3, 51.7],
+      "buddyOffsetFemale": [20.0, -26.3, 51.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0150_POKEMON_MEWTWO",
@@ -20585,7 +21050,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 59.2],
+      "buddyOffsetFemale": [20.0, 0.0, 59.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0151_POKEMON_MEW",
@@ -20633,7 +21101,10 @@
       "familyId": "FAMILY_MEW",
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.45,
-      "modelScaleV2": 1.04
+      "modelScaleV2": 1.04,
+      "buddyOffsetMale": [0.0, 56.9, -19.8],
+      "buddyOffsetFemale": [0.0, 56.9, -19.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0152_POKEMON_CHIKORITA",
@@ -20687,7 +21158,10 @@
         "evolution": "BAYLEEF",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0153_POKEMON_BAYLEEF",
@@ -20744,7 +21218,10 @@
         "evolution": "MEGANIUM",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [8.4, 0.0, -9.9],
+      "buddyOffsetFemale": [8.4, 0.0, -9.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0154_POKEMON_MEGANIUM",
@@ -20796,7 +21273,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.75,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [13.39, 0.0, 31.23],
+      "buddyOffsetFemale": [13.39, 0.0, 31.23],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0155_POKEMON_CYNDAQUIL",
@@ -20850,7 +21330,10 @@
         "evolution": "QUILAVA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.04
+      "modelScaleV2": 1.04,
+      "buddyOffsetMale": [4.46, 0.0, 4.76],
+      "buddyOffsetFemale": [4.46, 0.0, 4.76],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0156_POKEMON_QUILAVA",
@@ -20907,7 +21390,10 @@
         "evolution": "TYPHLOSION",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0157_POKEMON_TYPHLOSION",
@@ -20959,7 +21445,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.69,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 32.54],
+      "buddyOffsetFemale": [20.0, 0.0, 32.54],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0158_POKEMON_TOTODILE",
@@ -21013,7 +21502,10 @@
         "evolution": "CROCONAW",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0159_POKEMON_CROCONAW",
@@ -21070,7 +21562,10 @@
         "evolution": "FERALIGATR",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.59, 0.0, 3.0],
+      "buddyOffsetFemale": [5.59, 0.0, 3.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0160_POKEMON_FERALIGATR",
@@ -21122,7 +21617,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.05,
-      "modelScaleV2": 0.99
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [11.38, 0.0, 14.82],
+      "buddyOffsetFemale": [11.38, 0.0, 14.82],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0161_POKEMON_SENTRET",
@@ -21176,7 +21674,10 @@
         "evolution": "FURRET",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0162_POKEMON_FURRET",
@@ -21227,7 +21728,10 @@
       "familyId": "FAMILY_SENTRET",
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.83,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, -9.46],
+      "buddyOffsetFemale": [10.0, 0.0, -9.46],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0163_POKEMON_HOOTHOOT",
@@ -21282,7 +21786,10 @@
         "evolution": "NOCTOWL",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 6.89],
+      "buddyOffsetFemale": [0.0, 0.0, 6.89],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0164_POKEMON_NOCTOWL",
@@ -21336,7 +21843,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.64,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, -15.19, -16.9],
+      "buddyOffsetFemale": [30.0, -15.19, -16.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0165_POKEMON_LEDYBA",
@@ -21393,7 +21903,10 @@
         "evolution": "LEDIAN",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [40.0, 12.8, 19.07],
+      "buddyOffsetFemale": [40.0, 12.8, 19.07],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0166_POKEMON_LEDIAN",
@@ -21447,7 +21960,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 35.25],
+      "buddyOffsetFemale": [20.0, 0.0, 35.25],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0167_POKEMON_SPINARAK",
@@ -21502,7 +22018,10 @@
         "evolution": "ARIADOS",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.64, 0.0, 0.0],
+      "buddyOffsetFemale": [5.64, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0168_POKEMON_ARIADOS",
@@ -21554,7 +22073,10 @@
       "familyId": "FAMILY_SPINARAK",
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.03,
-      "modelScaleV2": 1.05
+      "modelScaleV2": 1.05,
+      "buddyOffsetMale": [5.04, 0.0, -10.0],
+      "buddyOffsetFemale": [5.04, 0.0, -10.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0169_POKEMON_CROBAT",
@@ -21608,7 +22130,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.65,
-      "modelScaleV2": 0.9
+      "modelScaleV2": 0.9,
+      "buddyOffsetMale": [40.0, -20.0, -40.0],
+      "buddyOffsetFemale": [40.0, -20.0, -40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0170_POKEMON_CHINCHOU",
@@ -21664,7 +22189,10 @@
         "evolution": "LANTURN",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0171_POKEMON_LANTURN",
@@ -21718,7 +22246,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, -13.5, 82.54],
+      "buddyOffsetFemale": [20.0, -13.5, 82.54],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0172_POKEMON_PICHU",
@@ -21772,7 +22303,10 @@
         "evolution": "PIKACHU",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.14
+      "modelScaleV2": 1.14,
+      "buddyOffsetMale": [0.0, 0.5, -0.2],
+      "buddyOffsetFemale": [0.0, 1.46, -2.0],
+      "buddyScale": 13.0
     }
   }, {
     "templateId": "V0173_POKEMON_CLEFFA",
@@ -21826,7 +22360,10 @@
         "evolution": "CLEFAIRY",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 13.0
     }
   }, {
     "templateId": "V0174_POKEMON_IGGLYBUFF",
@@ -21881,7 +22418,10 @@
         "evolution": "JIGGLYPUFF",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.21
+      "modelScaleV2": 1.21,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 14.0
     }
   }, {
     "templateId": "V0175_POKEMON_TOGEPI",
@@ -21935,7 +22475,10 @@
         "evolution": "TOGETIC",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.5, -0.5],
+      "buddyScale": 13.0
     }
   }, {
     "templateId": "V0176_POKEMON_TOGETIC",
@@ -21988,7 +22531,10 @@
       "familyId": "FAMILY_TOGEPI",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 40.0, -20.0],
+      "buddyOffsetFemale": [0.0, 40.0, -20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0177_POKEMON_NATU",
@@ -22044,7 +22590,10 @@
         "evolution": "XATU",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.6
+      "modelScaleV2": 1.6,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 10.0
     }
   }, {
     "templateId": "V0178_POKEMON_XATU",
@@ -22098,7 +22647,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.65,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [8.23, 11.34, 0.0],
+      "buddyOffsetFemale": [8.23, 11.34, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0179_POKEMON_MAREEP",
@@ -22152,7 +22704,10 @@
         "evolution": "FLAAFFY",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0180_POKEMON_FLAAFFY",
@@ -22209,7 +22764,10 @@
         "evolution": "AMPHAROS",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0181_POKEMON_AMPHAROS",
@@ -22261,7 +22819,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.48,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 56.43],
+      "buddyOffsetFemale": [20.0, 0.0, 56.43],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0182_POKEMON_BELLOSSOM",
@@ -22312,7 +22873,10 @@
       "familyId": "FAMILY_ODDISH",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0183_POKEMON_MARILL",
@@ -22368,7 +22932,10 @@
         "evolution": "AZUMARILL",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0184_POKEMON_AZUMARILL",
@@ -22420,7 +22987,10 @@
       "familyId": "FAMILY_MARILL",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.72,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 30.0],
+      "buddyOffsetFemale": [0.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0185_POKEMON_SUDOWOODO",
@@ -22466,7 +23036,10 @@
       "familyId": "FAMILY_SUDOWOODO",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-4.8, 0.0, 30.0],
+      "buddyOffsetFemale": [-4.8, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0186_POKEMON_POLITOED",
@@ -22517,7 +23090,10 @@
       "familyId": "FAMILY_POLIWAG",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.1,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.7, 0.0, -48.41],
+      "buddyOffsetFemale": [5.7, 0.0, -48.41],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0187_POKEMON_HOPPIP",
@@ -22574,7 +23150,10 @@
         "evolution": "SKIPLOOM",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 31.4, 40.0],
+      "buddyOffsetFemale": [25.0, 31.4, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0188_POKEMON_SKIPLOOM",
@@ -22634,7 +23213,10 @@
         "evolution": "JUMPLUFF",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 31.4, 50.25],
+      "buddyOffsetFemale": [20.0, 31.4, 50.25],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0189_POKEMON_JUMPLUFF",
@@ -22688,7 +23270,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.75,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 31.4, 50.25],
+      "buddyOffsetFemale": [20.0, 31.4, 50.25],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0190_POKEMON_AIPOM",
@@ -22736,7 +23321,10 @@
       "familyId": "FAMILY_AIPOM",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.21, 0.0, -4.26],
+      "buddyOffsetFemale": [10.21, 0.0, -4.26],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0191_POKEMON_SUNKERN",
@@ -22792,7 +23380,10 @@
         "evolutionItemRequirement": "ITEM_SUN_STONE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 12.0
     }
   }, {
     "templateId": "V0192_POKEMON_SUNFLORA",
@@ -22843,7 +23434,10 @@
       "familyId": "FAMILY_SUNKERN",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.76,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 20.0],
+      "buddyOffsetFemale": [0.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0193_POKEMON_YANMA",
@@ -22893,7 +23487,10 @@
       "familyId": "FAMILY_YANMA",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.13,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [3.3, 37.82, -63.16],
+      "buddyOffsetFemale": [3.3, 37.82, -63.16],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0194_POKEMON_WOOPER",
@@ -22948,7 +23545,10 @@
         "evolution": "QUAGSIRE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0195_POKEMON_QUAGSIRE",
@@ -23001,7 +23601,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 32.61],
+      "buddyOffsetFemale": [25.0, 0.0, 32.61],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0196_POKEMON_ESPEON",
@@ -23051,7 +23654,10 @@
       "familyId": "FAMILY_EEVEE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.76,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0197_POKEMON_UMBREON",
@@ -23101,7 +23707,10 @@
       "familyId": "FAMILY_EEVEE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.0,
-      "modelScaleV2": 1.05
+      "modelScaleV2": 1.05,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0198_POKEMON_MURKROW",
@@ -23151,7 +23760,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_SHOULDER",
       "modelHeight": 0.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 16.0
     }
   }, {
     "templateId": "V0199_POKEMON_SLOWKING",
@@ -23203,7 +23815,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 32.61],
+      "buddyOffsetFemale": [25.0, 0.0, 32.61],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0200_MOVE_FURY_CUTTER_FAST",
@@ -23270,7 +23885,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.63,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 36.09, 38.89],
+      "buddyOffsetFemale": [20.0, 36.09, 38.89],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0201_MOVE_BUG_BITE_FAST",
@@ -23336,7 +23954,10 @@
       "familyId": "FAMILY_UNOWN",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.4, 0.0, 19.9],
+      "buddyOffsetFemale": [7.4, 0.0, 19.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0202_MOVE_BITE_FAST",
@@ -23403,7 +24024,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [25.0, 0.0, 52.2],
+      "buddyOffsetFemale": [25.0, 0.0, 52.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0203_MOVE_SUCKER_PUNCH_FAST",
@@ -23470,7 +24094,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 51.9],
+      "buddyOffsetFemale": [20.0, 0.0, 51.9],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0204_MOVE_DRAGON_BREATH_FAST",
@@ -23541,7 +24168,10 @@
         "evolution": "FORRETRESS",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0205_MOVE_THUNDER_SHOCK_FAST",
@@ -23612,7 +24242,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [6.47, 0.0, 28.5],
+      "buddyOffsetFemale": [6.47, 0.0, 28.5],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0206_MOVE_SPARK_FAST",
@@ -23677,7 +24310,10 @@
       "familyId": "FAMILY_DUNSPARCE",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [3.5, 0.0, 0.0],
+      "buddyOffsetFemale": [3.5, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0207_MOVE_LOW_KICK_FAST",
@@ -23744,7 +24380,10 @@
       "familyId": "FAMILY_GLIGAR",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.07,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.82, 8.88, 15.0],
+      "buddyOffsetFemale": [5.82, 8.88, 15.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0208_MOVE_KARATE_CHOP_FAST",
@@ -23812,7 +24451,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 7.26,
-      "modelScaleV2": 0.58
+      "modelScaleV2": 0.58,
+      "buddyOffsetMale": [20.0, -2.2, -200.0],
+      "buddyOffsetFemale": [20.0, -2.2, -200.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0209_MOVE_EMBER_FAST",
@@ -23883,7 +24525,10 @@
         "evolution": "GRANBULL",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.2, 0.0, 0.0],
+      "buddyOffsetFemale": [9.2, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0210_MOVE_WING_ATTACK_FAST",
@@ -23952,7 +24597,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 22.13],
+      "buddyOffsetFemale": [30.0, 0.0, 22.13],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0211_MOVE_PECK_FAST",
@@ -24019,7 +24667,10 @@
       "familyId": "FAMILY_QWILFISH",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [13.79, 0.0, 0.0],
+      "buddyOffsetFemale": [13.79, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0212_MOVE_LICK_FAST",
@@ -24089,7 +24740,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.91,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 28.6],
+      "buddyOffsetFemale": [20.0, 0.0, 28.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0213_MOVE_SHADOW_CLAW_FAST",
@@ -24155,7 +24809,10 @@
       "familyId": "FAMILY_SHUCKLE",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.19, 0.0, -9.64],
+      "buddyOffsetFemale": [9.19, 0.0, -9.64],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0214_MOVE_VINE_WHIP_FAST",
@@ -24222,7 +24879,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [8.96, 0.0, 41.27],
+      "buddyOffsetFemale": [8.96, 0.0, 41.27],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0215_MOVE_RAZOR_LEAF_FAST",
@@ -24288,7 +24948,10 @@
       "familyId": "FAMILY_SNEASEL",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.7, 0.0, -21.78],
+      "buddyOffsetFemale": [5.7, 0.0, -21.78],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0216_MOVE_MUD_SHOT_FAST",
@@ -24359,7 +25022,10 @@
         "evolution": "URSARING",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0217_MOVE_ICE_SHARD_FAST",
@@ -24428,7 +25094,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 28.06],
+      "buddyOffsetFemale": [20.0, 0.0, 28.06],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0218_MOVE_FROST_BREATH_FAST",
@@ -24499,7 +25168,10 @@
         "evolution": "MAGCARGO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, -37.1],
+      "buddyOffsetFemale": [0.0, 0.0, -37.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0219_MOVE_QUICK_ATTACK_FAST",
@@ -24568,7 +25240,10 @@
       "familyId": "FAMILY_SLUGMA",
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.78,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [1.29, 0.0, -56.1],
+      "buddyOffsetFemale": [1.29, 0.0, -56.1],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0220_MOVE_SCRATCH_FAST",
@@ -24640,7 +25315,10 @@
         "evolution": "PILOSWINE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [9.6, 0.0, 0.0],
+      "buddyOffsetFemale": [9.6, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0221_MOVE_TACKLE_FAST",
@@ -24710,7 +25388,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.1,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 30.89],
+      "buddyOffsetFemale": [30.0, 0.0, 30.89],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0222_MOVE_POUND_FAST",
@@ -24775,7 +25456,10 @@
       "familyId": "FAMILY_CORSOLA",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0223_MOVE_CUT_FAST",
@@ -24847,7 +25531,10 @@
         "evolution": "OCTILLERY",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0224_MOVE_POISON_JAB_FAST",
@@ -24915,7 +25602,10 @@
       "familyId": "FAMILY_REMORAID",
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.92,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, -65.7],
+      "buddyOffsetFemale": [0.0, 0.0, -65.7],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0225_MOVE_ACID_FAST",
@@ -24981,7 +25671,10 @@
       "familyId": "FAMILY_DELIBIRD",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.9,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.9, 0.0, 0.0],
+      "buddyOffsetFemale": [9.9, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0226_MOVE_PSYCHO_CUT_FAST",
@@ -25049,7 +25742,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.1,
-      "modelScaleV2": 0.99
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [11.61, 10.28, 47.78],
+      "buddyOffsetFemale": [11.61, 10.28, 47.78],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0227_MOVE_ROCK_THROW_FAST",
@@ -25117,7 +25813,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.84,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 29.2],
+      "buddyOffsetFemale": [15.0, 0.0, 29.2],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0228_MOVE_METAL_CLAW_FAST",
@@ -25189,7 +25888,10 @@
         "evolution": "HOUNDOOM",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0229_MOVE_BULLET_PUNCH_FAST",
@@ -25258,7 +25960,10 @@
       "familyId": "FAMILY_HOUNDOUR",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.25,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [4.3, 0.0, 0.0],
+      "buddyOffsetFemale": [4.3, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0230_MOVE_WATER_GUN_FAST",
@@ -25329,7 +26034,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, -33.6, 41.58],
+      "buddyOffsetFemale": [20.0, -33.6, 41.58],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0231_MOVE_SPLASH_FAST",
@@ -25399,7 +26107,10 @@
         "evolution": "DONPHAN",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [1.96, 0.0, -5.06],
+      "buddyOffsetFemale": [1.96, 0.0, -5.06],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0232_MOVE_WATER_GUN_FAST_BLASTOISE",
@@ -25468,7 +26179,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.02,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.07, 0.0, 20.0],
+      "buddyOffsetFemale": [9.07, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0233_MOVE_MUD_SLAP_FAST",
@@ -25537,7 +26251,10 @@
       "familyId": "FAMILY_PORYGON",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.61,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.07, 0.0, 0.0],
+      "buddyOffsetFemale": [9.07, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0234_MOVE_ZEN_HEADBUTT_FAST",
@@ -25603,7 +26320,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.4,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 49.18],
+      "buddyOffsetFemale": [20.0, 0.0, 49.18],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0235_MOVE_CONFUSION_FAST",
@@ -25669,7 +26389,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 58.16],
+      "buddyOffsetFemale": [15.0, 0.0, 58.16],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0236_MOVE_POISON_STING_FAST",
@@ -25745,7 +26468,10 @@
         "evolution": "HITMONTOP",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0237_MOVE_BUBBLE_FAST",
@@ -25811,7 +26537,10 @@
       "familyId": "FAMILY_TYROGUE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [-0.1, 0.0, -72.77],
+      "buddyOffsetFemale": [-0.1, 0.0, -72.77],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0238_MOVE_FEINT_ATTACK_FAST",
@@ -25883,7 +26612,10 @@
         "evolution": "JYNX",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.02
+      "modelScaleV2": 1.02,
+      "buddyOffsetMale": [0.0, 1.5, 1.0],
+      "buddyOffsetFemale": [0.0, 0.67, -1.0],
+      "buddyScale": 10.0
     }
   }, {
     "templateId": "V0239_MOVE_STEEL_WING_FAST",
@@ -25954,7 +26686,10 @@
         "evolution": "ELECTABUZZ",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 1.0, 2.0],
+      "buddyOffsetFemale": [0.0, 0.0, -1.0],
+      "buddyScale": 10.0
     }
   }, {
     "templateId": "V0240_MOVE_FIRE_FANG_FAST",
@@ -26025,7 +26760,10 @@
         "evolution": "MAGMAR",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, -3.0, 1.0],
+      "buddyOffsetFemale": [0.0, -3.0, 1.0],
+      "buddyScale": 10.0
     }
   }, {
     "templateId": "V0241_MOVE_ROCK_SMASH_FAST",
@@ -26091,7 +26829,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 46.6],
+      "buddyOffsetFemale": [20.0, 0.0, 46.6],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0242_MOVE_TRANSFORM_FAST",
@@ -26158,7 +26899,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 20.8],
+      "buddyOffsetFemale": [15.0, 0.0, 20.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0243_MOVE_COUNTER_FAST",
@@ -26225,7 +26969,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 30.0],
+      "buddyOffsetFemale": [15.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0244_MOVE_POWDER_SNOW_FAST",
@@ -26292,7 +27039,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.1,
-      "modelScaleV2": 0.99
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [11.8, 0.0, 30.0],
+      "buddyOffsetFemale": [11.8, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0245_MOVE_CLOSE_COMBAT",
@@ -26360,7 +27110,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.1,
-      "modelScaleV2": 0.99
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [26.0, 0.0, -20.0],
+      "buddyOffsetFemale": [26.0, 0.0, -20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0246_MOVE_DYNAMIC_PUNCH",
@@ -26433,7 +27186,10 @@
         "evolution": "PUPITAR",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0247_MOVE_FOCUS_BLAST",
@@ -26509,7 +27265,10 @@
         "evolution": "TYRANITAR",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [3.6, 0.0, -46.83],
+      "buddyOffsetFemale": [3.6, 0.0, -46.83],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0248_MOVE_AURORA_BEAM",
@@ -26580,7 +27339,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [9.47, 0.0, 38.8],
+      "buddyOffsetFemale": [9.47, 0.0, 38.8],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0249_MOVE_CHARGE_BEAM_FAST",
@@ -26649,7 +27411,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 4.85,
-      "modelScaleV2": 0.67
+      "modelScaleV2": 0.67,
+      "buddyOffsetMale": [30.0, -30.0, -150.0],
+      "buddyOffsetFemale": [30.0, -30.0, -150.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0250_MOVE_VOLT_SWITCH_FAST",
@@ -26718,7 +27483,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 5.26,
-      "modelScaleV2": 0.64
+      "modelScaleV2": 0.64,
+      "buddyOffsetMale": [8.42, -30.0, -100.0],
+      "buddyOffsetFemale": [8.42, -30.0, -100.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0251_MOVE_WILD_CHARGE",
@@ -26786,7 +27554,10 @@
       "familyId": "FAMILY_CELEBI",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.65,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 34.73, -1.98],
+      "buddyOffsetFemale": [0.0, 34.73, -1.98],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0252_MOVE_ZAP_CANNON",
@@ -26856,7 +27627,10 @@
         "evolution": "GROVYLE",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0253_MOVE_DRAGON_TAIL_FAST",
@@ -26928,7 +27702,10 @@
         "evolution": "SCEPTILE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0254_MOVE_AVALANCHE",
@@ -26998,7 +27775,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.7,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0255_MOVE_AIR_SLASH_FAST",
@@ -27067,7 +27847,10 @@
         "evolution": "COMBUSKEN",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0256_MOVE_BRAVE_BIRD",
@@ -27142,7 +27925,10 @@
         "evolution": "BLAZIKEN",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 120.0],
+      "buddyOffsetFemale": [20.0, 0.0, 120.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0257_MOVE_SKY_ATTACK",
@@ -27213,7 +27999,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.76,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0258_MOVE_SAND_TOMB",
@@ -27283,7 +28072,10 @@
         "evolution": "MARSHTOMP",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0259_MOVE_ROCK_BLAST",
@@ -27357,7 +28149,10 @@
         "evolution": "SWAMPERT",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0260_MOVE_INFESTATION_FAST",
@@ -27427,7 +28222,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 0.0],
+      "buddyOffsetFemale": [20.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0261_MOVE_STRUGGLE_BUG_FAST",
@@ -27496,7 +28294,10 @@
         "evolution": "MIGHTYENA",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0262_MOVE_SILVER_WIND",
@@ -27565,7 +28366,10 @@
       "familyId": "FAMILY_POOCHYENA",
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0263_MOVE_ASTONISH_FAST",
@@ -27634,7 +28438,10 @@
         "evolution": "LINOONE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0264_MOVE_HEX_FAST",
@@ -27702,7 +28509,10 @@
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0265_MOVE_NIGHT_SHADE",
@@ -27776,7 +28586,10 @@
         "evolution": "CASCOON",
         "candyCost": 12
       }],
-      "modelScaleV2": 1.5
+      "modelScaleV2": 1.5,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 16.0
     }
   }, {
     "templateId": "V0266_MOVE_IRON_TAIL_FAST",
@@ -27848,7 +28661,10 @@
         "evolution": "BEAUTIFLY",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0267_MOVE_GYRO_BALL",
@@ -27920,7 +28736,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.12,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [30.0, 0.0, 0.0],
+      "buddyOffsetFemale": [30.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0268_MOVE_HEAVY_SLAM",
@@ -27993,7 +28812,10 @@
         "evolution": "DUSTOX",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.04
+      "modelScaleV2": 1.04,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0269_MOVE_FIRE_SPIN_FAST",
@@ -28064,7 +28886,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.3,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 20.0],
+      "buddyOffsetFemale": [20.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0270_MOVE_OVERHEAT",
@@ -28136,7 +28961,10 @@
         "evolution": "LOMBRE",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0271_MOVE_BULLET_SEED_FAST",
@@ -28210,7 +29038,10 @@
         "evolution": "LUDICOLO",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0272_MOVE_GRASS_KNOT",
@@ -28281,7 +29112,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.9642857,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0273_MOVE_ENERGY_BALL",
@@ -28351,7 +29185,10 @@
         "evolution": "NUZLEAF",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0274_MOVE_EXTRASENSORY_FAST",
@@ -28425,7 +29262,10 @@
         "evolution": "SHIFTRY",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0275_MOVE_FUTURESIGHT",
@@ -28496,7 +29336,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2782608,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0276_MOVE_MIRROR_COAT",
@@ -28567,7 +29410,10 @@
         "evolution": "SWELLOW",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 13.0
     }
   }, {
     "templateId": "V0277_MOVE_OUTRAGE",
@@ -28639,7 +29485,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.21,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 20.0],
+      "buddyOffsetFemale": [20.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0278_MOVE_SNARL_FAST",
@@ -28711,7 +29560,10 @@
         "evolution": "PELIPPER",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 35.0],
+      "buddyOffsetFemale": [20.0, 0.0, 35.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0279_MOVE_CRUNCH",
@@ -28783,7 +29635,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.5828571,
-      "modelScaleV2": 0.96
+      "modelScaleV2": 0.96,
+      "buddyOffsetMale": [20.0, 0.0, 20.0],
+      "buddyOffsetFemale": [20.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0280_MOVE_FOUL_PLAY",
@@ -28854,7 +29709,10 @@
         "evolution": "KIRLIA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0281_MOVE_HIDDEN_POWER_FAST",
@@ -28928,7 +29786,10 @@
         "evolution": "GARDEVOIR",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0282_MOVE_TAKE_DOWN_FAST",
@@ -28998,7 +29859,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.7341464,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0283_MOVE_WATERFALL_FAST",
@@ -29068,7 +29932,10 @@
         "evolution": "MASQUERAIN",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0284_MOVE_SURF",
@@ -29139,7 +30006,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.75,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 30.0],
+      "buddyOffsetFemale": [20.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0285_MOVE_DRACO_METEOR",
@@ -29208,7 +30078,10 @@
         "evolution": "BRELOOM",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0286_MOVE_DOOM_DESIRE",
@@ -29278,7 +30151,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2604166,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0287_MOVE_YAWN_FAST",
@@ -29346,7 +30222,10 @@
         "evolution": "VIGOROTH",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0288_MOVE_PSYCHO_BOOST",
@@ -29419,7 +30298,10 @@
         "evolution": "SLAKING",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0289_MOVE_ORIGIN_PULSE",
@@ -29487,7 +30369,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.589041,
-      "modelScaleV2": 0.99
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0290_MOVE_PRECIPICE_BLADES",
@@ -29560,7 +30445,10 @@
         "evolution": "SHEDINJA",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0291_MOVE_PRESENT_FAST",
@@ -29631,12 +30519,15 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.81391305,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0292_MOVE_WEATHER_BALL_FIRE",
     "moveSettings": {
-      "movementId": 292,
+      "movementId": "WEATHER_BALL_FIRE",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_FIRE",
       "power": 60.0,
@@ -29702,12 +30593,15 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.8449074,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0293_MOVE_WEATHER_BALL_ICE",
     "moveSettings": {
-      "movementId": 293,
+      "movementId": "WEATHER_BALL_ICE",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_ICE",
       "power": 60.0,
@@ -29771,12 +30665,15 @@
         "evolution": "LOUDRED",
         "candyCost": 12
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0294_MOVE_WEATHER_BALL_ROCK",
     "moveSettings": {
-      "movementId": 294,
+      "movementId": "WEATHER_BALL_ROCK",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_ROCK",
       "power": 60.0,
@@ -29844,12 +30741,15 @@
         "evolution": "EXPLOUD",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0295_MOVE_WEATHER_BALL_WATER",
     "moveSettings": {
-      "movementId": 295,
+      "movementId": "WEATHER_BALL_WATER",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_WATER",
       "power": 60.0,
@@ -29913,12 +30813,15 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0296_MOVE_FRENZY_PLANT",
     "moveSettings": {
-      "movementId": 296,
+      "movementId": "FRENZY_PLANT",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_GRASS",
       "power": 100.0,
@@ -29983,7 +30886,10 @@
         "evolution": "HARIYAMA",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0297_POKEMON_HARIYAMA",
@@ -30035,7 +30941,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.3,
-      "modelScaleV2": 0.96
+      "modelScaleV2": 0.96,
+      "buddyOffsetMale": [10.0, 0.0, -80.0],
+      "buddyOffsetFemale": [10.0, 0.0, -80.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0298_POKEMON_AZURILL",
@@ -30088,7 +30997,10 @@
         "evolution": "MARILL",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.26
+      "modelScaleV2": 1.26,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 13.0
     }
   }, {
     "templateId": "V0299_POKEMON_NOSEPASS",
@@ -30137,7 +31049,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0300_POKEMON_SKITTY",
@@ -30189,7 +31104,10 @@
         "evolution": "DELCATTY",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0301_POKEMON_DELCATTY",
@@ -30241,7 +31159,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2604166,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0302_POKEMON_SABLEYE",
@@ -30290,7 +31211,10 @@
       "familyId": "FAMILY_SABLEYE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0303_POKEMON_MAWILE",
@@ -30339,7 +31263,10 @@
       "familyId": "FAMILY_MAWILE",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.62,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0304_POKEMON_ARON",
@@ -30392,7 +31319,10 @@
         "evolution": "LAIRON",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0305_POKEMON_LAIRON",
@@ -30449,7 +31379,10 @@
         "evolution": "AGGRON",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0306_POKEMON_AGGRON",
@@ -30502,7 +31435,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.2,
-      "modelScaleV2": 0.97
+      "modelScaleV2": 0.97,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0307_POKEMON_MEDITITE",
@@ -30555,7 +31491,10 @@
         "evolution": "MEDICHAM",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0308_POKEMON_MEDICHAM",
@@ -30608,7 +31547,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5113636,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0309_POKEMON_ELECTRIKE",
@@ -30661,7 +31603,10 @@
         "evolution": "MANECTRIC",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0310_POKEMON_MANECTRIC",
@@ -30713,7 +31658,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.6091954,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0311_POKEMON_PLUSLE",
@@ -30762,7 +31710,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_SHOULDER",
       "modelHeight": 0.4,
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 15.0
     }
   }, {
     "templateId": "V0312_POKEMON_MINUN",
@@ -30811,7 +31762,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_SHOULDER",
       "modelHeight": 0.4,
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 15.0
     }
   }, {
     "templateId": "V0313_POKEMON_VOLBEAT",
@@ -30860,7 +31814,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.7,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0314_POKEMON_ILLUMISE",
@@ -30909,7 +31866,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0315_POKEMON_ROSELIA",
@@ -30958,7 +31918,10 @@
       "familyId": "FAMILY_ROSELIA",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.35714287,
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0316_POKEMON_GULPIN",
@@ -31010,7 +31973,10 @@
         "evolution": "SWALOT",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0317_POKEMON_SWALOT",
@@ -31062,7 +32028,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.7,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0318_POKEMON_CARVANHA",
@@ -31117,7 +32086,10 @@
         "evolution": "SHARPEDO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0319_POKEMON_SHARPEDO",
@@ -31171,7 +32143,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.35,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 40.0],
+      "buddyOffsetFemale": [20.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0320_POKEMON_WAILMER",
@@ -31225,7 +32200,10 @@
         "evolution": "WAILORD",
         "candyCost": 400
       }],
-      "modelScaleV2": 0.74
+      "modelScaleV2": 0.74,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0321_POKEMON_WAILORD",
@@ -31276,7 +32254,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 7.0,
-      "modelScaleV2": 0.33
+      "modelScaleV2": 0.33,
+      "buddyOffsetMale": [70.0, 0.0, 30.0],
+      "buddyOffsetFemale": [70.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0322_POKEMON_NUMEL",
@@ -31329,7 +32310,10 @@
         "evolution": "CAMERUPT",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0323_POKEMON_CAMERUPT",
@@ -31382,7 +32366,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8461539,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0324_POKEMON_TORKOAL",
@@ -31429,7 +32416,10 @@
       "familyId": "FAMILY_TORKOAL",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.82,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0325_POKEMON_SPOINK",
@@ -31481,7 +32471,10 @@
         "evolution": "GRUMPIG",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0326_POKEMON_GRUMPIG",
@@ -31533,7 +32526,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.1490566,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0327_POKEMON_SPINDA",
@@ -31582,7 +32578,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.05,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0328_POKEMON_TRAPINCH",
@@ -31634,7 +32633,10 @@
         "evolution": "VIBRAVA",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0329_POKEMON_VIBRAVA",
@@ -31692,7 +32694,10 @@
         "evolution": "FLYGON",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 30.0],
+      "buddyOffsetFemale": [20.0, 0.0, 30.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0330_POKEMON_FLYGON",
@@ -31746,7 +32751,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 2.0869565,
-      "modelScaleV2": 0.94
+      "modelScaleV2": 0.94,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0331_POKEMON_CACNEA",
@@ -31799,7 +32807,10 @@
         "evolution": "CACTURNE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.07
+      "modelScaleV2": 1.07,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0332_POKEMON_CACTURNE",
@@ -31852,7 +32863,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.3736264,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0333_POKEMON_SWABLU",
@@ -31906,7 +32920,10 @@
         "evolution": "ALTARIA",
         "candyCost": 400
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 100.0],
+      "buddyOffsetFemale": [10.0, 0.0, 100.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0334_POKEMON_ALTARIA",
@@ -31960,7 +32977,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.17,
-      "modelScaleV2": 0.97
+      "modelScaleV2": 0.97,
+      "buddyOffsetMale": [10.0, -10.0, 70.0],
+      "buddyOffsetFemale": [10.0, -10.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0335_POKEMON_ZANGOOSE",
@@ -32009,7 +33029,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.35,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0336_POKEMON_SEVIPER",
@@ -32057,7 +33080,10 @@
       "familyId": "FAMILY_SEVIPER",
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.8344444,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0337_POKEMON_LUNATONE",
@@ -32108,7 +33134,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.0,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0338_POKEMON_SOLROCK",
@@ -32159,7 +33188,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 40.0],
+      "buddyOffsetFemale": [10.0, 0.0, 40.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0339_POKEMON_BARBOACH",
@@ -32213,7 +33245,10 @@
         "evolution": "WHISCASH",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0340_POKEMON_WHISCASH",
@@ -32267,7 +33302,10 @@
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.1142857,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0341_POKEMON_CORPHISH",
@@ -32319,7 +33357,10 @@
         "evolution": "CRAWDAUNT",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [7.0, 0.0, 0.0],
+      "buddyOffsetFemale": [7.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0342_POKEMON_CRAWDAUNT",
@@ -32372,7 +33413,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.2,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0343_POKEMON_BALTOY",
@@ -32426,7 +33470,10 @@
         "evolution": "CLAYDOL",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0344_POKEMON_CLAYDOL",
@@ -32480,7 +33527,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.35,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0345_POKEMON_LILEEP",
@@ -32533,7 +33583,10 @@
         "evolution": "CRADILY",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0346_POKEMON_CRADILY",
@@ -32585,7 +33638,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.45,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0347_POKEMON_ANORITH",
@@ -32639,7 +33695,10 @@
         "evolution": "ARMALDO",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0348_POKEMON_ARMALDO",
@@ -32692,7 +33751,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.38,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [31.5, 0.0, 70.5],
+      "buddyOffsetFemale": [31.5, 0.0, 70.5],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0349_POKEMON_FEEBAS",
@@ -32746,7 +33808,10 @@
         "candyCost": 100,
         "kmBuddyDistanceRequirement": 20.0
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0350_POKEMON_MILOTIC",
@@ -32798,7 +33863,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.3,
-      "modelScaleV2": 0.96
+      "modelScaleV2": 0.96,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0351_POKEMON_CASTFORM",
@@ -32847,7 +33915,10 @@
       "familyId": "FAMILY_CASTFORM",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
-      "modelScaleV2": 1.17
+      "modelScaleV2": 1.17,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0351_POKEMON_CASTFORM_NORMAL",
@@ -32897,7 +33968,10 @@
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": "CASTFORM_NORMAL"
+      "form": "CASTFORM_NORMAL",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0351_POKEMON_CASTFORM_RAINY",
@@ -32947,7 +34021,10 @@
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": "CASTFORM_RAINY"
+      "form": "CASTFORM_RAINY",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0351_POKEMON_CASTFORM_SNOWY",
@@ -32997,7 +34074,10 @@
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": "CASTFORM_SNOWY"
+      "form": "CASTFORM_SNOWY",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0351_POKEMON_CASTFORM_SUNNY",
@@ -33047,7 +34127,10 @@
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": "CASTFORM_SUNNY"
+      "form": "CASTFORM_SUNNY",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0352_POKEMON_KECLEON",
@@ -33095,7 +34178,10 @@
       "familyId": "FAMILY_KECLEON",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.95,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0353_POKEMON_SHUPPET",
@@ -33148,7 +34234,10 @@
         "evolution": "BANETTE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 0.0],
+      "buddyOffsetFemale": [10.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0354_POKEMON_BANETTE",
@@ -33200,7 +34289,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.08,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [15.0, 0.0, 60.0],
+      "buddyOffsetFemale": [15.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0355_POKEMON_DUSKULL",
@@ -33253,7 +34345,10 @@
         "evolution": "DUSCLOPS",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.0, 0.0, 70.0],
+      "buddyOffsetFemale": [5.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0356_POKEMON_DUSCLOPS",
@@ -33305,7 +34400,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [5.0, 0.0, 35.0],
+      "buddyOffsetFemale": [5.0, 0.0, 35.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0357_POKEMON_TROPIUS",
@@ -33356,7 +34454,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 3.09,
-      "modelScaleV2": 0.84
+      "modelScaleV2": 0.84,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0358_POKEMON_CHIMECHO",
@@ -33406,7 +34507,10 @@
       "familyId": "FAMILY_CHIMECHO",
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.58,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0359_POKEMON_ABSOL",
@@ -33454,7 +34558,10 @@
       "familyId": "FAMILY_ABSOL",
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.3043479,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0360_POKEMON_WYNAUT",
@@ -33507,7 +34614,10 @@
         "evolution": "WOBBUFFET",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0361_POKEMON_SNORUNT",
@@ -33559,7 +34669,10 @@
         "evolution": "GLALIE",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 20.0],
+      "buddyOffsetFemale": [0.0, 0.0, 20.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0362_POKEMON_GLALIE",
@@ -33612,7 +34725,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 50.0],
+      "buddyOffsetFemale": [10.0, 0.0, 50.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0363_POKEMON_SPHEAL",
@@ -33666,7 +34782,10 @@
         "evolution": "SEALEO",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 60.0],
+      "buddyOffsetFemale": [10.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0364_POKEMON_SEALEO",
@@ -33723,7 +34842,10 @@
         "evolution": "WALREIN",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0365_POKEMON_WALREIN",
@@ -33776,7 +34898,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.3876405,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0366_POKEMON_CLAMPERL",
@@ -33829,7 +34954,10 @@
         "evolution": "GOREBYSS",
         "candyCost": 50
       }],
-      "modelScaleV2": 1.1
+      "modelScaleV2": 1.1,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0367_POKEMON_HUNTAIL",
@@ -33881,7 +35009,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.1465116,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0368_POKEMON_GOREBYSS",
@@ -33933,7 +35064,10 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.009091,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0369_POKEMON_RELICANTH",
@@ -33984,7 +35118,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.92,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 70.0],
+      "buddyOffsetFemale": [10.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0370_POKEMON_LUVDISC",
@@ -34033,7 +35170,10 @@
       "familyId": "FAMILY_LUVDISC",
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0371_POKEMON_BAGON",
@@ -34085,7 +35225,10 @@
         "evolution": "SHELGON",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0372_POKEMON_SHELGON",
@@ -34141,7 +35284,10 @@
         "evolution": "SALAMENCE",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0373_POKEMON_SALAMENCE",
@@ -34195,7 +35341,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.6,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0374_POKEMON_BELDUM",
@@ -34249,7 +35398,10 @@
         "evolution": "METANG",
         "candyCost": 25
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0375_POKEMON_METANG",
@@ -34307,7 +35459,10 @@
         "evolution": "METAGROSS",
         "candyCost": 100
       }],
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0376_POKEMON_METAGROSS",
@@ -34360,7 +35515,10 @@
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 2.6,
-      "modelScaleV2": 0.91
+      "modelScaleV2": 0.91,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0377_POKEMON_REGIROCK",
@@ -34410,7 +35568,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.7,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0378_POKEMON_REGICE",
@@ -34460,7 +35621,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.8,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0379_POKEMON_REGISTEEL",
@@ -34510,7 +35674,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.5,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 60.0],
+      "buddyOffsetFemale": [20.0, 0.0, 60.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0380_POKEMON_LATIAS",
@@ -34562,7 +35729,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.5225806,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0381_POKEMON_LATIOS",
@@ -34614,7 +35784,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 1.92,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0382_POKEMON_KYOGRE",
@@ -34665,7 +35838,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.0,
-      "modelScaleV2": 0.85
+      "modelScaleV2": 0.85,
+      "buddyOffsetMale": [30.0, 0.0, -10.0],
+      "buddyOffsetFemale": [30.0, 0.0, -10.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0383_POKEMON_GROUDON",
@@ -34714,7 +35890,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 3.0,
-      "modelScaleV2": 0.85
+      "modelScaleV2": 0.85,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0384_POKEMON_RAYQUAZA",
@@ -34766,7 +35945,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 3.76,
-      "modelScaleV2": 0.77
+      "modelScaleV2": 0.77,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0385_POKEMON_JIRACHI",
@@ -34817,7 +35999,10 @@
       "familyId": "FAMILY_JIRACHI",
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.3,
-      "modelScaleV2": 1.27
+      "modelScaleV2": 1.27,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0386_POKEMON_DEOXYS",
@@ -34867,7 +36052,10 @@
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
-      "modelScaleV2": 1.0
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0386_POKEMON_DEOXYS_ATTACK",
@@ -34918,7 +36106,10 @@
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
       "modelScaleV2": 1.0,
-      "form": "DEOXYS_ATTACK"
+      "form": "DEOXYS_ATTACK",
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0386_POKEMON_DEOXYS_DEFENSE",
@@ -34969,7 +36160,10 @@
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
       "modelScaleV2": 1.0,
-      "form": "DEOXYS_DEFENSE"
+      "form": "DEOXYS_DEFENSE",
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0386_POKEMON_DEOXYS_NORMAL",
@@ -35020,7 +36214,10 @@
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
       "modelScaleV2": 1.0,
-      "form": "DEOXYS_NORMAL"
+      "form": "DEOXYS_NORMAL",
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "V0386_POKEMON_DEOXYS_SPEED",
@@ -35071,7 +36268,10 @@
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.55,
       "modelScaleV2": 1.0,
-      "form": "DEOXYS_SPEED"
+      "form": "DEOXYS_SPEED",
+      "buddyOffsetMale": [20.0, 0.0, 70.0],
+      "buddyOffsetFemale": [20.0, 0.0, 70.0],
+      "buddyScale": 19.0
     }
   }, {
     "templateId": "WEATHER_AFFINITY_CLEAR",
