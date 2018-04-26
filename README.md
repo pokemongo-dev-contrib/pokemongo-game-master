@@ -41,7 +41,7 @@ We use [this standard](https://github.com/erlang/otp/wiki/Writing-good-commit-me
 
 If you want to have the latest GAME_MASTER version as a developer, you can use 
 ```bash
-wget https://raw.githubusercontent.com/BrunnerLivio/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
+wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
 ```
 
 ### NodeJS
@@ -63,8 +63,7 @@ gameMaster.getVersion('0.83.3', 'protobuf').then(console.log); // Returns the ve
 
 ### Projects
 
-- [pokemongo-data-normalizer](https://github.com/BrunnerLivio/pokemongo-data-normalizer) - GAME_MASTER data normalized to better processable data
-- [pokemongo-web-api](https://github.com/BrunnerLivio/pokemongo-web-api) - Web API for GAME_MASTER data
+- [pokemongo-json-pokedex](https://github.com/pokemongo-dev-contrib/pokemongo-json-pokedex) - GAME_MASTER data normalized to better processable data
 
 
 
