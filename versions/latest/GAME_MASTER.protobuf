@@ -2739,10 +2739,16 @@ pÀxßÿÿÿÿÿÿÿÿ¤
 W? 2{?  €?  À?-   ?:U   >Âu=  €>%fff?-  €>0=  0AEÍÌŒ?M   APXeÍÌÌ>mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B	Ğ³JÊ‡R—TgZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}  À?…  ¨Bˆ¦•  @>  (A¨¥½  €?ÀÍ  À?İ  €?ú   A       B‚   A       B  ˜AW
 V0296_MOVE_FRENZY_PLANT"<¨%  ÈB-  €?E
 ×#<HPdZfrenzy_plant`¨hápöxÎÿÿÿÿÿÿÿÿ¢
-V0296_POKEMON_MAKUHITA‡¨  €? 2{?333?ÍÌŒ?-   ?:P   ?ÍÌÌ=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌL>mÍÌL=u  €?}  €?…  €@ÍÌL>•ÍÌÌ?Bc6JñİRŒ8Z “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}¤p}?…ÍÌ¬B•¤pı=ÍÌ,A¨¨½  @@ÀÍ  €?Ò©2İ  €?ú   A       B‚   A       B  ˜A¦
+V0296_POKEMON_MAKUHITA‡¨  €? 2{?333?ÍÌŒ?-   ?:P   ?ÍÌÌ=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌL>mÍÌL=u  €?}  €?…  €@ÍÌL>•ÍÌÌ?Bc6JñİRŒ8Z “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}¤p}?…ÍÌ¬B•¤pı=ÍÌ,A¨¨½  @@ÀÍ  €?Ò©2İ  €?ú   A       B‚   A       B  ˜AT
+V0297_MOVE_SMACK_DOWN_FAST"6©%  @A-  €?E
+×#<HPdZsmack_down_fast`„hôp x¦
 V0297_POKEMON_HARIYAMA‹©333? 2{?  @@š™@-   ?:UÍÌL>Âu=  €?%š™?-  €?0=  0AEÍÌŒ?M   APXÈeÍÌL>mÍÌL=u  €?}  €?…  À@ÍÌL>•ÍÌÌ?B ÑrJóåRŒõöZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}
 ×@…ÍÌ}Cˆ¨•
-×“>ÍÌıA¨¨½  @@ÀÍ33@İÂu?ú   A       Â‚   A       Â  ˜AŸ
+×“>ÍÌıA¨¨½  @@ÀÍ33@İÂu?ú   A       Â‚   A       Â  ˜AS
+V0298_MOVE_BLAST_BURN":ª
+%  ÜB-  €?E
+×#<HPdZ
+blast_burn`äh¾p€xÎÿÿÿÿÿÿÿÿŸ
 V0298_POKEMON_AZURILL…ª33Ó? (2{?š™™>ÍÌÌ>-   ?:PÍÌÌ=
 ×#=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…   @ÍÌL>•ÍÌÌ?Bd$GJçíR5'ƒZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}ÍÌL>…   @•ÍÌÌ<  €>¨·½  @@ÍR¸>Ò·İ®G¡?ú            ‚              PAš
 V0299_POKEMON_NOSEPASSÿ«  €? 2{?ÍÌL?š™™?-   ?:PÍÌL>ìQ¸=  €>%š™?-  €>0=  0AEÍÌŒ?M   AeÍÌÌ=mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B<RìJãÎRƒ@OZ “©ª?Ú¬*?mVÕ?   @       @  @@  @@h}¤p}?…  ÂB•¤pı=  BA¨«½  @@ÀÍ  €?İ  €?ú   A       B‚   A       B  ˜Aœ
@@ -3241,7 +3247,9 @@ $camera_solarbeam_player_left_leader_Z‹"       ?*   ?    2  €>   @:
 incenseordinary.1‚
 incenseordinary.1(/
 incenseordinary.25‚
-incenseordinary.25*!
+incenseordinary.25*+
+incubatorsuper.1‚
+incubatorsuper.1!
 luckyegg.25‚
 luckyegg.25	#
 maxpotion.10‚
@@ -3332,6 +3340,14 @@ wait 0.733
 vfx defender bite_fast
 	wait 0.25
 sfx attacker 044-0_bite
+sys ui-sync
+sys complete
+sequence_blast_burn*v
+anim attacker atk-move
+wait 0.5
+vfx blast_burn
+sfx attacker 307-0_blast_burn
+wait 1.5
 sys ui-sync
 sys complete}
 sequence_blizzard*h
@@ -4568,6 +4584,14 @@ vfx sludge
 sfx attacker 482-0_sludge_wave
 wait 1.5
 sys ui-sync
+sys complete’
+sequence_smack_down*{
+anim attacker atk-move
+wait 0.5
+vfx smack_down_fast
+sfx attacker 479-0_smack_down
+wait 1.5
+sys ui-sync
 sys completeˆ
 sequence_snarl_fast*q
 anim attacker atk-move
@@ -4900,4 +4924,6 @@ $vfx attacker solar_beam_charge_waist
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys complete×êØë²,
+sys complete!
+starpiece.8‚
+starpiece.8å‡¶“º,

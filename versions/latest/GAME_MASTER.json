@@ -30918,6 +30918,23 @@
       "buddyScale": 19.0
     }
   }, {
+    "templateId": "V0297_MOVE_SMACK_DOWN_FAST",
+    "moveSettings": {
+      "movementId": "SMACK_DOWN_FAST",
+      "animationId": 4,
+      "pokemonType": "POKEMON_TYPE_ROCK",
+      "power": 12.0,
+      "accuracyChance": 1.0,
+      "staminaLossScalar": 0.01,
+      "trainerLevelMin": 1,
+      "trainerLevelMax": 100,
+      "vfxName": "smack_down_fast",
+      "durationMs": 900,
+      "damageWindowStartMs": 500,
+      "damageWindowEndMs": 800,
+      "energyDelta": 7
+    }
+  }, {
     "templateId": "V0297_POKEMON_HARIYAMA",
     "pokemonSettings": {
       "pokemonId": "HARIYAMA",
@@ -30971,6 +30988,23 @@
       "buddyOffsetMale": [10.0, 0.0, -80.0],
       "buddyOffsetFemale": [10.0, 0.0, -80.0],
       "buddyScale": 19.0
+    }
+  }, {
+    "templateId": "V0298_MOVE_BLAST_BURN",
+    "moveSettings": {
+      "movementId": 298,
+      "animationId": 4,
+      "pokemonType": "POKEMON_TYPE_FIRE",
+      "power": 110.0,
+      "accuracyChance": 1.0,
+      "staminaLossScalar": 0.01,
+      "trainerLevelMin": 1,
+      "trainerLevelMax": 100,
+      "vfxName": "blast_burn",
+      "durationMs": 3300,
+      "damageWindowStartMs": 2750,
+      "damageWindowEndMs": 3200,
+      "energyDelta": -50
     }
   }, {
     "templateId": "V0298_POKEMON_AZURILL",
@@ -42496,6 +42530,13 @@
       "sortOrder": 42
     }
   }, {
+    "templateId": "incubatorsuper.1",
+    "iapItemDisplay": {
+      "sku": "incubatorsuper.1",
+      "category": "IAP_CATEGORY_BUNDLE",
+      "sortOrder": 5
+    }
+  }, {
     "templateId": "luckyegg.25",
     "iapItemDisplay": {
       "sku": "luckyegg.25",
@@ -42570,6 +42611,11 @@
     "templateId": "sequence_bite_fast",
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "vfx defender bite_fast", "wait 0.25", "sfx attacker 044-0_bite", "sys ui-sync", "sys complete"]
+    }
+  }, {
+    "templateId": "sequence_blast_burn",
+    "moveSequenceSettings": {
+      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx blast_burn", "sfx attacker 307-0_blast_burn", "wait 1.5", "sys ui-sync", "sys complete"]
     }
   }, {
     "templateId": "sequence_blizzard",
@@ -43322,6 +43368,11 @@
       "sequence": ["anim attacker atk-move", "vfx sludge_wave", "sfx attacker 482-0_sludge_wave", "wait 1.5", "sys ui-sync", "sys complete"]
     }
   }, {
+    "templateId": "sequence_smack_down",
+    "moveSequenceSettings": {
+      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx smack_down_fast", "sfx attacker 479-0_smack_down", "wait 1.5", "sys ui-sync", "sys complete"]
+    }
+  }, {
     "templateId": "sequence_snarl_fast",
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "sfx attacker 555-0_snarl", "wait 0.5", "vfx snarl_fast", "wait 1.5", "sys ui-sync", "sys complete"]
@@ -43521,6 +43572,13 @@
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
+  }, {
+    "templateId": "starpiece.8",
+    "iapItemDisplay": {
+      "sku": "starpiece.8",
+      "category": "IAP_CATEGORY_BUNDLE",
+      "sortOrder": 4
+    }
   }],
-  "timestampMs": "1525476111703"
+  "timestampMs": "1527438476261"
 }
