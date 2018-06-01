@@ -13,7 +13,11 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
+<<<<<<< HEAD
         <gamemaster.version>2.27.0</gamemaster.version>
+=======
+        <gamemaster.version>2.26.1</gamemaster.version>
+>>>>>>> origin/master
     </properties>
 	<repositories>
 	    <repository>
