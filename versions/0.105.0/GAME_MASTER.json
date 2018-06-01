@@ -31130,7 +31130,7 @@
   }, {
     "templateId": "V0298_MOVE_BLAST_BURN",
     "moveSettings": {
-      "movementId": 298,
+      "movementId": "BLAST_BURN",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_FIRE",
       "power": 110.0,
