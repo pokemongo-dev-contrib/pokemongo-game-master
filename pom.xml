@@ -3,7 +3,7 @@
 
     <groupId>com.pokebattler</groupId>
     <artifactId>pokemongo-game-master</artifactId>
-    <version>2.27.0</version>
+    <version>2.28.0</version>
     <packaging>jar</packaging>
 
     <name>PokeBattler Fight</name>
@@ -13,7 +13,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <gamemaster.version>2.27.0</gamemaster.version>
+        <gamemaster.version>2.28.0</gamemaster.version>
     </properties>
 	<repositories>
 	    <repository>
