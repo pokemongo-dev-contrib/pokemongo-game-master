@@ -1,5 +1,7 @@
 ﻿# pokemongo-game-master
 
+[![Build Status](https://travis-ci.org/pokemongo-dev-contrib/pokemongo-game-master.svg?branch=master)](https://travis-ci.org/pokemongo-dev-contrib/pokemongo-game-master)
+
 [![Online Users in pokemongo-game-master Discord Server](https://discordapp.com/api/guilds/293741011665027073/embed.png)](https://discord.gg/ssVqwvX)
 
 
