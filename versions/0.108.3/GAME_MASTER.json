@@ -4471,7 +4471,7 @@
   }, {
     "templateId": "BADGE_MAX_LEVEL_FRIENDS",
     "badgeSettings": {
-      "badgeType": 48,
+      "badgeType": "BADGE_MAX_LEVEL_FRIENDS",
       "badgeRank": 4,
       "targets": [1, 2, 3]
     }
@@ -4559,14 +4559,14 @@
   }, {
     "templateId": "BADGE_TRADING",
     "badgeSettings": {
-      "badgeType": 49,
+      "badgeType": "BADGE_TRADING",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
     "templateId": "BADGE_TRADING_DISTANCE",
     "badgeSettings": {
-      "badgeType": 50,
+      "badgeType": "BADGE_TRADING_DISTANCE",
       "badgeRank": 4,
       "targets": [1000, 100000, 1000000]
     }
@@ -6890,15 +6890,50 @@
       }]
     }
   }, {
-    "templateId": "FRIENDSHIP_LEVEL_0"
+    "templateId": "FRIENDSHIP_LEVEL_0",
+    "friendshipMilestoneSettings": {
+      "milestoneXpReward": 1000,
+      "attackBonusPercentage": 1.0,
+      "unlockedTrading": ["REGULAR_IN_POKEDEX"]
+    }
   }, {
-    "templateId": "FRIENDSHIP_LEVEL_1"
+    "templateId": "FRIENDSHIP_LEVEL_1",
+    "friendshipMilestoneSettings": {
+      "minPointsToReach": 1,
+      "milestoneXpReward": 3000,
+      "attackBonusPercentage": 1.03,
+      "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"]
+    }
   }, {
-    "templateId": "FRIENDSHIP_LEVEL_2"
+    "templateId": "FRIENDSHIP_LEVEL_2",
+    "friendshipMilestoneSettings": {
+      "minPointsToReach": 7,
+      "milestoneXpReward": 10000,
+      "attackBonusPercentage": 1.05,
+      "raidBallBonus": 1,
+      "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
+      "tradingDiscount": 0.2
+    }
   }, {
-    "templateId": "FRIENDSHIP_LEVEL_3"
+    "templateId": "FRIENDSHIP_LEVEL_3",
+    "friendshipMilestoneSettings": {
+      "minPointsToReach": 30,
+      "milestoneXpReward": 50000,
+      "attackBonusPercentage": 1.07,
+      "raidBallBonus": 2,
+      "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
+      "tradingDiscount": 0.92
+    }
   }, {
-    "templateId": "FRIENDSHIP_LEVEL_4"
+    "templateId": "FRIENDSHIP_LEVEL_4",
+    "friendshipMilestoneSettings": {
+      "minPointsToReach": 90,
+      "milestoneXpReward": 100000,
+      "attackBonusPercentage": 1.1,
+      "raidBallBonus": 4,
+      "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
+      "tradingDiscount": 0.96
+    }
   }, {
     "templateId": "GYM_BADGE_SETTINGS",
     "gymBadgeSettings": {
@@ -6983,9 +7018,9 @@
   }, {
     "templateId": "ITEM_FRIEND_GIFT_BOX",
     "itemSettings": {
-      "itemId": 1405,
-      "itemType": 18,
-      "category": 17,
+      "itemId": "ITEM_FRIEND_GIFT_BOX",
+      "itemType": "ITEM_TYPE_FRIEND_GIFT_BOX",
+      "category": "ITEM_CATEGORY_FRIEND_GIFT_BOX",
       "dropTrainerLevel": 100
     }
   }, {
