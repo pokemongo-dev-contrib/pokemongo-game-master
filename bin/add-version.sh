@@ -67,17 +67,12 @@ NEW_VERSION_FOLDER="${VERSIONS_FOLDER}/${VERSION_TO_ADD}"
 NEW_PROTOBUF_PATH="${NEW_VERSION_FOLDER}/GAME_MASTER.protobuf"
 NEW_JSON_PATH="${NEW_VERSION_FOLDER}/GAME_MASTER.json"
 
-echo $NEW_PROTOBUF_PATH
-
 # Add folder only if needed
 mkdir -p $NEW_VERSION_FOLDER
 
-# Check if file is already in the destination
-if [ "$(stat -c "%d:%i" $PROTOBUF_FILE)" != "$(stat -c "%d:%i" $NEW_PROTOBUF_PATH)" ]; then
-  cp $PROTOBUF_FILE $NEW_PROTOBUF_PATH
-fi
+cp $PROTOBUF_FILE $NEW_PROTOBUF_PATH
 
-docker run -it --rm --name my-maven-project -v "$HOME/.m2":/root/.m2 -v `pwd`:/usr/src/mymaven -w /usr/src/mymaven maven:3.2-jdk-8 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} versions/${VERSION_TO_ADD}/GAME_MASTER.json"
+java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} versions/${VERSION_TO_ADD}/GAME_MASTER.json"
 
 if [ "$LATEST" == true ] ; then
     cp -Tr "$NEW_VERSION_FOLDER/" "$VERSIONS_FOLDER/latest"
