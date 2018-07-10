@@ -52,7 +52,7 @@ do
         -v|--version)        VERSION_TO_ADD=$2 && shift 2;;
         --latest)            LATEST=true && shift 1;;
         *)                   break;;
-    esac    
+    esac
 done
 
 if [ "${PROTOBUF_FILE}" == "" ]; then
@@ -72,7 +72,7 @@ mkdir -p $NEW_VERSION_FOLDER
 
 cp $PROTOBUF_FILE $NEW_PROTOBUF_PATH
 
-java -cp target/pokemongo-game-master-2.28.1.jar com.pokebattler.gamemaster.GenerateJSON "${PROTOBUF_FILE} versions/${VERSION_TO_ADD}/GAME_MASTER.json"
+mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} versions/${VERSION_TO_ADD}/GAME_MASTER.json"
 
 if [ "$LATEST" == true ] ; then
     cp -Tr "$NEW_VERSION_FOLDER/" "$VERSIONS_FOLDER/latest"
