@@ -19,6 +19,8 @@ docker build -t "$USER/pokemongo-game-master" .
 docker run \
   -v "$(pwd)/versions:/var/lib/pokemongo-game-master/versions" \
   -v "$(pwd)/GAME_MASTER.protobuf:/var/lib/pokemongo-game-master/GAME_MASTER.protobuf" \
+  -v "$(pwd)/.git:/var/lib/pokemongo-game-master/.git" \
+  -v "$HOME/.gitconfig:/root/.gitconfig" \
   -it "$USER/pokemongo-game-master" \
   -f /var/lib/pokemongo-game-master/GAME_MASTER.protobuf --latest
 
