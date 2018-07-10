@@ -10,7 +10,6 @@
 
 You can generate a new GAME_MASTER.json using the following command.
 It will create a new folder `versions/0.69.9`.
-Append the `--latest` parameter if it is the latest version.
 If everything was configured correctly, it will output in the
 corresponding directory inside the `version` folder.
 
@@ -21,6 +20,6 @@ docker run \
   -v "$(pwd)/versions:/var/lib/pokemongo-game-master/versions" \
   -v "$(pwd)/GAME_MASTER.protobuf:/var/lib/pokemongo-game-master/GAME_MASTER.protobuf" \
   -it "$USER/pokemongo-game-master" \
-  -f ./GAME_MASTER.protobuf -v "0.69.9"
+  -f /var/lib/pokemongo-game-master/GAME_MASTER.protobuf --latest
 
 ```
