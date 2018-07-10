@@ -74,11 +74,16 @@ cp $PROTOBUF_FILE $NEW_PROTOBUF_PATH
 
 mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} versions/${TIMESTAMP}/GAME_MASTER.json"
 
+git add "$VERSIONS_FOLDER/${TIMESTAMP}/GAME_MASTER.protobuf" "$VERSIONS_FOLDER/${TIMESTAMP}/GAME_MASTER.json"
+
 if [ "$LATEST" == true ] ; then
     # Copy into latest folder
     cp -Tr "$NEW_VERSION_FOLDER/" "$VERSIONS_FOLDER/latest"
     # Update latest version.txt
     rm -f versions/latest-version.txt
     echo $TIMESTAMP >> versions/latest-version.txt
+    git add "$VERSIONS_FOLDER/latest/GAME_MASTER.protobuf" "$VERSIONS_FOLDER/latest/GAME_MASTER.json" "$VERSIONS_FOLDER/latest-version.txt"
 fi
 
+git commit -m "Update GAME_MASTER to timestamp ${TIMESTAMP}"
+git tag -a "${TIMESTAMP}" -m "GAME_MASTER ${TIMESTAMP}"
