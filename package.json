@@ -25,9 +25,8 @@
     "chai": "^4.1.2",
     "mocha": "^4.0.1",
     "promise": "^8.0.1",
-    "semver": "^5.4.1",
-    "semver-extra": "^2.0.1",
-    "hoek": "^5.0.3"
+    "hoek": "^5.0.3",
+    "moment": "^2.22.2"
   },
   "dependencies": {
     "request": "^2.83.0"
