@@ -85,5 +85,6 @@ if [ "$LATEST" == true ] ; then
     git add "$VERSIONS_FOLDER/latest/GAME_MASTER.protobuf" "$VERSIONS_FOLDER/latest/GAME_MASTER.json" "$VERSIONS_FOLDER/latest-version.txt"
 fi
 
-git commit -m "Update GAME_MASTER to timestamp ${TIMESTAMP}"
-git tag -a "${TIMESTAMP}" -m "GAME_MASTER ${TIMESTAMP}"
+echo "DONE"
+echo "Run 'git push origin master --tags' to push the current changes"
+
