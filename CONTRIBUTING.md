@@ -9,7 +9,7 @@
 ## Generate GAME_MASTER.json
 
 You can generate a new GAME_MASTER.json using the following command.
-It will create a new folder `versions/0.69.9`.
+It will create a new folder `versions/TIMESTAMP_OF_THE_FILE`.
 If everything was configured correctly, it will output in the
 corresponding directory inside the `version` folder.
 
