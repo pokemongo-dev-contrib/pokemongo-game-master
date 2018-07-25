@@ -1,6 +1,7 @@
 const fs = require('fs');
-const semver = require('semver-extra');
 const Promise = require('promise');
+
+const SEMVER_REGEX = /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/gm;
 
 /**
  * Returns a promise, which returns the latest version of
@@ -13,14 +14,18 @@ function getLatestVersion() {
                 reject(err);
             }
             let versions = files
-                .filter(file => file !== 'latest-version.txt' && file !== 'latest');
-            resolve(semver.max(versions));
+                .filter(file => file !== 'latest-version.txt' && file !== 'latest')
+                // Ignore Semver Versions
+                .filter(file => !new RegExp(SEMVER_REGEX).test(file))
+                // Sort by number
+                .sort((date1, date2) => date1 > date2);
+            resolve(versions[versions.length - 1]);
         });
     });
 }
 
 /**
- * Returns a promise with the content of 
+ * Returns a promise with the content of
  * the './versions/latest-version.txt'-file
  */
 function getLatestVersionTxtContent() {
