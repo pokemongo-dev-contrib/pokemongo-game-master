@@ -1,8 +1,6 @@
 const fs = require('fs');
 const Promise = require('promise');
-const moment = require('moment');
 
-const TIMESTAMP_FORMAT = 'YYYYMMDDhhmmss';
 const SEMVER_REGEX = /^(0|[1-9]\d*)\.(0|[1-9]\d*)\.(0|[1-9]\d*)(-(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*)(\.(0|[1-9]\d*|\d*[a-zA-Z-][0-9a-zA-Z-]*))*)?(\+[0-9a-zA-Z-]+(\.[0-9a-zA-Z-]+)*)?$/gm;
 
 /**
@@ -19,10 +17,9 @@ function getLatestVersion() {
                 .filter(file => file !== 'latest-version.txt' && file !== 'latest')
                 // Ignore Semver Versions
                 .filter(file => !new RegExp(SEMVER_REGEX).test(file))
-                .map(timestamp => moment(timestamp, TIMESTAMP_FORMAT))
-                // Sort the by date
-                .sort((date1, date2) => moment.utc(date1.timeStamp).diff(moment.utc(date2.timeStamp)));
-            resolve(versions[versions.length - 1].format(TIMESTAMP_FORMAT));
+                // Sort by number
+                .sort((date1, date2) => date1 > date2);
+            resolve(versions[versions.length - 1]);
         });
     });
 }

@@ -25,8 +25,7 @@
     "chai": "^4.1.2",
     "mocha": "^4.0.1",
     "promise": "^8.0.1",
-    "hoek": "^5.0.3",
-    "moment": "^2.22.2"
+    "hoek": "^5.0.3"
   },
   "dependencies": {
     "request": "^2.83.0"
