@@ -28,6 +28,8 @@
     "hoek": "^5.0.3"
   },
   "dependencies": {
+    "fs-extra": "^7.0.0",
+    "mv": "^2.1.1",
     "request": "^2.83.0"
   }
 }
