@@ -1,0 +1,110 @@
+{
+  "itemTemplates": [{
+    "templateId": "V0025_POKEMON_PIKACHU",
+    "pokemonSettings": {
+      "pokemonId": "PIKACHU",
+      "modelScale": 1.48,
+      "type": "POKEMON_TYPE_ELECTRIC",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.37,
+        "cylinderHeightM": 0.5,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.185,
+        "collisionHeightM": 0.518,
+        "collisionHeadRadiusM": 0.185,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.775,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 70,
+        "baseAttack": 112,
+        "baseDefense": 101
+      },
+      "quickMoves": ["THUNDER_SHOCK_FAST", "QUICK_ATTACK_FAST"],
+      "cinematicMoves": ["SURF"],
+      "animationTime": [1.8333, 0.6667, 1.6, 1.5667, 0.0, 1.8, 1.1333, 1.066667],
+      "evolutionIds": ["RAICHU"],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.4,
+      "pokedexWeightKg": 6.0,
+      "parentPokemonId": "PICHU",
+      "heightStdDev": 0.05,
+      "weightStdDev": 0.75,
+      "familyId": "FAMILY_PIKACHU",
+      "candyToEvolve": 50,
+      "kmBuddyDistance": 1.0,
+      "buddySize": "BUDDY_SHOULDER",
+      "modelHeight": 0.4,
+      "evolutionBranch": [{
+        "evolution": "RAICHU",
+        "candyCost": 50
+      }],
+      "modelScaleV2": 1.1
+    }
+  }, {
+    "templateId": "V0026_POKEMON_RAICHU",
+    "pokemonSettings": {
+      "pokemonId": "RAICHU",
+      "modelScale": 1.08,
+      "type": "POKEMON_TYPE_ELECTRIC",
+      "camera": {
+        "diskRadiusM": 0.729,
+        "cylinderRadiusM": 0.486,
+        "cylinderHeightM": 0.75,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.06,
+        "collisionRadiusM": 0.27,
+        "collisionHeightM": 0.54,
+        "collisionHeadRadiusM": 0.216,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 6.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 17.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 120,
+        "baseAttack": 193,
+        "baseDefense": 165
+      },
+      "quickMoves": ["VOLT_SWITCH_FAST", "SPARK_FAST"],
+      "cinematicMoves": ["SURF"],
+      "animationTime": [2.2333, 0.6667, 2.0, 2.0, 0.0, 2.6667, 1.0, 1.133333],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 30.0,
+      "parentPokemonId": "PIKACHU",
+      "heightStdDev": 0.1,
+      "weightStdDev": 3.75,
+      "familyId": "FAMILY_PIKACHU",
+      "kmBuddyDistance": 1.0,
+      "modelHeight": 0.83,
+      "modelScaleV2": 1.0
+    }
+  }]
+}
