@@ -32,3 +32,13 @@ gameMaster.getVersion('latest', 'json').then(console.log); // Returns as object:
 gameMaster.getVersion('0.83.3', 'protobuf').then(console.log); // Returns the version 0.83.3 as string
 
 ```
+
+## Community Day JSON files
+
+Community day JSON files are found in the special folder. They contain
+the moves that were available on that particular community day
+
+## Contrib
+
+The contrib file is for 3rd party generated json files. Currently historical
+Pokebattler json files can be found there
