@@ -178,6 +178,60 @@
       "buddyScale": 19.0
     }
   }, {
+    "templateId": "V0136_POKEMON_FLAREON",
+    "pokemonSettings": {
+      "pokemonId": "FLAREON",
+      "modelScale": 0.87,
+      "type": "POKEMON_TYPE_FIRE",
+      "camera": {
+        "diskRadiusM": 0.4568,
+        "cylinderRadiusM": 0.5,
+        "cylinderHeightM": 0.783,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.125,
+        "baseFleeRate": 0.06,
+        "collisionRadiusM": 0.2175,
+        "collisionHeightM": 0.522,
+        "collisionHeadRadiusM": 0.19575,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 3.0,
+        "jumpTimeS": 1.35,
+        "attackTimerS": 8.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.93625,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 130,
+        "baseAttack": 246,
+        "baseDefense": 204
+      },
+      "quickMoves": ["EMBER_FAST", "FIRE_SPIN_FAST"],
+      "cinematicMoves": ["LAST_RESORT"],
+      "animationTime": [2.5, 0.6667, 1.6667, 2.0667, 0.0, 2.3333, 1.0, 2.666667],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.9,
+      "pokedexWeightKg": 25.0,
+      "parentPokemonId": "EEVEE",
+      "heightStdDev": 0.1125,
+      "weightStdDev": 3.125,
+      "familyId": "FAMILY_EEVEE",
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 1.27,
+      "modelScaleV2": 0.95,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0
+    }
+  }, {
     "templateId": "V0196_POKEMON_ESPEON",
     "pokemonSettings": {
       "pokemonId": "ESPEON",
