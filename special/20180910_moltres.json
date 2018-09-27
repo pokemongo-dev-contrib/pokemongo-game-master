@@ -1,0 +1,59 @@
+{
+  "itemTemplates": [{
+    "templateId": "V0146_POKEMON_MOLTRES",
+    "pokemonSettings": {
+      "pokemonId": "MOLTRES",
+      "modelScale": 0.62,
+      "type": "POKEMON_TYPE_FIRE",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.93,
+        "cylinderRadiusM": 1.25,
+        "cylinderHeightM": 2.0,
+        "cylinderGroundM": 1.5,
+        "shoulderModeScale": 0.25
+      },
+      "encounter": {
+        "baseCaptureRate": 0.03,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.403,
+        "collisionHeightM": 0.93,
+        "collisionHeadRadiusM": 0.217,
+        "movementType": "MOVEMENT_FLYING",
+        "movementTimerS": 3.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 8.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.23125,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 180,
+        "baseAttack": 251,
+        "baseDefense": 184
+      },
+      "quickMoves": ["FIRE_SPIN_FAST"],
+      "cinematicMoves": ["SKY_ATTACK"],
+      "animationTime": [2.7333, 1.3333, 2.0, 1.1667, 0.0, 2.5, 1.8, 1.8],
+      "evolutionPips": 1,
+      "rarity": "POKEMON_RARITY_LEGENDARY",
+      "pokedexHeightM": 2.0,
+      "pokedexWeightKg": 60.0,
+      "heightStdDev": 0.25,
+      "weightStdDev": 7.5,
+      "familyId": "FAMILY_MOLTRES",
+      "kmBuddyDistance": 20.0,
+      "buddySize": "BUDDY_FLYING",
+      "modelHeight": 3.0,
+      "modelScaleV2": 0.86,
+      "buddyOffsetMale": [2.85, -40.0, 18.14],
+      "buddyOffsetFemale": [2.85, -40.0, 18.14],
+      "buddyScale": 19.0
+    }
+  }],
+  "timestampMs": "1535950353222"
+}
