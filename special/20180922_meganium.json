@@ -1,0 +1,59 @@
+{
+  "itemTemplates": [{
+    "templateId": "V0154_POKEMON_MEGANIUM",
+    "pokemonSettings": {
+      "pokemonId": "MEGANIUM",
+      "modelScale": 0.79,
+      "type": "POKEMON_TYPE_GRASS",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.85,
+        "cylinderHeightM": 1.75,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.05,
+        "baseFleeRate": 0.05,
+        "collisionRadiusM": 0.36,
+        "collisionHeightM": 0.91,
+        "collisionHeadRadiusM": 0.28,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.7,
+        "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.2,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.790625,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 160,
+        "baseAttack": 168,
+        "baseDefense": 202
+      },
+      "quickMoves": ["RAZOR_LEAF_FAST", "VINE_WHIP_FAST"],
+      "cinematicMoves": ["FRENZY_PLANT"],
+      "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 1.8,
+      "pokedexWeightKg": 100.5,
+      "parentPokemonId": "BAYLEEF",
+      "heightStdDev": 0.225,
+      "weightStdDev": 12.5625,
+      "familyId": "FAMILY_CHIKORITA",
+      "kmBuddyDistance": 3.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 1.75,
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [13.39, 0.0, 31.23],
+      "buddyOffsetFemale": [13.39, 0.0, 31.23],
+      "buddyScale": 19.0
+    }
+ }],
+  "timestampMs": "1535950353222"
+}

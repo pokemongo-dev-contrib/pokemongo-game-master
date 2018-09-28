@@ -1,0 +1,84 @@
+{
+	"itemTemplates": [
+		{
+			"templateId": "V0150_POKEMON_MEWTWO",
+			"pokemonSettings": {
+				"pokemonId": "MEWTWO",
+				"modelScale": 0.74,
+				"type": "POKEMON_TYPE_PSYCHIC",
+				"camera": {
+					"diskRadiusM": 0.555,
+					"cylinderRadiusM": 0.6,
+					"cylinderHeightM": 2.0,
+					"shoulderModeScale": 0.5
+				},
+				"encounter": {
+					"baseCaptureRate": 0.06,
+					"baseFleeRate": 0.1,
+					"collisionRadiusM": 0.37,
+					"collisionHeightM": 1.184,
+					"collisionHeadRadiusM": 0.185,
+					"movementType": "MOVEMENT_JUMP",
+					"movementTimerS": 8.0,
+					"jumpTimeS": 1.2,
+					"attackTimerS": 3.0,
+					"attackProbability": 0.1,
+					"dodgeProbability": 0.15,
+					"dodgeDurationS": 1.0,
+					"dodgeDistance": 1.0,
+					"cameraDistance": 5.55,
+					"minPokemonActionFrequencyS": 0.2,
+					"maxPokemonActionFrequencyS": 1.6
+				},
+				"stats": {
+					"baseStamina": 193,
+					"baseAttack": 300,
+					"baseDefense": 182
+				},
+				"quickMoves": [
+					"PSYCHO_CUT_FAST",
+					"CONFUSION_FAST"
+				],
+				"cinematicMoves": [
+					"PSYCHIC",
+					"THUNDERBOLT",
+					"ICE_BEAM",
+					"FLAMETHROWER",
+					"FOCUS_BLAST"
+				],
+				"animationTime": [
+					1.3333,
+					0.6667,
+					1.6667,
+					2.0,
+					0.0,
+					2.0,
+					3.0,
+					3.0
+				],
+				"evolutionPips": 1,
+				"rarity": "POKEMON_RARITY_LEGENDARY",
+				"pokedexHeightM": 2.0,
+				"pokedexWeightKg": 122.0,
+				"heightStdDev": 0.25,
+				"weightStdDev": 15.25,
+				"familyId": "FAMILY_MEWTWO",
+				"kmBuddyDistance": 20.0,
+				"buddySize": "BUDDY_BIG",
+				"modelHeight": 2.0,
+				"modelScaleV2": 1.0,
+				"buddyOffsetMale": [
+					20.0,
+					0.0,
+					59.2
+				],
+				"buddyOffsetFemale": [
+					20.0,
+					0.0,
+					59.2
+				],
+				"buddyScale": 19.0
+			}
+		}
+	]
+}
