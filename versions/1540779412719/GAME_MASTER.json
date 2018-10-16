@@ -5168,7 +5168,7 @@
   }, {
     "templateId": "BADGE_POKEDEX_ENTRIES_GEN4",
     "badgeSettings": {
-      "badgeType": 51,
+      "badgeType": "BADGE_POKEDEX_ENTRIES_GEN4",
       "badgeRank": 4,
       "targets": [5, 30, 80]
     }
@@ -7623,654 +7623,654 @@
   }, {
     "templateId": "FORMS_V0387_POKEMON_TURTWIG",
     "formSettings": {
-      "pokemon": 387
+      "pokemon": "TURTWIG"
     }
   }, {
     "templateId": "FORMS_V0388_POKEMON_GROTLE",
     "formSettings": {
-      "pokemon": 388
+      "pokemon": "GROTLE"
     }
   }, {
     "templateId": "FORMS_V0389_POKEMON_TORTERRA",
     "formSettings": {
-      "pokemon": 389
+      "pokemon": "TORTERRA"
     }
   }, {
     "templateId": "FORMS_V0390_POKEMON_CHIMCHAR",
     "formSettings": {
-      "pokemon": 390
+      "pokemon": "CHIMCHAR"
     }
   }, {
     "templateId": "FORMS_V0391_POKEMON_MONFERNO",
     "formSettings": {
-      "pokemon": 391
+      "pokemon": "MONFERNO"
     }
   }, {
     "templateId": "FORMS_V0392_POKEMON_INFERNAPE",
     "formSettings": {
-      "pokemon": 392
+      "pokemon": "INFERNAPE"
     }
   }, {
     "templateId": "FORMS_V0393_POKEMON_PIPLUP",
     "formSettings": {
-      "pokemon": 393
+      "pokemon": "PIPLUP"
     }
   }, {
     "templateId": "FORMS_V0394_POKEMON_PRINPLUP",
     "formSettings": {
-      "pokemon": 394
+      "pokemon": "PRINPLUP"
     }
   }, {
     "templateId": "FORMS_V0395_POKEMON_EMPOLEON",
     "formSettings": {
-      "pokemon": 395
+      "pokemon": "EMPOLEON"
     }
   }, {
     "templateId": "FORMS_V0396_POKEMON_STARLY",
     "formSettings": {
-      "pokemon": 396
+      "pokemon": "STARLY"
     }
   }, {
     "templateId": "FORMS_V0397_POKEMON_STARAVIA",
     "formSettings": {
-      "pokemon": 397
+      "pokemon": "STARAVIA"
     }
   }, {
     "templateId": "FORMS_V0398_POKEMON_STARAPTOR",
     "formSettings": {
-      "pokemon": 398
+      "pokemon": "STARAPTOR"
     }
   }, {
     "templateId": "FORMS_V0399_POKEMON_BIDOOF",
     "formSettings": {
-      "pokemon": 399
+      "pokemon": "BIDOOF"
     }
   }, {
     "templateId": "FORMS_V0400_POKEMON_BIBAREL",
     "formSettings": {
-      "pokemon": 400
+      "pokemon": "BIBAREL"
     }
   }, {
     "templateId": "FORMS_V0401_POKEMON_KRICKETOT",
     "formSettings": {
-      "pokemon": 401
+      "pokemon": "KRICKETOT"
     }
   }, {
     "templateId": "FORMS_V0402_POKEMON_KRICKETUNE",
     "formSettings": {
-      "pokemon": 402
+      "pokemon": "KRICKETUNE"
     }
   }, {
     "templateId": "FORMS_V0403_POKEMON_SHINX",
     "formSettings": {
-      "pokemon": 403
+      "pokemon": "SHINX"
     }
   }, {
     "templateId": "FORMS_V0404_POKEMON_LUXIO",
     "formSettings": {
-      "pokemon": 404
+      "pokemon": "LUXIO"
     }
   }, {
     "templateId": "FORMS_V0405_POKEMON_LUXRAY",
     "formSettings": {
-      "pokemon": 405
+      "pokemon": "LUXRAY"
     }
   }, {
     "templateId": "FORMS_V0406_POKEMON_BUDEW",
     "formSettings": {
-      "pokemon": 406
+      "pokemon": "BUDEW"
     }
   }, {
     "templateId": "FORMS_V0407_POKEMON_ROSERADE",
     "formSettings": {
-      "pokemon": 407
+      "pokemon": "ROSERADE"
     }
   }, {
     "templateId": "FORMS_V0408_POKEMON_CRANIDOS",
     "formSettings": {
-      "pokemon": 408
+      "pokemon": "CRANIDOS"
     }
   }, {
     "templateId": "FORMS_V0409_POKEMON_RAMPARDOS",
     "formSettings": {
-      "pokemon": 409
+      "pokemon": "RAMPARDOS"
     }
   }, {
     "templateId": "FORMS_V0410_POKEMON_SHIELDON",
     "formSettings": {
-      "pokemon": 410
+      "pokemon": "SHIELDON"
     }
   }, {
     "templateId": "FORMS_V0411_POKEMON_BASTIODON",
     "formSettings": {
-      "pokemon": 411
+      "pokemon": "BASTIODON"
     }
   }, {
     "templateId": "FORMS_V0412_POKEMON_BURMY",
     "formSettings": {
-      "pokemon": 412
+      "pokemon": "BURMY"
     }
   }, {
     "templateId": "FORMS_V0413_POKEMON_WORMADAM",
     "formSettings": {
-      "pokemon": 413,
+      "pokemon": "WORMADAM",
       "forms": [{
-        "form": 87,
+        "form": "WORMADAM_PLANT",
         "assetBundleValue": 11
       }, {
-        "form": 88,
+        "form": "WORMADAM_SANDY",
         "assetBundleValue": 12
       }, {
-        "form": 89,
+        "form": "WORMADAM_TRASH",
         "assetBundleValue": 13
       }]
     }
   }, {
     "templateId": "FORMS_V0414_POKEMON_MOTHIM",
     "formSettings": {
-      "pokemon": 414
+      "pokemon": "MOTHIM"
     }
   }, {
     "templateId": "FORMS_V0415_POKEMON_COMBEE",
     "formSettings": {
-      "pokemon": 415
+      "pokemon": "COMBEE"
     }
   }, {
     "templateId": "FORMS_V0416_POKEMON_VESPIQUEN",
     "formSettings": {
-      "pokemon": 416
+      "pokemon": "VESPIQUEN"
     }
   }, {
     "templateId": "FORMS_V0417_POKEMON_PACHIRISU",
     "formSettings": {
-      "pokemon": 417
+      "pokemon": "PACHIRISU"
     }
   }, {
     "templateId": "FORMS_V0418_POKEMON_BUIZEL",
     "formSettings": {
-      "pokemon": 418
+      "pokemon": "BUIZEL"
     }
   }, {
     "templateId": "FORMS_V0419_POKEMON_FLOATZEL",
     "formSettings": {
-      "pokemon": 419
+      "pokemon": "FLOATZEL"
     }
   }, {
     "templateId": "FORMS_V0420_POKEMON_CHERUBI",
     "formSettings": {
-      "pokemon": 420
+      "pokemon": "CHERUBI"
     }
   }, {
     "templateId": "FORMS_V0421_POKEMON_CHERRIM",
     "formSettings": {
-      "pokemon": 421,
+      "pokemon": "CHERRIM",
       "forms": [{
-        "form": 94,
+        "form": "CHERRIM_OVERCAST",
         "assetBundleValue": 11
       }, {
-        "form": 95,
+        "form": "CHERRIM_SUNNY",
         "assetBundleValue": 12
       }]
     }
   }, {
     "templateId": "FORMS_V0422_POKEMON_SHELLOS",
     "formSettings": {
-      "pokemon": 422,
+      "pokemon": "SHELLOS",
       "forms": [{
-        "form": 96,
+        "form": "SHELLOS_WEST_SEA",
         "assetBundleValue": 11
       }, {
-        "form": 97,
+        "form": "SHELLOS_EAST_SEA",
         "assetBundleValue": 12
       }]
     }
   }, {
     "templateId": "FORMS_V0423_POKEMON_GASTRODON",
     "formSettings": {
-      "pokemon": 423,
+      "pokemon": "GASTRODON",
       "forms": [{
-        "form": 98,
+        "form": "GASTRODON_WEST_SEA",
         "assetBundleValue": 11
       }, {
-        "form": 99,
+        "form": "GASTRODON_EAST_SEA",
         "assetBundleValue": 12
       }]
     }
   }, {
     "templateId": "FORMS_V0424_POKEMON_AMBIPOM",
     "formSettings": {
-      "pokemon": 424
+      "pokemon": "AMBIPOM"
     }
   }, {
     "templateId": "FORMS_V0425_POKEMON_DRIFLOON",
     "formSettings": {
-      "pokemon": 425
+      "pokemon": "DRIFLOON"
     }
   }, {
     "templateId": "FORMS_V0426_POKEMON_DRIFBLIM",
     "formSettings": {
-      "pokemon": 426
+      "pokemon": "DRIFBLIM"
     }
   }, {
     "templateId": "FORMS_V0427_POKEMON_BUNEARY",
     "formSettings": {
-      "pokemon": 427
+      "pokemon": "BUNEARY"
     }
   }, {
     "templateId": "FORMS_V0428_POKEMON_LOPUNNY",
     "formSettings": {
-      "pokemon": 428
+      "pokemon": "LOPUNNY"
     }
   }, {
     "templateId": "FORMS_V0429_POKEMON_MISMAGIUS",
     "formSettings": {
-      "pokemon": 429
+      "pokemon": "MISMAGIUS"
     }
   }, {
     "templateId": "FORMS_V0430_POKEMON_HONCHKROW",
     "formSettings": {
-      "pokemon": 430
+      "pokemon": "HONCHKROW"
     }
   }, {
     "templateId": "FORMS_V0431_POKEMON_GLAMEOW",
     "formSettings": {
-      "pokemon": 431
+      "pokemon": "GLAMEOW"
     }
   }, {
     "templateId": "FORMS_V0432_POKEMON_PURUGLY",
     "formSettings": {
-      "pokemon": 432
+      "pokemon": "PURUGLY"
     }
   }, {
     "templateId": "FORMS_V0433_POKEMON_CHINGLING",
     "formSettings": {
-      "pokemon": 433
+      "pokemon": "CHINGLING"
     }
   }, {
     "templateId": "FORMS_V0434_POKEMON_STUNKY",
     "formSettings": {
-      "pokemon": 434
+      "pokemon": "STUNKY"
     }
   }, {
     "templateId": "FORMS_V0435_POKEMON_SKUNTANK",
     "formSettings": {
-      "pokemon": 435
+      "pokemon": "SKUNTANK"
     }
   }, {
     "templateId": "FORMS_V0436_POKEMON_BRONZOR",
     "formSettings": {
-      "pokemon": 436
+      "pokemon": "BRONZOR"
     }
   }, {
     "templateId": "FORMS_V0437_POKEMON_BRONZONG",
     "formSettings": {
-      "pokemon": 437
+      "pokemon": "BRONZONG"
     }
   }, {
     "templateId": "FORMS_V0438_POKEMON_BONSLY",
     "formSettings": {
-      "pokemon": 438
+      "pokemon": "BONSLY"
     }
   }, {
     "templateId": "FORMS_V0439_POKEMON_MIME_JR",
     "formSettings": {
-      "pokemon": 439
+      "pokemon": "MIME_JR"
     }
   }, {
     "templateId": "FORMS_V0440_POKEMON_HAPPINY",
     "formSettings": {
-      "pokemon": 440
+      "pokemon": "HAPPINY"
     }
   }, {
     "templateId": "FORMS_V0441_POKEMON_CHATOT",
     "formSettings": {
-      "pokemon": 441
+      "pokemon": "CHATOT"
     }
   }, {
     "templateId": "FORMS_V0442_POKEMON_SPIRITOMB",
     "formSettings": {
-      "pokemon": 442
+      "pokemon": "SPIRITOMB"
     }
   }, {
     "templateId": "FORMS_V0443_POKEMON_GIBLE",
     "formSettings": {
-      "pokemon": 443
+      "pokemon": "GIBLE"
     }
   }, {
     "templateId": "FORMS_V0444_POKEMON_GABITE",
     "formSettings": {
-      "pokemon": 444
+      "pokemon": "GABITE"
     }
   }, {
     "templateId": "FORMS_V0445_POKEMON_GARCHOMP",
     "formSettings": {
-      "pokemon": 445
+      "pokemon": "GARCHOMP"
     }
   }, {
     "templateId": "FORMS_V0446_POKEMON_MUNCHLAX",
     "formSettings": {
-      "pokemon": 446
+      "pokemon": "MUNCHLAX"
     }
   }, {
     "templateId": "FORMS_V0447_POKEMON_RIOLU",
     "formSettings": {
-      "pokemon": 447
+      "pokemon": "RIOLU"
     }
   }, {
     "templateId": "FORMS_V0448_POKEMON_LUCARIO",
     "formSettings": {
-      "pokemon": 448
+      "pokemon": "LUCARIO"
     }
   }, {
     "templateId": "FORMS_V0449_POKEMON_HIPPOPOTAS",
     "formSettings": {
-      "pokemon": 449
+      "pokemon": "HIPPOPOTAS"
     }
   }, {
     "templateId": "FORMS_V0450_POKEMON_HIPPOWDON",
     "formSettings": {
-      "pokemon": 450
+      "pokemon": "HIPPOWDON"
     }
   }, {
     "templateId": "FORMS_V0451_POKEMON_SKORUPI",
     "formSettings": {
-      "pokemon": 451
+      "pokemon": "SKORUPI"
     }
   }, {
     "templateId": "FORMS_V0452_POKEMON_DRAPION",
     "formSettings": {
-      "pokemon": 452
+      "pokemon": "DRAPION"
     }
   }, {
     "templateId": "FORMS_V0453_POKEMON_CROAGUNK",
     "formSettings": {
-      "pokemon": 453
+      "pokemon": "CROAGUNK"
     }
   }, {
     "templateId": "FORMS_V0454_POKEMON_TOXICROAK",
     "formSettings": {
-      "pokemon": 454
+      "pokemon": "TOXICROAK"
     }
   }, {
     "templateId": "FORMS_V0455_POKEMON_CARNIVINE",
     "formSettings": {
-      "pokemon": 455
+      "pokemon": "CARNIVINE"
     }
   }, {
     "templateId": "FORMS_V0456_POKEMON_FINNEON",
     "formSettings": {
-      "pokemon": 456
+      "pokemon": "FINNEON"
     }
   }, {
     "templateId": "FORMS_V0457_POKEMON_LUMINEON",
     "formSettings": {
-      "pokemon": 457
+      "pokemon": "LUMINEON"
     }
   }, {
     "templateId": "FORMS_V0458_POKEMON_MANTYKE",
     "formSettings": {
-      "pokemon": 458
+      "pokemon": "MANTYKE"
     }
   }, {
     "templateId": "FORMS_V0459_POKEMON_SNOVER",
     "formSettings": {
-      "pokemon": 459
+      "pokemon": "SNOVER"
     }
   }, {
     "templateId": "FORMS_V0460_POKEMON_ABOMASNOW",
     "formSettings": {
-      "pokemon": 460
+      "pokemon": "ABOMASNOW"
     }
   }, {
     "templateId": "FORMS_V0461_POKEMON_WEAVILE",
     "formSettings": {
-      "pokemon": 461
+      "pokemon": "WEAVILE"
     }
   }, {
     "templateId": "FORMS_V0462_POKEMON_MAGNEZONE",
     "formSettings": {
-      "pokemon": 462
+      "pokemon": "MAGNEZONE"
     }
   }, {
     "templateId": "FORMS_V0463_POKEMON_LICKILICKY",
     "formSettings": {
-      "pokemon": 463
+      "pokemon": "LICKILICKY"
     }
   }, {
     "templateId": "FORMS_V0464_POKEMON_RHYPERIOR",
     "formSettings": {
-      "pokemon": 464
+      "pokemon": "RHYPERIOR"
     }
   }, {
     "templateId": "FORMS_V0465_POKEMON_TANGROWTH",
     "formSettings": {
-      "pokemon": 465
+      "pokemon": "TANGROWTH"
     }
   }, {
     "templateId": "FORMS_V0466_POKEMON_ELECTIVIRE",
     "formSettings": {
-      "pokemon": 466
+      "pokemon": "ELECTIVIRE"
     }
   }, {
     "templateId": "FORMS_V0467_POKEMON_MAGMORTAR",
     "formSettings": {
-      "pokemon": 467
+      "pokemon": "MAGMORTAR"
     }
   }, {
     "templateId": "FORMS_V0468_POKEMON_TOGEKISS",
     "formSettings": {
-      "pokemon": 468
+      "pokemon": "TOGEKISS"
     }
   }, {
     "templateId": "FORMS_V0469_POKEMON_YANMEGA",
     "formSettings": {
-      "pokemon": 469
+      "pokemon": "YANMEGA"
     }
   }, {
     "templateId": "FORMS_V0470_POKEMON_LEAFEON",
     "formSettings": {
-      "pokemon": 470
+      "pokemon": "LEAFEON"
     }
   }, {
     "templateId": "FORMS_V0471_POKEMON_GLACEON",
     "formSettings": {
-      "pokemon": 471
+      "pokemon": "GLACEON"
     }
   }, {
     "templateId": "FORMS_V0472_POKEMON_GLISCOR",
     "formSettings": {
-      "pokemon": 472
+      "pokemon": "GLISCOR"
     }
   }, {
     "templateId": "FORMS_V0473_POKEMON_MAMOSWINE",
     "formSettings": {
-      "pokemon": 473
+      "pokemon": "MAMOSWINE"
     }
   }, {
     "templateId": "FORMS_V0474_POKEMON_PORYGON_Z",
     "formSettings": {
-      "pokemon": 474
+      "pokemon": "PORYGON_Z"
     }
   }, {
     "templateId": "FORMS_V0475_POKEMON_GALLADE",
     "formSettings": {
-      "pokemon": 475
+      "pokemon": "GALLADE"
     }
   }, {
     "templateId": "FORMS_V0476_POKEMON_PROBOPASS",
     "formSettings": {
-      "pokemon": 476
+      "pokemon": "PROBOPASS"
     }
   }, {
     "templateId": "FORMS_V0477_POKEMON_DUSKNOIR",
     "formSettings": {
-      "pokemon": 477
+      "pokemon": "DUSKNOIR"
     }
   }, {
     "templateId": "FORMS_V0478_POKEMON_FROSLASS",
     "formSettings": {
-      "pokemon": 478
+      "pokemon": "FROSLASS"
     }
   }, {
     "templateId": "FORMS_V0479_POKEMON_ROTOM",
     "formSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "forms": [{
-        "form": 81,
+        "form": "ROTOM_NORMAL",
         "assetBundleValue": 11
       }, {
-        "form": 82,
+        "form": "ROTOM_FROST",
         "assetBundleValue": 12
       }, {
-        "form": 83,
+        "form": "ROTOM_FAN",
         "assetBundleValue": 13
       }, {
-        "form": 84,
+        "form": "ROTOM_MOW",
         "assetBundleValue": 14
       }, {
-        "form": 85,
+        "form": "ROTOM_WASH",
         "assetBundleValue": 15
       }, {
-        "form": 86,
+        "form": "ROTOM_HEAT",
         "assetBundleValue": 16
       }]
     }
   }, {
     "templateId": "FORMS_V0480_POKEMON_UXIE",
     "formSettings": {
-      "pokemon": 480
+      "pokemon": "UXIE"
     }
   }, {
     "templateId": "FORMS_V0481_POKEMON_MESPRIT",
     "formSettings": {
-      "pokemon": 481
+      "pokemon": "MESPRIT"
     }
   }, {
     "templateId": "FORMS_V0482_POKEMON_AZELF",
     "formSettings": {
-      "pokemon": 482
+      "pokemon": "AZELF"
     }
   }, {
     "templateId": "FORMS_V0483_POKEMON_DIALGA",
     "formSettings": {
-      "pokemon": 483
+      "pokemon": "DIALGA"
     }
   }, {
     "templateId": "FORMS_V0484_POKEMON_PALKIA",
     "formSettings": {
-      "pokemon": 484
+      "pokemon": "PALKIA"
     }
   }, {
     "templateId": "FORMS_V0485_POKEMON_HEATRAN",
     "formSettings": {
-      "pokemon": 485
+      "pokemon": "HEATRAN"
     }
   }, {
     "templateId": "FORMS_V0486_POKEMON_REGIGIGAS",
     "formSettings": {
-      "pokemon": 486
+      "pokemon": "REGIGIGAS"
     }
   }, {
     "templateId": "FORMS_V0487_POKEMON_GIRATINA",
     "formSettings": {
-      "pokemon": 487,
+      "pokemon": "GIRATINA",
       "forms": [{
-        "form": 90,
+        "form": "GIRATINA_ALTERED",
         "assetBundleValue": 11
       }, {
-        "form": 91,
+        "form": "GIRATINA_ORIGIN",
         "assetBundleValue": 12
       }]
     }
   }, {
     "templateId": "FORMS_V0488_POKEMON_CRESSELIA",
     "formSettings": {
-      "pokemon": 488
+      "pokemon": "CRESSELIA"
     }
   }, {
     "templateId": "FORMS_V0489_POKEMON_PHIONE",
     "formSettings": {
-      "pokemon": 489
+      "pokemon": "PHIONE"
     }
   }, {
     "templateId": "FORMS_V0490_POKEMON_MANAPHY",
     "formSettings": {
-      "pokemon": 490
+      "pokemon": "MANAPHY"
     }
   }, {
     "templateId": "FORMS_V0491_POKEMON_DARKRAI",
     "formSettings": {
-      "pokemon": 491
+      "pokemon": "DARKRAI"
     }
   }, {
     "templateId": "FORMS_V0492_POKEMON_SHAYMIN",
     "formSettings": {
-      "pokemon": 492,
+      "pokemon": "SHAYMIN",
       "forms": [{
-        "form": 93,
+        "form": "SHAYMIN_LAND",
         "assetBundleValue": 11
       }, {
-        "form": 92,
+        "form": "SHAYMIN_SKY",
         "assetBundleValue": 12
       }]
     }
   }, {
     "templateId": "FORMS_V0493_POKEMON_ARCEUS",
     "formSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "forms": [{
-        "form": 100,
+        "form": "ARCEUS_NORMAL",
         "assetBundleValue": 11
       }, {
-        "form": 101,
+        "form": "ARCEUS_FIGHTING",
         "assetBundleValue": 12
       }, {
-        "form": 102,
+        "form": "ARCEUS_FLYING",
         "assetBundleValue": 13
       }, {
-        "form": 103,
+        "form": "ARCEUS_POISON",
         "assetBundleValue": 14
       }, {
-        "form": 104,
+        "form": "ARCEUS_GROUND",
         "assetBundleValue": 15
       }, {
-        "form": 105,
+        "form": "ARCEUS_ROCK",
         "assetBundleValue": 16
       }, {
-        "form": 106,
+        "form": "ARCEUS_BUG",
         "assetBundleValue": 17
       }, {
-        "form": 107,
+        "form": "ARCEUS_GHOST",
         "assetBundleValue": 18
       }, {
-        "form": 108,
+        "form": "ARCEUS_STEEL",
         "assetBundleValue": 19
       }, {
-        "form": 109,
+        "form": "ARCEUS_FIRE",
         "assetBundleValue": 20
       }, {
-        "form": 110,
+        "form": "ARCEUS_WATER",
         "assetBundleValue": 21
       }, {
-        "form": 111,
+        "form": "ARCEUS_GRASS",
         "assetBundleValue": 22
       }, {
-        "form": 112,
+        "form": "ARCEUS_ELECTRIC",
         "assetBundleValue": 23
       }, {
-        "form": 113,
+        "form": "ARCEUS_PSYCHIC",
         "assetBundleValue": 24
       }, {
-        "form": 114,
+        "form": "ARCEUS_ICE",
         "assetBundleValue": 25
       }, {
-        "form": 115,
+        "form": "ARCEUS_DRAGON",
         "assetBundleValue": 26
       }, {
-        "form": 116,
+        "form": "ARCEUS_DARK",
         "assetBundleValue": 27
       }, {
-        "form": 117,
+        "form": "ARCEUS_FAIRY",
         "assetBundleValue": 28
       }]
     }
@@ -12818,7 +12818,7 @@
   }, {
     "templateId": "SPAWN_V0387_POKEMON_TURTWIG",
     "genderSettings": {
-      "pokemon": 387,
+      "pokemon": "TURTWIG",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12827,7 +12827,7 @@
   }, {
     "templateId": "SPAWN_V0388_POKEMON_GROTLE",
     "genderSettings": {
-      "pokemon": 388,
+      "pokemon": "GROTLE",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12836,7 +12836,7 @@
   }, {
     "templateId": "SPAWN_V0389_POKEMON_TORTERRA",
     "genderSettings": {
-      "pokemon": 389,
+      "pokemon": "TORTERRA",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12845,7 +12845,7 @@
   }, {
     "templateId": "SPAWN_V0390_POKEMON_CHIMCHAR",
     "genderSettings": {
-      "pokemon": 390,
+      "pokemon": "CHIMCHAR",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12854,7 +12854,7 @@
   }, {
     "templateId": "SPAWN_V0391_POKEMON_MONFERNO",
     "genderSettings": {
-      "pokemon": 391,
+      "pokemon": "MONFERNO",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12863,7 +12863,7 @@
   }, {
     "templateId": "SPAWN_V0392_POKEMON_INFERNAPE",
     "genderSettings": {
-      "pokemon": 392,
+      "pokemon": "INFERNAPE",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12872,7 +12872,7 @@
   }, {
     "templateId": "SPAWN_V0393_POKEMON_PIPLUP",
     "genderSettings": {
-      "pokemon": 393,
+      "pokemon": "PIPLUP",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12881,7 +12881,7 @@
   }, {
     "templateId": "SPAWN_V0394_POKEMON_PRINPLUP",
     "genderSettings": {
-      "pokemon": 394,
+      "pokemon": "PRINPLUP",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12890,7 +12890,7 @@
   }, {
     "templateId": "SPAWN_V0395_POKEMON_EMPOLEON",
     "genderSettings": {
-      "pokemon": 395,
+      "pokemon": "EMPOLEON",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -12899,7 +12899,7 @@
   }, {
     "templateId": "SPAWN_V0396_POKEMON_STARLY",
     "genderSettings": {
-      "pokemon": 396,
+      "pokemon": "STARLY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12908,7 +12908,7 @@
   }, {
     "templateId": "SPAWN_V0397_POKEMON_STARAVIA",
     "genderSettings": {
-      "pokemon": 397,
+      "pokemon": "STARAVIA",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12917,7 +12917,7 @@
   }, {
     "templateId": "SPAWN_V0398_POKEMON_STARAPTOR",
     "genderSettings": {
-      "pokemon": 398,
+      "pokemon": "STARAPTOR",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12926,7 +12926,7 @@
   }, {
     "templateId": "SPAWN_V0399_POKEMON_BIDOOF",
     "genderSettings": {
-      "pokemon": 399,
+      "pokemon": "BIDOOF",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12935,7 +12935,7 @@
   }, {
     "templateId": "SPAWN_V0400_POKEMON_BIBAREL",
     "genderSettings": {
-      "pokemon": 400,
+      "pokemon": "BIBAREL",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12944,7 +12944,7 @@
   }, {
     "templateId": "SPAWN_V0401_POKEMON_KRICKETOT",
     "genderSettings": {
-      "pokemon": 401,
+      "pokemon": "KRICKETOT",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12953,7 +12953,7 @@
   }, {
     "templateId": "SPAWN_V0402_POKEMON_KRICKETUNE",
     "genderSettings": {
-      "pokemon": 402,
+      "pokemon": "KRICKETUNE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12962,7 +12962,7 @@
   }, {
     "templateId": "SPAWN_V0403_POKEMON_SHINX",
     "genderSettings": {
-      "pokemon": 403,
+      "pokemon": "SHINX",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12971,7 +12971,7 @@
   }, {
     "templateId": "SPAWN_V0404_POKEMON_LUXIO",
     "genderSettings": {
-      "pokemon": 404,
+      "pokemon": "LUXIO",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12980,7 +12980,7 @@
   }, {
     "templateId": "SPAWN_V0405_POKEMON_LUXRAY",
     "genderSettings": {
-      "pokemon": 405,
+      "pokemon": "LUXRAY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12989,7 +12989,7 @@
   }, {
     "templateId": "SPAWN_V0406_POKEMON_BUDEW",
     "genderSettings": {
-      "pokemon": 406,
+      "pokemon": "BUDEW",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -12998,7 +12998,7 @@
   }, {
     "templateId": "SPAWN_V0407_POKEMON_ROSERADE",
     "genderSettings": {
-      "pokemon": 407,
+      "pokemon": "ROSERADE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13007,7 +13007,7 @@
   }, {
     "templateId": "SPAWN_V0408_POKEMON_CRANIDOS",
     "genderSettings": {
-      "pokemon": 408,
+      "pokemon": "CRANIDOS",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13016,7 +13016,7 @@
   }, {
     "templateId": "SPAWN_V0409_POKEMON_RAMPARDOS",
     "genderSettings": {
-      "pokemon": 409,
+      "pokemon": "RAMPARDOS",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13025,7 +13025,7 @@
   }, {
     "templateId": "SPAWN_V0410_POKEMON_SHIELDON",
     "genderSettings": {
-      "pokemon": 410,
+      "pokemon": "SHIELDON",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13034,7 +13034,7 @@
   }, {
     "templateId": "SPAWN_V0411_POKEMON_BASTIODON",
     "genderSettings": {
-      "pokemon": 411,
+      "pokemon": "BASTIODON",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13043,7 +13043,7 @@
   }, {
     "templateId": "SPAWN_V0412_POKEMON_BURMY",
     "genderSettings": {
-      "pokemon": 412,
+      "pokemon": "BURMY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13052,7 +13052,7 @@
   }, {
     "templateId": "SPAWN_V0413_POKEMON_WORMADAM",
     "genderSettings": {
-      "pokemon": 413,
+      "pokemon": "WORMADAM",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13060,7 +13060,7 @@
   }, {
     "templateId": "SPAWN_V0413_POKEMON_WORMADAM_PLANT",
     "genderSettings": {
-      "pokemon": 413,
+      "pokemon": "WORMADAM",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13068,7 +13068,7 @@
   }, {
     "templateId": "SPAWN_V0413_POKEMON_WORMADAM_SANDY",
     "genderSettings": {
-      "pokemon": 413,
+      "pokemon": "WORMADAM",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13076,7 +13076,7 @@
   }, {
     "templateId": "SPAWN_V0413_POKEMON_WORMADAM_TRASH",
     "genderSettings": {
-      "pokemon": 413,
+      "pokemon": "WORMADAM",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13084,7 +13084,7 @@
   }, {
     "templateId": "SPAWN_V0414_POKEMON_MOTHIM",
     "genderSettings": {
-      "pokemon": 414,
+      "pokemon": "MOTHIM",
       "gender": {
         "malePercent": 1.0
       }
@@ -13092,7 +13092,7 @@
   }, {
     "templateId": "SPAWN_V0415_POKEMON_COMBEE",
     "genderSettings": {
-      "pokemon": 415,
+      "pokemon": "COMBEE",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13101,7 +13101,7 @@
   }, {
     "templateId": "SPAWN_V0416_POKEMON_VESPIQUEN",
     "genderSettings": {
-      "pokemon": 416,
+      "pokemon": "VESPIQUEN",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13110,7 +13110,7 @@
   }, {
     "templateId": "SPAWN_V0417_POKEMON_PACHIRISU",
     "genderSettings": {
-      "pokemon": 417,
+      "pokemon": "PACHIRISU",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13119,7 +13119,7 @@
   }, {
     "templateId": "SPAWN_V0418_POKEMON_BUIZEL",
     "genderSettings": {
-      "pokemon": 418,
+      "pokemon": "BUIZEL",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13128,7 +13128,7 @@
   }, {
     "templateId": "SPAWN_V0419_POKEMON_FLOATZEL",
     "genderSettings": {
-      "pokemon": 419,
+      "pokemon": "FLOATZEL",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13137,7 +13137,7 @@
   }, {
     "templateId": "SPAWN_V0420_POKEMON_CHERUBI",
     "genderSettings": {
-      "pokemon": 420,
+      "pokemon": "CHERUBI",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13146,7 +13146,7 @@
   }, {
     "templateId": "SPAWN_V0421_POKEMON_CHERRIM",
     "genderSettings": {
-      "pokemon": 421,
+      "pokemon": "CHERRIM",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13155,7 +13155,7 @@
   }, {
     "templateId": "SPAWN_V0421_POKEMON_CHERRIM_OVERCAST",
     "genderSettings": {
-      "pokemon": 421,
+      "pokemon": "CHERRIM",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13164,7 +13164,7 @@
   }, {
     "templateId": "SPAWN_V0421_POKEMON_CHERRIM_SUNNY",
     "genderSettings": {
-      "pokemon": 421,
+      "pokemon": "CHERRIM",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13173,7 +13173,7 @@
   }, {
     "templateId": "SPAWN_V0422_POKEMON_SHELLOS",
     "genderSettings": {
-      "pokemon": 422,
+      "pokemon": "SHELLOS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13182,7 +13182,7 @@
   }, {
     "templateId": "SPAWN_V0422_POKEMON_SHELLOS_EAST_SEA",
     "genderSettings": {
-      "pokemon": 422,
+      "pokemon": "SHELLOS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13191,7 +13191,7 @@
   }, {
     "templateId": "SPAWN_V0422_POKEMON_SHELLOS_WEST_SEA",
     "genderSettings": {
-      "pokemon": 422,
+      "pokemon": "SHELLOS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13200,7 +13200,7 @@
   }, {
     "templateId": "SPAWN_V0423_POKEMON_GASTRODON",
     "genderSettings": {
-      "pokemon": 423,
+      "pokemon": "GASTRODON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13209,7 +13209,7 @@
   }, {
     "templateId": "SPAWN_V0423_POKEMON_GASTRODON_EAST_SEA",
     "genderSettings": {
-      "pokemon": 423,
+      "pokemon": "GASTRODON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13218,7 +13218,7 @@
   }, {
     "templateId": "SPAWN_V0423_POKEMON_GASTRODON_WEST_SEA",
     "genderSettings": {
-      "pokemon": 423,
+      "pokemon": "GASTRODON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13227,7 +13227,7 @@
   }, {
     "templateId": "SPAWN_V0424_POKEMON_AMBIPOM",
     "genderSettings": {
-      "pokemon": 424,
+      "pokemon": "AMBIPOM",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13236,7 +13236,7 @@
   }, {
     "templateId": "SPAWN_V0425_POKEMON_DRIFLOON",
     "genderSettings": {
-      "pokemon": 425,
+      "pokemon": "DRIFLOON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13245,7 +13245,7 @@
   }, {
     "templateId": "SPAWN_V0426_POKEMON_DRIFBLIM",
     "genderSettings": {
-      "pokemon": 426,
+      "pokemon": "DRIFBLIM",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13254,7 +13254,7 @@
   }, {
     "templateId": "SPAWN_V0427_POKEMON_BUNEARY",
     "genderSettings": {
-      "pokemon": 427,
+      "pokemon": "BUNEARY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13263,7 +13263,7 @@
   }, {
     "templateId": "SPAWN_V0428_POKEMON_LOPUNNY",
     "genderSettings": {
-      "pokemon": 428,
+      "pokemon": "LOPUNNY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13272,7 +13272,7 @@
   }, {
     "templateId": "SPAWN_V0429_POKEMON_MISMAGIUS",
     "genderSettings": {
-      "pokemon": 429,
+      "pokemon": "MISMAGIUS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13281,7 +13281,7 @@
   }, {
     "templateId": "SPAWN_V0430_POKEMON_HONCHKROW",
     "genderSettings": {
-      "pokemon": 430,
+      "pokemon": "HONCHKROW",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13290,7 +13290,7 @@
   }, {
     "templateId": "SPAWN_V0431_POKEMON_GLAMEOW",
     "genderSettings": {
-      "pokemon": 431,
+      "pokemon": "GLAMEOW",
       "gender": {
         "malePercent": 0.25,
         "femalePercent": 0.75
@@ -13299,7 +13299,7 @@
   }, {
     "templateId": "SPAWN_V0432_POKEMON_PURUGLY",
     "genderSettings": {
-      "pokemon": 432,
+      "pokemon": "PURUGLY",
       "gender": {
         "malePercent": 0.25,
         "femalePercent": 0.75
@@ -13308,7 +13308,7 @@
   }, {
     "templateId": "SPAWN_V0433_POKEMON_CHINGLING",
     "genderSettings": {
-      "pokemon": 433,
+      "pokemon": "CHINGLING",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13317,7 +13317,7 @@
   }, {
     "templateId": "SPAWN_V0434_POKEMON_STUNKY",
     "genderSettings": {
-      "pokemon": 434,
+      "pokemon": "STUNKY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13326,7 +13326,7 @@
   }, {
     "templateId": "SPAWN_V0435_POKEMON_SKUNTANK",
     "genderSettings": {
-      "pokemon": 435,
+      "pokemon": "SKUNTANK",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13335,7 +13335,7 @@
   }, {
     "templateId": "SPAWN_V0436_POKEMON_BRONZOR",
     "genderSettings": {
-      "pokemon": 436,
+      "pokemon": "BRONZOR",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13343,7 +13343,7 @@
   }, {
     "templateId": "SPAWN_V0437_POKEMON_BRONZONG",
     "genderSettings": {
-      "pokemon": 437,
+      "pokemon": "BRONZONG",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13351,7 +13351,7 @@
   }, {
     "templateId": "SPAWN_V0438_POKEMON_BONSLY",
     "genderSettings": {
-      "pokemon": 438,
+      "pokemon": "BONSLY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13360,7 +13360,7 @@
   }, {
     "templateId": "SPAWN_V0439_POKEMON_MIME_JR",
     "genderSettings": {
-      "pokemon": 439,
+      "pokemon": "MIME_JR",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13369,7 +13369,7 @@
   }, {
     "templateId": "SPAWN_V0440_POKEMON_HAPPINY",
     "genderSettings": {
-      "pokemon": 440,
+      "pokemon": "HAPPINY",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13377,7 +13377,7 @@
   }, {
     "templateId": "SPAWN_V0441_POKEMON_CHATOT",
     "genderSettings": {
-      "pokemon": 441,
+      "pokemon": "CHATOT",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13386,7 +13386,7 @@
   }, {
     "templateId": "SPAWN_V0442_POKEMON_SPIRITOMB",
     "genderSettings": {
-      "pokemon": 442,
+      "pokemon": "SPIRITOMB",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13395,7 +13395,7 @@
   }, {
     "templateId": "SPAWN_V0443_POKEMON_GIBLE",
     "genderSettings": {
-      "pokemon": 443,
+      "pokemon": "GIBLE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13404,7 +13404,7 @@
   }, {
     "templateId": "SPAWN_V0444_POKEMON_GABITE",
     "genderSettings": {
-      "pokemon": 444,
+      "pokemon": "GABITE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13413,7 +13413,7 @@
   }, {
     "templateId": "SPAWN_V0445_POKEMON_GARCHOMP",
     "genderSettings": {
-      "pokemon": 445,
+      "pokemon": "GARCHOMP",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13422,7 +13422,7 @@
   }, {
     "templateId": "SPAWN_V0446_POKEMON_MUNCHLAX",
     "genderSettings": {
-      "pokemon": 446,
+      "pokemon": "MUNCHLAX",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13431,7 +13431,7 @@
   }, {
     "templateId": "SPAWN_V0447_POKEMON_RIOLU",
     "genderSettings": {
-      "pokemon": 447,
+      "pokemon": "RIOLU",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13440,7 +13440,7 @@
   }, {
     "templateId": "SPAWN_V0448_POKEMON_LUCARIO",
     "genderSettings": {
-      "pokemon": 448,
+      "pokemon": "LUCARIO",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13449,7 +13449,7 @@
   }, {
     "templateId": "SPAWN_V0449_POKEMON_HIPPOPOTAS",
     "genderSettings": {
-      "pokemon": 449,
+      "pokemon": "HIPPOPOTAS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13458,7 +13458,7 @@
   }, {
     "templateId": "SPAWN_V0450_POKEMON_HIPPOWDON",
     "genderSettings": {
-      "pokemon": 450,
+      "pokemon": "HIPPOWDON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13467,7 +13467,7 @@
   }, {
     "templateId": "SPAWN_V0451_POKEMON_SKORUPI",
     "genderSettings": {
-      "pokemon": 451,
+      "pokemon": "SKORUPI",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13476,7 +13476,7 @@
   }, {
     "templateId": "SPAWN_V0452_POKEMON_DRAPION",
     "genderSettings": {
-      "pokemon": 452,
+      "pokemon": "DRAPION",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13485,7 +13485,7 @@
   }, {
     "templateId": "SPAWN_V0453_POKEMON_CROAGUNK",
     "genderSettings": {
-      "pokemon": 453,
+      "pokemon": "CROAGUNK",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13494,7 +13494,7 @@
   }, {
     "templateId": "SPAWN_V0454_POKEMON_TOXICROAK",
     "genderSettings": {
-      "pokemon": 454,
+      "pokemon": "TOXICROAK",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13503,7 +13503,7 @@
   }, {
     "templateId": "SPAWN_V0455_POKEMON_CARNIVINE",
     "genderSettings": {
-      "pokemon": 455,
+      "pokemon": "CARNIVINE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13512,7 +13512,7 @@
   }, {
     "templateId": "SPAWN_V0456_POKEMON_FINNEON",
     "genderSettings": {
-      "pokemon": 456,
+      "pokemon": "FINNEON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13521,7 +13521,7 @@
   }, {
     "templateId": "SPAWN_V0457_POKEMON_LUMINEON",
     "genderSettings": {
-      "pokemon": 457,
+      "pokemon": "LUMINEON",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13530,7 +13530,7 @@
   }, {
     "templateId": "SPAWN_V0458_POKEMON_MANTYKE",
     "genderSettings": {
-      "pokemon": 458,
+      "pokemon": "MANTYKE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13539,7 +13539,7 @@
   }, {
     "templateId": "SPAWN_V0459_POKEMON_SNOVER",
     "genderSettings": {
-      "pokemon": 459,
+      "pokemon": "SNOVER",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13548,7 +13548,7 @@
   }, {
     "templateId": "SPAWN_V0460_POKEMON_ABOMASNOW",
     "genderSettings": {
-      "pokemon": 460,
+      "pokemon": "ABOMASNOW",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13557,7 +13557,7 @@
   }, {
     "templateId": "SPAWN_V0461_POKEMON_WEAVILE",
     "genderSettings": {
-      "pokemon": 461,
+      "pokemon": "WEAVILE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13566,7 +13566,7 @@
   }, {
     "templateId": "SPAWN_V0462_POKEMON_MAGNEZONE",
     "genderSettings": {
-      "pokemon": 462,
+      "pokemon": "MAGNEZONE",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13574,7 +13574,7 @@
   }, {
     "templateId": "SPAWN_V0463_POKEMON_LICKILICKY",
     "genderSettings": {
-      "pokemon": 463,
+      "pokemon": "LICKILICKY",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13583,7 +13583,7 @@
   }, {
     "templateId": "SPAWN_V0464_POKEMON_RHYPERIOR",
     "genderSettings": {
-      "pokemon": 464,
+      "pokemon": "RHYPERIOR",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13592,7 +13592,7 @@
   }, {
     "templateId": "SPAWN_V0465_POKEMON_TANGROWTH",
     "genderSettings": {
-      "pokemon": 465,
+      "pokemon": "TANGROWTH",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13601,7 +13601,7 @@
   }, {
     "templateId": "SPAWN_V0466_POKEMON_ELECTIVIRE",
     "genderSettings": {
-      "pokemon": 466,
+      "pokemon": "ELECTIVIRE",
       "gender": {
         "malePercent": 0.75,
         "femalePercent": 0.25
@@ -13610,7 +13610,7 @@
   }, {
     "templateId": "SPAWN_V0467_POKEMON_MAGMORTAR",
     "genderSettings": {
-      "pokemon": 467,
+      "pokemon": "MAGMORTAR",
       "gender": {
         "malePercent": 0.75,
         "femalePercent": 0.25
@@ -13619,7 +13619,7 @@
   }, {
     "templateId": "SPAWN_V0468_POKEMON_TOGEKISS",
     "genderSettings": {
-      "pokemon": 468,
+      "pokemon": "TOGEKISS",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13628,7 +13628,7 @@
   }, {
     "templateId": "SPAWN_V0469_POKEMON_YANMEGA",
     "genderSettings": {
-      "pokemon": 469,
+      "pokemon": "YANMEGA",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13637,7 +13637,7 @@
   }, {
     "templateId": "SPAWN_V0470_POKEMON_LEAFEON",
     "genderSettings": {
-      "pokemon": 470,
+      "pokemon": "LEAFEON",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13646,7 +13646,7 @@
   }, {
     "templateId": "SPAWN_V0471_POKEMON_GLACEON",
     "genderSettings": {
-      "pokemon": 471,
+      "pokemon": "GLACEON",
       "gender": {
         "malePercent": 0.875,
         "femalePercent": 0.125
@@ -13655,7 +13655,7 @@
   }, {
     "templateId": "SPAWN_V0472_POKEMON_GLISCOR",
     "genderSettings": {
-      "pokemon": 472,
+      "pokemon": "GLISCOR",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13664,7 +13664,7 @@
   }, {
     "templateId": "SPAWN_V0473_POKEMON_MAMOSWINE",
     "genderSettings": {
-      "pokemon": 473,
+      "pokemon": "MAMOSWINE",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13673,7 +13673,7 @@
   }, {
     "templateId": "SPAWN_V0474_POKEMON_PORYGON_Z",
     "genderSettings": {
-      "pokemon": 474,
+      "pokemon": "PORYGON_Z",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13681,7 +13681,7 @@
   }, {
     "templateId": "SPAWN_V0475_POKEMON_GALLADE",
     "genderSettings": {
-      "pokemon": 475,
+      "pokemon": "GALLADE",
       "gender": {
         "malePercent": 1.0
       }
@@ -13689,7 +13689,7 @@
   }, {
     "templateId": "SPAWN_V0476_POKEMON_PROBOPASS",
     "genderSettings": {
-      "pokemon": 476,
+      "pokemon": "PROBOPASS",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13698,7 +13698,7 @@
   }, {
     "templateId": "SPAWN_V0477_POKEMON_DUSKNOIR",
     "genderSettings": {
-      "pokemon": 477,
+      "pokemon": "DUSKNOIR",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13707,7 +13707,7 @@
   }, {
     "templateId": "SPAWN_V0478_POKEMON_FROSLASS",
     "genderSettings": {
-      "pokemon": 478,
+      "pokemon": "FROSLASS",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13715,7 +13715,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13723,7 +13723,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_FAN",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13731,7 +13731,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_FROST",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13739,7 +13739,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_HEAT",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13747,7 +13747,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_MOW",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13755,7 +13755,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_NORMAL",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13763,7 +13763,7 @@
   }, {
     "templateId": "SPAWN_V0479_POKEMON_ROTOM_WASH",
     "genderSettings": {
-      "pokemon": 479,
+      "pokemon": "ROTOM",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13771,7 +13771,7 @@
   }, {
     "templateId": "SPAWN_V0480_POKEMON_UXIE",
     "genderSettings": {
-      "pokemon": 480,
+      "pokemon": "UXIE",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13779,7 +13779,7 @@
   }, {
     "templateId": "SPAWN_V0481_POKEMON_MESPRIT",
     "genderSettings": {
-      "pokemon": 481,
+      "pokemon": "MESPRIT",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13787,7 +13787,7 @@
   }, {
     "templateId": "SPAWN_V0482_POKEMON_AZELF",
     "genderSettings": {
-      "pokemon": 482,
+      "pokemon": "AZELF",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13795,7 +13795,7 @@
   }, {
     "templateId": "SPAWN_V0483_POKEMON_DIALGA",
     "genderSettings": {
-      "pokemon": 483,
+      "pokemon": "DIALGA",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13803,7 +13803,7 @@
   }, {
     "templateId": "SPAWN_V0484_POKEMON_PALKIA",
     "genderSettings": {
-      "pokemon": 484,
+      "pokemon": "PALKIA",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13811,7 +13811,7 @@
   }, {
     "templateId": "SPAWN_V0485_POKEMON_HEATRAN",
     "genderSettings": {
-      "pokemon": 485,
+      "pokemon": "HEATRAN",
       "gender": {
         "malePercent": 0.5,
         "femalePercent": 0.5
@@ -13820,7 +13820,7 @@
   }, {
     "templateId": "SPAWN_V0486_POKEMON_REGIGIGAS",
     "genderSettings": {
-      "pokemon": 486,
+      "pokemon": "REGIGIGAS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13828,7 +13828,7 @@
   }, {
     "templateId": "SPAWN_V0487_POKEMON_GIRATINA",
     "genderSettings": {
-      "pokemon": 487,
+      "pokemon": "GIRATINA",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13836,7 +13836,7 @@
   }, {
     "templateId": "SPAWN_V0487_POKEMON_GIRATINA_ALTERED",
     "genderSettings": {
-      "pokemon": 487,
+      "pokemon": "GIRATINA",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13844,7 +13844,7 @@
   }, {
     "templateId": "SPAWN_V0487_POKEMON_GIRATINA_ORIGIN",
     "genderSettings": {
-      "pokemon": 487,
+      "pokemon": "GIRATINA",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13852,7 +13852,7 @@
   }, {
     "templateId": "SPAWN_V0488_POKEMON_CRESSELIA",
     "genderSettings": {
-      "pokemon": 488,
+      "pokemon": "CRESSELIA",
       "gender": {
         "femalePercent": 1.0
       }
@@ -13860,7 +13860,7 @@
   }, {
     "templateId": "SPAWN_V0489_POKEMON_PHIONE",
     "genderSettings": {
-      "pokemon": 489,
+      "pokemon": "PHIONE",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13868,7 +13868,7 @@
   }, {
     "templateId": "SPAWN_V0490_POKEMON_MANAPHY",
     "genderSettings": {
-      "pokemon": 490,
+      "pokemon": "MANAPHY",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13876,7 +13876,7 @@
   }, {
     "templateId": "SPAWN_V0491_POKEMON_DARKRAI",
     "genderSettings": {
-      "pokemon": 491,
+      "pokemon": "DARKRAI",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13884,7 +13884,7 @@
   }, {
     "templateId": "SPAWN_V0492_POKEMON_SHAYMIN",
     "genderSettings": {
-      "pokemon": 492,
+      "pokemon": "SHAYMIN",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13892,7 +13892,7 @@
   }, {
     "templateId": "SPAWN_V0492_POKEMON_SHAYMIN_LAND",
     "genderSettings": {
-      "pokemon": 492,
+      "pokemon": "SHAYMIN",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13900,7 +13900,7 @@
   }, {
     "templateId": "SPAWN_V0492_POKEMON_SHAYMIN_SKY",
     "genderSettings": {
-      "pokemon": 492,
+      "pokemon": "SHAYMIN",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13908,7 +13908,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13916,7 +13916,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_BUG",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13924,7 +13924,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_DARK",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13932,7 +13932,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_DRAGON",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13940,7 +13940,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_ELECTRIC",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13948,7 +13948,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_FAIRY",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13956,7 +13956,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_FIGHTING",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13964,7 +13964,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_FIRE",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13972,7 +13972,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_FLYING",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13980,7 +13980,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_GHOST",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13988,7 +13988,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_GRASS",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -13996,7 +13996,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_GROUND",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14004,7 +14004,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_ICE",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14012,7 +14012,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_NORMAL",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14020,7 +14020,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_POISON",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14028,7 +14028,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_PSYCHIC",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14036,7 +14036,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_ROCK",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14044,7 +14044,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_STEEL",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -14052,7 +14052,7 @@
   }, {
     "templateId": "SPAWN_V0493_POKEMON_ARCEUS_WATER",
     "genderSettings": {
-      "pokemon": 493,
+      "pokemon": "ARCEUS",
       "gender": {
         "genderlessPercent": 1.0
       }
@@ -42924,7 +42924,7 @@
   }, {
     "templateId": "V0387_POKEMON_TURTWIG",
     "pokemonSettings": {
-      "pokemonId": 387,
+      "pokemonId": "TURTWIG",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -42964,12 +42964,12 @@
       "pokedexWeightKg": 10.2,
       "heightStdDev": 0.05,
       "weightStdDev": 1.275,
-      "familyId": 387,
+      "familyId": "FAMILY_TURTWIG",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": 388,
+        "evolution": "GROTLE",
         "candyCost": 25
       }],
       "modelScaleV2": 1.1,
@@ -42983,7 +42983,7 @@
   }, {
     "templateId": "V0388_POKEMON_GROTLE",
     "pokemonSettings": {
-      "pokemonId": 388,
+      "pokemonId": "GROTLE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -43023,16 +43023,16 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.1,
       "pokedexWeightKg": 97.0,
-      "parentPokemonId": 387,
+      "parentPokemonId": "TURTWIG",
       "heightStdDev": 0.1375,
       "weightStdDev": 12.125,
-      "familyId": 387,
+      "familyId": "FAMILY_TURTWIG",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.1,
       "evolutionBranch": [{
-        "evolution": 389,
+        "evolution": "TORTERRA",
         "candyCost": 100
       }],
       "modelScaleV2": 1.0,
@@ -43046,7 +43046,7 @@
   }, {
     "templateId": "V0389_POKEMON_TORTERRA",
     "pokemonSettings": {
-      "pokemonId": 389,
+      "pokemonId": "TORTERRA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "type2": "POKEMON_TYPE_GROUND",
@@ -43086,10 +43086,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 2.2,
       "pokedexWeightKg": 310.0,
-      "parentPokemonId": 388,
+      "parentPokemonId": "GROTLE",
       "heightStdDev": 0.275,
       "weightStdDev": 38.75,
-      "familyId": 387,
+      "familyId": "FAMILY_TURTWIG",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
@@ -43105,7 +43105,7 @@
   }, {
     "templateId": "V0390_POKEMON_CHIMCHAR",
     "pokemonSettings": {
-      "pokemonId": 390,
+      "pokemonId": "CHIMCHAR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIRE",
       "camera": {
@@ -43145,12 +43145,12 @@
       "pokedexWeightKg": 6.2,
       "heightStdDev": 0.0625,
       "weightStdDev": 0.775,
-      "familyId": 390,
+      "familyId": "FAMILY_CHIMCHAR",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.48,
       "evolutionBranch": [{
-        "evolution": 391,
+        "evolution": "MONFERNO",
         "candyCost": 25
       }],
       "modelScaleV2": 1.02,
@@ -43164,7 +43164,7 @@
   }, {
     "templateId": "V0391_POKEMON_MONFERNO",
     "pokemonSettings": {
-      "pokemonId": 391,
+      "pokemonId": "MONFERNO",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIRE",
       "type2": "POKEMON_TYPE_FIGHTING",
@@ -43205,16 +43205,16 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.9,
       "pokedexWeightKg": 22.0,
-      "parentPokemonId": 390,
+      "parentPokemonId": "CHIMCHAR",
       "heightStdDev": 0.1125,
       "weightStdDev": 2.75,
-      "familyId": 390,
+      "familyId": "FAMILY_CHIMCHAR",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.9,
       "evolutionBranch": [{
-        "evolution": 392,
+        "evolution": "INFERNAPE",
         "candyCost": 100
       }],
       "modelScaleV2": 1.0,
@@ -43228,7 +43228,7 @@
   }, {
     "templateId": "V0392_POKEMON_INFERNAPE",
     "pokemonSettings": {
-      "pokemonId": 392,
+      "pokemonId": "INFERNAPE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIRE",
       "type2": "POKEMON_TYPE_FIGHTING",
@@ -43269,10 +43269,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 55.0,
-      "parentPokemonId": 391,
+      "parentPokemonId": "MONFERNO",
       "heightStdDev": 0.15,
       "weightStdDev": 6.875,
-      "familyId": 390,
+      "familyId": "FAMILY_CHIMCHAR",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
@@ -43288,7 +43288,7 @@
   }, {
     "templateId": "V0393_POKEMON_PIPLUP",
     "pokemonSettings": {
-      "pokemonId": 393,
+      "pokemonId": "PIPLUP",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -43328,12 +43328,12 @@
       "pokedexWeightKg": 5.2,
       "heightStdDev": 0.05,
       "weightStdDev": 0.65,
-      "familyId": 393,
+      "familyId": "FAMILY_PIPLUP",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": 394,
+        "evolution": "PRINPLUP",
         "candyCost": 25
       }],
       "modelScaleV2": 1.1,
@@ -43347,7 +43347,7 @@
   }, {
     "templateId": "V0394_POKEMON_PRINPLUP",
     "pokemonSettings": {
-      "pokemonId": 394,
+      "pokemonId": "PRINPLUP",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -43387,16 +43387,16 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.8,
       "pokedexWeightKg": 23.0,
-      "parentPokemonId": 393,
+      "parentPokemonId": "PIPLUP",
       "heightStdDev": 0.1,
       "weightStdDev": 2.875,
-      "familyId": 393,
+      "familyId": "FAMILY_PIPLUP",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 0.8,
       "evolutionBranch": [{
-        "evolution": 395,
+        "evolution": "EMPOLEON",
         "candyCost": 100
       }],
       "modelScaleV2": 1.0,
@@ -43410,7 +43410,7 @@
   }, {
     "templateId": "V0395_POKEMON_EMPOLEON",
     "pokemonSettings": {
-      "pokemonId": 395,
+      "pokemonId": "EMPOLEON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_STEEL",
@@ -43451,10 +43451,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.7,
       "pokedexWeightKg": 84.5,
-      "parentPokemonId": 394,
+      "parentPokemonId": "PRINPLUP",
       "heightStdDev": 0.2125,
       "weightStdDev": 10.5625,
-      "familyId": 393,
+      "familyId": "FAMILY_PIPLUP",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
@@ -43470,7 +43470,7 @@
   }, {
     "templateId": "V0396_POKEMON_STARLY",
     "pokemonSettings": {
-      "pokemonId": 396,
+      "pokemonId": "STARLY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "type2": "POKEMON_TYPE_FLYING",
@@ -43511,12 +43511,12 @@
       "pokedexWeightKg": 2.0,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.25,
-      "familyId": 396,
+      "familyId": "FAMILY_STARLY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.32,
       "evolutionBranch": [{
-        "evolution": 397,
+        "evolution": "STARAVIA",
         "candyCost": 25
       }],
       "modelScaleV2": 1.22,
@@ -43530,7 +43530,7 @@
   }, {
     "templateId": "V0397_POKEMON_STARAVIA",
     "pokemonSettings": {
-      "pokemonId": 397,
+      "pokemonId": "STARAVIA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "type2": "POKEMON_TYPE_FLYING",
@@ -43572,16 +43572,16 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.6,
       "pokedexWeightKg": 15.5,
-      "parentPokemonId": 396,
+      "parentPokemonId": "STARLY",
       "heightStdDev": 0.075,
       "weightStdDev": 1.9375,
-      "familyId": 396,
+      "familyId": "FAMILY_STARLY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
       "modelHeight": 0.97,
       "evolutionBranch": [{
-        "evolution": 398,
+        "evolution": "STARAPTOR",
         "candyCost": 100
       }],
       "modelScaleV2": 1.0,
@@ -43595,7 +43595,7 @@
   }, {
     "templateId": "V0398_POKEMON_STARAPTOR",
     "pokemonSettings": {
-      "pokemonId": 398,
+      "pokemonId": "STARAPTOR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "type2": "POKEMON_TYPE_FLYING",
@@ -43637,10 +43637,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 24.9,
-      "parentPokemonId": 397,
+      "parentPokemonId": "STARAVIA",
       "heightStdDev": 0.15,
       "weightStdDev": 3.1125,
-      "familyId": 396,
+      "familyId": "FAMILY_STARLY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_FLYING",
@@ -43656,7 +43656,7 @@
   }, {
     "templateId": "V0399_POKEMON_BIDOOF",
     "pokemonSettings": {
-      "pokemonId": 399,
+      "pokemonId": "BIDOOF",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -43696,12 +43696,12 @@
       "pokedexWeightKg": 20.0,
       "heightStdDev": 0.0625,
       "weightStdDev": 2.5,
-      "familyId": 399,
+      "familyId": "FAMILY_BIDOOF",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.5,
       "evolutionBranch": [{
-        "evolution": 400,
+        "evolution": "BIBAREL",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -43715,7 +43715,7 @@
   }, {
     "templateId": "V0400_POKEMON_BIBAREL",
     "pokemonSettings": {
-      "pokemonId": 400,
+      "pokemonId": "BIBAREL",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "type2": "POKEMON_TYPE_WATER",
@@ -43756,10 +43756,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.0,
       "pokedexWeightKg": 31.5,
-      "parentPokemonId": 399,
+      "parentPokemonId": "BIDOOF",
       "heightStdDev": 0.125,
       "weightStdDev": 3.9375,
-      "familyId": 399,
+      "familyId": "FAMILY_BIDOOF",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.0,
@@ -43774,7 +43774,7 @@
   }, {
     "templateId": "V0401_POKEMON_KRICKETOT",
     "pokemonSettings": {
-      "pokemonId": 401,
+      "pokemonId": "KRICKETOT",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "camera": {
@@ -43814,12 +43814,12 @@
       "pokedexWeightKg": 2.2,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.275,
-      "familyId": 401,
+      "familyId": "FAMILY_KRICKETOT",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.31,
       "evolutionBranch": [{
-        "evolution": 402,
+        "evolution": "KRICKETUNE",
         "candyCost": 50
       }],
       "modelScaleV2": 1.26,
@@ -43833,7 +43833,7 @@
   }, {
     "templateId": "V0402_POKEMON_KRICKETUNE",
     "pokemonSettings": {
-      "pokemonId": 402,
+      "pokemonId": "KRICKETUNE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "camera": {
@@ -43873,10 +43873,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.0,
       "pokedexWeightKg": 25.5,
-      "parentPokemonId": 401,
+      "parentPokemonId": "KRICKETOT",
       "heightStdDev": 0.125,
       "weightStdDev": 3.1875,
-      "familyId": 401,
+      "familyId": "FAMILY_KRICKETOT",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "buddySize": "BUDDY_BIG",
@@ -43892,7 +43892,7 @@
   }, {
     "templateId": "V0403_POKEMON_SHINX",
     "pokemonSettings": {
-      "pokemonId": 403,
+      "pokemonId": "SHINX",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -43932,12 +43932,12 @@
       "pokedexWeightKg": 9.5,
       "heightStdDev": 0.0625,
       "weightStdDev": 1.1875,
-      "familyId": 403,
+      "familyId": "FAMILY_SHINX",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.5,
       "evolutionBranch": [{
-        "evolution": 404,
+        "evolution": "LUXIO",
         "candyCost": 25
       }],
       "modelScaleV2": 1.0,
@@ -43951,7 +43951,7 @@
   }, {
     "templateId": "V0404_POKEMON_LUXIO",
     "pokemonSettings": {
-      "pokemonId": 404,
+      "pokemonId": "LUXIO",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -43991,15 +43991,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.9,
       "pokedexWeightKg": 30.5,
-      "parentPokemonId": 403,
+      "parentPokemonId": "SHINX",
       "heightStdDev": 0.1125,
       "weightStdDev": 3.8125,
-      "familyId": 403,
+      "familyId": "FAMILY_SHINX",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.9,
       "evolutionBranch": [{
-        "evolution": 405,
+        "evolution": "LUXRAY",
         "candyCost": 100
       }],
       "modelScaleV2": 1.0,
@@ -44013,7 +44013,7 @@
   }, {
     "templateId": "V0405_POKEMON_LUXRAY",
     "pokemonSettings": {
-      "pokemonId": 405,
+      "pokemonId": "LUXRAY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -44053,10 +44053,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.4,
       "pokedexWeightKg": 42.0,
-      "parentPokemonId": 404,
+      "parentPokemonId": "LUXIO",
       "heightStdDev": 0.175,
       "weightStdDev": 5.25,
-      "familyId": 403,
+      "familyId": "FAMILY_SHINX",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
@@ -44072,7 +44072,7 @@
   }, {
     "templateId": "V0406_POKEMON_BUDEW",
     "pokemonSettings": {
-      "pokemonId": 406,
+      "pokemonId": "BUDEW",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "type2": "POKEMON_TYPE_POISON",
@@ -44132,7 +44132,7 @@
   }, {
     "templateId": "V0407_POKEMON_ROSERADE",
     "pokemonSettings": {
-      "pokemonId": 407,
+      "pokemonId": "ROSERADE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "type2": "POKEMON_TYPE_POISON",
@@ -44191,7 +44191,7 @@
   }, {
     "templateId": "V0408_POKEMON_CRANIDOS",
     "pokemonSettings": {
-      "pokemonId": 408,
+      "pokemonId": "CRANIDOS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "type2": "POKEMON_TYPE_ROCK",
@@ -44232,12 +44232,12 @@
       "pokedexWeightKg": 31.5,
       "heightStdDev": 0.1125,
       "weightStdDev": 3.9375,
-      "familyId": 408,
+      "familyId": "FAMILY_CRANIDOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.8,
       "evolutionBranch": [{
-        "evolution": 409,
+        "evolution": "RAMPARDOS",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -44251,7 +44251,7 @@
   }, {
     "templateId": "V0409_POKEMON_RAMPARDOS",
     "pokemonSettings": {
-      "pokemonId": 409,
+      "pokemonId": "RAMPARDOS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "type2": "POKEMON_TYPE_ROCK",
@@ -44292,10 +44292,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.6,
       "pokedexWeightKg": 102.5,
-      "parentPokemonId": 408,
+      "parentPokemonId": "CRANIDOS",
       "heightStdDev": 0.2,
       "weightStdDev": 12.8125,
-      "familyId": 408,
+      "familyId": "FAMILY_CRANIDOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.43,
@@ -44310,7 +44310,7 @@
   }, {
     "templateId": "V0410_POKEMON_SHIELDON",
     "pokemonSettings": {
-      "pokemonId": 410,
+      "pokemonId": "SHIELDON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "type2": "POKEMON_TYPE_STEEL",
@@ -44350,12 +44350,12 @@
       "pokedexWeightKg": 57.0,
       "heightStdDev": 0.0625,
       "weightStdDev": 7.125,
-      "familyId": 410,
+      "familyId": "FAMILY_SHIELDON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.5,
       "evolutionBranch": [{
-        "evolution": 411,
+        "evolution": "BASTIODON",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -44369,7 +44369,7 @@
   }, {
     "templateId": "V0411_POKEMON_BASTIODON",
     "pokemonSettings": {
-      "pokemonId": 411,
+      "pokemonId": "BASTIODON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "type2": "POKEMON_TYPE_STEEL",
@@ -44409,10 +44409,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 149.5,
-      "parentPokemonId": 410,
+      "parentPokemonId": "SHIELDON",
       "heightStdDev": 0.1625,
       "weightStdDev": 18.6875,
-      "familyId": 410,
+      "familyId": "FAMILY_SHIELDON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.3,
@@ -44427,7 +44427,7 @@
   }, {
     "templateId": "V0412_POKEMON_BURMY",
     "pokemonSettings": {
-      "pokemonId": 412,
+      "pokemonId": "BURMY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "camera": {
@@ -44467,25 +44467,25 @@
       "pokedexWeightKg": 3.4,
       "heightStdDev": 0.025,
       "weightStdDev": 0.425,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.34,
       "evolutionBranch": [{
-        "evolution": 413,
+        "evolution": "WORMADAM",
         "candyCost": 50,
         "kmBuddyDistanceRequirement": 50.0,
-        "form": 87
+        "form": "WORMADAM_PLANT"
       }, {
-        "evolution": 413,
+        "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": 88
+        "form": "WORMADAM_SANDY"
       }, {
-        "evolution": 413,
+        "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": 89
+        "form": "WORMADAM_TRASH"
       }, {
-        "evolution": 414,
+        "evolution": "MOTHIM",
         "candyCost": 50
       }],
       "modelScaleV2": 1.18,
@@ -44499,7 +44499,7 @@
   }, {
     "templateId": "V0413_POKEMON_WORMADAM",
     "pokemonSettings": {
-      "pokemonId": 413,
+      "pokemonId": "WORMADAM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_GRASS",
@@ -44540,10 +44540,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 6.5,
-      "parentPokemonId": 412,
+      "parentPokemonId": "BURMY",
       "heightStdDev": 0.0625,
       "weightStdDev": 0.8125,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.5,
@@ -44558,7 +44558,7 @@
   }, {
     "templateId": "V0413_POKEMON_WORMADAM_PLANT",
     "pokemonSettings": {
-      "pokemonId": 413,
+      "pokemonId": "WORMADAM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_GRASS",
@@ -44599,15 +44599,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 6.5,
-      "parentPokemonId": 412,
+      "parentPokemonId": "BURMY",
       "heightStdDev": 0.0625,
       "weightStdDev": 0.8125,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.5,
       "modelScaleV2": 1.0,
-      "form": 87,
+      "form": "WORMADAM_PLANT",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -44618,7 +44618,7 @@
   }, {
     "templateId": "V0413_POKEMON_WORMADAM_SANDY",
     "pokemonSettings": {
-      "pokemonId": 413,
+      "pokemonId": "WORMADAM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_GROUND",
@@ -44659,15 +44659,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 6.5,
-      "parentPokemonId": 412,
+      "parentPokemonId": "BURMY",
       "heightStdDev": 0.0625,
       "weightStdDev": 0.8125,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.5,
       "modelScaleV2": 1.0,
-      "form": 88,
+      "form": "WORMADAM_SANDY",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -44678,7 +44678,7 @@
   }, {
     "templateId": "V0413_POKEMON_WORMADAM_TRASH",
     "pokemonSettings": {
-      "pokemonId": 413,
+      "pokemonId": "WORMADAM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_STEEL",
@@ -44719,15 +44719,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 6.5,
-      "parentPokemonId": 412,
+      "parentPokemonId": "BURMY",
       "heightStdDev": 0.0625,
       "weightStdDev": 0.8125,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.5,
       "modelScaleV2": 1.0,
-      "form": 89,
+      "form": "WORMADAM_TRASH",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -44738,7 +44738,7 @@
   }, {
     "templateId": "V0414_POKEMON_MOTHIM",
     "pokemonSettings": {
-      "pokemonId": 414,
+      "pokemonId": "MOTHIM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_FLYING",
@@ -44782,7 +44782,7 @@
       "pokedexWeightKg": 23.3,
       "heightStdDev": 0.1125,
       "weightStdDev": 2.9125,
-      "familyId": 412,
+      "familyId": "FAMILY_BURMY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 0.9,
@@ -44797,7 +44797,7 @@
   }, {
     "templateId": "V0415_POKEMON_COMBEE",
     "pokemonSettings": {
-      "pokemonId": 415,
+      "pokemonId": "COMBEE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_FLYING",
@@ -44839,15 +44839,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.3,
       "pokedexWeightKg": 5.5,
-      "parentPokemonId": 414,
+      "parentPokemonId": "MOTHIM",
       "heightStdDev": 0.0375,
       "weightStdDev": 0.6875,
-      "familyId": 415,
+      "familyId": "FAMILY_COMBEE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.3,
       "evolutionBranch": [{
-        "evolution": 416,
+        "evolution": "VESPIQUEN",
         "candyCost": 50
       }],
       "modelScaleV2": 1.27,
@@ -44861,7 +44861,7 @@
   }, {
     "templateId": "V0416_POKEMON_VESPIQUEN",
     "pokemonSettings": {
-      "pokemonId": 416,
+      "pokemonId": "VESPIQUEN",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_FLYING",
@@ -44903,10 +44903,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 38.5,
-      "parentPokemonId": 414,
+      "parentPokemonId": "MOTHIM",
       "heightStdDev": 0.15,
       "weightStdDev": 4.8125,
-      "familyId": 415,
+      "familyId": "FAMILY_COMBEE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.27,
@@ -44921,7 +44921,7 @@
   }, {
     "templateId": "V0417_POKEMON_PACHIRISU",
     "pokemonSettings": {
-      "pokemonId": 417,
+      "pokemonId": "PACHIRISU",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -44961,7 +44961,7 @@
       "pokedexWeightKg": 3.9,
       "heightStdDev": 0.05,
       "weightStdDev": 0.4875,
-      "familyId": 417,
+      "familyId": "FAMILY_PACHIRISU",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.4,
@@ -44976,7 +44976,7 @@
   }, {
     "templateId": "V0418_POKEMON_BUIZEL",
     "pokemonSettings": {
-      "pokemonId": 418,
+      "pokemonId": "BUIZEL",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -45016,12 +45016,12 @@
       "pokedexWeightKg": 29.5,
       "heightStdDev": 0.0875,
       "weightStdDev": 3.6875,
-      "familyId": 418,
+      "familyId": "FAMILY_BUIZEL",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.7,
       "evolutionBranch": [{
-        "evolution": 419,
+        "evolution": "FLOATZEL",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -45035,7 +45035,7 @@
   }, {
     "templateId": "V0419_POKEMON_FLOATZEL",
     "pokemonSettings": {
-      "pokemonId": 419,
+      "pokemonId": "FLOATZEL",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -45075,10 +45075,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.1,
       "pokedexWeightKg": 33.5,
-      "parentPokemonId": 418,
+      "parentPokemonId": "BUIZEL",
       "heightStdDev": 0.1375,
       "weightStdDev": 4.1875,
-      "familyId": 418,
+      "familyId": "FAMILY_BUIZEL",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.1,
@@ -45093,7 +45093,7 @@
   }, {
     "templateId": "V0420_POKEMON_CHERUBI",
     "pokemonSettings": {
-      "pokemonId": 420,
+      "pokemonId": "CHERUBI",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -45133,18 +45133,18 @@
       "pokedexWeightKg": 3.3,
       "heightStdDev": 0.05,
       "weightStdDev": 0.4125,
-      "familyId": 420,
+      "familyId": "FAMILY_CHERUBI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": 421,
+        "evolution": "CHERRIM",
         "candyCost": 50,
-        "form": 94
+        "form": "CHERRIM_OVERCAST"
       }, {
-        "evolution": 421,
+        "evolution": "CHERRIM",
         "candyCost": 50,
-        "form": 95
+        "form": "CHERRIM_SUNNY"
       }, {
         "candyCost": 50
       }, {
@@ -45161,7 +45161,7 @@
   }, {
     "templateId": "V0421_POKEMON_CHERRIM",
     "pokemonSettings": {
-      "pokemonId": 421,
+      "pokemonId": "CHERRIM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -45201,10 +45201,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 9.3,
-      "parentPokemonId": 420,
+      "parentPokemonId": "CHERUBI",
       "heightStdDev": 0.0625,
       "weightStdDev": 1.1625,
-      "familyId": 420,
+      "familyId": "FAMILY_CHERUBI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.5,
@@ -45219,7 +45219,7 @@
   }, {
     "templateId": "V0421_POKEMON_CHERRIM_OVERCAST",
     "pokemonSettings": {
-      "pokemonId": 421,
+      "pokemonId": "CHERRIM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -45259,15 +45259,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 9.3,
-      "parentPokemonId": 420,
+      "parentPokemonId": "CHERUBI",
       "heightStdDev": 0.0625,
       "weightStdDev": 1.1625,
-      "familyId": 420,
+      "familyId": "FAMILY_CHERUBI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.51,
       "modelScaleV2": 1.0,
-      "form": 94,
+      "form": "CHERRIM_OVERCAST",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45278,7 +45278,7 @@
   }, {
     "templateId": "V0421_POKEMON_CHERRIM_SUNNY",
     "pokemonSettings": {
-      "pokemonId": 421,
+      "pokemonId": "CHERRIM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -45318,15 +45318,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
       "pokedexWeightKg": 9.3,
-      "parentPokemonId": 420,
+      "parentPokemonId": "CHERUBI",
       "heightStdDev": 0.0625,
       "weightStdDev": 1.1625,
-      "familyId": 420,
+      "familyId": "FAMILY_CHERUBI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.5,
       "modelScaleV2": 1.0,
-      "form": 95,
+      "form": "CHERRIM_SUNNY",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45337,7 +45337,7 @@
   }, {
     "templateId": "V0422_POKEMON_SHELLOS",
     "pokemonSettings": {
-      "pokemonId": 422,
+      "pokemonId": "SHELLOS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -45377,12 +45377,12 @@
       "pokedexWeightKg": 6.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.7875,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.3,
       "evolutionBranch": [{
-        "evolution": 423,
+        "evolution": "GASTRODON",
         "candyCost": 50
       }],
       "modelScaleV2": 1.27,
@@ -45396,7 +45396,7 @@
   }, {
     "templateId": "V0422_POKEMON_SHELLOS_EAST_SEA",
     "pokemonSettings": {
-      "pokemonId": 422,
+      "pokemonId": "SHELLOS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -45436,17 +45436,17 @@
       "pokedexWeightKg": 6.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.7875,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.3,
       "evolutionBranch": [{
-        "evolution": 423,
+        "evolution": "GASTRODON",
         "candyCost": 50,
-        "form": 98
+        "form": "GASTRODON_WEST_SEA"
       }],
       "modelScaleV2": 1.27,
-      "form": 97,
+      "form": "SHELLOS_EAST_SEA",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45457,7 +45457,7 @@
   }, {
     "templateId": "V0422_POKEMON_SHELLOS_WEST_SEA",
     "pokemonSettings": {
-      "pokemonId": 422,
+      "pokemonId": "SHELLOS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -45497,17 +45497,17 @@
       "pokedexWeightKg": 6.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.7875,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.3,
       "evolutionBranch": [{
-        "evolution": 423,
+        "evolution": "GASTRODON",
         "candyCost": 50,
-        "form": 98
+        "form": "GASTRODON_WEST_SEA"
       }],
       "modelScaleV2": 1.27,
-      "form": 96,
+      "form": "SHELLOS_WEST_SEA",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45518,7 +45518,7 @@
   }, {
     "templateId": "V0423_POKEMON_GASTRODON",
     "pokemonSettings": {
-      "pokemonId": 423,
+      "pokemonId": "GASTRODON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_GROUND",
@@ -45561,7 +45561,7 @@
       "pokedexWeightKg": 29.9,
       "heightStdDev": 0.1125,
       "weightStdDev": 3.7375,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.9,
@@ -45576,7 +45576,7 @@
   }, {
     "templateId": "V0423_POKEMON_GASTRODON_EAST_SEA",
     "pokemonSettings": {
-      "pokemonId": 423,
+      "pokemonId": "GASTRODON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_GROUND",
@@ -45617,15 +45617,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.9,
       "pokedexWeightKg": 29.9,
-      "parentPokemonId": 422,
+      "parentPokemonId": "SHELLOS",
       "heightStdDev": 0.1125,
       "weightStdDev": 3.7375,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.9,
       "modelScaleV2": 1.0,
-      "form": 99,
+      "form": "GASTRODON_EAST_SEA",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45636,7 +45636,7 @@
   }, {
     "templateId": "V0423_POKEMON_GASTRODON_WEST_SEA",
     "pokemonSettings": {
-      "pokemonId": 423,
+      "pokemonId": "GASTRODON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_GROUND",
@@ -45677,15 +45677,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 0.9,
       "pokedexWeightKg": 29.9,
-      "parentPokemonId": 422,
+      "parentPokemonId": "SHELLOS",
       "heightStdDev": 0.1125,
       "weightStdDev": 3.7375,
-      "familyId": 422,
+      "familyId": "FAMILY_SHELLOS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.9,
       "modelScaleV2": 1.0,
-      "form": 98,
+      "form": "GASTRODON_WEST_SEA",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -45696,7 +45696,7 @@
   }, {
     "templateId": "V0424_POKEMON_AMBIPOM",
     "pokemonSettings": {
-      "pokemonId": 424,
+      "pokemonId": "AMBIPOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -45754,7 +45754,7 @@
   }, {
     "templateId": "V0425_POKEMON_DRIFLOON",
     "pokemonSettings": {
-      "pokemonId": 425,
+      "pokemonId": "DRIFLOON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_FLYING",
@@ -45796,12 +45796,12 @@
       "pokedexWeightKg": 1.2,
       "heightStdDev": 0.05,
       "weightStdDev": 0.15,
-      "familyId": 425,
+      "familyId": "FAMILY_DRIFLOON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.76,
       "evolutionBranch": [{
-        "evolution": 426,
+        "evolution": "DRIFBLIM",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -45815,7 +45815,7 @@
   }, {
     "templateId": "V0426_POKEMON_DRIFBLIM",
     "pokemonSettings": {
-      "pokemonId": 426,
+      "pokemonId": "DRIFBLIM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_FLYING",
@@ -45857,10 +45857,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 15.0,
-      "parentPokemonId": 425,
+      "parentPokemonId": "DRIFLOON",
       "heightStdDev": 0.15,
       "weightStdDev": 1.875,
-      "familyId": 425,
+      "familyId": "FAMILY_DRIFLOON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
@@ -45876,7 +45876,7 @@
   }, {
     "templateId": "V0427_POKEMON_BUNEARY",
     "pokemonSettings": {
-      "pokemonId": 427,
+      "pokemonId": "BUNEARY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -45916,12 +45916,12 @@
       "pokedexWeightKg": 5.5,
       "heightStdDev": 0.05,
       "weightStdDev": 0.6875,
-      "familyId": 427,
+      "familyId": "FAMILY_BUNEARY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": 428,
+        "evolution": "LOPUNNY",
         "candyCost": 50
       }],
       "modelScaleV2": 1.1,
@@ -45935,7 +45935,7 @@
   }, {
     "templateId": "V0428_POKEMON_LOPUNNY",
     "pokemonSettings": {
-      "pokemonId": 428,
+      "pokemonId": "LOPUNNY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -45975,10 +45975,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 33.3,
-      "parentPokemonId": 427,
+      "parentPokemonId": "BUNEARY",
       "heightStdDev": 0.15,
       "weightStdDev": 4.1625,
-      "familyId": 427,
+      "familyId": "FAMILY_BUNEARY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
@@ -45994,7 +45994,7 @@
   }, {
     "templateId": "V0429_POKEMON_MISMAGIUS",
     "pokemonSettings": {
-      "pokemonId": 429,
+      "pokemonId": "MISMAGIUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "camera": {
@@ -46052,7 +46052,7 @@
   }, {
     "templateId": "V0430_POKEMON_HONCHKROW",
     "pokemonSettings": {
-      "pokemonId": 430,
+      "pokemonId": "HONCHKROW",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DARK",
       "type2": "POKEMON_TYPE_FLYING",
@@ -46112,7 +46112,7 @@
   }, {
     "templateId": "V0431_POKEMON_GLAMEOW",
     "pokemonSettings": {
-      "pokemonId": 431,
+      "pokemonId": "GLAMEOW",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -46152,12 +46152,12 @@
       "pokedexWeightKg": 3.9,
       "heightStdDev": 0.0625,
       "weightStdDev": 0.4875,
-      "familyId": 431,
+      "familyId": "FAMILY_GLAMEOW",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.5,
       "evolutionBranch": [{
-        "evolution": 432,
+        "evolution": "PURUGLY",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -46171,7 +46171,7 @@
   }, {
     "templateId": "V0432_POKEMON_PURUGLY",
     "pokemonSettings": {
-      "pokemonId": 432,
+      "pokemonId": "PURUGLY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -46211,10 +46211,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.0,
       "pokedexWeightKg": 43.8,
-      "parentPokemonId": 431,
+      "parentPokemonId": "GLAMEOW",
       "heightStdDev": 0.125,
       "weightStdDev": 5.475,
-      "familyId": 431,
+      "familyId": "FAMILY_GLAMEOW",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.0,
@@ -46229,7 +46229,7 @@
   }, {
     "templateId": "V0433_POKEMON_CHINGLING",
     "pokemonSettings": {
-      "pokemonId": 433,
+      "pokemonId": "CHINGLING",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -46289,7 +46289,7 @@
   }, {
     "templateId": "V0434_POKEMON_STUNKY",
     "pokemonSettings": {
-      "pokemonId": 434,
+      "pokemonId": "STUNKY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_DARK",
@@ -46330,12 +46330,12 @@
       "pokedexWeightKg": 19.2,
       "heightStdDev": 0.05,
       "weightStdDev": 2.4,
-      "familyId": 434,
+      "familyId": "FAMILY_STUNKY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.7,
       "evolutionBranch": [{
-        "evolution": 435,
+        "evolution": "SKUNTANK",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -46349,7 +46349,7 @@
   }, {
     "templateId": "V0435_POKEMON_SKUNTANK",
     "pokemonSettings": {
-      "pokemonId": 435,
+      "pokemonId": "SKUNTANK",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_DARK",
@@ -46390,10 +46390,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.0,
       "pokedexWeightKg": 38.0,
-      "parentPokemonId": 434,
+      "parentPokemonId": "STUNKY",
       "heightStdDev": 0.125,
       "weightStdDev": 4.75,
-      "familyId": 434,
+      "familyId": "FAMILY_STUNKY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
@@ -46409,7 +46409,7 @@
   }, {
     "templateId": "V0436_POKEMON_BRONZOR",
     "pokemonSettings": {
-      "pokemonId": 436,
+      "pokemonId": "BRONZOR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_STEEL",
       "type2": "POKEMON_TYPE_PSYCHIC",
@@ -46451,12 +46451,12 @@
       "pokedexWeightKg": 60.5,
       "heightStdDev": 0.0625,
       "weightStdDev": 7.5625,
-      "familyId": 436,
+      "familyId": "FAMILY_BRONZOR",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.5,
       "evolutionBranch": [{
-        "evolution": 437,
+        "evolution": "BRONZONG",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -46470,7 +46470,7 @@
   }, {
     "templateId": "V0437_POKEMON_BRONZONG",
     "pokemonSettings": {
-      "pokemonId": 437,
+      "pokemonId": "BRONZONG",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_STEEL",
       "type2": "POKEMON_TYPE_PSYCHIC",
@@ -46512,10 +46512,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 187.0,
-      "parentPokemonId": 436,
+      "parentPokemonId": "BRONZOR",
       "heightStdDev": 0.1625,
       "weightStdDev": 23.375,
-      "familyId": 436,
+      "familyId": "FAMILY_BRONZOR",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.3,
@@ -46530,7 +46530,7 @@
   }, {
     "templateId": "V0438_POKEMON_BONSLY",
     "pokemonSettings": {
-      "pokemonId": 438,
+      "pokemonId": "BONSLY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "camera": {
@@ -46589,7 +46589,7 @@
   }, {
     "templateId": "V0439_POKEMON_MIME_JR",
     "pokemonSettings": {
-      "pokemonId": 439,
+      "pokemonId": "MIME_JR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "type2": "POKEMON_TYPE_FAIRY",
@@ -46649,7 +46649,7 @@
   }, {
     "templateId": "V0440_POKEMON_HAPPINY",
     "pokemonSettings": {
-      "pokemonId": 440,
+      "pokemonId": "HAPPINY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -46708,7 +46708,7 @@
   }, {
     "templateId": "V0441_POKEMON_CHATOT",
     "pokemonSettings": {
-      "pokemonId": 441,
+      "pokemonId": "CHATOT",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "type2": "POKEMON_TYPE_FLYING",
@@ -46749,7 +46749,7 @@
       "pokedexWeightKg": 1.9,
       "heightStdDev": 0.0625,
       "weightStdDev": 0.2375,
-      "familyId": 441,
+      "familyId": "FAMILY_CHATOT",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.5,
@@ -46764,7 +46764,7 @@
   }, {
     "templateId": "V0442_POKEMON_SPIRITOMB",
     "pokemonSettings": {
-      "pokemonId": 442,
+      "pokemonId": "SPIRITOMB",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_DARK",
@@ -46804,7 +46804,7 @@
       "pokedexWeightKg": 108.0,
       "heightStdDev": 0.125,
       "weightStdDev": 13.5,
-      "familyId": 442,
+      "familyId": "FAMILY_SPIRITOMB",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_BIG",
@@ -46820,7 +46820,7 @@
   }, {
     "templateId": "V0443_POKEMON_GIBLE",
     "pokemonSettings": {
-      "pokemonId": 443,
+      "pokemonId": "GIBLE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DRAGON",
       "type2": "POKEMON_TYPE_GROUND",
@@ -46861,12 +46861,12 @@
       "pokedexWeightKg": 20.5,
       "heightStdDev": 0.0875,
       "weightStdDev": 2.5625,
-      "familyId": 443,
+      "familyId": "FAMILY_GIBLE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.72,
       "evolutionBranch": [{
-        "evolution": 444,
+        "evolution": "GABITE",
         "candyCost": 25
       }],
       "modelScaleV2": 1.0,
@@ -46880,7 +46880,7 @@
   }, {
     "templateId": "V0444_POKEMON_GABITE",
     "pokemonSettings": {
-      "pokemonId": 444,
+      "pokemonId": "GABITE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DRAGON",
       "type2": "POKEMON_TYPE_GROUND",
@@ -46921,15 +46921,15 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.4,
       "pokedexWeightKg": 56.0,
-      "parentPokemonId": 443,
+      "parentPokemonId": "GIBLE",
       "heightStdDev": 0.175,
       "weightStdDev": 7.0,
-      "familyId": 443,
+      "familyId": "FAMILY_GIBLE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.3,
       "evolutionBranch": [{
-        "evolution": 445,
+        "evolution": "GARCHOMP",
         "candyCost": 100
       }],
       "modelScaleV2": 1.05,
@@ -46943,7 +46943,7 @@
   }, {
     "templateId": "V0445_POKEMON_GARCHOMP",
     "pokemonSettings": {
-      "pokemonId": 445,
+      "pokemonId": "GARCHOMP",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DRAGON",
       "type2": "POKEMON_TYPE_GROUND",
@@ -46984,10 +46984,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.9,
       "pokedexWeightKg": 95.0,
-      "parentPokemonId": 443,
+      "parentPokemonId": "GIBLE",
       "heightStdDev": 0.2375,
       "weightStdDev": 11.875,
-      "familyId": 443,
+      "familyId": "FAMILY_GIBLE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.95,
@@ -47002,7 +47002,7 @@
   }, {
     "templateId": "V0446_POKEMON_MUNCHLAX",
     "pokemonSettings": {
-      "pokemonId": 446,
+      "pokemonId": "MUNCHLAX",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -47061,7 +47061,7 @@
   }, {
     "templateId": "V0447_POKEMON_RIOLU",
     "pokemonSettings": {
-      "pokemonId": 447,
+      "pokemonId": "RIOLU",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIGHTING",
       "camera": {
@@ -47100,12 +47100,12 @@
       "pokedexWeightKg": 20.2,
       "heightStdDev": 0.0875,
       "weightStdDev": 2.525,
-      "familyId": 448,
+      "familyId": "FAMILY_LUCARIO",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.7,
       "evolutionBranch": [{
-        "evolution": 448,
+        "evolution": "LUCARIO",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -47119,7 +47119,7 @@
   }, {
     "templateId": "V0448_POKEMON_LUCARIO",
     "pokemonSettings": {
-      "pokemonId": 448,
+      "pokemonId": "LUCARIO",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIGHTING",
       "type2": "POKEMON_TYPE_STEEL",
@@ -47160,10 +47160,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
       "pokedexWeightKg": 54.0,
-      "parentPokemonId": 447,
+      "parentPokemonId": "RIOLU",
       "heightStdDev": 0.15,
       "weightStdDev": 6.75,
-      "familyId": 448,
+      "familyId": "FAMILY_LUCARIO",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.25,
@@ -47178,7 +47178,7 @@
   }, {
     "templateId": "V0449_POKEMON_HIPPOPOTAS",
     "pokemonSettings": {
-      "pokemonId": 449,
+      "pokemonId": "HIPPOPOTAS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GROUND",
       "camera": {
@@ -47217,12 +47217,12 @@
       "pokedexWeightKg": 49.5,
       "heightStdDev": 0.1,
       "weightStdDev": 6.1875,
-      "familyId": 449,
+      "familyId": "FAMILY_HIPPOPOTAS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.3,
       "evolutionBranch": [{
-        "evolution": 450,
+        "evolution": "HIPPOWDON",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -47236,7 +47236,7 @@
   }, {
     "templateId": "V0450_POKEMON_HIPPOWDON",
     "pokemonSettings": {
-      "pokemonId": 450,
+      "pokemonId": "HIPPOWDON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GROUND",
       "camera": {
@@ -47275,10 +47275,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 2.0,
       "pokedexWeightKg": 300.0,
-      "parentPokemonId": 449,
+      "parentPokemonId": "HIPPOPOTAS",
       "heightStdDev": 0.25,
       "weightStdDev": 37.5,
-      "familyId": 449,
+      "familyId": "FAMILY_HIPPOPOTAS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 1.0,
       "modelHeight": 3.8,
@@ -47293,7 +47293,7 @@
   }, {
     "templateId": "V0451_POKEMON_SKORUPI",
     "pokemonSettings": {
-      "pokemonId": 451,
+      "pokemonId": "SKORUPI",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_BUG",
@@ -47334,12 +47334,12 @@
       "pokedexWeightKg": 12.0,
       "heightStdDev": 0.1,
       "weightStdDev": 1.5,
-      "familyId": 451,
+      "familyId": "FAMILY_SKORUPI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.8,
       "evolutionBranch": [{
-        "evolution": 452,
+        "evolution": "DRAPION",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -47353,7 +47353,7 @@
   }, {
     "templateId": "V0452_POKEMON_DRAPION",
     "pokemonSettings": {
-      "pokemonId": 452,
+      "pokemonId": "DRAPION",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_DARK",
@@ -47394,10 +47394,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 61.5,
-      "parentPokemonId": 451,
+      "parentPokemonId": "SKORUPI",
       "heightStdDev": 0.1625,
       "weightStdDev": 7.6875,
-      "familyId": 451,
+      "familyId": "FAMILY_SKORUPI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 1.2,
@@ -47412,7 +47412,7 @@
   }, {
     "templateId": "V0453_POKEMON_CROAGUNK",
     "pokemonSettings": {
-      "pokemonId": 453,
+      "pokemonId": "CROAGUNK",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_FIGHTING",
@@ -47453,12 +47453,12 @@
       "pokedexWeightKg": 23.0,
       "heightStdDev": 0.0875,
       "weightStdDev": 2.875,
-      "familyId": 453,
+      "familyId": "FAMILY_CROAGUNK",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.6,
       "evolutionBranch": [{
-        "evolution": 454,
+        "evolution": "TOXICROAK",
         "candyCost": 50
       }],
       "modelScaleV2": 0.95,
@@ -47472,7 +47472,7 @@
   }, {
     "templateId": "V0454_POKEMON_TOXICROAK",
     "pokemonSettings": {
-      "pokemonId": 454,
+      "pokemonId": "TOXICROAK",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "type2": "POKEMON_TYPE_FIGHTING",
@@ -47513,10 +47513,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 44.4,
-      "parentPokemonId": 453,
+      "parentPokemonId": "CROAGUNK",
       "heightStdDev": 0.1625,
       "weightStdDev": 5.55,
-      "familyId": 453,
+      "familyId": "FAMILY_CROAGUNK",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.2,
@@ -47531,7 +47531,7 @@
   }, {
     "templateId": "V0455_POKEMON_CARNIVINE",
     "pokemonSettings": {
-      "pokemonId": 455,
+      "pokemonId": "CARNIVINE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -47572,7 +47572,7 @@
       "pokedexWeightKg": 27.0,
       "heightStdDev": 0.175,
       "weightStdDev": 3.375,
-      "familyId": 455,
+      "familyId": "FAMILY_CARNIVINE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "buddySize": "BUDDY_FLYING",
@@ -47588,7 +47588,7 @@
   }, {
     "templateId": "V0456_POKEMON_FINNEON",
     "pokemonSettings": {
-      "pokemonId": 456,
+      "pokemonId": "FINNEON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -47628,12 +47628,12 @@
       "pokedexWeightKg": 7.0,
       "heightStdDev": 0.05,
       "weightStdDev": 0.875,
-      "familyId": 456,
+      "familyId": "FAMILY_FINNEON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": 457,
+        "evolution": "LUMINEON",
         "candyCost": 50
       }],
       "modelScaleV2": 1.1,
@@ -47647,7 +47647,7 @@
   }, {
     "templateId": "V0457_POKEMON_LUMINEON",
     "pokemonSettings": {
-      "pokemonId": 457,
+      "pokemonId": "LUMINEON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -47689,7 +47689,7 @@
       "pokedexWeightKg": 24.0,
       "heightStdDev": 0.15,
       "weightStdDev": 3.0,
-      "familyId": 456,
+      "familyId": "FAMILY_FINNEON",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.2,
@@ -47704,7 +47704,7 @@
   }, {
     "templateId": "V0458_POKEMON_MANTYKE",
     "pokemonSettings": {
-      "pokemonId": 458,
+      "pokemonId": "MANTYKE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_FLYING",
@@ -47763,7 +47763,7 @@
   }, {
     "templateId": "V0459_POKEMON_SNOVER",
     "pokemonSettings": {
-      "pokemonId": 459,
+      "pokemonId": "SNOVER",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "type2": "POKEMON_TYPE_GRASS",
@@ -47804,12 +47804,12 @@
       "pokedexWeightKg": 50.5,
       "heightStdDev": 0.125,
       "weightStdDev": 6.3125,
-      "familyId": 459,
+      "familyId": "FAMILY_SNOVER",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 1.0,
       "evolutionBranch": [{
-        "evolution": 460,
+        "evolution": "ABOMASNOW",
         "candyCost": 50
       }],
       "modelScaleV2": 1.0,
@@ -47823,7 +47823,7 @@
   }, {
     "templateId": "V0460_POKEMON_ABOMASNOW",
     "pokemonSettings": {
-      "pokemonId": 460,
+      "pokemonId": "ABOMASNOW",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "type2": "POKEMON_TYPE_GRASS",
@@ -47863,10 +47863,10 @@
       "evolutionPips": 1,
       "pokedexHeightM": 2.2,
       "pokedexWeightKg": 135.5,
-      "parentPokemonId": 459,
+      "parentPokemonId": "SNOVER",
       "heightStdDev": 0.275,
       "weightStdDev": 16.9375,
-      "familyId": 459,
+      "familyId": "FAMILY_SNOVER",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
       "modelHeight": 2.17,
@@ -47881,7 +47881,7 @@
   }, {
     "templateId": "V0461_POKEMON_WEAVILE",
     "pokemonSettings": {
-      "pokemonId": 461,
+      "pokemonId": "WEAVILE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DARK",
       "type2": "POKEMON_TYPE_ICE",
@@ -47940,7 +47940,7 @@
   }, {
     "templateId": "V0462_POKEMON_MAGNEZONE",
     "pokemonSettings": {
-      "pokemonId": 462,
+      "pokemonId": "MAGNEZONE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_STEEL",
@@ -48000,7 +48000,7 @@
   }, {
     "templateId": "V0463_POKEMON_LICKILICKY",
     "pokemonSettings": {
-      "pokemonId": 463,
+      "pokemonId": "LICKILICKY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -48058,7 +48058,7 @@
   }, {
     "templateId": "V0464_POKEMON_RHYPERIOR",
     "pokemonSettings": {
-      "pokemonId": 464,
+      "pokemonId": "RHYPERIOR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GROUND",
       "type2": "POKEMON_TYPE_ROCK",
@@ -48117,7 +48117,7 @@
   }, {
     "templateId": "V0465_POKEMON_TANGROWTH",
     "pokemonSettings": {
-      "pokemonId": 465,
+      "pokemonId": "TANGROWTH",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -48175,7 +48175,7 @@
   }, {
     "templateId": "V0466_POKEMON_ELECTIVIRE",
     "pokemonSettings": {
-      "pokemonId": 466,
+      "pokemonId": "ELECTIVIRE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -48233,7 +48233,7 @@
   }, {
     "templateId": "V0467_POKEMON_MAGMORTAR",
     "pokemonSettings": {
-      "pokemonId": 467,
+      "pokemonId": "MAGMORTAR",
       "modelScale": 1.0,
       "type": "POKEMON_TYPE_FIRE",
       "camera": {
@@ -48291,7 +48291,7 @@
   }, {
     "templateId": "V0468_POKEMON_TOGEKISS",
     "pokemonSettings": {
-      "pokemonId": 468,
+      "pokemonId": "TOGEKISS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FAIRY",
       "type2": "POKEMON_TYPE_FLYING",
@@ -48351,7 +48351,7 @@
   }, {
     "templateId": "V0469_POKEMON_YANMEGA",
     "pokemonSettings": {
-      "pokemonId": 469,
+      "pokemonId": "YANMEGA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "type2": "POKEMON_TYPE_FLYING",
@@ -48410,7 +48410,7 @@
   }, {
     "templateId": "V0470_POKEMON_LEAFEON",
     "pokemonSettings": {
-      "pokemonId": 470,
+      "pokemonId": "LEAFEON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -48468,7 +48468,7 @@
   }, {
     "templateId": "V0471_POKEMON_GLACEON",
     "pokemonSettings": {
-      "pokemonId": 471,
+      "pokemonId": "GLACEON",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "camera": {
@@ -48526,7 +48526,7 @@
   }, {
     "templateId": "V0472_POKEMON_GLISCOR",
     "pokemonSettings": {
-      "pokemonId": 472,
+      "pokemonId": "GLISCOR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GROUND",
       "type2": "POKEMON_TYPE_FLYING",
@@ -48586,7 +48586,7 @@
   }, {
     "templateId": "V0473_POKEMON_MAMOSWINE",
     "pokemonSettings": {
-      "pokemonId": 473,
+      "pokemonId": "MAMOSWINE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "type2": "POKEMON_TYPE_GROUND",
@@ -48645,7 +48645,7 @@
   }, {
     "templateId": "V0474_POKEMON_PORYGON_Z",
     "pokemonSettings": {
-      "pokemonId": 474,
+      "pokemonId": "PORYGON_Z",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -48704,7 +48704,7 @@
   }, {
     "templateId": "V0475_POKEMON_GALLADE",
     "pokemonSettings": {
-      "pokemonId": 475,
+      "pokemonId": "GALLADE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "type2": "POKEMON_TYPE_FIGHTING",
@@ -48763,7 +48763,7 @@
   }, {
     "templateId": "V0476_POKEMON_PROBOPASS",
     "pokemonSettings": {
-      "pokemonId": 476,
+      "pokemonId": "PROBOPASS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "type2": "POKEMON_TYPE_STEEL",
@@ -48822,7 +48822,7 @@
   }, {
     "templateId": "V0477_POKEMON_DUSKNOIR",
     "pokemonSettings": {
-      "pokemonId": 477,
+      "pokemonId": "DUSKNOIR",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "camera": {
@@ -48880,7 +48880,7 @@
   }, {
     "templateId": "V0478_POKEMON_FROSLASS",
     "pokemonSettings": {
-      "pokemonId": 478,
+      "pokemonId": "FROSLASS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "type2": "POKEMON_TYPE_GHOST",
@@ -48940,7 +48940,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_GHOST",
@@ -48981,7 +48981,7 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.27,
@@ -48996,7 +48996,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_FAN",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_FLYING",
@@ -49037,12 +49037,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.3,
       "modelScaleV2": 1.27,
-      "form": 83,
+      "form": "ROTOM_FAN",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49053,7 +49053,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_FROST",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_ICE",
@@ -49094,12 +49094,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.39,
       "modelScaleV2": 1.1,
-      "form": 82,
+      "form": "ROTOM_FROST",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49110,7 +49110,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_HEAT",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_FIRE",
@@ -49151,12 +49151,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.27,
       "modelScaleV2": 1.33,
-      "form": 86,
+      "form": "ROTOM_HEAT",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49167,7 +49167,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_MOW",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_GRASS",
@@ -49208,12 +49208,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.3,
       "modelScaleV2": 1.27,
-      "form": 84,
+      "form": "ROTOM_MOW",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49224,7 +49224,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_NORMAL",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_GHOST",
@@ -49265,12 +49265,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": 81,
+      "form": "ROTOM_NORMAL",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49281,7 +49281,7 @@
   }, {
     "templateId": "V0479_POKEMON_ROTOM_WASH",
     "pokemonSettings": {
-      "pokemonId": 479,
+      "pokemonId": "ROTOM",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "type2": "POKEMON_TYPE_WATER",
@@ -49322,12 +49322,12 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 479,
+      "familyId": "FAMILY_ROTOM",
       "candyToEvolve": 25,
       "kmBuddyDistance": 5.0,
       "modelHeight": 0.35,
       "modelScaleV2": 1.17,
-      "form": 85,
+      "form": "ROTOM_WASH",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49338,7 +49338,7 @@
   }, {
     "templateId": "V0480_POKEMON_UXIE",
     "pokemonSettings": {
-      "pokemonId": 480,
+      "pokemonId": "UXIE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -49380,7 +49380,7 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 480,
+      "familyId": "FAMILY_UXIE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.3,
@@ -49394,7 +49394,7 @@
   }, {
     "templateId": "V0481_POKEMON_MESPRIT",
     "pokemonSettings": {
-      "pokemonId": 481,
+      "pokemonId": "MESPRIT",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -49436,7 +49436,7 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 481,
+      "familyId": "FAMILY_MESPRIT",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.3,
@@ -49450,7 +49450,7 @@
   }, {
     "templateId": "V0482_POKEMON_AZELF",
     "pokemonSettings": {
-      "pokemonId": 482,
+      "pokemonId": "AZELF",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -49492,7 +49492,7 @@
       "pokedexWeightKg": 0.3,
       "heightStdDev": 0.0375,
       "weightStdDev": 0.0375,
-      "familyId": 482,
+      "familyId": "FAMILY_AZELF",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.3,
@@ -49506,7 +49506,7 @@
   }, {
     "templateId": "V0483_POKEMON_DIALGA",
     "pokemonSettings": {
-      "pokemonId": 483,
+      "pokemonId": "DIALGA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_STEEL",
       "type2": "POKEMON_TYPE_DRAGON",
@@ -49548,7 +49548,7 @@
       "pokedexWeightKg": 683.0,
       "heightStdDev": 0.675,
       "weightStdDev": 85.375,
-      "familyId": 483,
+      "familyId": "FAMILY_DIALGA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
@@ -49563,7 +49563,7 @@
   }, {
     "templateId": "V0484_POKEMON_PALKIA",
     "pokemonSettings": {
-      "pokemonId": 484,
+      "pokemonId": "PALKIA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "type2": "POKEMON_TYPE_DRAGON",
@@ -49605,7 +49605,7 @@
       "pokedexWeightKg": 336.0,
       "heightStdDev": 0.525,
       "weightStdDev": 42.0,
-      "familyId": 484,
+      "familyId": "FAMILY_PALKIA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
@@ -49620,7 +49620,7 @@
   }, {
     "templateId": "V0485_POKEMON_HEATRAN",
     "pokemonSettings": {
-      "pokemonId": 485,
+      "pokemonId": "HEATRAN",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIRE",
       "type2": "POKEMON_TYPE_STEEL",
@@ -49662,7 +49662,7 @@
       "pokedexWeightKg": 430.0,
       "heightStdDev": 0.2125,
       "weightStdDev": 53.75,
-      "familyId": 485,
+      "familyId": "FAMILY_HEATRAN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
@@ -49677,7 +49677,7 @@
   }, {
     "templateId": "V0486_POKEMON_REGIGIGAS",
     "pokemonSettings": {
-      "pokemonId": 486,
+      "pokemonId": "REGIGIGAS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -49717,7 +49717,7 @@
       "pokedexWeightKg": 420.0,
       "heightStdDev": 0.4625,
       "weightStdDev": 52.5,
-      "familyId": 486,
+      "familyId": "FAMILY_REGIGIGAS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
@@ -49732,7 +49732,7 @@
   }, {
     "templateId": "V0487_POKEMON_GIRATINA",
     "pokemonSettings": {
-      "pokemonId": 487,
+      "pokemonId": "GIRATINA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_DRAGON",
@@ -49774,7 +49774,7 @@
       "pokedexWeightKg": 750.0,
       "heightStdDev": 0.5625,
       "weightStdDev": 93.75,
-      "familyId": 487,
+      "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
@@ -49789,7 +49789,7 @@
   }, {
     "templateId": "V0487_POKEMON_GIRATINA_ALTERED",
     "pokemonSettings": {
-      "pokemonId": 487,
+      "pokemonId": "GIRATINA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_DRAGON",
@@ -49831,13 +49831,13 @@
       "pokedexWeightKg": 750.0,
       "heightStdDev": 0.5625,
       "weightStdDev": 93.75,
-      "familyId": 487,
+      "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 5.38,
       "modelScaleV2": 0.4,
-      "form": 90,
+      "form": "GIRATINA_ALTERED",
       "buddyOffsetMale": [25.5, 0.0, 1.25],
       "buddyOffsetFemale": [25.5, 0.0, 1.25],
       "buddyScale": 19.0,
@@ -49847,7 +49847,7 @@
   }, {
     "templateId": "V0487_POKEMON_GIRATINA_ORIGIN",
     "pokemonSettings": {
-      "pokemonId": 487,
+      "pokemonId": "GIRATINA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "type2": "POKEMON_TYPE_DRAGON",
@@ -49889,12 +49889,12 @@
       "pokedexWeightKg": 750.0,
       "heightStdDev": 0.5625,
       "weightStdDev": 93.75,
-      "familyId": 487,
+      "familyId": "FAMILY_GIRATINA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 5.8,
       "modelScaleV2": 0.6,
-      "form": 91,
+      "form": "GIRATINA_ORIGIN",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -49904,7 +49904,7 @@
   }, {
     "templateId": "V0488_POKEMON_CRESSELIA",
     "pokemonSettings": {
-      "pokemonId": 488,
+      "pokemonId": "CRESSELIA",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -49946,7 +49946,7 @@
       "pokedexWeightKg": 85.6,
       "heightStdDev": 0.1875,
       "weightStdDev": 10.7,
-      "familyId": 488,
+      "familyId": "FAMILY_CRESSELIA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "buddySize": "BUDDY_FLYING",
@@ -49961,7 +49961,7 @@
   }, {
     "templateId": "V0489_POKEMON_PHIONE",
     "pokemonSettings": {
-      "pokemonId": 489,
+      "pokemonId": "PHIONE",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -50002,12 +50002,12 @@
       "pokedexWeightKg": 3.1,
       "heightStdDev": 0.05,
       "weightStdDev": 0.3875,
-      "familyId": 489,
+      "familyId": "FAMILY_PHIONE",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.36,
       "evolutionBranch": [{
-        "evolution": 490,
+        "evolution": "MANAPHY",
         "candyCost": 50
       }],
       "modelScaleV2": 1.17,
@@ -50019,7 +50019,7 @@
   }, {
     "templateId": "V0490_POKEMON_MANAPHY",
     "pokemonSettings": {
-      "pokemonId": 490,
+      "pokemonId": "MANAPHY",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -50057,10 +50057,10 @@
       "rarity": "POKEMON_RARITY_MYTHIC",
       "pokedexHeightM": 0.3,
       "pokedexWeightKg": 1.4,
-      "parentPokemonId": 489,
+      "parentPokemonId": "PHIONE",
       "heightStdDev": 0.0375,
       "weightStdDev": 0.175,
-      "familyId": 490,
+      "familyId": "FAMILY_MANAPHY",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.35,
@@ -50073,7 +50073,7 @@
   }, {
     "templateId": "V0491_POKEMON_DARKRAI",
     "pokemonSettings": {
-      "pokemonId": 491,
+      "pokemonId": "DARKRAI",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DARK",
       "camera": {
@@ -50114,7 +50114,7 @@
       "pokedexWeightKg": 50.5,
       "heightStdDev": 0.1875,
       "weightStdDev": 6.3125,
-      "familyId": 491,
+      "familyId": "FAMILY_DARKRAI",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 1.66,
@@ -50127,7 +50127,7 @@
   }, {
     "templateId": "V0492_POKEMON_SHAYMIN",
     "pokemonSettings": {
-      "pokemonId": 492,
+      "pokemonId": "SHAYMIN",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -50167,7 +50167,7 @@
       "pokedexWeightKg": 2.1,
       "heightStdDev": 0.025,
       "weightStdDev": 0.2625,
-      "familyId": 492,
+      "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.39,
@@ -50180,7 +50180,7 @@
   }, {
     "templateId": "V0492_POKEMON_SHAYMIN_LAND",
     "pokemonSettings": {
-      "pokemonId": 492,
+      "pokemonId": "SHAYMIN",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -50220,12 +50220,12 @@
       "pokedexWeightKg": 2.1,
       "heightStdDev": 0.025,
       "weightStdDev": 0.2625,
-      "familyId": 492,
+      "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.3,
       "modelScaleV2": 1.27,
-      "form": 93,
+      "form": "SHAYMIN_LAND",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50234,7 +50234,7 @@
   }, {
     "templateId": "V0492_POKEMON_SHAYMIN_SKY",
     "pokemonSettings": {
-      "pokemonId": 492,
+      "pokemonId": "SHAYMIN",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "type2": "POKEMON_TYPE_FLYING",
@@ -50275,12 +50275,12 @@
       "pokedexWeightKg": 2.1,
       "heightStdDev": 0.025,
       "weightStdDev": 0.2625,
-      "familyId": 492,
+      "familyId": "FAMILY_SHAYMIN",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 0.39,
       "modelScaleV2": 1.1,
-      "form": 92,
+      "form": "SHAYMIN_SKY",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50289,7 +50289,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -50329,7 +50329,7 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
@@ -50342,7 +50342,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_BUG",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_BUG",
       "camera": {
@@ -50382,12 +50382,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 106,
+      "form": "ARCEUS_BUG",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50396,7 +50396,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_DARK",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DARK",
       "camera": {
@@ -50436,12 +50436,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 116,
+      "form": "ARCEUS_DARK",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50450,7 +50450,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_DRAGON",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_DRAGON",
       "camera": {
@@ -50490,12 +50490,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 115,
+      "form": "ARCEUS_DRAGON",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50504,7 +50504,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_ELECTRIC",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ELECTRIC",
       "camera": {
@@ -50544,12 +50544,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 112,
+      "form": "ARCEUS_ELECTRIC",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50558,7 +50558,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_FAIRY",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FAIRY",
       "camera": {
@@ -50598,12 +50598,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 117,
+      "form": "ARCEUS_FAIRY",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50612,7 +50612,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_FIGHTING",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIGHTING",
       "camera": {
@@ -50652,12 +50652,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 101,
+      "form": "ARCEUS_FIGHTING",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50666,7 +50666,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_FIRE",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FIRE",
       "camera": {
@@ -50706,12 +50706,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 109,
+      "form": "ARCEUS_FIRE",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50720,7 +50720,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_FLYING",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_FLYING",
       "camera": {
@@ -50760,12 +50760,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 102,
+      "form": "ARCEUS_FLYING",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50774,7 +50774,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_GHOST",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GHOST",
       "camera": {
@@ -50814,12 +50814,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 107,
+      "form": "ARCEUS_GHOST",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50828,7 +50828,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_GRASS",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GRASS",
       "camera": {
@@ -50868,12 +50868,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 111,
+      "form": "ARCEUS_GRASS",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50882,7 +50882,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_GROUND",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_GROUND",
       "camera": {
@@ -50922,12 +50922,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 104,
+      "form": "ARCEUS_GROUND",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50936,7 +50936,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_ICE",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ICE",
       "camera": {
@@ -50976,12 +50976,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 114,
+      "form": "ARCEUS_ICE",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -50990,7 +50990,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_NORMAL",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_NORMAL",
       "camera": {
@@ -51030,12 +51030,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 100,
+      "form": "ARCEUS_NORMAL",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -51044,7 +51044,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_POISON",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_POISON",
       "camera": {
@@ -51084,12 +51084,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 103,
+      "form": "ARCEUS_POISON",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -51098,7 +51098,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_PSYCHIC",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_PSYCHIC",
       "camera": {
@@ -51138,12 +51138,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 113,
+      "form": "ARCEUS_PSYCHIC",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -51152,7 +51152,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_ROCK",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_ROCK",
       "camera": {
@@ -51192,12 +51192,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 105,
+      "form": "ARCEUS_ROCK",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -51206,7 +51206,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_STEEL",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_STEEL",
       "camera": {
@@ -51246,12 +51246,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 108,
+      "form": "ARCEUS_STEEL",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
@@ -51260,7 +51260,7 @@
   }, {
     "templateId": "V0493_POKEMON_ARCEUS_WATER",
     "pokemonSettings": {
-      "pokemonId": 493,
+      "pokemonId": "ARCEUS",
       "modelScale": 1.26,
       "type": "POKEMON_TYPE_WATER",
       "camera": {
@@ -51300,12 +51300,12 @@
       "pokedexWeightKg": 320.0,
       "heightStdDev": 0.4,
       "weightStdDev": 40.0,
-      "familyId": 493,
+      "familyId": "FAMILY_ARCEUS",
       "candyToEvolve": 25,
       "kmBuddyDistance": 20.0,
       "modelHeight": 3.3,
       "modelScaleV2": 0.82,
-      "form": 110,
+      "form": "ARCEUS_WATER",
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
