@@ -1,0 +1,170 @@
+{
+  "itemTemplates": [
+    {
+    "templateId": "V0147_POKEMON_DRATINI",
+    "pokemonSettings": {
+      "pokemonId": "DRATINI",
+      "modelScale": 1.11,
+      "type": "POKEMON_TYPE_DRAGON",
+      "camera": {
+        "diskRadiusM": 0.4163,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.83,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.4,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.2775,
+        "collisionHeightM": 0.555,
+        "collisionHeadRadiusM": 0.19425,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.85,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.121875,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 82,
+        "baseAttack": 119,
+        "baseDefense": 94
+      },
+      "quickMoves": ["DRAGON_BREATH_FAST", "IRON_TAIL_FAST"],
+      "cinematicMoves": ["DRACO_METEOR"],
+      "animationTime": [1.6667, 0.6667, 1.8333, 1.4333, 0.0, 2.0, 1.6, 0.0],
+      "evolutionIds": ["DRAGONAIR"],
+      "evolutionPips": 1,
+      "pokedexHeightM": 1.8,
+      "pokedexWeightKg": 3.3,
+      "heightStdDev": 0.225,
+      "weightStdDev": 0.4125,
+      "familyId": "FAMILY_DRATINI",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.78,
+      "evolutionBranch": [{
+        "evolution": "DRAGONAIR",
+        "candyCost": 25
+      }],
+      "modelScaleV2": 1.0
+    }
+  }, {
+    "templateId": "V0148_POKEMON_DRAGONAIR",
+    "pokemonSettings": {
+      "pokemonId": "DRAGONAIR",
+      "modelScale": 0.75,
+      "type": "POKEMON_TYPE_DRAGON",
+      "camera": {
+        "diskRadiusM": 0.8438,
+        "cylinderRadiusM": 0.75,
+        "cylinderHeightM": 1.75,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.06,
+        "collisionRadiusM": 0.375,
+        "collisionHeightM": 1.125,
+        "collisionHeadRadiusM": 0.28125,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 8.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 23.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.625,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 122,
+        "baseAttack": 163,
+        "baseDefense": 138
+      },
+      "quickMoves": ["DRAGON_BREATH_FAST", "IRON_TAIL_FAST"],
+      "cinematicMoves": ["DRACO_METEOR"],
+      "animationTime": [1.6, 0.6667, 1.6667, 2.0, 0.0, 2.5, 2.0, 2.0],
+      "evolutionIds": ["DRAGONITE"],
+      "evolutionPips": 1,
+      "pokedexHeightM": 4.0,
+      "pokedexWeightKg": 16.5,
+      "parentPokemonId": "DRATINI",
+      "heightStdDev": 0.5,
+      "weightStdDev": 2.0625,
+      "familyId": "FAMILY_DRATINI",
+      "candyToEvolve": 100,
+      "kmBuddyDistance": 5.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 1.95,
+      "evolutionBranch": [{
+        "evolution": "DRAGONITE",
+        "candyCost": 100
+      }],
+      "modelScaleV2": 1.0
+    }
+  }, {
+    "templateId": "V0149_POKEMON_DRAGONITE",
+    "pokemonSettings": {
+      "pokemonId": "DRAGONITE",
+      "modelScale": 0.7,
+      "type": "POKEMON_TYPE_DRAGON",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.63,
+        "cylinderRadiusM": 1.0,
+        "cylinderHeightM": 2.25,
+        "cylinderGroundM": 0.6,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.05,
+        "baseFleeRate": 0.05,
+        "collisionRadiusM": 0.6,
+        "collisionHeightM": 1.05,
+        "collisionHeadRadiusM": 0.245,
+        "movementType": "MOVEMENT_FLYING",
+        "movementTimerS": 3.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 8.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.5,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 182,
+        "baseAttack": 263,
+        "baseDefense": 201
+      },
+      "quickMoves": ["DRAGON_TAIL_FAST", "STEEL_WING_FAST"],
+      "cinematicMoves": ["DRACO_METEOR"],
+      "animationTime": [2.6667, 0.6667, 1.6667, 0.8333, 0.0, 2.6667, 1.5, 1.5],
+      "evolutionPips": 1,
+      "pokedexHeightM": 2.2,
+      "pokedexWeightKg": 210.0,
+      "parentPokemonId": "DRAGONAIR",
+      "heightStdDev": 0.275,
+      "weightStdDev": 26.25,
+      "familyId": "FAMILY_DRATINI",
+      "kmBuddyDistance": 5.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.28,
+      "modelScaleV2": 0.96
+    }
+  }]
+}

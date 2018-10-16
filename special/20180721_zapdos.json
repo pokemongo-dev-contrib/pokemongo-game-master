@@ -1,0 +1,58 @@
+{
+  "itemTemplates": [{
+    "templateId": "V0145_POKEMON_ZAPDOS",
+    "pokemonSettings": {
+      "pokemonId": "ZAPDOS",
+      "modelScale": 0.69,
+      "type": "POKEMON_TYPE_ELECTRIC",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.7763,
+        "cylinderRadiusM": 1.25,
+        "cylinderHeightM": 1.25,
+        "cylinderGroundM": 1.25,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.03,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.4485,
+        "collisionHeightM": 0.759,
+        "collisionHeadRadiusM": 0.276,
+        "movementType": "MOVEMENT_ELECTRIC",
+        "movementTimerS": 3.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 8.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 0.125,
+        "cameraDistance": 3.88125,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 180,
+        "baseAttack": 253,
+        "baseDefense": 188
+      },
+      "quickMoves": ["THUNDER_SHOCK_FAST"],
+      "cinematicMoves": ["ZAP_CANNON", "THUNDERBOLT", "THUNDER"],
+      "animationTime": [1.6, 0.8333, 1.5, 0.8333, 0.0, 2.0, 1.0, 1.666667],
+      "evolutionPips": 1,
+      "rarity": "POKEMON_RARITY_LEGENDARY",
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 52.6,
+      "heightStdDev": 0.2,
+      "weightStdDev": 6.575,
+      "familyId": "FAMILY_ZAPDOS",
+      "kmBuddyDistance": 20.0,
+      "buddySize": "BUDDY_FLYING",
+      "modelHeight": 2.36,
+      "modelScaleV2": 0.94,
+      "buddyOffsetMale": [10.0, -22.8, 18.14],
+      "buddyOffsetFemale": [10.0, -22.8, 18.14],
+      "buddyScale": 19.0
+    }
+  }]
+}
