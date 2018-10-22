@@ -1,0 +1,62 @@
+{
+  "itemTemplates": [{
+    "templateId": "V0376_POKEMON_METAGROSS",
+    "pokemonSettings": {
+      "pokemonId": "METAGROSS",
+      "modelScale": 0.66,
+      "type": "POKEMON_TYPE_STEEL",
+      "type2": "POKEMON_TYPE_PSYCHIC",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 2.0,
+        "cylinderHeightM": 2.0,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.05,
+        "baseFleeRate": 0.05,
+        "collisionRadiusM": 1.7,
+        "collisionHeightM": 0.6,
+        "collisionHeadRadiusM": 0.6,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.1,
+        "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 6.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 160,
+        "baseAttack": 257,
+        "baseDefense": 247
+      },
+      "quickMoves": ["BULLET_PUNCH_FAST", "ZEN_HEADBUTT_FAST"],
+      "cinematicMoves": ["METEOR_MASH"],
+      "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 550.0,
+      "parentPokemonId": "METANG",
+      "heightStdDev": 0.2,
+      "weightStdDev": 68.75,
+      "familyId": "FAMILY_BELDUM",
+      "kmBuddyDistance": 5.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.6,
+      "modelScaleV2": 0.91,
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "isTransferable": true,
+      "isDeployable": true
+    }
+  }]
+}
