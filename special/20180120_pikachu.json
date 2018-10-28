@@ -55,56 +55,5 @@
       }],
       "modelScaleV2": 1.1
     }
-  }, {
-    "templateId": "V0026_POKEMON_RAICHU",
-    "pokemonSettings": {
-      "pokemonId": "RAICHU",
-      "modelScale": 1.08,
-      "type": "POKEMON_TYPE_ELECTRIC",
-      "camera": {
-        "diskRadiusM": 0.729,
-        "cylinderRadiusM": 0.486,
-        "cylinderHeightM": 0.75,
-        "shoulderModeScale": 0.5
-      },
-      "encounter": {
-        "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.06,
-        "collisionRadiusM": 0.27,
-        "collisionHeightM": 0.54,
-        "collisionHeadRadiusM": 0.216,
-        "movementType": "MOVEMENT_JUMP",
-        "movementTimerS": 6.0,
-        "jumpTimeS": 1.25,
-        "attackTimerS": 17.0,
-        "bonusCandyCaptureReward": 2,
-        "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.1,
-        "dodgeProbability": 0.15,
-        "dodgeDurationS": 1.0,
-        "dodgeDistance": 1.0,
-        "cameraDistance": 4.0,
-        "minPokemonActionFrequencyS": 0.2,
-        "maxPokemonActionFrequencyS": 1.6
-      },
-      "stats": {
-        "baseStamina": 120,
-        "baseAttack": 193,
-        "baseDefense": 165
-      },
-      "quickMoves": ["VOLT_SWITCH_FAST", "SPARK_FAST"],
-      "cinematicMoves": ["SURF"],
-      "animationTime": [2.2333, 0.6667, 2.0, 2.0, 0.0, 2.6667, 1.0, 1.133333],
-      "evolutionPips": 1,
-      "pokedexHeightM": 0.8,
-      "pokedexWeightKg": 30.0,
-      "parentPokemonId": "PIKACHU",
-      "heightStdDev": 0.1,
-      "weightStdDev": 3.75,
-      "familyId": "FAMILY_PIKACHU",
-      "kmBuddyDistance": 1.0,
-      "modelHeight": 0.83,
-      "modelScaleV2": 1.0
-    }
   }]
 }
