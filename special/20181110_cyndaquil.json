@@ -1,0 +1,89 @@
+{
+	"itemTemplates": [
+		{
+			"templateId": "V0157_POKEMON_TYPHLOSION",
+			"pokemonSettings": {
+				"pokemonId": "TYPHLOSION",
+				"modelScale": 0.8,
+				"type": "POKEMON_TYPE_FIRE",
+				"camera": {
+					"diskRadiusM": 0.555,
+					"cylinderRadiusM": 0.7,
+					"cylinderHeightM": 1.7,
+					"shoulderModeScale": 0.5
+				},
+				"encounter": {
+					"baseCaptureRate": 0.05,
+					"baseFleeRate": 0.05,
+					"collisionRadiusM": 0.5,
+					"collisionHeightM": 0.5,
+					"collisionHeadRadiusM": 0.25,
+					"movementType": "MOVEMENT_JUMP",
+					"movementTimerS": 11.0,
+					"jumpTimeS": 1.2,
+					"attackTimerS": 20.0,
+					"bonusCandyCaptureReward": 7,
+					"bonusStardustCaptureReward": 400,
+					"attackProbability": 0.2,
+					"dodgeProbability": 0.15,
+					"dodgeDurationS": 1.0,
+					"dodgeDistance": 1.0,
+					"cameraDistance": 4.0,
+					"minPokemonActionFrequencyS": 0.2,
+					"maxPokemonActionFrequencyS": 1.6
+				},
+				"stats": {
+					"baseStamina": 156,
+					"baseAttack": 223,
+					"baseDefense": 176
+				},
+				"quickMoves": [
+					"EMBER_FAST",
+					"SHADOW_CLAW_FAST"
+				],
+				"cinematicMoves": [
+					"BLAST_BURN"
+				],
+				"animationTime": [
+					1.3333,
+					0.6667,
+					1.6667,
+					2.0,
+					0.0,
+					2.0,
+					3.0,
+					3.0
+				],
+				"evolutionPips": 1,
+				"pokedexHeightM": 1.7,
+				"pokedexWeightKg": 79.5,
+				"parentPokemonId": "QUILAVA",
+				"heightStdDev": 0.2125,
+				"weightStdDev": 9.9375,
+				"familyId": "FAMILY_CYNDAQUIL",
+				"kmBuddyDistance": 3.0,
+				"buddySize": "BUDDY_BIG",
+				"modelHeight": 1.69,
+				"modelScaleV2": 1.0,
+				"buddyOffsetMale": [
+					20.0,
+					0.0,
+					32.54
+				],
+				"buddyOffsetFemale": [
+					20.0,
+					0.0,
+					32.54
+				],
+				"buddyScale": 19.0,
+				"buddyPortraitOffset": [
+					0.0,
+					0.0,
+					0.0
+				],
+				"isTransferable": true,
+				"isDeployable": true
+			}
+		}
+	]
+}
