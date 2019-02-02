@@ -7307,9 +7307,9 @@
     "combatMove": {
       "uniqueId": "FLAMETHROWER",
       "type": "POKEMON_TYPE_FIRE",
-      "power": 90.0,
+      "power": 70.0,
       "vfxName": "flamethrower",
-      "energyDelta": -55
+      "energyDelta": -50
     }
   }, {
     "templateId": "COMBAT_V0026_MOVE_DIG",
@@ -7361,7 +7361,7 @@
     "combatMove": {
       "uniqueId": "ICE_PUNCH",
       "type": "POKEMON_TYPE_ICE",
-      "power": 55.0,
+      "power": 50.0,
       "vfxName": "ice_punch",
       "energyDelta": -40
     }
@@ -7550,7 +7550,7 @@
     "combatMove": {
       "uniqueId": "PSYSHOCK",
       "type": "POKEMON_TYPE_PSYCHIC",
-      "power": 70.0,
+      "power": 65.0,
       "vfxName": "psyshock",
       "energyDelta": -45
     }
@@ -7640,7 +7640,7 @@
     "combatMove": {
       "uniqueId": "IRON_HEAD",
       "type": "POKEMON_TYPE_STEEL",
-      "power": 70.0,
+      "power": 60.0,
       "vfxName": "iron_head",
       "energyDelta": -50
     }
@@ -7658,9 +7658,9 @@
     "combatMove": {
       "uniqueId": "THUNDER_PUNCH",
       "type": "POKEMON_TYPE_ELECTRIC",
-      "power": 55.0,
+      "power": 45.0,
       "vfxName": "thunder_punch",
-      "energyDelta": -40
+      "energyDelta": -35
     }
   }, {
     "templateId": "COMBAT_V0078_MOVE_THUNDER",
@@ -7676,9 +7676,9 @@
     "combatMove": {
       "uniqueId": "THUNDERBOLT",
       "type": "POKEMON_TYPE_ELECTRIC",
-      "power": 90.0,
+      "power": 80.0,
       "vfxName": "thunderbolt",
-      "energyDelta": -55
+      "energyDelta": -45
     }
   }, {
     "templateId": "COMBAT_V0080_MOVE_TWISTER",
@@ -7730,7 +7730,7 @@
     "combatMove": {
       "uniqueId": "DAZZLING_GLEAM",
       "type": "POKEMON_TYPE_FAIRY",
-      "power": 110.0,
+      "power": 100.0,
       "vfxName": "dazzling_gleam",
       "energyDelta": -70
     }
@@ -8036,7 +8036,7 @@
     "combatMove": {
       "uniqueId": "BODY_SLAM",
       "type": "POKEMON_TYPE_NORMAL",
-      "power": 60.0,
+      "power": 50.0,
       "vfxName": "body_slam",
       "energyDelta": -35
     }
@@ -8227,7 +8227,7 @@
       "power": 6.0,
       "vfxName": "shadow_claw_fast",
       "durationTurns": 1,
-      "energyDelta": 8
+      "energyDelta": 7
     }
   }, {
     "templateId": "COMBAT_V0214_MOVE_VINE_WHIP_FAST",
@@ -8244,7 +8244,7 @@
     "combatMove": {
       "uniqueId": "RAZOR_LEAF_FAST",
       "type": "POKEMON_TYPE_GRASS",
-      "power": 11.0,
+      "power": 8.0,
       "vfxName": "razor_leaf_fast",
       "durationTurns": 1,
       "energyDelta": 4
@@ -8264,7 +8264,7 @@
     "combatMove": {
       "uniqueId": "ICE_SHARD_FAST",
       "type": "POKEMON_TYPE_ICE",
-      "power": 9.0,
+      "power": 8.0,
       "vfxName": "ice_shard_fast",
       "durationTurns": 2,
       "energyDelta": 10
@@ -8274,7 +8274,7 @@
     "combatMove": {
       "uniqueId": "FROST_BREATH_FAST",
       "type": "POKEMON_TYPE_ICE",
-      "power": 7.0,
+      "power": 6.0,
       "vfxName": "frost_breath_fast",
       "durationTurns": 1,
       "energyDelta": 5
@@ -8439,7 +8439,7 @@
     "combatMove": {
       "uniqueId": "CONFUSION_FAST",
       "type": "POKEMON_TYPE_PSYCHIC",
-      "power": 16.0,
+      "power": 12.0,
       "vfxName": "confusion_fast",
       "durationTurns": 3,
       "energyDelta": 12
@@ -8894,7 +8894,7 @@
     "combatMove": {
       "uniqueId": "WATERFALL_FAST",
       "type": "POKEMON_TYPE_WATER",
-      "power": 12.0,
+      "power": 10.0,
       "vfxName": "waterfall_fast",
       "durationTurns": 2,
       "energyDelta": 8
@@ -9022,7 +9022,7 @@
     "combatMove": {
       "uniqueId": "SMACK_DOWN_FAST",
       "type": "POKEMON_TYPE_ROCK",
-      "power": 12.0,
+      "power": 10.0,
       "vfxName": "smack_down_fast",
       "durationTurns": 2,
       "energyDelta": 8
@@ -50578,6 +50578,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.9,
         "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
         "attackProbability": 0.05,
         "dodgeProbability": 0.4,
         "dodgeDurationS": 1.0,
@@ -64848,5 +64850,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1549590777062"
+  "timestampMs": "1549586048989"
 }

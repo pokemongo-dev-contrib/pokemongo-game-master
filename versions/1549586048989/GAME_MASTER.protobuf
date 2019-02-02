@@ -788,7 +788,7 @@ dark_pulse0Îÿÿÿÿÿÿÿÿ9
   pB"flame_wheel0Éÿÿÿÿÿÿÿÿ=
 COMBAT_V0022_MOVE_MEGAHORNª  ´B"megahorn0ÉÿÿÿÿÿÿÿÿE
 COMBAT_V0024_MOVE_FLAMETHROWERª"
-  ´B"flamethrower0Éÿÿÿÿÿÿÿÿ3
+  ŒB"flamethrower0Îÿÿÿÿÿÿÿÿ3
 COMBAT_V0026_MOVE_DIGª  ÈB"dig0°ÿÿÿÿÿÿÿÿA
 COMBAT_V0028_MOVE_CROSS_CHOPª   HB"
 cross_chop0Ýÿÿÿÿÿÿÿÿ;
@@ -797,7 +797,7 @@ cross_chop0Ýÿÿÿÿÿÿÿÿ;
 earthquake0¿ÿÿÿÿÿÿÿÿA
 COMBAT_V0032_MOVE_STONE_EDGEª    ÈB"
 stone_edge0Éÿÿÿÿÿÿÿÿ?
-COMBAT_V0033_MOVE_ICE_PUNCHª!  \B"	ice_punch0ØÿÿÿÿÿÿÿÿC
+COMBAT_V0033_MOVE_ICE_PUNCHª!  HB"	ice_punch0ØÿÿÿÿÿÿÿÿC
 COMBAT_V0034_MOVE_HEART_STAMPª!"   B"heart_stamp0Øÿÿÿÿÿÿÿÿ?
 COMBAT_V0035_MOVE_DISCHARGEª#  ‚B"	discharge0ÓÿÿÿÿÿÿÿÿE
 COMBAT_V0036_MOVE_FLASH_CANNONª"$	  ÜB"flash_cannon0¿ÿÿÿÿÿÿÿÿA
@@ -823,7 +823,7 @@ submission0Îÿÿÿÿÿÿÿÿ?
 COMBAT_V0057_MOVE_AQUA_JETª9  4B"aqua_jet0Óÿÿÿÿÿÿÿÿ?
 COMBAT_V0058_MOVE_AQUA_TAILª:  HB"	aqua_tail0Ýÿÿÿÿÿÿÿÿ?
 COMBAT_V0059_MOVE_SEED_BOMBª;  \B"	seed_bomb0Øÿÿÿÿÿÿÿÿ=
-COMBAT_V0060_MOVE_PSYSHOCKª<  ŒB"psyshock0ÓÿÿÿÿÿÿÿÿG
+COMBAT_V0060_MOVE_PSYSHOCKª<  ‚B"psyshock0ÓÿÿÿÿÿÿÿÿG
 COMBAT_V0062_MOVE_ANCIENT_POWERª#>  ŒB"ancient_power0Óÿÿÿÿÿÿÿÿ?
 COMBAT_V0063_MOVE_ROCK_TOMBª?  ŒB"	rock_tomb0ÄÿÿÿÿÿÿÿÿA
 COMBAT_V0064_MOVE_ROCK_SLIDEª @   B"
@@ -834,17 +834,17 @@ rock_slide0Óÿÿÿÿÿÿÿÿ?
 COMBAT_V0069_MOVE_OMINOUS_WINDª"E  HB"ominous_wind0ØÿÿÿÿÿÿÿÿC
 COMBAT_V0070_MOVE_SHADOW_BALLª!F  ÈB"shadow_ball0ÉÿÿÿÿÿÿÿÿC
 COMBAT_V0072_MOVE_MAGNET_BOMBª!H	  ŒB"magnet_bomb0Óÿÿÿÿÿÿÿÿ?
-COMBAT_V0074_MOVE_IRON_HEADªJ	  ŒB"	iron_head0ÎÿÿÿÿÿÿÿÿM
+COMBAT_V0074_MOVE_IRON_HEADªJ	  pB"	iron_head0ÎÿÿÿÿÿÿÿÿM
 "COMBAT_V0075_MOVE_PARABOLIC_CHARGEª&K  ÈA"parabolic_charge0ÉÿÿÿÿÿÿÿÿG
-COMBAT_V0077_MOVE_THUNDER_PUNCHª#M  \B"thunder_punch0Øÿÿÿÿÿÿÿÿ;
+COMBAT_V0077_MOVE_THUNDER_PUNCHª#M  4B"thunder_punch0Ýÿÿÿÿÿÿÿÿ;
 COMBAT_V0078_MOVE_THUNDERªN  ÈB"thunder0ÄÿÿÿÿÿÿÿÿC
-COMBAT_V0079_MOVE_THUNDERBOLTª!O  ´B"thunderbolt0Éÿÿÿÿÿÿÿÿ;
+COMBAT_V0079_MOVE_THUNDERBOLTª!O   B"thunderbolt0Óÿÿÿÿÿÿÿÿ;
 COMBAT_V0080_MOVE_TWISTERªP  4B"twister0ÓÿÿÿÿÿÿÿÿE
 COMBAT_V0082_MOVE_DRAGON_PULSEª"R  ´B"dragon_pulse0ÄÿÿÿÿÿÿÿÿC
 COMBAT_V0083_MOVE_DRAGON_CLAWª!S  HB"dragon_claw0ÝÿÿÿÿÿÿÿÿK
 !COMBAT_V0084_MOVE_DISARMING_VOICEª%T  ŒB"disarming_voice0ÓÿÿÿÿÿÿÿÿG
 COMBAT_V0085_MOVE_DRAINING_KISSª#U  pB"draining_kiss0ÉÿÿÿÿÿÿÿÿI
- COMBAT_V0086_MOVE_DAZZLING_GLEAMª$V  ÜB"dazzling_gleam0ºÿÿÿÿÿÿÿÿ?
+ COMBAT_V0086_MOVE_DAZZLING_GLEAMª$V  ÈB"dazzling_gleam0ºÿÿÿÿÿÿÿÿ?
 COMBAT_V0087_MOVE_MOONBLASTªW  C"	moonblast0ºÿÿÿÿÿÿÿÿA
 COMBAT_V0088_MOVE_PLAY_ROUGHª X  ´B"
 play_rough0ÄÿÿÿÿÿÿÿÿE
@@ -892,7 +892,7 @@ air_cutter0Éÿÿÿÿÿÿÿÿ?
 COMBAT_V0127_MOVE_STOMPª  \B"stomp0ØÿÿÿÿÿÿÿÿB
 COMBAT_V0129_MOVE_HYPER_FANGª!   B"
 hyper_fang0Îÿÿÿÿÿÿÿÿ@
-COMBAT_V0131_MOVE_BODY_SLAMª ƒ  pB"	body_slam0Ýÿÿÿÿÿÿÿÿ6
+COMBAT_V0131_MOVE_BODY_SLAMª ƒ  HB"	body_slam0Ýÿÿÿÿÿÿÿÿ6
 COMBAT_V0132_MOVE_RESTª„  HB"rest0Ýÿÿÿÿÿÿÿÿ>
 COMBAT_V0133_MOVE_STRUGGLEª…  B"struggle0œÿÿÿÿÿÿÿÿL
 !COMBAT_V0134_MOVE_SCALD_BLASTOISEª&†  HB"scald_blastoise0°ÿÿÿÿÿÿÿÿV
@@ -916,13 +916,13 @@ ember_fast(0G
 "COMBAT_V0210_MOVE_WING_ATTACK_FASTª Ò   @"wing_attack_fast(09
 COMBAT_V0211_MOVE_PECK_FASTªÓ  À@"	peck_fast(07
 COMBAT_V0212_MOVE_LICK_FASTªÔ  @@"	lick_fast0G
-"COMBAT_V0213_MOVE_SHADOW_CLAW_FASTª Õ  À@"shadow_claw_fast(0C
+"COMBAT_V0213_MOVE_SHADOW_CLAW_FASTª Õ  À@"shadow_claw_fast(0C
  COMBAT_V0214_MOVE_VINE_WHIP_FASTªÖ   @"vine_whip_fast(0E
-!COMBAT_V0215_MOVE_RAZOR_LEAF_FASTª×  0A"razor_leaf_fast(0A
+!COMBAT_V0215_MOVE_RAZOR_LEAF_FASTª×   A"razor_leaf_fast(0A
 COMBAT_V0216_MOVE_MUD_SHOT_FASTªØ  @@"mud_shot_fast(0	C
- COMBAT_V0217_MOVE_ICE_SHARD_FASTªÙ  A"ice_shard_fast(0
+ COMBAT_V0217_MOVE_ICE_SHARD_FASTªÙ   A"ice_shard_fast(0
 I
-#COMBAT_V0218_MOVE_FROST_BREATH_FASTª!Ú  à@"frost_breath_fast(0I
+#COMBAT_V0218_MOVE_FROST_BREATH_FASTª!Ú  À@"frost_breath_fast(0I
 #COMBAT_V0219_MOVE_QUICK_ATTACK_FASTª!Û   @"quick_attack_fast(0=
 COMBAT_V0220_MOVE_SCRATCH_FASTªÜ  €@"scratch_fast0;
 COMBAT_V0221_MOVE_TACKLE_FASTªÝ  @@"tackle_fast0;
@@ -940,7 +940,7 @@ pound_fast(05
 *COMBAT_V0232_MOVE_WATER_GUN_FAST_BLASTOISEª(è  À@"water_gun_fast_blastoise(0A
 COMBAT_V0233_MOVE_MUD_SLAP_FASTªé  A"mud_slap_fast(0I
 #COMBAT_V0234_MOVE_ZEN_HEADBUTT_FASTª!ê   A"zen_headbutt_fast(0C
- COMBAT_V0235_MOVE_CONFUSION_FASTªë  €A"confusion_fast(0I
+ COMBAT_V0235_MOVE_CONFUSION_FASTªë  @A"confusion_fast(0I
 #COMBAT_V0236_MOVE_POISON_STING_FASTª!ì  @@"poison_sting_fast(0=
 COMBAT_V0237_MOVE_BUBBLE_FASTªí   A"bubble_fast(0I
 #COMBAT_V0238_MOVE_FEINT_ATTACK_FASTª!î  À@"feint_attack_fast(0E
@@ -1003,7 +1003,7 @@ snarl_fast(0
 COMBAT_V0280_MOVE_FOUL_PLAYª ˜  ŒB"	foul_play0ÓÿÿÿÿÿÿÿÿI
 #COMBAT_V0281_MOVE_HIDDEN_POWER_FASTª!™  A"hidden_power_fast(0C
  COMBAT_V0282_MOVE_TAKE_DOWN_FASTªš   @"take_down_fast(0C
- COMBAT_V0283_MOVE_WATERFALL_FASTª›  @A"waterfall_fast(06
+ COMBAT_V0283_MOVE_WATERFALL_FASTª›   A"waterfall_fast(06
 COMBAT_V0284_MOVE_SURFªœ  ‚B"surf0ØÿÿÿÿÿÿÿÿF
 COMBAT_V0285_MOVE_DRACO_METEORª#  C"draco_meteor0µÿÿÿÿÿÿÿÿD
 COMBAT_V0286_MOVE_DOOM_DESIREª"ž	   B"doom_desire0Ýÿÿÿÿÿÿÿÿ4
@@ -1018,7 +1018,7 @@ snarl_fast(0
 #COMBAT_V0294_MOVE_WEATHER_BALL_ROCKª(¦  pB"weather_ball_rock0ÝÿÿÿÿÿÿÿÿR
 $COMBAT_V0295_MOVE_WEATHER_BALL_WATERª)§  pB"weather_ball_water0ÝÿÿÿÿÿÿÿÿF
 COMBAT_V0296_MOVE_FRENZY_PLANTª#¨  ÈB"frenzy_plant0ÓÿÿÿÿÿÿÿÿE
-!COMBAT_V0297_MOVE_SMACK_DOWN_FASTª©  @A"smack_down_fast(0B
+!COMBAT_V0297_MOVE_SMACK_DOWN_FASTª©   A"smack_down_fast(0B
 COMBAT_V0298_MOVE_BLAST_BURNª!ª
   ÜB"
 blast_burn0ÎÿÿÿÿÿÿÿÿF
@@ -4042,8 +4042,8 @@ W? 2{?  €?š™Ù?%   ?-   ?:UÍÌL>Âu=  €>%š™?-  €>0=  0AEÍÌŒ?M   APXÈ
 V0413_POKEMON_WORMADAM_PLANT±®G¡? (27‰Á>®Ga>7‰Á>%š™™>-   ?:Uš™>)\=%>%%>-%>0=   AEfff?M  èAPXÈeÍÌL=mš™™>u  €?}  €?…  @ÍÌL>•ÍÌÌ?B	›´JëÉR‘1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}   ?…  Ð@ˆœ•  €=  P?¨œ°½  €?Í   ?Ý  €?àWú            ‚              ˜A’d;ß=Zd>þÔx>¢N¨°Ì
 V0413_POKEMON_WORMADAM_SANDY«®G¡? (27‰Á>%>7‰Á>-   ?:Uš™>)\=7‰A>%%>-%>0=   AEfff?M  èAPXÈeÍÌL=mš™™>u  €?}  €?…  @ÍÌL>•ÍÌÌ?B	›´JëÉR_1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}   ?…  Ð@ˆœ•  €=  P?¨œ°½  €?Í   ?Ý  €?àXú            ‚              ˜A’d;ß=Zd>þÔx>¢N¨°Ë
 V0413_POKEMON_WORMADAM_TRASHª®G¡? (	27‰Á>%>7‰Á>-   ?:Uš™>)\=7‰A>%%>-%>0=   AEfff?M  èAPXÈeÍÌL=mš™™>u  €?}  €?…  @ÍÌL>•ÍÌÌ?B›¯JëÉRJ1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}   ?…  Ð@ˆœ•  €=  P?¨œ°½  €?Í   ?Ý  €?àYú            ‚              ˜A’d;ß=Zd>þÔx>¢N¨°²
-V0414_POKEMON_MOTHIM™ž®G¡? (27‰Á>%>ff&?%ÍÌÌ>-   ?:Uš™>)\=Âõ=%%>-%>0=   AEfff?M  èAPXÈeÍÌL>mš™™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B¬¹bJÿÉR-1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}fff?…ffºA•ffæ=ff:@¨œ°½  €?Ífff?Ý  €?ú          ZÂ‚          ZÂ  ˜A¢N¨°Á
-V0415_POKEMON_COMBEE¨Ÿ®G¡? (27‰Á>{.>33³>%ÍÌÌ>-   ?:Pš™>)\=)\>%%>-ÍÌÌ=0=   AEfff?M  èAeÍÌL=mÍÌÌ>u  €?}  €?…  @ÍÌL>•ÍÌÌ?Bf;SJÉR1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}š™™>…  °@•š™=  0?¨Ÿ°½  @@Íš™™>Ò 20Ý\¢?ú          ¨A‚          ¨A  ˜A’`åP½    5^:¾¢Ð†2¨°Ê
+V0414_POKEMON_MOTHIM™ž®G¡? (27‰Á>%>ff&?%ÍÌÌ>-   ?:Uš™>)\=Âõ=%%>-%>0=   AEfff?M  èAPXÈeÍÌL>mš™™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B¬¹bJÿÉR-1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}fff?…ffºA•ffæ=ff:@¨œ°½  €?Ífff?Ý  €?ú          ZÂ‚          ZÂ  ˜A¢N¨°Æ
+V0415_POKEMON_COMBEE­Ÿ®G¡? (27‰Á>{.>33³>%ÍÌÌ>-   ?:Uš™>)\=)\>%%>-ÍÌÌ=0=   AEfff?M  èAPXÈeÍÌL=mÍÌÌ>u  €?}  €?…  @ÍÌL>•ÍÌÌ?Bf;SJÉR1Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}š™™>…  °@•š™=  0?¨Ÿ°½  @@Íš™™>Ò 20Ý\¢?ú          ¨A‚          ¨A  ˜A’`åP½    5^:¾¢Ð†2¨°Ê
 V0416_POKEMON_VESPIQUEN® ®G¡? (27‰Á>š™?š™™?%%>-   ?:Uš™>)\=ÍÌL>%%>-%>0=   AEfff?M  èAPXÈeÍÌL>mš™™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B	¬•¾JÉìR1AdZ 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}š™™?…  BˆŸ•š™>  š@¨Ÿ°½  @@Í\¢?Ý  €?úš™YÀ   ÁÍÌ\Â‚š™YÀ   ÁÍÌ\Â  ˜A’Âu>Âu=š™?¢Ð†2¨°¹
 V0417_POKEMON_PACHIRISU¡®G¡? 27‰Á>%>7‰Á>-   ?:Pš™™>ìQ¸=ÍÌL=%ÍÌL=-
 ×£=0=   AE333?M  èAeÍÌÌ=mš™>u  €?}  €?…  @ÍÌL>•ÍÌÌ?B›^¬JÎúRNOMZ 33ó?Ú¬*?ffæ?:#â?    š™@à]?    h}ÍÌÌ>…š™y@•ÍÌL=š™ù>¨¡°½   @ÍÍÌÌ>ÝÍÌŒ?ú            ‚              ˜A’P>+‡½Ãõ¨>¢øÉK¨°¯
@@ -6321,4 +6321,4 @@ $vfx attacker solar_beam_charge_waist
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys completeæ™»ÖŒ-
+sys completeÝÏšÔŒ-
