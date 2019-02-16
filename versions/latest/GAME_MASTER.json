@@ -7572,7 +7572,8 @@
       "energyDelta": -45,
       "buffs": {
         "attackerAttackStatStageChange": 2,
-        "attackerDefenseStatStageChange": 2
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
       }
     }
   }, {
@@ -7630,7 +7631,8 @@
       "energyDelta": -40,
       "buffs": {
         "attackerAttackStatStageChange": 2,
-        "attackerDefenseStatStageChange": 2
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
       }
     }
   }, {
@@ -8717,7 +8719,8 @@
       "energyDelta": -45,
       "buffs": {
         "attackerAttackStatStageChange": 2,
-        "attackerDefenseStatStageChange": 2
+        "attackerDefenseStatStageChange": 2,
+        "buffActivationChance": 0.1
       }
     }
   }, {
@@ -10952,7 +10955,7 @@
         "form": "SPINDA_07",
         "assetBundleValue": 18
       }, {
-        "form": 121,
+        "form": "SPINDA_08",
         "assetBundleValue": 19
       }]
     }
@@ -41112,7 +41115,8 @@
       "evolutionBranch": [{
         "evolution": "GALLADE",
         "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "genderRequirement": "MALE"
       }, {
         "evolution": "GARDEVOIR",
         "candyCost": 100
@@ -46631,7 +46635,8 @@
       "evolutionBranch": [{
         "evolution": "FROSLASS",
         "evolutionItemRequirement": "ITEM_GEN4_EVOLUTION_STONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "GLALIE",
         "candyCost": 100
@@ -50050,10 +50055,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_PLANT"
+        "form": "WORMADAM_PLANT",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "buddyOffsetMale": [0.0, 0.0, 0.0],
@@ -50117,10 +50124,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_PLANT"
+        "form": "WORMADAM_PLANT",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_PLANT",
@@ -50185,10 +50194,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_SANDY"
+        "form": "WORMADAM_SANDY",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_SANDY",
@@ -50253,10 +50264,12 @@
       "evolutionBranch": [{
         "evolution": "WORMADAM",
         "candyCost": 50,
-        "form": "WORMADAM_TRASH"
+        "form": "WORMADAM_TRASH",
+        "genderRequirement": "FEMALE"
       }, {
         "evolution": "MOTHIM",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "MALE"
       }],
       "modelScaleV2": 1.18,
       "form": "BURMY_TRASH",
@@ -50640,7 +50653,8 @@
       "modelHeight": 0.3,
       "evolutionBranch": [{
         "evolution": "VESPIQUEN",
-        "candyCost": 50
+        "candyCost": 50,
+        "genderRequirement": "FEMALE"
       }],
       "modelScaleV2": 1.27,
       "buddyOffsetMale": [0.0, 0.0, 21.0],
