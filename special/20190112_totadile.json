@@ -1,0 +1,67 @@
+{
+	"itemTemplates": [
+ {
+    "templateId": "V0160_POKEMON_FERALIGATR",
+    "pokemonSettings": {
+      "pokemonId": "FERALIGATR",
+      "modelScale": 0.73,
+      "type": "POKEMON_TYPE_WATER",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 1.25,
+        "cylinderHeightM": 1.75,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.05,
+        "baseFleeRate": 0.05,
+        "collisionRadiusM": 0.6,
+        "collisionHeightM": 1.6,
+        "collisionHeadRadiusM": 0.37,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.2,
+        "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.2,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.07375,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 198,
+        "baseAttack": 205,
+        "baseDefense": 188
+      },
+      "quickMoves": ["WATERFALL_FAST", "BITE_FAST"],
+      "cinematicMoves": ["HYDRO_CANNON"],
+      "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 2.31,
+      "pokedexWeightKg": 88.8,
+      "parentPokemonId": "CROCONAW",
+      "heightStdDev": 0.28875,
+      "weightStdDev": 11.1,
+      "familyId": "FAMILY_TOTODILE",
+      "kmBuddyDistance": 3.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.05,
+      "modelScaleV2": 0.99,
+      "buddyOffsetMale": [11.38, 0.0, 14.82],
+      "buddyOffsetFemale": [11.38, 0.0, 14.82],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true
+    }
+  }
+	]
+}
