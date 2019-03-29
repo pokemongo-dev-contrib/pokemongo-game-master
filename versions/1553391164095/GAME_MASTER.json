@@ -12653,10 +12653,6 @@
       "maxQuestEncounterPlayerLevel": 15
     }
   }, {
-    "templateId": "POKECOIN_PURCHASE_DISPLAY_GMT",
-    "pokecoinPurchaseDisplayGmt": {
-    }
-  }, {
     "templateId": "POKEMON_SCALE_SETTINGS_BATTLE_POKEMON_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "BattlePokemonScale",
@@ -20051,7 +20047,7 @@
         "baseDefense": 153
       },
       "quickMoves": ["BITE_FAST", "ACID_FAST", "DRAGON_TAIL_FAST"],
-      "cinematicMoves": ["DARK_PULSE", "SLUDGE_WAVE", "GUNK_SHOT", "ACID_SPRAY"],
+      "cinematicMoves": ["DARK_PULSE", "SLUDGE_WAVE", "GUNK_SHOT"],
       "animationTime": [2.6667, 0.6667, 1.6667, 1.5, 0.0, 2.6667, 2.6667, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 3.5,
@@ -24804,7 +24800,7 @@
         "baseDefense": 135
       },
       "quickMoves": ["RAZOR_LEAF_FAST", "ACID_FAST"],
-      "cinematicMoves": ["LEAF_BLADE", "SLUDGE_BOMB", "SOLAR_BEAM", "LEAF_TORNADO", "ACID_SPRAY"],
+      "cinematicMoves": ["LEAF_BLADE", "SLUDGE_BOMB", "SOLAR_BEAM"],
       "animationTime": [2.0, 0.6667, 1.6667, 0.6667, 0.0, 2.1667, 2.0, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.7,
@@ -24950,7 +24946,7 @@
         "baseDefense": 209
       },
       "quickMoves": ["ACID_FAST", "POISON_JAB_FAST"],
-      "cinematicMoves": ["HYDRO_PUMP", "SLUDGE_WAVE", "BLIZZARD", "ACID_SPRAY"],
+      "cinematicMoves": ["HYDRO_PUMP", "SLUDGE_WAVE", "BLIZZARD"],
       "animationTime": [2.1667, 0.6667, 1.3333, 0.6667, 0.0, 2.0, 2.6667, 2.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.6,
@@ -26756,7 +26752,7 @@
         "baseDefense": 172
       },
       "quickMoves": ["INFESTATION_FAST", "POISON_JAB_FAST"],
-      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE", "THUNDER_PUNCH", "ACID_SPRAY"],
+      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE", "THUNDER_PUNCH"],
       "animationTime": [2.0, 1.0, 1.6667, 2.1667, 10.0, 2.0, 2.6667, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
@@ -26818,7 +26814,7 @@
         "baseDefense": 172
       },
       "quickMoves": ["BITE_FAST", "POISON_JAB_FAST", "SNARL_FAST"],
-      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE", "ACID_SPRAY"],
+      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE"],
       "animationTime": [2.0, 1.0, 1.6667, 2.1667, 10.0, 2.0, 2.6667, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.0,
@@ -26881,7 +26877,7 @@
         "baseDefense": 172
       },
       "quickMoves": ["INFESTATION_FAST", "POISON_JAB_FAST"],
-      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE", "THUNDER_PUNCH", "ACID_SPRAY"],
+      "cinematicMoves": ["DARK_PULSE", "GUNK_SHOT", "SLUDGE_WAVE", "THUNDER_PUNCH"],
       "animationTime": [2.0, 1.0, 1.6667, 2.1667, 10.0, 2.0, 2.6667, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
@@ -34479,7 +34475,7 @@
         "baseDefense": 143
       },
       "quickMoves": ["WATER_GUN_FAST", "MUD_SHOT_FAST"],
-      "cinematicMoves": ["SLUDGE_BOMB", "EARTHQUAKE", "STONE_EDGE", "ACID_SPRAY"],
+      "cinematicMoves": ["SLUDGE_BOMB", "EARTHQUAKE", "STONE_EDGE"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.4,
@@ -35667,7 +35663,7 @@
         "baseDefense": 138
       },
       "quickMoves": ["POISON_STING_FAST", "WATER_GUN_FAST"],
-      "cinematicMoves": ["AQUA_TAIL", "ICE_BEAM", "SLUDGE_WAVE", "ACID_SPRAY"],
+      "cinematicMoves": ["AQUA_TAIL", "ICE_BEAM", "SLUDGE_WAVE"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 0.51,
@@ -36693,7 +36689,7 @@
         "baseDefense": 141
       },
       "quickMoves": ["WATER_GUN_FAST", "MUD_SHOT_FAST"],
-      "cinematicMoves": ["GUNK_SHOT", "WATER_PULSE", "AURORA_BEAM", "ACID_SPRAY"],
+      "cinematicMoves": ["GUNK_SHOT", "WATER_PULSE", "AURORA_BEAM"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 0.89,
@@ -40743,7 +40739,7 @@
         "baseDefense": 121
       },
       "quickMoves": ["RAZOR_LEAF_FAST", "FEINT_ATTACK_FAST"],
-      "cinematicMoves": ["LEAF_BLADE", "HURRICANE", "FOUL_PLAY", "LEAF_TORNADO"],
+      "cinematicMoves": ["LEAF_BLADE", "HURRICANE", "FOUL_PLAY"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.3,
@@ -43835,7 +43831,7 @@
         "baseDefense": 159
       },
       "quickMoves": ["ROCK_SMASH_FAST", "INFESTATION_FAST"],
-      "cinematicMoves": ["GUNK_SHOT", "SLUDGE_BOMB", "ICE_BEAM", "ACID_SPRAY"],
+      "cinematicMoves": ["GUNK_SHOT", "SLUDGE_BOMB", "ICE_BEAM"],
       "animationTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.7,
@@ -56155,8 +56151,8 @@
       "type2": "POKEMON_TYPE_DRAGON",
       "camera": {
         "diskRadiusM": 0.378,
-        "cylinderRadiusM": 3.5,
-        "cylinderHeightM": 5.0,
+        "cylinderRadiusM": 0.252,
+        "cylinderHeightM": 0.378,
         "shoulderModeScale": 0.5
       },
       "encounter": {
@@ -56173,7 +56169,7 @@
         "dodgeProbability": 0.05,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
-        "cameraDistance": 5.0,
+        "cameraDistance": 2.25,
         "minPokemonActionFrequencyS": 0.2,
         "maxPokemonActionFrequencyS": 1.6
       },
@@ -56182,8 +56178,8 @@
         "baseAttack": 225,
         "baseDefense": 187
       },
-      "quickMoves": ["DRAGON_TAIL_FAST", "SHADOW_CLAW_FAST"],
-      "cinematicMoves": ["DRAGON_PULSE", "OMINOUS_WIND", "SHADOW_BALL"],
+      "quickMoves": ["DRAGON_BREATH_FAST", "SHADOW_CLAW_FAST"],
+      "cinematicMoves": ["DRAGON_CLAW", "ANCIENT_POWER", "SHADOW_SNEAK"],
       "animationTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
       "evolutionPips": 1,
       "rarity": "POKEMON_RARITY_LEGENDARY",
@@ -65093,5 +65089,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1553755575855"
+  "timestampMs": "1553391164095"
 }
