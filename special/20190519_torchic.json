@@ -43,10 +43,7 @@
 					"FIRE_SPIN_FAST"
 				],
 				"cinematicMoves": [
-					"FOCUS_BLAST",
-					"OVERHEAT",
-					"BRAVE_BIRD",
-					"BLAZE_KICK"
+					"BLAST_BURN"
 				],
 				"animationTime": [
 					1.3333,
