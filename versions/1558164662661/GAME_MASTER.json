@@ -7778,7 +7778,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_18_APR_2019",
     "badgeSettings": {
-      "badgeType": 2048,
+      "badgeType": "BADGE_SENTOSA_18_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7786,7 +7786,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_19_APR_2019",
     "badgeSettings": {
-      "badgeType": 2049,
+      "badgeType": "BADGE_SENTOSA_19_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7794,7 +7794,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_20_APR_2019",
     "badgeSettings": {
-      "badgeType": 2050,
+      "badgeType": "BADGE_SENTOSA_20_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7802,7 +7802,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_21_APR_2019",
     "badgeSettings": {
-      "badgeType": 2051,
+      "badgeType": "BADGE_SENTOSA_21_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7810,7 +7810,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_22_APR_2019",
     "badgeSettings": {
-      "badgeType": 2052,
+      "badgeType": "BADGE_SENTOSA_22_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -13457,7 +13457,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_GLACIAL",
     "itemSettings": {
-      "itemId": 502,
+      "itemId": "ITEM_TROY_DISK_GLACIAL",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -13465,7 +13465,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_MAGNETIC",
     "itemSettings": {
-      "itemId": 504,
+      "itemId": "ITEM_TROY_DISK_MAGNETIC",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -13473,7 +13473,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_MOSSY",
     "itemSettings": {
-      "itemId": 503,
+      "itemId": "ITEM_TROY_DISK_MOSSY",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -26979,7 +26979,8 @@
       "modelHeight": 0.8,
       "evolutionBranch": [{
         "evolution": "MAGNEZONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
       }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [10.0, 0.0, 140.0],
@@ -31414,17 +31415,27 @@
       }, {
         "evolution": "ESPEON",
         "candyCost": 25,
-        "kmBuddyDistanceRequirement": 10.0
+        "kmBuddyDistanceRequirement": 10.0,
+        "mustBeBuddy": true,
+        "onlyDaytime": true,
+        "priority": 100
       }, {
         "evolution": "UMBREON",
         "candyCost": 25,
-        "kmBuddyDistanceRequirement": 10.0
+        "kmBuddyDistanceRequirement": 10.0,
+        "mustBeBuddy": true,
+        "onlyNighttime": true,
+        "priority": 100
       }, {
         "evolution": "LEAFEON",
-        "candyCost": 25
+        "candyCost": 25,
+        "lureItemRequirement": "ITEM_TROY_DISK_MOSSY",
+        "priority": 200
       }, {
         "evolution": "GLACEON",
-        "candyCost": 25
+        "candyCost": 25,
+        "lureItemRequirement": "ITEM_TROY_DISK_GLACIAL",
+        "priority": 200
       }],
       "modelScaleV2": 1.27,
       "buddyOffsetMale": [0.0, 0.0, 0.0],
@@ -43597,7 +43608,8 @@
       "modelHeight": 1.0,
       "evolutionBranch": [{
         "evolution": "PROBOPASS",
-        "candyCost": 50
+        "candyCost": 50,
+        "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
       }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [20.0, 0.0, 65.0],
