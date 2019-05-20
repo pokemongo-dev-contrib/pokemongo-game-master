@@ -13545,14 +13545,9 @@
   }, {
     "templateId": "PARTY_RECOMMENDATION_SETTINGS",
     "partyRecommendationSettings": {
-<<<<<<< HEAD
-      "mode": "PARTY_RECOMMENDATION_MODE_1",
-      "thirdMoveWeight": 0.02
-=======
       "mode": "PARTY_RECOMMENDATION_MODE_2",
       "variance": 0.01,
       "thirdMoveWeight": 0.05
->>>>>>> 1ca4d13c98e7f24c491d22ebe474be59d8e4fee7
     }
   }, {
     "templateId": "PLAYER_LEVEL_SETTINGS",
@@ -66059,9 +66054,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-<<<<<<< HEAD
-  "timestampMs": "1554016922334"
-=======
   "timestampMs": "1558164662661"
->>>>>>> 1ca4d13c98e7f24c491d22ebe474be59d8e4fee7
 }
