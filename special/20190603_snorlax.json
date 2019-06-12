@@ -1,0 +1,66 @@
+{
+	"itemTemplates": [
+{
+    "templateId": "V0143_POKEMON_SNORLAX",
+    "pokemonSettings": {
+      "pokemonId": "SNORLAX",
+      "modelScale": 0.74,
+      "type": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 1.11,
+        "cylinderRadiusM": 1.15,
+        "cylinderHeightM": 2.0,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.05,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.74,
+        "collisionHeightM": 1.11,
+        "collisionHeadRadiusM": 0.481,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 3.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 8.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.05,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.55,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 330,
+        "baseAttack": 190,
+        "baseDefense": 169
+      },
+      "quickMoves": ["YAWN_FAST"],
+      "cinematicMoves": ["HEAVY_SLAM", "HYPER_BEAM", "EARTHQUAKE", "OUTRAGE"],
+      "animationTime": [2.4, 0.6667, 1.8333, 1.6667, 0.0, 2.5, 2.5, 2.333333],
+      "evolutionPips": 1,
+      "pokedexHeightM": 2.1,
+      "pokedexWeightKg": 460.0,
+      "parentPokemonId": "MUNCHLAX",
+      "heightStdDev": 0.2625,
+      "weightStdDev": 57.5,
+      "familyId": "FAMILY_SNORLAX",
+      "kmBuddyDistance": 5.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.0,
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 28.01],
+      "buddyOffsetFemale": [10.0, 0.0, 28.01],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, -0.18, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 75000,
+        "candyToUnlock": 75
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
+      "combatDefaultCameraAngle": [2.7, 2.0, 2.0]
+    }
+  }	]
+}
