@@ -7848,7 +7848,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5002,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7856,7 +7856,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5001,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_00_NORTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7864,7 +7864,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5004,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7872,7 +7872,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5003,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_00_SOUTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7880,7 +7880,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5006,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7888,7 +7888,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5005,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_01_NORTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7896,7 +7896,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5008,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7904,7 +7904,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5007,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_01_SOUTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7912,7 +7912,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5010,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7920,7 +7920,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5009,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_02_NORTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7928,7 +7928,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5012,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7936,7 +7936,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5011,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_02_SOUTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7944,7 +7944,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5014,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7952,7 +7952,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5013,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_03_NORTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7960,7 +7960,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5016,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7968,7 +7968,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5015,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_03_SOUTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7976,7 +7976,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5018,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7984,7 +7984,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5017,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_04_NORTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -7992,7 +7992,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_EARLYACCESS",
     "badgeSettings": {
-      "badgeType": 5020,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_EARLYACCESS",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8000,7 +8000,7 @@
   }, {
     "templateId": "BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_GENERAL",
     "badgeSettings": {
-      "badgeType": 5019,
+      "badgeType": "BADGE_GOFEST_2019_AMERICAS_DAY_04_SOUTH_GENERAL",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8154,7 +8154,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_18_APR_2019",
     "badgeSettings": {
-      "badgeType": 2048,
+      "badgeType": "BADGE_SENTOSA_18_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8162,7 +8162,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_19_APR_2019",
     "badgeSettings": {
-      "badgeType": 2049,
+      "badgeType": "BADGE_SENTOSA_19_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8170,7 +8170,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_20_APR_2019",
     "badgeSettings": {
-      "badgeType": 2050,
+      "badgeType": "BADGE_SENTOSA_20_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8178,7 +8178,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_21_APR_2019",
     "badgeSettings": {
-      "badgeType": 2051,
+      "badgeType": "BADGE_SENTOSA_21_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -8186,7 +8186,7 @@
   }, {
     "templateId": "BADGE_SENTOSA_22_APR_2019",
     "badgeSettings": {
-      "badgeType": 2052,
+      "badgeType": "BADGE_SENTOSA_22_APR_2019",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -10447,7 +10447,7 @@
   }, {
     "templateId": "COMBAT_V0320_MOVE_CHARM_FAST",
     "combatMove": {
-      "uniqueId": 320,
+      "uniqueId": "CHARM_FAST",
       "type": "POKEMON_TYPE_FAIRY",
       "power": 16.0,
       "vfxName": "charm_fast",
@@ -13843,7 +13843,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_GLACIAL",
     "itemSettings": {
-      "itemId": 502,
+      "itemId": "ITEM_TROY_DISK_GLACIAL",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -13851,7 +13851,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_MAGNETIC",
     "itemSettings": {
-      "itemId": 504,
+      "itemId": "ITEM_TROY_DISK_MAGNETIC",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -13859,7 +13859,7 @@
   }, {
     "templateId": "ITEM_TROY_DISK_MOSSY",
     "itemSettings": {
-      "itemId": 503,
+      "itemId": "ITEM_TROY_DISK_MOSSY",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
       "dropTrainerLevel": 100
@@ -27366,7 +27366,8 @@
       "modelHeight": 0.8,
       "evolutionBranch": [{
         "evolution": "MAGNEZONE",
-        "candyCost": 100
+        "candyCost": 100,
+        "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
       }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [10.0, 0.0, 140.0],
@@ -31801,17 +31802,27 @@
       }, {
         "evolution": "ESPEON",
         "candyCost": 25,
-        "kmBuddyDistanceRequirement": 10.0
+        "kmBuddyDistanceRequirement": 10.0,
+        "mustBeBuddy": true,
+        "onlyDaytime": true,
+        "priority": 100
       }, {
         "evolution": "UMBREON",
         "candyCost": 25,
-        "kmBuddyDistanceRequirement": 10.0
+        "kmBuddyDistanceRequirement": 10.0,
+        "mustBeBuddy": true,
+        "onlyNighttime": true,
+        "priority": 100
       }, {
         "evolution": "LEAFEON",
-        "candyCost": 25
+        "candyCost": 25,
+        "lureItemRequirement": "ITEM_TROY_DISK_MOSSY",
+        "priority": 200
       }, {
         "evolution": "GLACEON",
-        "candyCost": 25
+        "candyCost": 25,
+        "lureItemRequirement": "ITEM_TROY_DISK_GLACIAL",
+        "priority": 200
       }],
       "modelScaleV2": 1.27,
       "buddyOffsetMale": [0.0, 0.0, 0.0],
@@ -43984,7 +43995,8 @@
       "modelHeight": 1.0,
       "evolutionBranch": [{
         "evolution": "PROBOPASS",
-        "candyCost": 50
+        "candyCost": 50,
+        "lureItemRequirement": "ITEM_TROY_DISK_MAGNETIC"
       }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [20.0, 0.0, 65.0],
@@ -45351,7 +45363,7 @@
   }, {
     "templateId": "V0320_MOVE_CHARM_FAST",
     "moveSettings": {
-      "movementId": 320,
+      "movementId": "CHARM_FAST",
       "animationId": 4,
       "pokemonType": "POKEMON_TYPE_FAIRY",
       "power": 20.0,
