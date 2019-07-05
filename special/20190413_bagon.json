@@ -1,0 +1,91 @@
+{
+	"itemTemplates": [
+		{
+			"templateId": "V0373_POKEMON_SALAMENCE",
+			"pokemonSettings": {
+				"pokemonId": "SALAMENCE",
+				"modelScale": 0.82,
+				"type": "POKEMON_TYPE_DRAGON",
+				"type2": "POKEMON_TYPE_FLYING",
+				"camera": {
+					"diskRadiusM": 0.555,
+					"cylinderRadiusM": 1.7,
+					"cylinderHeightM": 1.7,
+					"cylinderGroundM": 0.4,
+					"shoulderModeScale": 0.5
+				},
+				"encounter": {
+					"baseCaptureRate": 0.05,
+					"baseFleeRate": 0.05,
+					"collisionRadiusM": 0.25,
+					"collisionHeightM": 0.6,
+					"collisionHeadRadiusM": 0.25,
+					"movementType": "MOVEMENT_FLYING",
+					"movementTimerS": 11.0,
+					"jumpTimeS": 1.1,
+					"attackTimerS": 20.0,
+					"bonusCandyCaptureReward": 7,
+					"bonusStardustCaptureReward": 400,
+					"attackProbability": 0.3,
+					"dodgeProbability": 0.15,
+					"dodgeDurationS": 1.0,
+					"dodgeDistance": 1.0,
+					"cameraDistance": 5.0,
+					"minPokemonActionFrequencyS": 0.2,
+					"maxPokemonActionFrequencyS": 1.6
+				},
+				"stats": {
+					"baseStamina": 216,
+					"baseAttack": 277,
+					"baseDefense": 168
+				},
+				"quickMoves": [
+					"DRAGON_TAIL_FAST",
+					"FIRE_FANG_FAST",
+					"BITE_FAST"
+				],
+				"cinematicMoves": [
+					"OUTRAGE"
+				],
+				"animationTime": [
+					1.3333,
+					0.6667,
+					1.6667,
+					2.0,
+					0.0,
+					2.0,
+					3.0,
+					3.0
+				],
+				"evolutionPips": 1,
+				"pokedexHeightM": 1.5,
+				"pokedexWeightKg": 102.6,
+				"parentPokemonId": "SHELGON",
+				"heightStdDev": 0.1875,
+				"weightStdDev": 12.825,
+				"familyId": "FAMILY_BAGON",
+				"kmBuddyDistance": 5.0,
+				"buddySize": "BUDDY_BIG",
+				"modelHeight": 1.6,
+				"modelScaleV2": 1.0,
+				"buddyOffsetMale": [
+					0.0,
+					0.0,
+					0.0
+				],
+				"buddyOffsetFemale": [
+					0.0,
+					0.0,
+					0.0
+				],
+				"buddyScale": 19.0,
+				"thirdMove": {
+					"stardustToUnlock": 75000,
+					"candyToUnlock": 75
+				},
+				"isTransferable": true,
+				"isDeployable": true
+			}
+		}
+	]
+}
