@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.pokebattler:pogoprotos:2.30.1" level="project" />
+    <orderEntry type="library" name="Maven: com.pokebattler:pogoprotos:2.46.0" level="project" />
     <orderEntry type="module-library">
       <library name="Maven: com.pokebattler:pogoprotos:2.46.0">
         <CLASSES>
