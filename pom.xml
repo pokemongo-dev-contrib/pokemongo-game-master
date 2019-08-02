@@ -23,7 +23,7 @@
             <version>${pogoprotos.version}</version>
             <type>jar</type>
             <!--<scope>system</scope>-->
-            <!--<systemPath>${project.basedir}/lib/pogoprotos-${pogoprotos.version}.jar</systemPath>-->
+            <!--<systemPath>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</systemPath>-->
         </dependency>
         <dependency>
             <groupId>com.google.protobuf</groupId>
