@@ -10,7 +10,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.pokebattler:pogoprotos:2.46.0" level="project" />
+    <orderEntry type="library" name="Maven: com.pokebattler:pogoprotos:2.46.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java-util:3.9.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.9.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:26.0-android" level="project" />
