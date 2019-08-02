@@ -1355,7 +1355,8 @@ blaze_kick0ÿˇˇˇˇˇˇˇˇS
 COMBAT_V0320_MOVE_CHARM_FAST™¿  ÄA"
 charm_fast(0D
 COMBAT_V0322_MOVE_FRUSTRATION™"¬   A"frustration0ÿˇˇˇˇˇˇˇˇ:
-COMBAT_V0323_MOVE_RETURN™√  HB"return0ÿˇˇˇˇˇˇˇˇ8
+COMBAT_V0323_MOVE_RETURN™√  HB"return0ÿˇˇˇˇˇˇˇˇF
+COMBAT_V0324_MOVE_SYNCHRONOISE™#ƒ  †B"synchronoise0Œˇˇˇˇˇˇˇˇ8
 ENCOUNTER_SETTINGSz"   ?öôŸ?ff¶?%  Ä?(d0=   ?Eöôô>
 EX_RAID_SETTINGS¢3
 FORMS_V0001_POKEMON_BULBASAUR≤£§•1
@@ -4673,7 +4674,9 @@ charm_fast`‹hÑp∞	x∑
 V0323_MOVE_RETURN"5√%  B-  Ä?E
 ◊#<HPdZreturn`ºhdpﬁxﬂˇˇˇˇˇˇˇˇ∂
 V0323_POKEMON_CAMERUPTõ√ÕÃL? 
-(2{?  ¿?ÕÃÃ?-   ?:SÕÃL>è¬u=  Ä>%  Ä?-  Ä>=  0AEÕÃå?M  †APX»eÕÃL>möô>u  Ä?}  Ä?Ö  †@çÕÃL>ïÕÃÃ?B	¨¬àJ—ÒRét∞Z ì©™?⁄¨*?mV’?   @       @  @@  @@h}·zÙ?Ö  \Cà¬ï·zt>ù  ‹A®¬Ω  @@¿Õ≈NÏ?›  Ä?˙            Ç            ç  òA¢–Ü2®∞¥
+(2{?  ¿?ÕÃÃ?-   ?:SÕÃL>è¬u=  Ä>%  Ä?-  Ä>=  0AEÕÃå?M  †APX»eÕÃL>möô>u  Ä?}  Ä?Ö  †@çÕÃL>ïÕÃÃ?B	¨¬àJ—ÒRét∞Z ì©™?⁄¨*?mV’?   @       @  @@  @@h}·zÙ?Ö  \Cà¬ï·zt>ù  ‹A®¬Ω  @@¿Õ≈NÏ?›  Ä?˙            Ç            ç  òA¢–Ü2®∞W
+V0324_MOVE_SYNCHRONOISE"<ƒ%  †B-  Ä?E
+◊#<HPdZsynchronoise`®h“p¿xŒˇˇˇˇˇˇˇˇ¥
 V0324_POKEMON_TORKOALöƒÖã? 
 2{?333?fff?-   ?:Nöôô>ÏQ∏=  Ä>%öôô>-  Ä>=  0AEÕÃå?M  †AeÕÃÃ=möô>u  Ä?}  Ä?Ö  @@çÕÃL>ïÕÃÃ?B	¨óÀJç—RétZ ì©™?⁄¨*?mV’?   @       @  @@  @@h}\è?ÖÕÃ†Bï\èÇ=ùÕÃ A®ƒΩ  @@ÕÖÎQ?›  Ä?˙            Ç            ç  òAíˆ(‹>ÕÃÃ=Öã?¢–Ü2®∞∫
 V0325_POKEMON_SPOINK°≈ÕÃÃ? 2{?   ?  Ä?-   ?:P   ?ÕÃÃ=  Ä>%öô?-  Ä>0=  0AE  ¿?M  †AeÕÃL>möô>u  Ä?}  Ä?Ö  Ä@çÕÃL>ïÕÃÃ?Bõ}zJÁÍRFîZ ì©™?⁄¨*?mV’?   @       @  @@  @@h}è¬5?ÖÕÃÙAïè¬µ=ùÕÃt@®≈Ω  Ä?Õ¶õD?“∆2›  Ä?˙            Ç            ç  òAí)\>§pΩæ=
@@ -6978,6 +6981,14 @@ $vfx attacker solar_beam_charge_waist
 sfx attacker 129-0_swift
 wait 2.0
 sys ui-sync
+sys completeì
+sequence_synchronoise*z
+anim attacker atk-move
+wait 0.5
+vfx synchronoise
+sfx attacker 485-0_synchronoise
+wait 1.5
+sys ui-sync
 sys completeµ
 sequence_tackle_fast*ú
 anim attacker atk-move
@@ -7207,4 +7218,4 @@ $vfx attacker solar_beam_charge_waist
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys completeπ´—õ»-
+sys complete∑¶◊Í…-
