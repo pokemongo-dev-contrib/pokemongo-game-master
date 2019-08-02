@@ -11732,15 +11732,6 @@
       "energyDelta": -40
     }
   }, {
-    "templateId": "COMBAT_V0324_MOVE_SYNCHRONOISE",
-    "combatMove": {
-      "uniqueId": "SYNCHRONOISE",
-      "type": "POKEMON_TYPE_PSYCHIC",
-      "power": 80.0,
-      "vfxName": "synchronoise",
-      "energyDelta": -50
-    }
-  }, {
     "templateId": "ENCOUNTER_SETTINGS",
     "encounterSettings": {
       "spinBonusThreshold": 0.5,
@@ -56292,23 +56283,6 @@
       "isDeployable": true
     }
   }, {
-    "templateId": "V0324_MOVE_SYNCHRONOISE",
-    "moveSettings": {
-      "movementId": "SYNCHRONOISE",
-      "animationId": 5,
-      "pokemonType": "POKEMON_TYPE_PSYCHIC",
-      "power": 80.0,
-      "accuracyChance": 1.0,
-      "staminaLossScalar": 0.01,
-      "trainerLevelMin": 1,
-      "trainerLevelMax": 100,
-      "vfxName": "synchronoise",
-      "durationMs": 2600,
-      "damageWindowStartMs": 850,
-      "damageWindowEndMs": 1600,
-      "energyDelta": -50
-    }
-  }, {
     "templateId": "V0324_POKEMON_TORKOAL",
     "pokemonSettings": {
       "pokemonId": "TORKOAL",
@@ -77239,11 +77213,6 @@
       "sequence": ["anim attacker atk-move", "vfx swift", "sfx attacker 129-0_swift", "wait 2.0", "sys ui-sync", "sys complete"]
     }
   }, {
-    "templateId": "sequence_synchronoise",
-    "moveSequenceSettings": {
-      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx synchronoise", "sfx attacker 485-0_synchronoise", "wait 1.5", "sys ui-sync", "sys complete"]
-    }
-  }, {
     "templateId": "sequence_tackle_fast",
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "vfx attacker tackle_fast", "wait 0.25", "vfx defender tackle_fast_hit", "sfx attacker 033-0_tackle", "wait 0.25", "sys ui-sync", "sys complete"]
@@ -77379,5 +77348,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1566007743287"
+  "timestampMs": "1565573535161"
 }
