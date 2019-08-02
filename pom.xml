@@ -12,17 +12,18 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <pogoprotos.version>2.46.0</pogoprotos.version>
+        <pogoprotos.artifactId>pogoprotos</pogoprotos.artifactId>
         <protobuf.version>3.9.0</protobuf.version>
         <gamemaster.version>2.46.0-SNAPSHOT</gamemaster.version>
     </properties>
     <dependencies>
         <dependency>
-            <groupId>com.pokebattler</groupId>
-            <artifactId>pogoprotos</artifactId>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>${pogoprotos.artifactId}</artifactId>
             <version>${pogoprotos.version}</version>
             <type>jar</type>
             <!--<scope>system</scope>-->
-            <!--<systemPath>${project.basedir}/dependencies/pogoprotos-${pogoprotos.version}.jar</systemPath>-->
+            <!--<systemPath>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</systemPath>-->
         </dependency>
         <dependency>
             <groupId>com.google.protobuf</groupId>
@@ -63,10 +64,10 @@
                         <id>clean-local</id>
                         <phase>clean</phase>
                         <configuration>
-                            <file>${project.basedir}/dependencies/pogoprotos-${pogoprotos.version}.jar</file>
+                            <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
                             <repositoryLayout>default</repositoryLayout>
-                            <groupId>com.pokebattler</groupId>
-                            <artifactId>pogoprotos</artifactId>
+                            <groupId>${project.groupId}</groupId>
+                            <artifactId>${pogoprotos.artifactId}</artifactId>
                             <version>${pogoprotos.version}</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
@@ -79,10 +80,10 @@
                         <id>install-local</id>
                         <phase>install</phase>
                         <configuration>
-                            <file>${project.basedir}/dependencies/pogoprotos-${pogoprotos.version}.jar</file>
+                            <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
                             <repositoryLayout>default</repositoryLayout>
-                            <groupId>com.pokebattler</groupId>
-                            <artifactId>pogoprotos</artifactId>
+                            <groupId>${project.groupId}</groupId>
+                            <artifactId>${pogoprotos.artifactId}</artifactId>
                             <version>${pogoprotos.version}</version>
                             <packaging>jar</packaging>
                             <generatePom>true</generatePom>
