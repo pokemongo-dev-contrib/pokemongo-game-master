@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <pogoprotos.version>2.46.0</pogoprotos.version>
+        <pogoprotos.version>2.46.1</pogoprotos.version>
         <pogoprotos.artifactId>pogoprotos</pogoprotos.artifactId>
         <protobuf.version>3.9.0</protobuf.version>
         <gamemaster.version>2.46.0-SNAPSHOT</gamemaster.version>
@@ -22,8 +22,9 @@
             <artifactId>${pogoprotos.artifactId}</artifactId>
             <version>${pogoprotos.version}</version>
             <type>jar</type>
-            <!--<scope>system</scope>-->
-            <!--<systemPath>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</systemPath>-->
+            <!--TODO: If you have problems with the first time you build please runs 'mvn clean -f pom.xml' or remove the comment mode on the following lines once first build ok put it back like this.-->
+            <!--<scope>system</scope>
+            <systemPath>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</systemPath>-->
         </dependency>
         <dependency>
             <groupId>com.google.protobuf</groupId>
@@ -61,8 +62,8 @@
                 <version>2.5.2</version>
                 <executions>
                     <execution>
-                        <id>clean-local</id>
-                        <phase>clean</phase>
+                        <id>Initialize  -> Install libs files to .m2 local repo</id>
+                        <phase>initialize</phase>
                         <configuration>
                             <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
                             <repositoryLayout>default</repositoryLayout>
@@ -77,8 +78,8 @@
                         </goals>
                     </execution>
                     <execution>
-                        <id>install-local</id>
-                        <phase>install</phase>
+                        <id>Clean -> Install libs files to .m2 local repo</id>
+                        <phase>clean</phase>
                         <configuration>
                             <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
                             <repositoryLayout>default</repositoryLayout>
