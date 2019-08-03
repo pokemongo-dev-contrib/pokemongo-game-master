@@ -62,7 +62,7 @@
                 <version>2.5.2</version>
                 <executions>
                     <execution>
-                        <id>Install local libs to .m2 local repo</id>
+                        <id>Initialize  -> Install libs files to .m2 local repo</id>
                         <phase>initialize</phase>
                         <configuration>
                             <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
@@ -78,7 +78,7 @@
                         </goals>
                     </execution>
                     <execution>
-                        <id>Re-install local libs to .m2 local repo</id>
+                        <id>Clean -> Install libs files to .m2 local repo</id>
                         <phase>clean</phase>
                         <configuration>
                             <file>${project.basedir}/lib/${pogoprotos.artifactId}-${pogoprotos.version}.jar</file>
