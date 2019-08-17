@@ -6,7 +6,9 @@
 /**
  * Collection of the decoded GAME_MASTER-protobuf files
  */
-export class PokemongoGameMaster {
+declare class PokemongoGameMaster {
     static getVersion(version: string, format: "protobuf" | "json"): Promise<string|object>;
     static getLatestVersionName(): Promise<string>;
 }
+
+export = PokemongoGameMaster;
