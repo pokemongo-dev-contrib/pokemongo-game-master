@@ -1,4 +1,4 @@
-import { PokemongoGameMaster } from './index';
+import * as PokemongoGameMaster from './index';
 
 PokemongoGameMaster
     .getVersion('latest', 'protobuf')
