@@ -4,17 +4,17 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.pokebattler</groupId>
     <artifactId>pokemongo-game-master</artifactId>
-    <version>2.46.0-SNAPSHOT</version>
+    <version>2.48.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>PokeBattler Fight</name>
     <description>Fight server for PokeBattler</description>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <pogoprotos.version>2.48.0</pogoprotos.version>
+        <pogoprotos.version>2.48.1</pogoprotos.version>
         <pogoprotos.artifactId>pogoprotos</pogoprotos.artifactId>
         <protobuf.version>3.9.1</protobuf.version>
-        <gamemaster.version>2.46.0-SNAPSHOT</gamemaster.version>
+        <gamemaster.version>2.48.1-SNAPSHOT</gamemaster.version>
     </properties>
     <dependencies>
         <dependency>
