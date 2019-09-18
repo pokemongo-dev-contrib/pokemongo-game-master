@@ -10654,9 +10654,9 @@
     "combatMove": {
       "uniqueId": "PSYSTRIKE",
       "type": "POKEMON_TYPE_PSYCHIC",
-      "power": 100.0,
+      "power": 90.0,
       "vfxName": "psystrike",
-      "energyDelta": -55
+      "energyDelta": -45
     }
   }, {
     "templateId": "COMBAT_V0111_MOVE_ICY_WIND",
@@ -42860,16 +42860,16 @@
       "movementId": "PSYSTRIKE",
       "animationId": 5,
       "pokemonType": "POKEMON_TYPE_PSYCHIC",
-      "power": 100.0,
+      "power": 90.0,
       "accuracyChance": 1.0,
       "criticalChance": 0.05,
       "staminaLossScalar": 0.1,
       "trainerLevelMin": 1,
       "trainerLevelMax": 100,
       "vfxName": "psystrike",
-      "durationMs": 4400,
-      "damageWindowStartMs": 3000,
-      "damageWindowEndMs": 4200,
+      "durationMs": 2300,
+      "damageWindowStartMs": 1000,
+      "damageWindowEndMs": 2000,
       "energyDelta": -50
     }
   }, {
@@ -79274,7 +79274,7 @@
       "modelHeight": 0.29,
       "evolutionBranch": [{
         "evolution": "TRANQUILL",
-        "candyCost": 25
+        "candyCost": 12
       }],
       "modelScaleV2": 1.28,
       "buddyOffsetMale": [5.4, 0.0, 0.0],
@@ -79343,7 +79343,7 @@
       "modelHeight": 0.84,
       "evolutionBranch": [{
         "evolution": "UNFEZANT",
-        "candyCost": 100
+        "candyCost": 50
       }],
       "modelScaleV2": 1.0,
       "buddyOffsetMale": [37.2, 0.0, 0.0],
@@ -80993,6 +80993,7 @@
       "modelHeight": 0.4,
       "evolutionBranch": [{
         "evolution": "WHIMSICOTT",
+        "evolutionItemRequirement": "ITEM_SUN_STONE",
         "candyCost": 50
       }],
       "modelScaleV2": 1.1,
@@ -81119,6 +81120,7 @@
       "modelHeight": 0.4,
       "evolutionBranch": [{
         "evolution": "LILLIGANT",
+        "evolutionItemRequirement": "ITEM_SUN_STONE",
         "candyCost": 50
       }],
       "modelScaleV2": 1.1,
@@ -85487,7 +85489,7 @@
       "kmBuddyDistance": 3.0,
       "modelHeight": 0.4,
       "evolutionBranch": [{
-        "evolution": "ELGYEM",
+        "evolution": "BEHEEYEM",
         "candyCost": 50
       }],
       "modelScaleV2": 1.1,
@@ -96386,7 +96388,7 @@
   }, {
     "templateId": "sequence_psystrike",
     "moveSequenceSettings": {
-      "sequence": ["anim attacker atk-move", "vfx attacker psystrike_emit", "vfx defender psystrike_hit", "vfx defender psystrike_projectile", "sfx attacker 540-0_psystrike", "wait 4.8", "sys ui-sync", "sys complete"]
+      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx psystrike", "sfx attacker 540-0_psystrike", "wait 1.5", "sys ui-sync", "sys complete"]
     }
   }, {
     "templateId": "sequence_quick_attack_fast",
@@ -96774,5 +96776,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1570469877249"
+  "timestampMs": "1570649986325"
 }
