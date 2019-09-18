@@ -96775,6 +96775,5 @@
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
-  }],
-  "timestampMs": "1570649986325"
+  }]
 }
