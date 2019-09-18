@@ -8910,70 +8910,6 @@
       "targets": [10, 100, 1000]
     }
   }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_EARLYACCESS",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_00_GENERAL",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_EARLYACCESS",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_01_GENERAL",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_EARLYACCESS",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_02_GENERAL",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_EARLYACCESS",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
-    "templateId": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL",
-    "badgeSettings": {
-      "badgeType": "BADGE_SAFARIZONE_2019_MONTREAL_DAY_03_GENERAL",
-      "badgeRank": 2,
-      "targets": [100],
-      "eventBadge": true
-    }
-  }, {
     "templateId": "BADGE_SAFARI_ZONE_EUROPE_2017",
     "badgeSettings": {
       "badgeType": "BADGE_SAFARI_ZONE_EUROPE_2017",
@@ -9292,7 +9228,7 @@
     "belugaPokemonWhitelist": {
       "maxAllowedPokemonPokedexNumber": 150,
       "additionalPokemonAllowed": ["MELTAN", "MELMETAL"],
-      "formsAllowed": ["FORM_UNSET", "BULBASAUR_NORMAL", "IVYSAUR_NORMAL", "VENUSAUR_NORMAL", "CHARMANDER_NORMAL", "CHARMELEON_NORMAL", "CHARIZARD_NORMAL", "SQUIRTLE_NORMAL", "WARTORTLE_NORMAL", "BLASTOISE_NORMAL", "RATTATA_NORMAL", "RATTATA_ALOLA", "RATICATE_NORMAL", "RATICATE_ALOLA", "RAICHU_NORMAL", "RAICHU_ALOLA", "SANDSHREW_NORMAL", "SANDSHREW_ALOLA", "SANDSLASH_NORMAL", "SANDSLASH_ALOLA", "VULPIX_NORMAL", "VULPIX_ALOLA", "NINETALES_NORMAL", "NINETALES_ALOLA", "ZUBAT_NORMAL", "GOLBAT_NORMAL", "DIGLETT_NORMAL", "DIGLETT_ALOLA", "DUGTRIO_NORMAL", "DUGTRIO_ALOLA", "MEOWTH_NORMAL", "MEOWTH_ALOLA", "PERSIAN_NORMAL", "PERSIAN_ALOLA", "POLIWAG_NORMAL", "POLIWHIRL_NORMAL", "POLIWRATH_NORMAL", "GEODUDE_NORMAL", "GEODUDE_ALOLA", "GRAVELER_NORMAL", "GRAVELER_ALOLA", "GOLEM_NORMAL", "GOLEM_ALOLA", "GRIMER_NORMAL", "GRIMER_ALOLA", "MUK_NORMAL", "MUK_ALOLA", "DROWZEE_NORMAL", "HYPNO_NORMAL", "EXEGGUTOR_NORMAL", "EXEGGUTOR_ALOLA", "CUBONE_NORMAL", "MAROWAK_NORMAL", "MAROWAK_ALOLA", "SCYTHER_NORMAL", "MAGIKARP_NORMAL", "GYARADOS_NORMAL", "SNORLAX_NORMAL", "DRATINI_NORMAL", "DRAGONAIR_NORMAL", "DRAGONITE_NORMAL", "MEWTWO_NORMAL", "ODDISH_NORMAL", "GLOOM_NORMAL", "VILEPLUME_NORMAL", "VENONAT_NORMAL", "VENOMOTH_NORMAL", "PSYDUCK_NORMAL", "GOLDUCK_NORMAL", "GROWLITHE_NORMAL", "ARCANINE_NORMAL", "ABRA_NORMAL", "KADABRA_NORMAL", "ALAKAZAM_NORMAL", "HITMONCHAN_NORMAL", "LAPRAS_NORMAL"],
+      "formsAllowed": ["FORM_UNSET", "BULBASAUR_NORMAL", "IVYSAUR_NORMAL", "VENUSAUR_NORMAL", "CHARMANDER_NORMAL", "CHARMELEON_NORMAL", "CHARIZARD_NORMAL", "SQUIRTLE_NORMAL", "WARTORTLE_NORMAL", "BLASTOISE_NORMAL", "RATTATA_NORMAL", "RATTATA_ALOLA", "RATICATE_NORMAL", "RATICATE_ALOLA", "RAICHU_NORMAL", "RAICHU_ALOLA", "SANDSHREW_NORMAL", "SANDSHREW_ALOLA", "SANDSLASH_NORMAL", "SANDSLASH_ALOLA", "VULPIX_NORMAL", "VULPIX_ALOLA", "NINETALES_NORMAL", "NINETALES_ALOLA", "ZUBAT_NORMAL", "GOLBAT_NORMAL", "DIGLETT_NORMAL", "DIGLETT_ALOLA", "DUGTRIO_NORMAL", "DUGTRIO_ALOLA", "MEOWTH_NORMAL", "MEOWTH_ALOLA", "PERSIAN_NORMAL", "PERSIAN_ALOLA", "POLIWAG_NORMAL", "POLIWHIRL_NORMAL", "POLIWRATH_NORMAL", "GEODUDE_NORMAL", "GEODUDE_ALOLA", "GRAVELER_NORMAL", "GRAVELER_ALOLA", "GOLEM_NORMAL", "GOLEM_ALOLA", "GRIMER_NORMAL", "GRIMER_ALOLA", "MUK_NORMAL", "MUK_ALOLA", "DROWZEE_NORMAL", "HYPNO_NORMAL", "EXEGGUTOR_NORMAL", "EXEGGUTOR_ALOLA", "CUBONE_NORMAL", "MAROWAK_NORMAL", "MAROWAK_ALOLA", "SCYTHER_NORMAL", "MAGIKARP_NORMAL", "GYARADOS_NORMAL", "SNORLAX_NORMAL", "DRATINI_NORMAL", "DRAGONAIR_NORMAL", "DRAGONITE_NORMAL", "MEWTWO_NORMAL"],
       "costumesAllowed": ["COSTUME_UNSET"]
     }
   }, {
@@ -77784,6 +77720,7 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.75,
         "attackTimerS": 29.0,
+        "bonusStardustCaptureReward": 200,
         "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
@@ -77848,7 +77785,7 @@
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
-        "bonusStardustCaptureReward": 200,
+        "bonusStardustCaptureReward": 400,
         "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
@@ -77905,7 +77842,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.25,
         "collisionHeightM": 0.25,
         "collisionHeadRadiusM": 0.12,
@@ -77914,8 +77851,7 @@
         "jumpTimeS": 0.9,
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 7,
-        "bonusStardustCaptureReward": 400,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.5,
@@ -77976,6 +77912,7 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
+        "bonusStardustCaptureReward": 200,
         "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
@@ -78032,7 +77969,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.3,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.25,
@@ -78041,7 +77978,7 @@
         "jumpTimeS": 0.9,
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
-        "bonusStardustCaptureReward": 200,
+        "bonusStardustCaptureReward": 400,
         "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
@@ -78099,7 +78036,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.5,
         "collisionHeadRadiusM": 0.25,
@@ -78108,8 +78045,7 @@
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 7,
-        "bonusStardustCaptureReward": 400,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -78225,7 +78161,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.13,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -78291,7 +78227,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.2,
@@ -78301,7 +78237,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 7,
         "bonusStardustCaptureReward": 400,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.5,
@@ -78353,7 +78289,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.12,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -78361,8 +78297,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.3,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.6,
         "cameraDistance": 3.0,
@@ -78416,7 +78352,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.16,
@@ -78426,7 +78362,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.5,
@@ -78478,7 +78414,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.08,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.12,
@@ -78541,7 +78477,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.15,
@@ -78607,7 +78543,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.4,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.22,
@@ -78669,7 +78605,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.05,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.1,
@@ -78677,8 +78613,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.3,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 3.0,
@@ -78732,7 +78668,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.15,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -78742,7 +78678,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -78794,7 +78730,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -78802,8 +78738,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.85,
         "attackTimerS": 29.0,
-        "attackProbability": 0.4,
-        "dodgeProbability": 0.1,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 3.5,
@@ -78858,7 +78794,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.25,
@@ -78868,7 +78804,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -78920,7 +78856,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -78928,8 +78864,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.85,
         "attackTimerS": 29.0,
-        "attackProbability": 0.4,
-        "dodgeProbability": 0.1,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 3.5,
@@ -78984,7 +78920,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.21,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.19,
@@ -78994,7 +78930,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -79046,7 +78982,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -79054,8 +78990,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.85,
         "attackTimerS": 29.0,
-        "attackProbability": 0.4,
-        "dodgeProbability": 0.1,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 3.5,
@@ -79110,7 +79046,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.15,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.15,
@@ -79120,7 +79056,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.8,
@@ -79173,7 +79109,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.3,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.25,
@@ -79239,7 +79175,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.3,
         "collisionHeadRadiusM": 0.3,
@@ -79249,7 +79185,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.5,
         "dodgeDistance": 1.0,
@@ -79303,7 +79239,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.08,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.08,
@@ -79311,7 +79247,7 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
-        "attackProbability": 0.15,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.6,
@@ -79368,7 +79304,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.12,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.07,
@@ -79378,7 +79314,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.5,
         "dodgeDistance": 1.0,
@@ -79436,7 +79372,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.1,
@@ -79446,7 +79382,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 7,
         "bonusStardustCaptureReward": 400,
-        "attackProbability": 0.25,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.75,
         "dodgeDistance": 1.0,
@@ -79507,8 +79443,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.9,
         "attackTimerS": 29.0,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.2,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 4.0,
@@ -79562,7 +79498,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.4,
         "collisionHeightM": 0.5,
         "collisionHeadRadiusM": 0.18,
@@ -79572,8 +79508,8 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.2,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 6.5,
@@ -79625,7 +79561,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -79688,7 +79624,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -79754,7 +79690,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -79818,7 +79754,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.2,
@@ -79827,7 +79763,7 @@
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
         "attackProbability": 0.1,
-        "dodgeProbability": 0.25,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.75,
         "dodgeDistance": 0.4,
         "cameraDistance": 3.0,
@@ -79884,7 +79820,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.28,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.2,
@@ -79895,7 +79831,7 @@
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
         "attackProbability": 0.1,
-        "dodgeProbability": 0.2,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 2.25,
         "dodgeDistance": 0.8,
         "cameraDistance": 5.5,
@@ -79946,7 +79882,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.2,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.09,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.05,
@@ -80010,7 +79946,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.17,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.12,
@@ -80020,8 +79956,8 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.3,
-        "dodgeProbability": 0.45,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 3.5,
@@ -80072,7 +80008,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.27,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.19,
@@ -80131,7 +80067,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80194,7 +80130,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80260,7 +80196,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80322,7 +80258,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80386,7 +80322,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80453,7 +80389,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80515,7 +80451,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80574,7 +80510,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80634,7 +80570,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80698,7 +80634,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80765,7 +80701,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80892,7 +80828,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -80959,7 +80895,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81087,7 +81023,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81213,7 +81149,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81275,7 +81211,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81334,7 +81270,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81394,7 +81330,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81455,7 +81391,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81519,7 +81455,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81586,7 +81522,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81648,7 +81584,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81717,7 +81653,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81783,7 +81719,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81847,7 +81783,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -81910,7 +81846,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82034,7 +81970,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82097,7 +82033,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.09,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -82105,7 +82041,7 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
-        "attackProbability": 0.25,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -82161,7 +82097,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.13,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.21,
@@ -82171,7 +82107,7 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.25,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
@@ -82224,7 +82160,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82293,7 +82229,7 @@
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
         "attackProbability": 0.1,
-        "dodgeProbability": 0.2,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.75,
         "dodgeDistance": 0.5,
         "cameraDistance": 3.0,
@@ -82348,7 +82284,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.3,
         "collisionHeightM": 0.5,
         "collisionHeadRadiusM": 0.49,
@@ -82356,7 +82292,7 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
-        "attackProbability": 0.2,
+        "attackProbability": 0.1,
         "dodgeProbability": 0.15,
         "dodgeDurationS": 2.0,
         "dodgeDistance": 0.8,
@@ -82474,7 +82410,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82537,7 +82473,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82601,7 +82537,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82663,7 +82599,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82726,7 +82662,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82788,7 +82724,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82851,7 +82787,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -82977,7 +82913,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83039,7 +82975,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83102,7 +83038,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83168,7 +83104,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83230,7 +83166,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83293,7 +83229,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.25,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83359,7 +83295,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83422,7 +83358,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.5,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83486,7 +83422,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.4,
-        "baseFleeRate": 0.12,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83548,7 +83484,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83611,7 +83547,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -83677,7 +83613,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84064,7 +84000,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84127,7 +84063,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84191,7 +84127,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84255,7 +84191,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84319,7 +84255,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84383,7 +84319,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84506,7 +84442,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84633,7 +84569,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.18,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.28,
@@ -84696,7 +84632,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84760,7 +84696,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84822,7 +84758,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -84946,7 +84882,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85009,7 +84945,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.2,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.3,
@@ -85052,8 +84988,8 @@
       "buddyScale": 19.0,
       "buddyPortraitOffset": [0.0, 0.0, -0.01],
       "thirdMove": {
-        "stardustToUnlock": 75000,
-        "candyToUnlock": 75
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
       },
       "isTransferable": true,
       "isDeployable": true
@@ -85073,7 +85009,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.125,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.7,
         "collisionHeightM": 0.5,
         "collisionHeadRadiusM": 0.7,
@@ -85116,8 +85052,8 @@
       "buddyScale": 19.0,
       "buddyPortraitOffset": [0.0, 0.1, 0.0],
       "thirdMove": {
-        "stardustToUnlock": 75000,
-        "candyToUnlock": 75
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
       },
       "isTransferable": true,
       "isDeployable": true
@@ -85145,8 +85081,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 1.0,
         "attackTimerS": 29.0,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.25,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 0.8,
         "dodgeDistance": 0.5,
         "cameraDistance": 3.0,
@@ -85201,7 +85137,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.29,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.29,
@@ -85211,8 +85147,8 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 2,
         "bonusStardustCaptureReward": 200,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.25,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 0.8,
         "dodgeDistance": 0.5,
         "cameraDistance": 3.5,
@@ -85268,7 +85204,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.29,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.29,
@@ -85278,8 +85214,8 @@
         "attackTimerS": 29.0,
         "bonusCandyCaptureReward": 7,
         "bonusStardustCaptureReward": 400,
-        "attackProbability": 0.2,
-        "dodgeProbability": 0.25,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 0.5,
         "cameraDistance": 3.5,
@@ -85330,7 +85266,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.4,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85393,7 +85329,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85457,7 +85393,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85582,7 +85518,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85645,7 +85581,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.4,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.13,
@@ -85654,7 +85590,7 @@
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
         "attackProbability": 0.1,
-        "dodgeProbability": 0.2,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 2.5,
@@ -85710,7 +85646,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.15,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.2,
@@ -85779,7 +85715,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.3,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.35,
@@ -85842,7 +85778,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.4,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85905,7 +85841,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -85971,7 +85907,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86096,7 +86032,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86158,7 +86094,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86280,7 +86216,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86343,7 +86279,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86465,7 +86401,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86527,7 +86463,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86651,7 +86587,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.6,
         "collisionHeightM": 0.3,
         "collisionHeadRadiusM": 0.25,
@@ -86715,7 +86651,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.3,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86779,7 +86715,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86841,7 +86777,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -86965,7 +86901,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87092,7 +87028,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.15,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87116,7 +87052,7 @@
         "baseDefense": 205
       },
       "quickMoves": ["SNARL_FAST", "AIR_SLASH_FAST"],
-      "cinematicMoves": ["DARK_PULSE", "AERIAL_ACE", "FOUL_PLAY", "SHADOW_BALL"],
+      "cinematicMoves": ["DARK_PULSE", "SKY_ATTACK", "FOUL_PLAY", "SHADOW_BALL"],
       "animationTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
       "evolutionPips": 1,
       "pokedexHeightM": 1.2,
@@ -87154,7 +87090,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.35,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.35,
@@ -87162,8 +87098,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 1.05,
         "attackTimerS": 29.0,
-        "attackProbability": 0.7,
-        "dodgeProbability": 0.2,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 5.0,
@@ -87214,7 +87150,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.2,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.08,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.08,
@@ -87222,8 +87158,8 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.8,
         "attackTimerS": 29.0,
-        "attackProbability": 0.7,
-        "dodgeProbability": 0.2,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
         "cameraDistance": 2.5,
@@ -87274,7 +87210,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.4,
-        "baseFleeRate": 0.09,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.15,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.15,
@@ -87338,7 +87274,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.3,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.3,
@@ -87407,7 +87343,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.05,
-        "baseFleeRate": 0.05,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.2,
@@ -87471,7 +87407,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.7,
-        "baseFleeRate": 0.15,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87535,7 +87471,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.1,
-        "baseFleeRate": 0.07,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87598,7 +87534,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.31,
@@ -87659,7 +87595,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.75,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.5,
@@ -87720,7 +87656,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.5,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.25,
@@ -87780,7 +87716,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87840,7 +87776,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87900,7 +87836,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -87961,7 +87897,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88022,7 +87958,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88083,7 +88019,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88144,7 +88080,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88204,7 +88140,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88264,7 +88200,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88325,7 +88261,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88386,7 +88322,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88447,7 +88383,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88508,7 +88444,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88569,7 +88505,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88630,7 +88566,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88691,7 +88627,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88751,7 +88687,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88811,7 +88747,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88871,7 +88807,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88932,7 +88868,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -88993,7 +88929,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89054,7 +88990,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89114,7 +89050,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89175,7 +89111,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89236,7 +89172,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89297,7 +89233,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -89358,7 +89294,7 @@
       },
       "encounter": {
         "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.01,
+        "baseFleeRate": 0.1,
         "collisionRadiusM": 0.1,
         "collisionHeightM": 0.1,
         "collisionHeadRadiusM": 0.126,
@@ -96839,5 +96775,6 @@
     "moveSequenceSettings": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
-  }]
+  }],
+  "timestampMs": "1570649986325"
 }
