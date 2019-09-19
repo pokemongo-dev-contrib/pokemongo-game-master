@@ -20,16 +20,18 @@ public class GenerateJSON {
 	}
 
 	public static void main(String[] args) throws Exception {
-		GenerateJSON gen = new GenerateJSON();
 		if (args.length == 0 || args.length > 2) {
 			System.err.println("USAGE: java -jar pokemongo-game-master-2.46.0.jar BINARY_INPUT_FILE [optional JSON_OUTPUT_FILE]");
 			return;
 		}
+
 		File f = new File(args[0]);
 		if (!f.exists()) {
 			System.err.println("File not found: " + args[0]);
+			return;
 		}
 
+		GenerateJSON gen = new GenerateJSON();
 		try (OutputStream os = args.length == 2 ? new FileOutputStream(new File(args[1])) : System.out;
 			 InputStream is = new FileInputStream(f)) {
 			gen.writeJSON(is, os);
