@@ -9,7 +9,7 @@ import java.io.*;
 public class FirmwareGameMasterDecodeTest {
 	@Test
 	public void TestFirmwareGameMasterDecode() throws Exception {
-		try (InputStream is = getClass().getResourceAsStream("/GAME_MASTER.protobuf"))
+		try (InputStream is = getClass().getResourceAsStream("/FIRMWARE_GAME_MASTER.protobuf"))
         {
 			DownloadItemTemplatesResponse response = DownloadItemTemplatesResponse.parseFrom(is);
 			JsonFormat.Printer printer = JsonFormat.printer();

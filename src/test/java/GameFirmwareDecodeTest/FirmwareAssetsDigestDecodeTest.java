@@ -9,7 +9,7 @@ import java.io.*;
 public class FirmwareAssetsDigestDecodeTest {
 	@Test
 	public void TestFirmwareAssetsDigestDecode() throws Exception {
-		try (InputStream is = getClass().getResourceAsStream("/ASSET_DIGEST.protobuf"))
+		try (InputStream is = getClass().getResourceAsStream("/FIRMWARE_ASSET_DIGEST.protobuf"))
         {
 			GetAssetDigestResponse response = GetAssetDigestResponse.parseFrom(is);
 			JsonFormat.Printer printer = JsonFormat.printer();
