@@ -13,7 +13,7 @@ public class FirmwareAssetsDigestDecodeTest {
         {
 			GetAssetDigestResponse response = GetAssetDigestResponse.parseFrom(is);
 			JsonFormat.Printer printer = JsonFormat.printer();
-			try (OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("target/test-classes/ASSET_DIGEST.json")))
+			try (OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("target/test-classes/FIRMWARE_ASSET_DIGEST.json")))
             {
 				printer.appendTo(response, writer);
 			}

@@ -13,7 +13,7 @@ public class FirmwareGameMasterDecodeTest {
         {
 			DownloadItemTemplatesResponse response = DownloadItemTemplatesResponse.parseFrom(is);
 			JsonFormat.Printer printer = JsonFormat.printer();
-			try (OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("target/test-classes/GAME_MASTER.json")))
+			try (OutputStreamWriter writer = new OutputStreamWriter(new FileOutputStream("target/test-classes/FIRMWARE_GAME_MASTER.json")))
             {
 				printer.appendTo(response, writer);
 			}
