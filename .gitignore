@@ -5,8 +5,6 @@
 .idea/
 *.log
 dependency-reduced-pom.xml
-
 node_modules
 *.iml
-
 *.DS_Store

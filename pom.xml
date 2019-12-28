@@ -12,7 +12,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
         <pogoprotos.version>2.49.6</pogoprotos.version>
-        <pogoprotos.artifactId>pogoprotos</pogoprotos.artifactId>
+        <pogoprotos.artifactId>POGOProtos</pogoprotos.artifactId>
         <protobuf.version>3.11.1</protobuf.version>
         <gamemaster.version>2.48.2-SNAPSHOT</gamemaster.version>
     </properties>
@@ -43,21 +43,6 @@
                     <target>1.8</target>
                 </configuration>
             </plugin>
-            <!-- TODO comment for remove warn no thinks this is required
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-shade-plugin</artifactId>
-                <version>3.2.1</version>
-                <executions>
-                    <execution>
-                        <phase>package</phase>
-                        <goals>
-                            <goal>shade</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
-            -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-install-plugin</artifactId>
@@ -99,15 +84,4 @@
             </plugin>
         </plugins>
     </build>
-    <!-- this plugin as no found in maven
-    <reporting>
-        <plugins>
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-jxr-plugin</artifactId>
-                <version>2.3</version>
-            </plugin>
-        </plugins>
-    </reporting>
-    -->
-</project>
+ </project>
