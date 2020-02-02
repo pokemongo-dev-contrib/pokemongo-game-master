@@ -1,6 +1,6 @@
 package com.pokebattler.gamemaster;
 
-import POGOProtos.Networking.Responses.DownloadItemTemplatesResponseOuterClass.*;
+import POGOProtos.Networking.Responses.*;
 import com.google.protobuf.util.*;
 
 import java.io.*;
