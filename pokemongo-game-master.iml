@@ -8,13 +8,11 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.pokebattler:POGOProtos:2.49.6" level="project" />
+    <orderEntry type="library" name="Maven: com.pokebattler:POGOProtos:2.49.7" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java-util:3.11.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.11.1" level="project" />
     <orderEntry type="library" name="Maven: com.google.guava:guava:28.1-android" level="project" />
