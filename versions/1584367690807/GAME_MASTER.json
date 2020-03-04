@@ -19113,10 +19113,7 @@
       "itemId": "ITEM_INCENSE_BELUGA_BOX",
       "itemType": "ITEM_TYPE_INCENSE",
       "category": "ITEM_CATEGORY_INCENSE",
-      "dropTrainerLevel": 100,
-      "incense": {
-        "incenseLifetimeSeconds": 1800
-      }
+      "dropTrainerLevel": 100
     }
   }, {
     "templateId": "ITEM_INCENSE_ORDINARY",
@@ -19124,10 +19121,7 @@
       "itemId": "ITEM_INCENSE_ORDINARY",
       "itemType": "ITEM_TYPE_INCENSE",
       "category": "ITEM_CATEGORY_INCENSE",
-      "dropTrainerLevel": 100,
-      "incense": {
-        "incenseLifetimeSeconds": 1800
-      }
+      "dropTrainerLevel": 100
     }
   }, {
     "templateId": "ITEM_INCUBATOR_BASIC",
@@ -116697,7 +116691,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -116737,7 +116731,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -116766,7 +116760,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -116806,7 +116800,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -116835,7 +116829,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -116875,7 +116869,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -116904,7 +116898,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -116944,7 +116938,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -116973,7 +116967,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117013,7 +117007,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -117042,7 +117036,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117082,7 +117076,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -117111,7 +117105,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117151,7 +117145,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -117180,7 +117174,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117220,7 +117214,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -117249,7 +117243,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117289,7 +117283,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -117318,7 +117312,7 @@
         "itemLootTable": true
       }, {
         "item": {
-          "count": 2
+          "count": 1
         }
       }, {
         "pokemonReward": true
@@ -117358,7 +117352,7 @@
         }
       }, {
         "item": {
-          "count": 8
+          "count": 7
         }
       }, {
         "item": {
@@ -125566,5 +125560,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1584596779152"
+  "timestampMs": "1584367690807"
 }
