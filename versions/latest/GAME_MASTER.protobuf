@@ -853,7 +853,9 @@ dè
 *
 dè 
 BADGE_BIG_MAGIKARPR
-2¬"
+2¬
+BADGE_BUDDY_BESTR	<
+d"
 BADGE_CAPTURE_TOTALRôĞ$
 BADGE_CHALLENGE_QUESTSR
 .
@@ -867,7 +869,9 @@ dè*
 &BADGE_CHICAGO_FEST_JULY_2018_SUN_NORTHR
 Ød(4
 &BADGE_CHICAGO_FEST_JULY_2018_SUN_SOUTHR
-Ùd(!
+Ùd(
+BADGE_EVENT_0002R
+Ò(d(!
 BADGE_EVOLVED_TOTALR
 È)
 BADGE_GLOBAL_TICKETED_EVENTR
@@ -2243,11 +2247,10 @@ charm_fast(0D
 FORMS_V0808_POKEMON_MELTAN²¨$
 FORMS_V0809_POKEMON_MELMETAL²©"
 FRIENDSHIP_LEVEL_0úè  €?**
-FRIENDSHIP_LEVEL_1ú¸
-×ƒ?*1
-FRIENDSHIP_LEVEL_2úNff†? *5ÍÌL>2
-FRIENDSHIP_LEVEL_3úĞ†Ãõˆ? *5…k?2
-FRIENDSHIP_LEVEL_4úZ ÍÌŒ? *5Âu?3
+FRIENDSHIP_LEVEL_1ú¸   ?*1
+FRIENDSHIP_LEVEL_2úN   ? *5ÍÌL>2
+FRIENDSHIP_LEVEL_3úĞ†   ? *5…k?2
+FRIENDSHIP_LEVEL_4úZ    ? *5Âu?3
 GYM_BADGE_SETTINGSÂ
 ô °ê
 ×#<  €? 
@@ -2257,9 +2260,9 @@ charm_fast(0D
 
  €
 IAP_CATEGORY_AVATARâh (:Ghttps://storage.googleapis.com/prod-public-images/valentine_680x340.jpgBavatar_shop_description1
-IAP_CATEGORY_BUNDLEâ (2shop_limited_time¤
- IAP_CATEGORY_GLOBAL_EVENT_TICKETâ
- (:Phttps://storage.googleapis.com/prod-public-images/20191004_pgo_regigigas_002.jpgB%live_events_shop_category_description
+IAP_CATEGORY_BUNDLEâ (2shop_limited_time’
+ IAP_CATEGORY_GLOBAL_EVENT_TICKETâm
+ (:>https://storage.googleapis.com/prod-public-images/1024x512.jpgB%live_events_shop_category_description
 IAP_CATEGORY_ITEMSâ 
 IAP_CATEGORY_POKECOINSâ !
 IAP_CATEGORY_TEAM_CHANGEâ 
@@ -2293,8 +2296,8 @@ charm_fast(0D
 &
 ITEM_GEN5_EVOLUTION_STONE	Ó(
 #
-ITEM_GIOVANNI_MAPß(Šh
-ITEM_GLOBAL_EVENT_TICKETLÀ’Bì'€¸™)2019-11-02T11:00:00"2019-11-02T19:00:00 €¯–Şâ-¨€—ôëâ-S
+ITEM_GIOVANNI_MAPß(Šc
+ITEM_GLOBAL_EVENT_TICKETGÀ’=Ò(2020-03-15T11:00:00"2020-03-15T18:00:00 €ÿæî.¨€Šéú.S
 ITEM_GOLDEN_PINAP_BERRY8Ä(R-
 ÷ö   @ffæ?ÍÌÌ=%   @-   ?08ÀËÉ@ÀËÉHH
 ITEM_GOLDEN_RAZZ_BERRY.Â(
@@ -2305,10 +2308,10 @@ R#
 ITEM_INCENSE_BELUGA_BOX•
 	(djˆ'
 ITEM_INCENSE_ORDINARY‘
-	(djˆ,
-ITEM_INCUBATOR_BASIC†	(dr	  €?4
+	(jˆ,
+ITEM_INCUBATOR_BASIC†	(r	  €?4
 ITEM_INCUBATOR_BASIC_UNLIMITED…	(dr  €?,
-ITEM_INCUBATOR_SUPER‡	(dr	«ª*?,
+ITEM_INCUBATOR_SUPER‡	(r	«ª*?,
 ITEM_ITEM_STORAGE_UPGRADEê(dZ2
 ITEM_KINGS_ROCK	Î(
 !
@@ -2317,7 +2320,7 @@ R#
 ITEM_LEGENDARY_RAID_TICKET	û
 (d&
 ITEM_LUCKY_EGG­
-(db	   @Àîm
+(b	   @Àîm
 ITEM_MASTER_BALL(d"
 ITEM_MAX_POTIONh(:  €?#
 ITEM_MAX_REVIVEÊ(B  €?
@@ -2328,7 +2331,7 @@ R#
 ITEM_NANAB_BERRY2¿(R'
 íÍÌL=ÍÌÌ=%   ?-   >08€İÛ@€İÛH"
 ITEM_PAID_RAID_TICKET	ú
-(dF
+(F
 ITEM_PINAP_BERRY2Á(R'
 ÷   @ÍÌÌ=%  €?-  €>08€İÛ@€İÛH&
 ITEM_POFFINÅR08€®¦
@@ -2345,17 +2348,17 @@ H/
 ITEM_REVIVEÉ(B   ? 
 ITEM_SPECIAL_CAMERA	¡(d(
 ITEM_STAR_PIECEü
-(d‚	  À?Àîm
+(‚	  À?Àîm
 ITEM_SUN_STONE	Í(
 !
 ITEM_SUPER_POTIONf(
 :2
 ITEM_TEAM_CHANGE	ş
 (d
-ITEM_TROY_DISK	õ(d#
-ITEM_TROY_DISK_GLACIAL	ö(d$
-ITEM_TROY_DISK_MAGNETIC	ø(d!
-ITEM_TROY_DISK_MOSSY	÷(
+ITEM_TROY_DISK	õ(#
+ITEM_TROY_DISK_GLACIAL	ö($
+ITEM_TROY_DISK_MAGNETIC	ø(!
+ITEM_TROY_DISK_MOSSY	÷(
 ITEM_ULTRA_BALL(
 ITEM_UP_GRADE	Ñ(
 .
@@ -7623,8 +7626,8 @@ Bˆİ•   >  Š@¨İ°½  @@Í  €?İ  €?ú¤p…@    Ãõ@Á‚¤p…@    Ãõ@Á  ˜A’
 ×£==
 W>-   ?:Kš™™>)\=%ÍÌL=-
 ×£=0=   AEÍÌŒ?M  èAeÍÌÌ=mš™>u  €?}  €?…  @@ÍÌL>•ÍÌÌ?B‚vcJÍR$OZ 33ó?Ú¬*?ffæ?:#â?    š™@à]?    hp}ÍÌL>…   A•ÍÌÌ<  €?¨¨°½   AÍÍÌL>Ò©İÍÌÌ?ú          ØÁ‚          ØÁ  ˜A’Âu=ÍÌL½{.>¢ d¨°øó
-V0809_POKEMON_MELMETALØ©®G¡? 	27‰Á>š™@   @-   ?:Pš™™>š™?%   @-ÍÌÌ>0=   AEfff?M  èAPXÈeÍÌÌ=mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B	ˆâ¾JÍR$O@¶Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    hp}   @…  HDˆ¨•   >  ÈB¨¨°½   AÀÍ)\@İš™?ú  @      (B‚  @      (B  °A’Háú>Âu=q=Š?¢ d¨°ºff¦?      €?Ê   @  @@  €?Ú  À¿  €¿ÍÌÌ>ø>
-VS_SEEKER_CLIENT_SETTINGSÒ COMBAT_LEAGUE_VS_SEEKER_MASTERq
+V0809_POKEMON_MELMETALØ©®G¡? 	27‰Á>š™@   @-   ?:Pš™™>š™?%   @-ÍÌÌ>0=   AEfff?M  èAPXÈeÍÌÌ=mš™>u  €?}  €?…  €@ÍÌL>•ÍÌÌ?B	ˆâ¾JÍR$O@¶Z 33ó?Ú¬*?ffæ?:#â?    š™@à]?    hp}   @…  HDˆ¨•   >  ÈB¨¨°½   AÀÍ)\@İš™?ú  @      (B‚  @      (B  °A’Háú>Âu=q=Š?¢ d¨°ºff¦?      €?Ê   @  @@  €?Ú  À¿  €¿ÍÌÌ>ø|
+VS_SEEKER_CLIENT_SETTINGSÒ^COMBAT_LEAGUE_VS_SEEKER_GREATCOMBAT_LEAGUE_VS_SEEKER_ULTRACOMBAT_LEAGUE_VS_SEEKER_MASTERq
 ,VS_SEEKER_LOOT_PER_WIN_SETTINGS_RANK_10_FREE‚@
 
 (î
@@ -8398,7 +8401,10 @@ $camera_solarbeam_player_left_leader_Z‹"       ?*   ?    2  €>   @:
 camera_xscissorZU"   ?*   ?2   A:    B  €>J  *CR    Z   Ab    j    r   @z    ‚  €?c
 general1.ticket.1‚M
 general1.ticket.1
-Z2019-10-24T10:00:00b2019-11-02T17:00:00h€ÚÕéß-p€İ¼èâ--
+Z2019-10-24T10:00:00b2019-11-02T17:00:00h€ÚÕéß-p€İ¼èâ-e
+general1.ticket.2‚O
+general1.ticket.2
+0Z2019-03-14T08:00:00b2019-03-15T17:00:00h€ ÜÙ—-p€¯’˜--
 incenseordinary.8‚
 incenseordinary.8G
 itemleadermap‚5
@@ -10354,4 +10360,4 @@ $sfx attacker 422-0_thunder_fang_fast
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys completeĞŠ.
+sys complete™ÿê–”.
