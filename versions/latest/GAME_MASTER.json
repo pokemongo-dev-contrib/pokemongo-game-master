@@ -9531,6 +9531,13 @@
       "targets": [3, 50, 300]
     }
   }, {
+    "templateId": "BADGE_BUDDY_BEST",
+    "badgeSettings": {
+      "badgeType": "BADGE_BUDDY_BEST",
+      "badgeRank": 4,
+      "targets": [1, 10, 100]
+    }
+  }, {
     "templateId": "BADGE_CAPTURE_TOTAL",
     "badgeSettings": {
       "badgeType": "BADGE_CAPTURE_TOTAL",
@@ -9580,6 +9587,14 @@
     "templateId": "BADGE_CHICAGO_FEST_JULY_2018_SUN_SOUTH",
     "badgeSettings": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2018_SUN_SOUTH",
+      "badgeRank": 2,
+      "targets": [100],
+      "eventBadge": true
+    }
+  }, {
+    "templateId": "BADGE_EVENT_0002",
+    "badgeSettings": {
+      "badgeType": "BADGE_EVENT_0002",
       "badgeRank": 2,
       "targets": [100],
       "eventBadge": true
@@ -18822,7 +18837,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 1,
       "milestoneXpReward": 3000,
-      "attackBonusPercentage": 1.03,
+      "attackBonusPercentage": 1.25,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"]
     }
   }, {
@@ -18830,7 +18845,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 7,
       "milestoneXpReward": 10000,
-      "attackBonusPercentage": 1.05,
+      "attackBonusPercentage": 1.25,
       "raidBallBonus": 1,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.2
@@ -18840,7 +18855,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 30,
       "milestoneXpReward": 50000,
-      "attackBonusPercentage": 1.07,
+      "attackBonusPercentage": 1.25,
       "raidBallBonus": 2,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.92
@@ -18850,7 +18865,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 90,
       "milestoneXpReward": 100000,
-      "attackBonusPercentage": 1.1,
+      "attackBonusPercentage": 1.25,
       "raidBallBonus": 4,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.96
@@ -18896,7 +18911,7 @@
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
       "sortOrder": 2,
       "bannerEnabled": true,
-      "imageUrl": "https://storage.googleapis.com/prod-public-images/20191004_pgo_regigigas_002.jpg",
+      "imageUrl": "https://storage.googleapis.com/prod-public-images/1024x512.jpg",
       "description": "live_events_shop_category_description"
     }
   }, {
@@ -19044,12 +19059,11 @@
       "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
       "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
       "globalEventTicket": {
-        "eventBadge": "BADGE_GLOBAL_TICKETED_EVENT",
-        "grantBadgeBeforeEventStartMs": "86400000",
-        "eventStartTime": "2019-11-02T11:00:00",
-        "eventEndTime": "2019-11-02T19:00:00",
-        "clientEventStartTimeUtcMs": "1572692400000",
-        "clientEventEndTimeUtcMs": "1572721200000"
+        "eventBadge": "BADGE_EVENT_0002",
+        "eventStartTime": "2020-03-15T11:00:00",
+        "eventEndTime": "2020-03-15T18:00:00",
+        "clientEventStartTimeUtcMs": "1584270000000",
+        "clientEventEndTimeUtcMs": "1584295200000"
       }
     }
   }, {
@@ -19124,7 +19138,7 @@
       "itemId": "ITEM_INCENSE_ORDINARY",
       "itemType": "ITEM_TYPE_INCENSE",
       "category": "ITEM_CATEGORY_INCENSE",
-      "dropTrainerLevel": 100,
+      "dropTrainerLevel": 1,
       "incense": {
         "incenseLifetimeSeconds": 1800
       }
@@ -19135,7 +19149,7 @@
       "itemId": "ITEM_INCUBATOR_BASIC",
       "itemType": "ITEM_TYPE_INCUBATOR",
       "category": "ITEM_CATEGORY_INCUBATOR",
-      "dropTrainerLevel": 100,
+      "dropTrainerLevel": 1,
       "eggIncubator": {
         "incubatorType": "INCUBATOR_DISTANCE",
         "uses": 3,
@@ -19160,7 +19174,7 @@
       "itemId": "ITEM_INCUBATOR_SUPER",
       "itemType": "ITEM_TYPE_INCUBATOR",
       "category": "ITEM_CATEGORY_INCUBATOR",
-      "dropTrainerLevel": 100,
+      "dropTrainerLevel": 1,
       "eggIncubator": {
         "incubatorType": "INCUBATOR_DISTANCE",
         "uses": 3,
@@ -19224,7 +19238,7 @@
       "itemId": "ITEM_LUCKY_EGG",
       "itemType": "ITEM_TYPE_XP_BOOST",
       "category": "ITEM_CATEGORY_XP_BOOST",
-      "dropTrainerLevel": 100,
+      "dropTrainerLevel": 1,
       "xpBoost": {
         "xpMultiplier": 2.0,
         "boostDurationMs": 1800000
@@ -19309,7 +19323,7 @@
       "itemId": "ITEM_PAID_RAID_TICKET",
       "itemType": "ITEM_TYPE_RAID_TICKET",
       "category": "ITEM_CATEGORY_RAID_TICKET",
-      "dropTrainerLevel": 100
+      "dropTrainerLevel": 1
     }
   }, {
     "templateId": "ITEM_PINAP_BERRY",
@@ -19434,7 +19448,7 @@
       "itemId": "ITEM_STAR_PIECE",
       "itemType": "ITEM_TYPE_STARDUST_BOOST",
       "category": "ITEM_CATEGORY_STARDUST_BOOST",
-      "dropTrainerLevel": 100,
+      "dropTrainerLevel": 1,
       "stardustBoost": {
         "stardustMultiplier": 1.5,
         "boostDurationMs": 1800000
@@ -19473,7 +19487,7 @@
       "itemId": "ITEM_TROY_DISK",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
-      "dropTrainerLevel": 100
+      "dropTrainerLevel": 1
     }
   }, {
     "templateId": "ITEM_TROY_DISK_GLACIAL",
@@ -19481,7 +19495,7 @@
       "itemId": "ITEM_TROY_DISK_GLACIAL",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
-      "dropTrainerLevel": 100
+      "dropTrainerLevel": 1
     }
   }, {
     "templateId": "ITEM_TROY_DISK_MAGNETIC",
@@ -19489,7 +19503,7 @@
       "itemId": "ITEM_TROY_DISK_MAGNETIC",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
-      "dropTrainerLevel": 100
+      "dropTrainerLevel": 1
     }
   }, {
     "templateId": "ITEM_TROY_DISK_MOSSY",
@@ -19497,7 +19511,7 @@
       "itemId": "ITEM_TROY_DISK_MOSSY",
       "itemType": "ITEM_TYPE_DISK",
       "category": "ITEM_CATEGORY_DISK",
-      "dropTrainerLevel": 2
+      "dropTrainerLevel": 1
     }
   }, {
     "templateId": "ITEM_ULTRA_BALL",
@@ -116683,7 +116697,7 @@
   }, {
     "templateId": "VS_SEEKER_CLIENT_SETTINGS",
     "vsSeekerClientSettings": {
-      "allowedVsSeekerLeagueTemplateId": ["COMBAT_LEAGUE_VS_SEEKER_MASTER"]
+      "allowedVsSeekerLeagueTemplateId": ["COMBAT_LEAGUE_VS_SEEKER_GREAT", "COMBAT_LEAGUE_VS_SEEKER_ULTRA", "COMBAT_LEAGUE_VS_SEEKER_MASTER"]
     }
   }, {
     "templateId": "VS_SEEKER_LOOT_PER_WIN_SETTINGS_RANK_10_FREE",
@@ -124360,6 +124374,17 @@
       "skuDisableTimeUtcMs": "1572714000000"
     }
   }, {
+    "templateId": "general1.ticket.2",
+    "iapItemDisplay": {
+      "sku": "general1.ticket.2",
+      "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
+      "hidden": true,
+      "skuEnableTime": "2019-03-14T08:00:00",
+      "skuDisableTime": "2019-03-15T17:00:00",
+      "skuEnableTimeUtcMs": "1552550400000",
+      "skuDisableTimeUtcMs": "1552669200000"
+    }
+  }, {
     "templateId": "incenseordinary.8",
     "iapItemDisplay": {
       "sku": "incenseordinary.8",
@@ -125566,5 +125591,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1584596779152"
+  "timestampMs": "1585964564377"
 }
