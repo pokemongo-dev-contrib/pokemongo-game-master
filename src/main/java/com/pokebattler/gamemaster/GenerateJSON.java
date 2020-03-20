@@ -10,9 +10,8 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		DownloadItemTemplatesResponse response = DownloadItemTemplatesResponse.parseFrom(is);
-		//no longer needed
-		//response = addLegacyMoves(response);
+		//DownloadItemTemplatesResponse response = DownloadItemTemplatesResponse.parseFrom(is);
+		DownloadGmTemplatesResponse response = DownloadGmTemplatesResponse.parseFrom(is);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
