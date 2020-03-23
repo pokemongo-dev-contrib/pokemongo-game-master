@@ -1,37 +1,46 @@
 package com.pokebattler.gamemaster;
 
 import POGOProtos.Networking.Responses.*;
-import com.google.protobuf.util.*;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.*;
+import java.util.*;
 
 public class GenerateJSON {
 	public GenerateJSON() {
 	}
 
-	public void writeJSON(java.io.InputStream is, java.io.OutputStream os) throws java.io.IOException {
-		POGOProtos.Networking.Responses.DownloadGmTemplatesResponse response = POGOProtos.Networking.Responses.DownloadGmTemplatesResponse.parseFrom(is);
+	public void writeJSON(InputStream is, OutputStream os) throws IOException {
+		DownloadGmTemplatesResponse response = DownloadGmTemplatesResponse.parseFrom(is);
+		GameMaster master = new GameMaster();
+		//master.Result = response.getResult();
+		master.Templates = new ArrayList();
+		master.DeletedTemplates = response.getDeletedTemplateList();
+		master.BatchId = response.getBatchId();
+		//master.PageOffset = response.getPageOffset();
+		master.ExperimentId = response.getExperimentIdList();
 
-		/*
-		//C# code mode needs fix it for java
-		com.pokebattler.gamemaster.GameMaster master = new com.pokebattler.gamemaster.GameMaster();
-		master.Result = response.Result;
-		master.Templates = new RepeatedField<GameMasterClientTemplate>();
-		master.DeletedTemplates = response.DeletedTemplate;
-		master.BatchId = response.BatchId;
-		master.PageOffset = response.PageOffset;
-		master.ExperimentId = response.ExperimentId;
-
-		for (var i : response.Template)
+		for (DownloadGmTemplatesResponse.ClientGameMasterTemplate i : response.getTemplateList())
 		{
-			master.Templates.Add(GameMasterClientTemplate.parseFrom(i.Data));
+			master.Templates.add(DownloadItemTemplatesResponse.GameMasterClientTemplate.parseFrom(i.getData()));
 		}
-        */
 
-		com.google.protobuf.util.JsonFormat.Printer printer = com.google.protobuf.util.JsonFormat.printer();
-		try (java.io.OutputStreamWriter writer = new java.io.OutputStreamWriter(os)) {
-			//printer.appendTo(master, writer);
-			printer.appendTo(response, writer);
+		//TODO: this is modified response and get error try to fix this
+		/*
+		JsonFormat.Printer printer = JsonFormat.printer();
+		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
+			printer.appendTo(master, writer);
+		}
+		*/
+
+		// pretty print
+		Gson gson = new GsonBuilder().setPrettyPrinting().create();
+		// Java objects to File
+		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
+			gson.toJson(master, writer);
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 
@@ -55,12 +64,11 @@ public class GenerateJSON {
 	}
 }
 
-final class GameMaster
-{
-	public DownloadGmTemplatesResponse.Result Result;
-	public java.util.List<POGOProtos.Networking.Responses.DownloadItemTemplatesResponse.GameMasterClientTemplate> Templates;
-	public java.util.List<String> DeletedTemplates;
+final class GameMaster {
+	//public DownloadGmTemplatesResponse.Result Result;
+	public List<DownloadItemTemplatesResponse.GameMasterClientTemplate> Templates;
+	public List<String> DeletedTemplates;
 	public long BatchId;
-	public int PageOffset;
-	public java.util.List<Integer> ExperimentId;
+	//public int PageOffset;
+	public List<Integer> ExperimentId;
 }
