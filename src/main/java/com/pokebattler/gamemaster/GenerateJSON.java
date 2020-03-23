@@ -1,6 +1,6 @@
 package com.pokebattler.gamemaster;
 
-import POGOProtos.Networking.Responses.*;
+import POGOProtos.Data.*;
 import com.google.protobuf.util.*;
 
 import java.io.*;
@@ -10,9 +10,7 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		DownloadItemTemplatesResponse response = DownloadItemTemplatesResponse.parseFrom(is);
-		//no longer needed
-		//response = addLegacyMoves(response);
+		GameMasterDecoder response = GameMasterDecoder.parseFrom(is);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
