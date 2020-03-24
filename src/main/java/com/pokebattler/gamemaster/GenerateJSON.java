@@ -14,6 +14,15 @@ public class GenerateJSON {
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
+			System.out.println();
+			System.out.println("-------------------------------------------------------------------------------");
+			System.out.println("Generated templates:");
+			System.out.println("	Decoded templates: " + response.getTemplateList().size());
+			System.out.println("	Deleted templates: " + response.getDeletedTemplateList().size());
+			System.out.println("	Experiment ids   : " + response.getExperimentIdList().size());
+			System.out.println("	BatchId          : " + response.getBatchId());
+			System.out.println("-------------------------------------------------------------------------------");
+			System.out.println();
 		}
 	}
 
