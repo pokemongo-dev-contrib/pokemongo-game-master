@@ -7,10 +7,10 @@ import com.google.protobuf.util.*;
 import java.io.*;
 
 public class GenerateJSON {
-	//Set next line to false for uses normal app mode.
-	private boolean use_old_mode = true;// false;
+	private boolean use_old_mode;
 
-	public GenerateJSON() {
+	public GenerateJSON(boolean oldmode) {
+		use_old_mode = oldmode;
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
@@ -56,8 +56,8 @@ public class GenerateJSON {
 	}
 
 	public static void main(String[] args) throws Exception {
-		if (args.length == 0 || args.length > 2) {
-			System.err.println("USAGE: java -jar pokemongo-game-master-2.46.0.jar BINARY_INPUT_FILE [optional JSON_OUTPUT_FILE]");
+		if (args.length == 0 || args.length > 3) {
+			System.err.println("USAGE: java -jar pokemongo-game-master-2.46.0.jar BINARY_INPUT_FILE [optional JSON_OUTPUT_FILE] [optional --oldmode]");
 			return;
 		}
 
@@ -67,9 +67,12 @@ public class GenerateJSON {
 			return;
 		}
 
-		GenerateJSON gen = new GenerateJSON();
-		try (OutputStream os = args.length == 2 ? new FileOutputStream(new File(args[1])) : System.out;
+		try (OutputStream os = args.length >= 2 ? new FileOutputStream(new File(args[1])) : System.out;
 			 InputStream is = new FileInputStream(f)) {
+			GenerateJSON gen = new GenerateJSON(false);
+			if (args.length == 3) {
+				gen = new GenerateJSON(true);
+			}
 			gen.writeJSON(is, os);
 		}
 	}
