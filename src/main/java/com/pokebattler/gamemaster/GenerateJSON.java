@@ -36,6 +36,7 @@ public class GenerateJSON {
 		//*/
 
 		//new mode used in app....
+		//for uses this out file comment up and remove comment here.
 		/*
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
