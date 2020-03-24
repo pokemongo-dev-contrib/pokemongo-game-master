@@ -7,51 +7,53 @@ import com.google.protobuf.util.*;
 import java.io.*;
 
 public class GenerateJSON {
+	//Set next line to false for uses normal app mode.
+	private boolean use_old_mode = true;// false;
+
 	public GenerateJSON() {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
 		GameMasterDecoder response = GameMasterDecoder.parseFrom(is);
 		//old mode used here....
-		//*
-		DownloadItemTemplatesResponse.Builder old_mode =  DownloadItemTemplatesResponse.newBuilder();
-		old_mode.setTimestampMs(response.getBatchId());
+		if (use_old_mode) {
+			DownloadItemTemplatesResponse.Builder old_mode = DownloadItemTemplatesResponse.newBuilder();
+			old_mode.setTimestampMs(response.getBatchId());
 
-		for (GameMasterDecoder.ClientGameMasterTemplate t : response.getTemplateList()) {
-			old_mode.addItemTemplate(t.getData());
+			for (GameMasterDecoder.ClientGameMasterTemplate t : response.getTemplateList()) {
+				old_mode.addItemTemplate(t.getData());
+			}
+
+			old_mode.build();
+			JsonFormat.Printer printer = JsonFormat.printer();
+			try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
+				printer.appendTo(old_mode, writer);
+				System.out.println();
+				System.out.println("-------------------------------------------------------------------------------");
+				System.out.println("Generated templates:");
+				System.out.println("	Decoded templates: " + old_mode.getItemTemplateCount());
+				System.out.println("	TimestampMs      : " + old_mode.getTimestampMs());
+				System.out.println("-------------------------------------------------------------------------------");
+				System.out.println();
+			}
 		}
-
-		old_mode.build();
-		JsonFormat.Printer printer = JsonFormat.printer();
-		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
-			printer.appendTo(old_mode, writer);
-			System.out.println();
-			System.out.println("-------------------------------------------------------------------------------");
-			System.out.println("Generated templates:");
-			System.out.println("	Decoded templates: " + old_mode.getItemTemplateCount());
-			System.out.println("	TimestampMs      : " + old_mode.getTimestampMs());
-			System.out.println("-------------------------------------------------------------------------------");
-			System.out.println();
-		}
-		//*/
-
 		//new mode used in app....
 		//for uses this out file comment up and remove comment here.
-		/*
-		JsonFormat.Printer printer = JsonFormat.printer();
-		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
-			printer.appendTo(response, writer);
-			System.out.println();
-			System.out.println("-------------------------------------------------------------------------------");
-			System.out.println("Generated templates:");
-			System.out.println("	Decoded templates: " + response.getTemplateList().size());
-			System.out.println("	Deleted templates: " + response.getDeletedTemplateList().size());
-			System.out.println("	Experiment ids   : " + response.getExperimentIdList().size());
-			System.out.println("	BatchId          : " + response.getBatchId());
-			System.out.println("-------------------------------------------------------------------------------");
-			System.out.println();
+		else {
+			JsonFormat.Printer printer = JsonFormat.printer();
+			try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
+				printer.appendTo(response, writer);
+				System.out.println();
+				System.out.println("-------------------------------------------------------------------------------");
+				System.out.println("Generated templates:");
+				System.out.println("	Decoded templates: " + response.getTemplateList().size());
+				System.out.println("	Deleted templates: " + response.getDeletedTemplateList().size());
+				System.out.println("	Experiment ids   : " + response.getExperimentIdList().size());
+				System.out.println("	BatchId          : " + response.getBatchId());
+				System.out.println("-------------------------------------------------------------------------------");
+				System.out.println();
+			}
 		}
-		//*/
 	}
 
 	public static void main(String[] args) throws Exception {
