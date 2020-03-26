@@ -30,7 +30,7 @@ public class GenerateJSON {
 				printer.appendTo(old_mode, writer);
 				System.out.println();
 				System.out.println("-------------------------------------------------------------------------------");
-				System.out.println("Generated templates:");
+				System.out.println("Generated templates old mode:");
 				System.out.println("	Decoded templates: " + old_mode.getItemTemplateCount());
 				System.out.println("	TimestampMs      : " + old_mode.getTimestampMs());
 				System.out.println("-------------------------------------------------------------------------------");
@@ -44,10 +44,10 @@ public class GenerateJSON {
 				printer.appendTo(response, writer);
 				System.out.println();
 				System.out.println("-------------------------------------------------------------------------------");
-				System.out.println("Generated templates:");
-				System.out.println("	Decoded templates: " + response.getTemplateList().size());
-				System.out.println("	Deleted templates: " + response.getDeletedTemplateList().size());
-				System.out.println("	Experiment ids   : " + response.getExperimentIdList().size());
+				System.out.println("Generated templates new mode:");
+				System.out.println("	Decoded templates: " + response.getTemplateCount());
+				System.out.println("	Deleted templates: " + response.getDeletedTemplateCount());
+				System.out.println("	Experiment ids   : " + response.getExperimentIdCount());
 				System.out.println("	BatchId          : " + response.getBatchId());
 				System.out.println("-------------------------------------------------------------------------------");
 				System.out.println();
@@ -56,22 +56,25 @@ public class GenerateJSON {
 	}
 
 	public static void main(String[] args) throws Exception {
-		if (args.length == 0 || args.length > 3) {
-			System.err.println("USAGE: java -jar pokemongo-game-master-2.46.0.jar BINARY_INPUT_FILE [optional JSON_OUTPUT_FILE] [optional --oldmode]");
+		if (args.length == 0 || args.length > 3 || args.length < 2) {
+			System.err.println("USAGE: java -jar pokemongo-game-master-2.46.0.jar BINARY_INPUT_FILE JSON_OUTPUT_FILE [optional --oldmode]");
 			return;
 		}
-
 		File f = new File(args[0]);
 		if (!f.exists()) {
 			System.err.println("File not found: " + args[0]);
 			return;
 		}
-
 		try (OutputStream os = args.length >= 2 ? new FileOutputStream(new File(args[1])) : System.out;
 			 InputStream is = new FileInputStream(f)) {
 			GenerateJSON gen = new GenerateJSON(false);
 			if (args.length == 3) {
-				gen = new GenerateJSON(true);
+				if (args[2].toLowerCase().equals("--oldmode"))
+					gen = new GenerateJSON(true);
+				else {
+					System.err.println("Bad option: " + args[2]);
+					return;
+				}
 			}
 			gen.writeJSON(is, os);
 		}
