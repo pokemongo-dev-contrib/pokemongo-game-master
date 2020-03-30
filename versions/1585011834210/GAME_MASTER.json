@@ -9796,6 +9796,7 @@
       "weeklyFitnessGoalLevel4DistanceKm": 100.0
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_1",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_1",
       "badgeRank": 2,
@@ -9803,6 +9804,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_2",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_2",
       "badgeRank": 2,
@@ -9810,6 +9812,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_3",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_3",
       "badgeRank": 2,
@@ -9817,6 +9820,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_4",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_4",
       "badgeRank": 2,
@@ -9824,6 +9828,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_5",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_5",
       "badgeRank": 2,
@@ -9831,6 +9836,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_6",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_6",
       "badgeRank": 2,
@@ -9838,6 +9844,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_APAC_PARTNER_JULY_2018_7",
     "badge": {
       "badgeType": "BADGE_APAC_PARTNER_JULY_2018_7",
       "badgeRank": 2,
@@ -9845,24 +9852,28 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_BATTLE_ATTACK_WON",
     "badge": {
       "badgeType": "BADGE_BATTLE_ATTACK_WON",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_BATTLE_TRAINING_WON",
     "badge": {
       "badgeType": "BADGE_BATTLE_TRAINING_WON",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_BERRIES_FED",
     "badge": {
       "badgeType": "BADGE_BERRIES_FED",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_BIG_MAGIKARP",
     "badge": {
       "badgeType": "BADGE_BIG_MAGIKARP",
       "badgeRank": 4,
@@ -9876,18 +9887,21 @@
       "targets": [1, 10, 100]
     }
   }, {
+    "templateId": "BADGE_CAPTURE_TOTAL",
     "badge": {
       "badgeType": "BADGE_CAPTURE_TOTAL",
       "badgeRank": 4,
       "targets": [30, 500, 2000]
     }
   }, {
+    "templateId": "BADGE_CHALLENGE_QUESTS",
     "badge": {
       "badgeType": "BADGE_CHALLENGE_QUESTS",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_CHICAGO_FEST_JULY_2017",
     "badge": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2017",
       "badgeRank": 2,
@@ -9895,6 +9909,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_CHICAGO_FEST_JULY_2018_SAT_NORTH",
     "badge": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2018_SAT_NORTH",
       "badgeRank": 2,
@@ -9902,6 +9917,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_CHICAGO_FEST_JULY_2018_SAT_SOUTH",
     "badge": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2018_SAT_SOUTH",
       "badgeRank": 2,
@@ -9909,6 +9925,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_CHICAGO_FEST_JULY_2018_SUN_NORTH",
     "badge": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2018_SUN_NORTH",
       "badgeRank": 2,
@@ -9916,6 +9933,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_CHICAGO_FEST_JULY_2018_SUN_SOUTH",
     "badge": {
       "badgeType": "BADGE_CHICAGO_FEST_JULY_2018_SUN_SOUTH",
       "badgeRank": 2,
@@ -9939,6 +9957,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_EVOLVED_TOTAL",
     "badge": {
       "badgeType": "BADGE_EVOLVED_TOTAL",
       "badgeRank": 4,
@@ -10264,18 +10283,21 @@
       "targets": [5, 50, 200]
     }
   }, {
+    "templateId": "BADGE_HATCHED_TOTAL",
     "badge": {
       "badgeType": "BADGE_HATCHED_TOTAL",
       "badgeRank": 4,
       "targets": [10, 100, 500]
     }
   }, {
+    "templateId": "BADGE_HOURS_DEFENDED",
     "badge": {
       "badgeType": "BADGE_HOURS_DEFENDED",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_LEGENDARY_BATTLE_WON",
     "badge": {
       "badgeType": "BADGE_LEGENDARY_BATTLE_WON",
       "badgeRank": 4,
@@ -10289,6 +10311,7 @@
       "targets": [5, 50, 200]
     }
   }, {
+    "templateId": "BADGE_MAX_LEVEL_FRIENDS",
     "badge": {
       "badgeType": "BADGE_MAX_LEVEL_FRIENDS",
       "badgeRank": 4,
@@ -10318,12 +10341,14 @@
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_PIKACHU",
     "badge": {
       "badgeType": "BADGE_PIKACHU",
       "badgeRank": 4,
       "targets": [3, 50, 300]
     }
   }, {
+    "templateId": "BADGE_PIKACHU_OUTBREAK_YOKOHAMA_2017",
     "badge": {
       "badgeType": "BADGE_PIKACHU_OUTBREAK_YOKOHAMA_2017",
       "badgeRank": 2,
@@ -10331,18 +10356,21 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_POKEDEX_ENTRIES",
     "badge": {
       "badgeType": "BADGE_POKEDEX_ENTRIES",
       "badgeRank": 4,
       "targets": [5, 50, 100]
     }
   }, {
+    "templateId": "BADGE_POKEDEX_ENTRIES_GEN2",
     "badge": {
       "badgeType": "BADGE_POKEDEX_ENTRIES_GEN2",
       "badgeRank": 4,
       "targets": [5, 30, 70]
     }
   }, {
+    "templateId": "BADGE_POKEDEX_ENTRIES_GEN3",
     "badge": {
       "badgeType": "BADGE_POKEDEX_ENTRIES_GEN3",
       "badgeRank": 4,
@@ -10370,12 +10398,14 @@
       "targets": [5, 50, 500]
     }
   }, {
+    "templateId": "BADGE_POKESTOPS_VISITED",
     "badge": {
       "badgeType": "BADGE_POKESTOPS_VISITED",
       "badgeRank": 4,
       "targets": [100, 1000, 2000]
     }
   }, {
+    "templateId": "BADGE_RAID_BATTLE_WON",
     "badge": {
       "badgeType": "BADGE_RAID_BATTLE_WON",
       "badgeRank": 4,
@@ -10524,6 +10554,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_SAFARI_ZONE_EUROPE_2017",
     "badge": {
       "badgeType": "BADGE_SAFARI_ZONE_EUROPE_2017",
       "badgeRank": 2,
@@ -10531,6 +10562,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_SAFARI_ZONE_EUROPE_2017_10_07",
     "badge": {
       "badgeType": "BADGE_SAFARI_ZONE_EUROPE_2017_10_07",
       "badgeRank": 2,
@@ -10538,6 +10570,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_SAFARI_ZONE_EUROPE_2017_10_14",
     "badge": {
       "badgeType": "BADGE_SAFARI_ZONE_EUROPE_2017_10_14",
       "badgeRank": 2,
@@ -10585,6 +10618,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_SMALL_RATTATA",
     "badge": {
       "badgeType": "BADGE_SMALL_RATTATA",
       "badgeRank": 4,
@@ -10615,126 +10649,147 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_TRADING",
     "badge": {
       "badgeType": "BADGE_TRADING",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_TRADING_DISTANCE",
     "badge": {
       "badgeType": "BADGE_TRADING_DISTANCE",
       "badgeRank": 4,
       "targets": [1000, 100000, 1000000]
     }
   }, {
+    "templateId": "BADGE_TRAVEL_KM",
     "badge": {
       "badgeType": "BADGE_TRAVEL_KM",
       "badgeRank": 4,
       "targets": [10, 100, 1000]
     }
   }, {
+    "templateId": "BADGE_TYPE_BUG",
     "badge": {
       "badgeType": "BADGE_TYPE_BUG",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_DARK",
     "badge": {
       "badgeType": "BADGE_TYPE_DARK",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_DRAGON",
     "badge": {
       "badgeType": "BADGE_TYPE_DRAGON",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_ELECTRIC",
     "badge": {
       "badgeType": "BADGE_TYPE_ELECTRIC",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_FAIRY",
     "badge": {
       "badgeType": "BADGE_TYPE_FAIRY",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_FIGHTING",
     "badge": {
       "badgeType": "BADGE_TYPE_FIGHTING",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_FIRE",
     "badge": {
       "badgeType": "BADGE_TYPE_FIRE",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_FLYING",
     "badge": {
       "badgeType": "BADGE_TYPE_FLYING",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_GHOST",
     "badge": {
       "badgeType": "BADGE_TYPE_GHOST",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_GRASS",
     "badge": {
       "badgeType": "BADGE_TYPE_GRASS",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_GROUND",
     "badge": {
       "badgeType": "BADGE_TYPE_GROUND",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_ICE",
     "badge": {
       "badgeType": "BADGE_TYPE_ICE",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_NORMAL",
     "badge": {
       "badgeType": "BADGE_TYPE_NORMAL",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_POISON",
     "badge": {
       "badgeType": "BADGE_TYPE_POISON",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_PSYCHIC",
     "badge": {
       "badgeType": "BADGE_TYPE_PSYCHIC",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_ROCK",
     "badge": {
       "badgeType": "BADGE_TYPE_ROCK",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_STEEL",
     "badge": {
       "badgeType": "BADGE_TYPE_STEEL",
       "badgeRank": 4,
       "targets": [10, 50, 200]
     }
   }, {
+    "templateId": "BADGE_TYPE_WATER",
     "badge": {
       "badgeType": "BADGE_TYPE_WATER",
       "badgeRank": 4,
@@ -10748,12 +10803,14 @@
       "targets": [5, 50, 200]
     }
   }, {
+    "templateId": "BADGE_UNOWN",
     "badge": {
       "badgeType": "BADGE_UNOWN",
       "badgeRank": 4,
       "targets": [3, 10, 26]
     }
   }, {
+    "templateId": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
       "badgeRank": 2,
@@ -10761,6 +10818,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_YOKOSUKA_29_AUG_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_29_AUG_2018_VERNY",
       "badgeRank": 2,
@@ -10768,6 +10826,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_YOKOSUKA_2_SEP_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_2_SEP_2018_VERNY",
       "badgeRank": 2,
@@ -10775,6 +10834,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_YOKOSUKA_30_AUG_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_30_AUG_2018_VERNY",
       "badgeRank": 2,
@@ -10782,6 +10842,7 @@
       "eventBadge": true
     }
   }, {
+    "templateId": "BADGE_YOKOSUKA_31_AUG_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_31_AUG_2018_VERNY",
       "badgeRank": 2,
@@ -14286,6 +14347,7 @@
       "energyDelta": -50
     }
   }, {
+    "templateId": "ENCOUNTER_SETTINGS",
     "encounterSettings": {
       "spinBonusThreshold": 0.5,
       "excellentThrowThreshold": 1.7,
@@ -19251,6 +19313,7 @@
       "tradingDiscount": 0.96
     }
   }, {
+    "templateId": "GYM_BADGE_SETTINGS",
     "gymBadgeSettings": {
       "target": [500, 4000, 30000],
       "battleWinningScorePerDefenderCp": 0.01,
@@ -19261,6 +19324,7 @@
       "loseAllBattlesScore": 5
     }
   }, {
+    "templateId": "GYM_LEVEL_SETTINGS",
     "gymLevel": {
       "requiredExperience": [0, 2000, 4000, 8000, 12000, 16000, 20000, 30000, 40000, 50000],
       "leaderSlots": [1, 1, 1, 2, 2, 2, 3, 3, 3, 4],
@@ -19317,6 +19381,7 @@
       "sortOrder": 5
     }
   }, {
+    "templateId": "IAP_SETTINGS",
     "iapSettings": {
       "dailyDefenderBonusPerPokemon": [500, 10],
       "dailyDefenderBonusMaxDefenders": 10,
@@ -19387,6 +19452,7 @@
       "dropTrainerLevel": 10
     }
   }, {
+    "templateId": "ITEM_FREE_RAID_TICKET",
     "item": {
       "itemId": "ITEM_FREE_RAID_TICKET",
       "itemType": "ITEM_TYPE_RAID_TICKET",
@@ -19394,6 +19460,7 @@
       "dropTrainerLevel": 100
     }
   }, {
+    "templateId": "ITEM_FRIEND_GIFT_BOX",
     "item": {
       "itemId": "ITEM_FRIEND_GIFT_BOX",
       "itemType": "ITEM_TYPE_FRIEND_GIFT_BOX",
@@ -19601,6 +19668,7 @@
       }
     }
   }, {
+    "templateId": "ITEM_LEGENDARY_RAID_TICKET",
     "item": {
       "itemId": "ITEM_LEGENDARY_RAID_TICKET",
       "itemType": "ITEM_TYPE_RAID_TICKET",
@@ -19658,6 +19726,7 @@
       "dropTrainerLevel": 10
     }
   }, {
+    "templateId": "ITEM_MOVE_REROLL_FAST_ATTACK",
     "item": {
       "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
       "itemType": "ITEM_TYPE_MOVE_REROLL",
@@ -19665,6 +19734,7 @@
       "dropTrainerLevel": 15
     }
   }, {
+    "templateId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
     "item": {
       "itemId": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
       "itemType": "ITEM_TYPE_MOVE_REROLL",
@@ -19762,6 +19832,7 @@
       }
     }
   }, {
+    "templateId": "ITEM_PREMIER_BALL",
     "item": {
       "itemId": "ITEM_PREMIER_BALL",
       "itemType": "ITEM_TYPE_POKEBALL",
@@ -19769,6 +19840,7 @@
       "dropTrainerLevel": 100
     }
   }, {
+    "templateId": "ITEM_RARE_CANDY",
     "item": {
       "itemId": "ITEM_RARE_CANDY",
       "itemType": "ITEM_TYPE_CANDY",
@@ -19966,6 +20038,7 @@
       "purchaseLimit": 1
     }
   }, {
+    "templateId": "LUCKY_POKEMON_SETTINGS",
     "luckyPokemonSettings": {
       "powerUpStardustDiscountPercent": 0.5
     }
@@ -20006,35 +20079,41 @@
       "featureEnabled": true
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_BATTLE_POKEMON_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "BattlePokemonScale",
       "minHeight": 0.31,
       "maxHeight": 4.35
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_GUI_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "GuiScale",
       "minHeight": 0.8,
       "maxHeight": 3.6
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_GYM_TOPPER_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "GymTopperScale",
       "minHeight": 1.3,
       "maxHeight": 4.2
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_MAP_POKEMON_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "MapPokemonScale",
       "minHeight": 2.3,
       "maxHeight": 10.0
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_NATURAL_SCALE",
     "pokemonScaleSettings": {
       "minHeight": 0.31,
       "maxHeight": 4.35
     }
   }, {
+    "templateId": "POKEMON_SCALE_SETTINGS_RAID_BOSS_SCALE",
     "pokemonScaleSettings": {
       "pokemonScaleMode": "RaidBossScale",
       "minHeight": 4.0,
@@ -20163,6 +20242,7 @@
       "defaultCpBoostAdditionalLevel": 1
     }
   }, {
+    "templateId": "QUEST_FIRST_CATCH_OF_THE_DAY",
     "questSettings": {
       "questType": "QUEST_FIRST_CATCH_OF_THE_DAY",
       "dailyQuest": {
@@ -20171,6 +20251,7 @@
       }
     }
   }, {
+    "templateId": "QUEST_FIRST_POKESTOP_OF_THE_DAY",
     "questSettings": {
       "questType": "QUEST_FIRST_POKESTOP_OF_THE_DAY",
       "dailyQuest": {
@@ -118701,41 +118782,49 @@
       "rewardTrack": "PREMIUM"
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_CLEAR",
     "weatherAffinities": {
       "weatherCondition": "CLEAR",
       "pokemonType": ["POKEMON_TYPE_GRASS", "POKEMON_TYPE_GROUND", "POKEMON_TYPE_FIRE"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_FOG",
     "weatherAffinities": {
       "weatherCondition": "FOG",
       "pokemonType": ["POKEMON_TYPE_DARK", "POKEMON_TYPE_GHOST"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_OVERCAST",
     "weatherAffinities": {
       "weatherCondition": "OVERCAST",
       "pokemonType": ["POKEMON_TYPE_FAIRY", "POKEMON_TYPE_FIGHTING", "POKEMON_TYPE_POISON"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_PARTLY_CLOUDY",
     "weatherAffinities": {
       "weatherCondition": "PARTLY_CLOUDY",
       "pokemonType": ["POKEMON_TYPE_NORMAL", "POKEMON_TYPE_ROCK"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_RAINY",
     "weatherAffinities": {
       "weatherCondition": "RAINY",
       "pokemonType": ["POKEMON_TYPE_WATER", "POKEMON_TYPE_ELECTRIC", "POKEMON_TYPE_BUG"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_SNOW",
     "weatherAffinities": {
       "weatherCondition": "SNOW",
       "pokemonType": ["POKEMON_TYPE_ICE", "POKEMON_TYPE_STEEL"]
     }
   }, {
+    "templateId": "WEATHER_AFFINITY_WINDY",
     "weatherAffinities": {
       "weatherCondition": "WINDY",
       "pokemonType": ["POKEMON_TYPE_DRAGON", "POKEMON_TYPE_FLYING", "POKEMON_TYPE_PSYCHIC"]
     }
   }, {
+    "templateId": "WEATHER_BONUS_SETTINGS",
     "weatherBonusSettings": {
       "cpBaseLevelBonus": 5,
       "guaranteedIndividualValues": 4,
@@ -118750,6 +118839,7 @@
       "featureEnabled": true
     }
   }, {
+    "templateId": "bundle.general1.large.1",
     "iapItemDisplay": {
       "sku": "bundle.general1.large.1",
       "category": "IAP_CATEGORY_BUNDLE",
@@ -118804,6 +118894,7 @@
       "title": "item_incense_ordinary_name"
     }
   }, {
+    "templateId": "bundle.general3.large.1",
     "iapItemDisplay": {
       "sku": "bundle.general3.large.1",
       "category": "IAP_CATEGORY_BUNDLE",
@@ -118812,6 +118903,7 @@
       "sale": true
     }
   }, {
+    "templateId": "camera_aerialace",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -118830,6 +118922,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_aerialace_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -118848,6 +118941,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_aerialace_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -118866,6 +118960,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_aerialace_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118884,6 +118979,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_aerialace_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118902,6 +118998,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_aircutter",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118920,6 +119017,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_aircutter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118938,6 +119036,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_aircutter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118956,6 +119055,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_aircutter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118974,6 +119074,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_aircutter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -118992,6 +119093,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_aircutterenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE"],
@@ -119010,6 +119112,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_airslash",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE"],
@@ -119028,6 +119131,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_airslash_swp",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119046,6 +119150,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_ancientpower",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119064,6 +119169,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_ancientpower_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119082,6 +119188,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_ancientpower_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119100,6 +119207,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_ancientpower_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119118,6 +119226,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_ancientpower_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119136,6 +119245,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_aquajet",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -119154,6 +119264,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_aquajet_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119172,6 +119283,7 @@
       "vertCtrRatio": [0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_aquajet_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119190,6 +119302,7 @@
       "vertCtrRatio": [0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_aquajet_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -119208,6 +119321,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_aquajet_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -119226,6 +119340,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_aquajetenter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119244,6 +119359,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_aquajetenter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119262,6 +119378,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_aquajetenter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119280,6 +119397,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_aquajetenter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119298,6 +119416,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_aquatail",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119316,6 +119435,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_aquatailenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -119334,6 +119454,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_battlefainted",
     "camera": {
       "nextCamera": "battlefainted",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -119353,6 +119474,7 @@
       "vertCtrRatio": [0.85]
     }
   }, {
+    "templateId": "camera_battlewait",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER_MIRROR"],
@@ -119371,6 +119493,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_bodyslam",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119389,6 +119512,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_boneclub",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -119407,6 +119531,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_boneclubenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER_ATTACKER_EDGE"],
@@ -119425,6 +119550,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_bothsidecut",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -119443,6 +119569,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_brickbreak",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119461,6 +119588,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_brickbreak_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -119479,6 +119607,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_brickbreak_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -119497,6 +119626,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_brickbreak_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -119515,6 +119645,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_brickbreak_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -119533,6 +119664,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_brine",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -119551,6 +119683,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_bubblebeam",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -119569,6 +119702,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_bugbuzz",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -119587,6 +119721,7 @@
       "vertCtrRatio": [1.0, 0.75, 0.5]
     }
   }, {
+    "templateId": "camera_crosschop",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119605,6 +119740,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_crosspoison",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119623,6 +119759,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_cutfromattacker_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119641,6 +119778,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_cutfromattacker_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119659,6 +119797,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_cutfromdefender_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119677,6 +119816,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_cutfromdefender_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -119695,6 +119835,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_cutreturn",
     "camera": {
       "nextCamera": "battlewait",
       "interpolation": ["CAM_INTERP_CUT"],
@@ -119714,6 +119855,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_cuttofacedefender_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119732,6 +119874,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_cuttofacedefender_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -119750,6 +119893,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_cuttofacedefender_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119768,6 +119912,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_cuttofacedefender_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -119786,6 +119931,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_darkpulse",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -119804,6 +119950,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_dazzlinggleam",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER_MIRROR"],
@@ -119822,6 +119969,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_defaultattack",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119840,6 +119988,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_defaultattack_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119858,6 +120007,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_defaultattack_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119876,6 +120026,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_defaultattack_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119894,6 +120045,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_defaultattack_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -119912,6 +120064,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_dig",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -119930,6 +120083,7 @@
       "vertCtrRatio": [0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_disarmingvoice",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_MIRROR", "CAM_TARGET_ATTACKER_DEFENDER_MIRROR"],
@@ -119948,6 +120102,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_disarmingvoiceenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -119966,6 +120121,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_discharge",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -119984,6 +120140,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_dischargeenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -120002,6 +120159,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_dragonbreath",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -120020,6 +120178,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.0, 0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_dragonclaw",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_ATTACKER"],
@@ -120038,6 +120197,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_dragonpulse",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120056,6 +120216,7 @@
       "vertCtrRatio": [0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_drillpeck",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -120074,6 +120235,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_drillrun",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -120092,6 +120254,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_drillrun_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -120110,6 +120273,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_drillrun_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -120128,6 +120292,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_drillrun_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -120146,6 +120311,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_drillrun_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -120164,6 +120330,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_earthquake",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120182,6 +120349,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_encounterintro",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120200,6 +120368,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_enter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -120218,6 +120387,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_enterbehindattacker_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120236,6 +120406,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterbehindattacker_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120254,6 +120425,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterbehindattacker_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120272,6 +120444,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterbehindattacker_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120290,6 +120463,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterbehindattackerfaraway_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120308,6 +120482,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_enterbehindattackerfaraway_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120326,6 +120501,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_enterbehindattackerfaraway_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120344,6 +120520,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_enterbehindattackerfaraway_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120362,6 +120539,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_enterfaceattacker_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -120380,6 +120558,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_enterfaceattacker_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -120398,6 +120577,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_enterfaceattacker_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -120416,6 +120596,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_enterfaceattacker_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -120434,6 +120615,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_enterfacedefender_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -120452,6 +120634,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefender_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120470,6 +120653,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefender_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120488,6 +120672,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefender_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120506,6 +120691,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefenderfromfaraway_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -120524,6 +120710,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefenderfromfaraway_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120542,6 +120729,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefenderfromfaraway_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120560,6 +120748,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_enterfacedefenderfromfaraway_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -120578,6 +120767,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_face",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -120596,6 +120786,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_faceattacker",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -120614,6 +120805,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_faceattackertilt_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120632,6 +120824,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_faceattackertilt_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120650,6 +120843,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_faceattackertilt_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120668,6 +120862,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_faceattackertilt_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120686,6 +120881,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_facecut",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -120704,6 +120900,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_facecutdefender",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -120722,6 +120919,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_facedefenderzoomout_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -120740,6 +120938,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_facedefenderzoomout_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -120758,6 +120957,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_facedefenderzoomout_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -120776,6 +120976,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_facedefenderzoomout_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -120794,6 +120995,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_faint",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -120812,6 +121014,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_fireblast",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -120830,6 +121033,7 @@
       "vertCtrRatio": [0.75, 0.75]
     }
   }, {
+    "templateId": "camera_fireblast_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER_EDGE"],
@@ -120848,6 +121052,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_fireblast_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120866,6 +121071,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_fireblast_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -120884,6 +121090,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_fireblast_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -120902,6 +121109,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_fireblastenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -120920,6 +121128,7 @@
       "vertCtrRatio": [1.0, 0.75, 0.75]
     }
   }, {
+    "templateId": "camera_firepunch_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -120938,6 +121147,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_flameburst",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -120956,6 +121166,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_flameburstenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -120974,6 +121185,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_flamecharge",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -120992,6 +121204,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flamecharge_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121010,6 +121223,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flamecharge_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121028,6 +121242,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flamecharge_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121046,6 +121261,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flamecharge_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121064,6 +121280,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flamethrower",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -121082,6 +121299,7 @@
       "vertCtrRatio": [0.75, 0.75, 0.5, 0.75]
     }
   }, {
+    "templateId": "camera_flamewheel",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121100,6 +121318,7 @@
       "vertCtrRatio": [0.5, 0.5, 1.0, 0.5]
     }
   }, {
+    "templateId": "camera_flashcannon",
     "camera": {
       "nextCamera": "flashcannon_hit",
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
@@ -121119,6 +121338,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_flashcannon_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121137,6 +121357,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_followarcingprojectile_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121155,6 +121376,7 @@
       "vertCtrRatio": [1.0, 0.75]
     }
   }, {
+    "templateId": "camera_followarcingprojectile_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121173,6 +121395,7 @@
       "vertCtrRatio": [1.0, 0.75]
     }
   }, {
+    "templateId": "camera_followarcingprojectile_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121191,6 +121414,7 @@
       "vertCtrRatio": [1.0, 0.75]
     }
   }, {
+    "templateId": "camera_followarcingprojectile_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121209,6 +121433,7 @@
       "vertCtrRatio": [1.0, 0.75]
     }
   }, {
+    "templateId": "camera_fortbidle",
     "camera": {
       "nextCamera": "fortbidle",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -121228,6 +121453,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_fortdeployintro",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_GROUND"],
@@ -121246,6 +121472,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.85]
     }
   }, {
+    "templateId": "camera_fortfaint",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_GROUND"],
@@ -121264,6 +121491,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_fortplayerfainted",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121282,6 +121510,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_gigadrain",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -121300,6 +121529,7 @@
       "vertCtrRatio": [0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_gunkshot",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -121318,6 +121548,7 @@
       "vertCtrRatio": [0.5, 0.85]
     }
   }, {
+    "templateId": "camera_gunkshot_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121336,6 +121567,7 @@
       "vertCtrRatio": [0.5, 0.85]
     }
   }, {
+    "templateId": "camera_gunkshot_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121354,6 +121586,7 @@
       "vertCtrRatio": [0.5, 0.85]
     }
   }, {
+    "templateId": "camera_gunkshot_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121372,6 +121605,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.85]
     }
   }, {
+    "templateId": "camera_gunkshot_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_DEFENDER_GROUND"],
@@ -121390,6 +121624,7 @@
       "vertCtrRatio": [0.5, 0.85]
     }
   }, {
+    "templateId": "camera_gymhi",
     "camera": {
       "nextCamera": "gymhi",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -121409,6 +121644,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_gymlow",
     "camera": {
       "nextCamera": "gymlow",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -121428,6 +121664,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_gymlowest",
     "camera": {
       "nextCamera": "gymlowest",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -121447,6 +121684,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_gymmed",
     "camera": {
       "nextCamera": "gymmed",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -121466,6 +121704,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_heartstamp",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121484,6 +121723,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_heatwave",
     "camera": {
       "nextCamera": "heatwave_hit",
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
@@ -121503,6 +121743,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_heatwave_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -121521,6 +121762,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_hornattack",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -121539,6 +121781,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_hornattackenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -121557,6 +121800,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_hurricane",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -121575,6 +121819,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_hydropump",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121593,6 +121838,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_hydropumpenter",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE"],
@@ -121611,6 +121857,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_hyperbeam",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -121629,6 +121876,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_hyperbeam_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER_MIRROR", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER_MIRROR"],
@@ -121647,6 +121895,7 @@
       "vertCtrRatio": [1.0, 0.25]
     }
   }, {
+    "templateId": "camera_hyperbeam_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121665,6 +121914,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_hyperbeam_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121683,6 +121933,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_hyperbeam_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121701,6 +121952,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_hyperbeam_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -121719,6 +121971,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_hyperfang",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -121737,6 +121990,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_hyperfang_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121755,6 +122009,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_hyperfang_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121773,6 +122028,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_hyperfang_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121791,6 +122047,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_hyperfang_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121809,6 +122066,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_icebeam",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -121827,6 +122085,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_icebeam_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -121845,6 +122104,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_icebeam_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -121863,6 +122123,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_icebeam_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -121881,6 +122142,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_icebeam_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -121899,6 +122161,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_icepunch",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE"],
@@ -121917,6 +122180,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_icepunch_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -121935,6 +122199,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_idle",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -121953,6 +122218,7 @@
       "vertCtrRatio": [0.5, 1.0, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_ironhead",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121971,6 +122237,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_ironhead_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -121989,6 +122256,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_ironhead_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122007,6 +122275,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_ironhead_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122025,6 +122294,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_ironhead_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122043,6 +122313,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_ironheadenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -122061,6 +122332,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_karatechop",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122079,6 +122351,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_leafblade",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122097,6 +122370,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_leafbladeenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER_MIRROR"],
@@ -122115,6 +122389,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_left",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -122133,6 +122408,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_lowsweep",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122151,6 +122427,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_magnetbomb",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER_EDGE"],
@@ -122169,6 +122446,7 @@
       "vertCtrRatio": [1.0, 0.75]
     }
   }, {
+    "templateId": "camera_megadrain",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -122187,6 +122465,7 @@
       "vertCtrRatio": [0.5, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_megahorn",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -122205,6 +122484,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_moonblast",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122223,6 +122503,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.6]
     }
   }, {
+    "templateId": "camera_moonblast_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122241,6 +122522,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.6]
     }
   }, {
+    "templateId": "camera_moonblast_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122259,6 +122541,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.6]
     }
   }, {
+    "templateId": "camera_moonblast_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122277,6 +122560,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.6]
     }
   }, {
+    "templateId": "camera_moonblast_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122295,6 +122579,7 @@
       "vertCtrRatio": [1.0, 1.0, 0.6]
     }
   }, {
+    "templateId": "camera_mudbomb",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -122313,6 +122598,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_mudbombenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -122331,6 +122617,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_mudshot",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122349,6 +122636,7 @@
       "vertCtrRatio": [1.0, 0.88]
     }
   }, {
+    "templateId": "camera_nightslash",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -122367,6 +122655,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_ominouswind",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER_MIRROR"],
@@ -122385,6 +122674,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_overhead_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -122403,6 +122693,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_overhead_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -122421,6 +122712,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_overhead_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -122439,6 +122731,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_overhead_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -122457,6 +122750,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantoattacker_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -122475,6 +122769,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantoattacker_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -122493,6 +122788,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantoattacker_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -122511,6 +122807,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantoattacker_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -122529,6 +122826,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantodefender_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122547,6 +122845,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantodefender_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122565,6 +122864,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantodefender_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122583,6 +122883,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantodefender_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122601,6 +122902,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_pantofacedefender_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122619,6 +122921,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_pantofacedefender_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122637,6 +122940,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_pantofacedefender_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122655,6 +122959,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_pantofacedefender_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122673,6 +122978,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_paraboliccharge",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -122691,6 +122997,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_paraboliccharge_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -122709,6 +123016,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_paraboliccharge_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -122727,6 +123035,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_paraboliccharge_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -122745,6 +123054,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_paraboliccharge_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -122763,6 +123073,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_petalblizzard",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122781,6 +123092,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_playrough",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -122799,6 +123111,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_playrough_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122817,6 +123130,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_playrough_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122835,6 +123149,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_playrough_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122853,6 +123168,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_playrough_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122871,6 +123187,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_playroughenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER"],
@@ -122889,6 +123206,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_poisonfang",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -122907,6 +123225,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_poisonjab",
     "camera": {
       "nextCamera": "poisonjab_hit",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -122926,6 +123245,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_poisonjab_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -122944,6 +123264,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_powerwhip",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -122962,6 +123283,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_powerwhip_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -122980,6 +123302,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_powerwhip_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -122998,6 +123321,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_powerwhip_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -123016,6 +123340,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_powerwhip_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -123034,6 +123359,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psybeam",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123052,6 +123378,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_psybeamenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -123070,6 +123397,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_psybeamenter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -123088,6 +123416,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psybeamenter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -123106,6 +123435,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psybeamenter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -123124,6 +123454,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_psybeamenter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND"],
@@ -123142,6 +123473,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psychic",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123160,6 +123492,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psychicenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE"],
@@ -123178,6 +123511,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psychocut",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123196,6 +123530,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_psyshock",
     "camera": {
       "nextCamera": "psyshock_hit",
       "interpolation": ["CAM_INTERP_CUT"],
@@ -123215,6 +123550,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_psyshock_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123233,6 +123569,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psyshock_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123251,6 +123588,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psyshock_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123269,6 +123607,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psyshock_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123287,6 +123626,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psyshock_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123305,6 +123645,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_psystrike",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123323,6 +123664,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_psystrike_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123341,6 +123683,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_psystrike_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123359,6 +123702,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_psystrike_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123377,6 +123721,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_psystrike_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123395,6 +123740,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5, 0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_punchhit_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123413,6 +123759,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_punchhit_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123431,6 +123778,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_punchhit_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123449,6 +123797,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_punchhit_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123467,6 +123816,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_quickattacker",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -123485,6 +123835,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_quickdefender",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123503,6 +123854,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_quickreturn",
     "camera": {
       "nextCamera": "battlewait",
       "interpolation": ["CAM_INTERP_LINEAR"],
@@ -123522,6 +123874,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_rear",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -123540,6 +123893,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_rearcut",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER"],
@@ -123558,6 +123912,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_rearcutdefender",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123576,6 +123931,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_rockslide",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -123594,6 +123950,7 @@
       "vertCtrRatio": [1.0, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_rockthrow",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123612,6 +123969,7 @@
       "vertCtrRatio": [1.0, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_scald",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123630,6 +123988,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_scaldenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_EDGE"],
@@ -123648,6 +124007,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_seedbomb",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER_EDGE"],
@@ -123666,6 +124026,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_seedbombenter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -123684,6 +124045,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_seedbombenter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -123702,6 +124064,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_seedbombenter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -123720,6 +124083,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_seedbombenter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -123738,6 +124102,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_seedefender",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123756,6 +124121,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_shadowball",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER_EDGE"],
@@ -123774,6 +124140,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_shadowpunch_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -123792,6 +124159,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_shadowsneak",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123810,6 +124178,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_shadowsneak_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123828,6 +124197,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_shadowsneak_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123846,6 +124216,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_shadowsneak_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123864,6 +124235,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_shadowsneak_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -123882,6 +124254,7 @@
       "vertCtrRatio": [1.0, 1.0, 1.0]
     }
   }, {
+    "templateId": "camera_shadowsneakenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_DEFENDER_ATTACKER_EDGE"],
@@ -123900,6 +124273,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_shoot",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER"],
@@ -123918,6 +124292,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_signalbeam",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -123936,6 +124311,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_signalbeamenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -123954,6 +124330,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_sludgebomb",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -123972,6 +124349,7 @@
       "vertCtrRatio": [0.85]
     }
   }, {
+    "templateId": "camera_sludgewave",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -123990,6 +124368,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_solarbeam",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER_EDGE"],
@@ -124008,6 +124387,7 @@
       "vertCtrRatio": [0.5, 0.6]
     }
   }, {
+    "templateId": "camera_solarbeam_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124026,6 +124406,7 @@
       "vertCtrRatio": [0.5, 0.6]
     }
   }, {
+    "templateId": "camera_solarbeam_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124044,6 +124425,7 @@
       "vertCtrRatio": [0.5, 0.6]
     }
   }, {
+    "templateId": "camera_solarbeam_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124062,6 +124444,7 @@
       "vertCtrRatio": [0.5, 0.6]
     }
   }, {
+    "templateId": "camera_solarbeam_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124080,6 +124463,7 @@
       "vertCtrRatio": [0.5, 0.6]
     }
   }, {
+    "templateId": "camera_solarbeamenter",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_WORLD"],
@@ -124098,6 +124482,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_solarbeamenter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -124116,6 +124501,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_solarbeamenter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -124134,6 +124520,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_solarbeamenter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -124152,6 +124539,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.5]
     }
   }, {
+    "templateId": "camera_solarbeamenter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_GROUND", "CAM_TARGET_ATTACKER_GROUND"],
@@ -124170,6 +124558,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_spark",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_DEFENDER"],
@@ -124188,6 +124577,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_stoneedge",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_SHOULDER_ATTACKER_DEFENDER"],
@@ -124206,6 +124596,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_submission",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124224,6 +124615,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_suckerpunch",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_SHOULDER_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124242,6 +124634,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_swift",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -124260,6 +124653,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_tackle",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER_EDGE"],
@@ -124278,6 +124672,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_takedown",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124296,6 +124691,7 @@
       "vertCtrRatio": [1.0, 1.0]
     }
   }, {
+    "templateId": "camera_thunder",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124314,6 +124710,7 @@
       "vertCtrRatio": [0.5, 0.5, 1.0]
     }
   }, {
+    "templateId": "camera_thunder_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124332,6 +124729,7 @@
       "vertCtrRatio": [0.5, 1.0]
     }
   }, {
+    "templateId": "camera_thunder_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124350,6 +124748,7 @@
       "vertCtrRatio": [0.5, 1.0]
     }
   }, {
+    "templateId": "camera_thunder_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124368,6 +124767,7 @@
       "vertCtrRatio": [0.5, 1.0]
     }
   }, {
+    "templateId": "camera_thunder_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER", "CAM_TARGET_DEFENDER"],
@@ -124386,6 +124786,7 @@
       "vertCtrRatio": [0.5, 1.0]
     }
   }, {
+    "templateId": "camera_thunderbolt",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_EDGE"],
@@ -124404,6 +124805,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_thunderboltenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124422,6 +124824,7 @@
       "vertCtrRatio": [1.0]
     }
   }, {
+    "templateId": "camera_thunderpunch_hit",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -124440,6 +124843,7 @@
       "vertCtrRatio": [0.5, 0.5]
     }
   }, {
+    "templateId": "camera_twister",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -124458,6 +124862,7 @@
       "vertCtrRatio": [0.8]
     }
   }, {
+    "templateId": "camera_vicegrip",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -124476,6 +124881,7 @@
       "vertCtrRatio": [0.5]
     }
   }, {
+    "templateId": "camera_watergun",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR", "CAM_INTERP_CUT"],
       "targetType": ["CAM_TARGET_ATTACKER", "CAM_TARGET_ATTACKER_EDGE", "CAM_TARGET_DEFENDER"],
@@ -124494,6 +124900,7 @@
       "vertCtrRatio": [0.5, 0.5, 0.75]
     }
   }, {
+    "templateId": "camera_waterpulse",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER"],
@@ -124512,6 +124919,7 @@
       "vertCtrRatio": [0.75]
     }
   }, {
+    "templateId": "camera_waterpulseenter",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124530,6 +124938,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_waterpulseenter_leader_player_left_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124548,6 +124957,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_waterpulseenter_leader_player_right_",
     "camera": {
       "interpolation": ["CAM_INTERP_CUT", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124566,6 +124976,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_waterpulseenter_player_left_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124584,6 +124995,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_waterpulseenter_player_right_leader_",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR", "CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_ATTACKER_DEFENDER", "CAM_TARGET_ATTACKER_DEFENDER"],
@@ -124602,6 +125014,7 @@
       "vertCtrRatio": [1.0, 0.5]
     }
   }, {
+    "templateId": "camera_xscissor",
     "camera": {
       "interpolation": ["CAM_INTERP_LINEAR"],
       "targetType": ["CAM_TARGET_DEFENDER_GROUND"],
@@ -125132,6 +125545,7 @@
       "sequence": ["anim attacker atk-move", "vfx hydro_pump", "sfx attacker 056-0_hydro_pump", "wait 1.0", "sys ui-sync", "sys complete"]
     }
   }, {
+    "templateId": "sequence_hydro_pump_blastoise",
     "moveSequence": {
       "sequence": ["vfx camera camera_horizontal_vignette_4s", "cam EnterFaceAttacker_ATKR_DFND_", "wait 0.233", "anim attacker atk-move", "background attacker 0.0/0.2/0.5/0.5", "event", "vfx attacker hydro_pump_cannon:Origin/Waist/LFeelerA/LFeelerB/LFeelerC", "vfx attacker hydro_pump_cannon:Origin/Waist/RFeelerA/RFeelerB/RFeelerC", "f2fvfx attacker hydro_pump_double_beam", "sfx attacker 056-0_hydro_pump", "wait 0.2", "cam CutToFaceDefender_ATKR_DFND_", "anim defender damageS01", "vfx defender hydro_pump_hit", "shake UpDown/0.85/0.5", "wait 0.2", "vfx camera camera_speed_lines", "wait 0.13", "anim defender damageS01", "wait 0.67", "anim defender damageS01", "vfx camera camera_speed_lines", "shake SideToSide/0.5/0.5", "wait 0.66", "anim defender damageS01", "shake UpDown/0.5/0.5", "reset_background attacker 0.0/0.2/0.5/0.5", "wait 0.83", "cam CutFromDefender_ATKR_DFND_", "sys ui-sync", "sys complete"]
     }
@@ -125501,6 +125915,7 @@
       "sequence": ["anim attacker atk-move", "wait 0.5", "vfx scald", "sfx attacker 503-0_scald", "wait 2.0", "sys ui-sync", "sys complete"]
     }
   }, {
+    "templateId": "sequence_scald_blastoise",
     "moveSequence": {
       "sequence": ["vfx camera camera_horizontal_vignette_4s", "cam EnterFaceAttacker_ATKR_DFND_", "wait 0.5", "anim attacker atk-move", "event", "vfx attacker scald_cannon:Origin/Waist/LFeelerA/LFeelerB/LFeelerC", "vfx attacker scald_cannon:Origin/Waist/RFeelerA/RFeelerB/RFeelerC", "f2fvfx attacker scald_double_beam", "sfx attacker 503-0_scald", "wait 0.25", "cam CutToFaceDefender_ATKR_DFND_", "vfx defender hydro_pump_hit", "background attacker 1.0/0.0/0.0/0.8", "anim defender damageS01", "wait 0.33", "anim defender damageS01", "silhouette defender 1.0/0.0/0.0/0.5", "wait 0.66", "reset_background attacker 1.0/0.0/0.0/0.8", "wait 0.7", "reset_silhouette defender 1.0/0.0/0.0/0.5", "wait 0.5", "cam CutFromDefender_ATKR_DFND_", "sys ui-sync", "sys complete"]
     }
@@ -125535,6 +125950,7 @@
       "sequence": ["cam FortFaint", "anim attacker down01", "wait 0.9", "vfx attacker pokeball_enter", "wait 0.05", "silhouette attacker 3.0/3.0/3.0/0.0", "wait 0.01", "scale attacker 0.0/3", "wait 0.66", "sys complete"]
     }
   }, {
+    "templateId": "sequence_seq_fort_faint",
     "moveSequence": {
       "sequence": ["cam FortFaint", "wait 1.0", "sys faintbegin", "anim attacker down01", "sys ui-sync", "wait 2.0", "sys scaledown", "wait 0.5", "sys defender_poof", "sys faintvfx", "wait 3.5", "sys complete"]
     }
@@ -125554,6 +125970,7 @@
       "sequence": ["vfx attacker pokeball_enter", "wait 0.05", "silhouette attacker 3.0/3.0/3.0/0.0", "wait 0.01", "scale attacker 0.0/3", "wait 0.66", "sys complete"]
     }
   }, {
+    "templateId": "sequence_seq_transform",
     "moveSequence": {
       "sequence": ["vfx attacker MetamonFX", "wait 1.5", "silhouette attacker 3.0/3.0/3.0/0.0", "wait 0.01", "scale attacker 0.0/2.5", "wait 0.1", "event", "scale attacker 1.0/2.5", "reset_silhouette attacker 3.0/3.0/3.0/0.0", "wait 1", "sys ui-sync", "sys complete"]
     }
@@ -125623,6 +126040,7 @@
       "sequence": ["anim attacker atk-move", "vfx sludge_wave", "sfx attacker 482-0_sludge_wave", "wait 1.5", "sys ui-sync", "sys complete"]
     }
   }, {
+    "templateId": "sequence_smack_down",
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "wait 0.5", "vfx smack_down_fast", "sfx attacker 479-0_smack_down", "wait 1.5", "sys ui-sync", "sys complete"]
     }
@@ -125767,6 +126185,7 @@
       "sequence": ["anim attacker atk-move", "vfx water_gun_fast", "sfx attacker 055-0_water_gun", "wait 0.5", "sys ui-sync", "sys complete"]
     }
   }, {
+    "templateId": "sequence_water_gun_fast_blastoise",
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "f2fvfx attacker water_gun_fast_double_beam_emit", "vfx defender water_gun_fast_double_beam hit", "sfx attacker 055-0_water_gun", "wait 0.15", "anim defender damageS01", "wait 0.35", "sys ui-sync", "sys complete"]
     }

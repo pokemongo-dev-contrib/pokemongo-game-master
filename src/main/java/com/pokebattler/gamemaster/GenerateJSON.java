@@ -20,8 +20,14 @@ public class GenerateJSON {
 			DownloadItemTemplatesResponse.Builder old_mode = DownloadItemTemplatesResponse.newBuilder();
 			old_mode.setTimestampMs(response.getBatchId());
 
-			for (GameMasterDecoder.ClientGameMasterTemplate t : response.getTemplateList()) {
-				old_mode.addItemTemplate(t.getData());
+			int index = 0;
+			for (GameMasterDecoder.ClientGameMasterTemplate template : response.getTemplateList()) {
+				DownloadItemTemplatesResponse.GameMasterClientTemplate.Builder item = DownloadItemTemplatesResponse.GameMasterClientTemplate.newBuilder();
+				item.mergeFrom(template.getData());
+				item.setTemplateId(response.getTemplate(index).getTemplateId());
+				item.build();
+				index++;
+				old_mode.addItemTemplate(item);
 			}
 
 			old_mode.build();
