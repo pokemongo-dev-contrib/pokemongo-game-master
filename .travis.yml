@@ -3,5 +3,3 @@ node_js:
   - "8"
   - "6.1"
 before_install: if [[ `npm -v` != 6* ]]; then npm i -g npm@4; fi
-
-## Test defreeze 
