@@ -117244,30 +117244,36 @@
       "rankLevel": 10,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 750
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1500
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2800
         }
       }]
@@ -117282,26 +117288,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 2700
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4800
         }
       }],
@@ -117313,30 +117325,36 @@
       "rankLevel": 1,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 300
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1000
         }
       }]
@@ -117351,26 +117369,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 900
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3000
         }
       }],
@@ -117382,30 +117406,36 @@
       "rankLevel": 2,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 350
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 700
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1200
         }
       }]
@@ -117420,26 +117450,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1100
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3200
         }
       }],
@@ -117451,30 +117487,36 @@
       "rankLevel": 3,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 400
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1400
         }
       }]
@@ -117489,26 +117531,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1300
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3400
         }
       }],
@@ -117520,30 +117568,36 @@
       "rankLevel": 4,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 450
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 900
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1600
         }
       }]
@@ -117558,26 +117612,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1500
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3600
         }
       }],
@@ -117589,30 +117649,36 @@
       "rankLevel": 5,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 500
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 1800
         }
       }]
@@ -117627,26 +117693,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1700
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3800
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 3800
         }
       }],
@@ -117658,30 +117730,36 @@
       "rankLevel": 6,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 550
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1100
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2000
         }
       }]
@@ -117696,26 +117774,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1900
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4000
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4000
         }
       }],
@@ -117727,30 +117811,36 @@
       "rankLevel": 7,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 600
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2200
         }
       }]
@@ -117765,26 +117855,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 2100
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4200
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4200
         }
       }],
@@ -117796,30 +117892,36 @@
       "rankLevel": 8,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 650
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1300
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2400
         }
       }]
@@ -117834,26 +117936,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 2300
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4400
         }
       }],
@@ -117865,30 +117973,36 @@
       "rankLevel": 9,
       "reward": [{
         "item": {
+          "stardust": true,
           "count": 700
         }
       }, {
         "itemLootTable": true
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 2
         }
       }, {
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 1400
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 2600
         }
       }]
@@ -117903,26 +118017,32 @@
         "pokemonReward": true
       }, {
         "item": {
+          "stardust": true,
           "count": 2500
         }
       }, {
         "item": {
+          "item": "ITEM_MOVE_REROLL_SPECIAL_ATTACK",
           "count": 5
         }
       }, {
         "item": {
+          "item": "ITEM_RARE_CANDY",
           "count": 8
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4600
         }
       }, {
         "item": {
+          "stardust": true,
           "count": 4600
         }
       }],
