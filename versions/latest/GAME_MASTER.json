@@ -19363,7 +19363,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 1,
       "milestoneXpReward": 3000,
-      "attackBonusPercentage": 1.25,
+      "attackBonusPercentage": 1.03,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"]
     }
   }, {
@@ -19371,7 +19371,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 7,
       "milestoneXpReward": 10000,
-      "attackBonusPercentage": 1.25,
+      "attackBonusPercentage": 1.05,
       "raidBallBonus": 1,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.2
@@ -19381,7 +19381,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 30,
       "milestoneXpReward": 50000,
-      "attackBonusPercentage": 1.25,
+      "attackBonusPercentage": 1.07,
       "raidBallBonus": 2,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.92
@@ -19391,7 +19391,7 @@
     "friendshipMilestoneSettings": {
       "minPointsToReach": 90,
       "milestoneXpReward": 100000,
-      "attackBonusPercentage": 1.25,
+      "attackBonusPercentage": 1.1,
       "raidBallBonus": 4,
       "unlockedTrading": ["REGULAR_IN_POKEDEX", "SPECIAL_IN_POKEDEX", "REGULAR_NON_POKEDEX", "REGIONAL_NON_POKEDEX", "FORM_NON_POKEDEX", "LEGENDARY_NON_POKEDEX", "SHINY_NON_POKEDEX"],
       "tradingDiscount": 0.96
@@ -20115,7 +20115,7 @@
     "templateId": "LPSKU_incense_bundle.general2.small.1",
     "limitedPurchaseSkuSettings": {
       "purchaseLimit": 1,
-      "version": 1
+      "version": 2
     }
   }, {
     "templateId": "LPSKU_weekly_balls.general2.medium.1",
@@ -119102,7 +119102,7 @@
       "category": "IAP_CATEGORY_BUNDLE",
       "sortOrder": 10,
       "spriteId": "bundle.general2.small.1",
-      "title": "item_great_ball_name"
+      "title": "item_ultra_ball_name"
     }
   }, {
     "templateId": "bundle.general3.large.1",
@@ -126477,5 +126477,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1585875212944"
+  "timestampMs": "1586309291856"
 }
