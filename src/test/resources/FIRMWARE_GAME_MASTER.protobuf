@@ -4225,13 +4225,14 @@ charm_fast(0e
 FRIENDSHIP_LEVEL_0"
 FRIENDSHIP_LEVEL_0ЗХ  ─?*@
 FRIENDSHIP_LEVEL_1*
-FRIENDSHIP_LEVEL_1З╦  ═?*G
+FRIENDSHIP_LEVEL_1З╦
+в┐?*G
 FRIENDSHIP_LEVEL_21
-FRIENDSHIP_LEVEL_2З░N  ═? *5млL>H
+FRIENDSHIP_LEVEL_2З░Nff├? *5млL>H
 FRIENDSHIP_LEVEL_32
-FRIENDSHIP_LEVEL_3Зп├  ═? *5┘k?H
+FRIENDSHIP_LEVEL_3Зп├цУ┬? *5┘k?H
 FRIENDSHIP_LEVEL_42
-FRIENDSHIP_LEVEL_4ЗZ═█  ═? *5▐бu?5
+FRIENDSHIP_LEVEL_4ЗZ═█мл▄? *5▐бu?5
 GYM_BADGE_SETTINGSб
 Т═╟Й
 в#<  ─? 
@@ -4418,7 +4419,7 @@ HO
 LPSKU_bundle.general1.tiny.4%
 LPSKU_bundle.general1.tiny.4БW
 %LPSKU_incense_bundle.general2.small.1.
-%LPSKU_incense_bundle.general2.small.1БS
+%LPSKU_incense_bundle.general2.small.1БS
 $LPSKU_weekly_balls.general2.medium.1+
 $LPSKU_weekly_balls.general2.medium.1Б"
 LUCKY_POKEMON_SETTINGS┌   ??
@@ -12956,7 +12957,7 @@ Bbundle.general1.tiny.1Jbundle.general1.tiny.3_title┴
 bundle.general2.small.1h
 bundle.general2.small.1┌L
 bundle.general2.small.1
-Bbundle.general2.small.1Jitem_great_ball_name?
+Bbundle.general2.small.1Jitem_ultra_ball_name?
 bundle.general3.large.1$┌!
 bundle.general3.large.108ё
 camera_aerialace▌Z▀ "   ?   ?*   ?   ?2      ═@:        B    млL>J  ═а  *CR        Z  ═A  ═Ab        j        r      ─?z        ┌  ─?   ?╥
@@ -15502,4 +15503,4 @@ $sfx attacker 422-0_thunder_fang_fast
 sfx attacker 442-0_iron_head
 	wait 0.25
 sys ui-sync
-sys complete ░╣²Л⌠.2ЙН  "⌡"·"╗(╣(╩/
+sys complete п╬⌡╩∙.2ИЙН ⌡"╗(╣(╩/
