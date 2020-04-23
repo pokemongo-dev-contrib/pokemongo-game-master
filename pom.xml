@@ -14,7 +14,7 @@
         <pogoprotos.version>2.51.1</pogoprotos.version>
         <pogoprotos.artifactId>POGOProtos</pogoprotos.artifactId>
         <protobuf.version>3.11.4</protobuf.version>
-        <gamemaster.version>2.51.0-SNAPSHOT</gamemaster.version>
+        <gamemaster.version>2.51.1-SNAPSHOT</gamemaster.version>
     </properties>
     <dependencies>
         <dependency>
