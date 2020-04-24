@@ -19925,22 +19925,6 @@
       "dropTrainerLevel": 10
     }
   }, {
-    "templateId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
-    "item": {
-      "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
-      "itemType": "ITEM_TYPE_MOVE_REROLL",
-      "category": "ITEM_CATEGORY_MOVE_REROLL",
-      "dropTrainerLevel": 1
-    }
-  }, {
-    "templateId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
-    "item": {
-      "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
-      "itemType": "ITEM_TYPE_MOVE_REROLL",
-      "category": "ITEM_CATEGORY_MOVE_REROLL",
-      "dropTrainerLevel": 1
-    }
-  }, {
     "templateId": "ITEM_MOVE_REROLL_FAST_ATTACK",
     "item": {
       "itemId": "ITEM_MOVE_REROLL_FAST_ATTACK",
@@ -20238,12 +20222,6 @@
     }
   }, {
     "templateId": "LPSKU_bundle.general1.tiny.4",
-    "limitedPurchaseSkuSettings": {
-      "purchaseLimit": 1,
-      "version": 1
-    }
-  }, {
-    "templateId": "LPSKU_bundle.general4.small.2",
     "limitedPurchaseSkuSettings": {
       "purchaseLimit": 1,
       "version": 1
@@ -32525,7 +32503,8 @@
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.0, 2.5, 1.0],
       "combatPlayerFocusCameraAngle": [-1.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0003_POKEMON_VENUSAUR_NORMAL",
@@ -32592,7 +32571,8 @@
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.0, 2.5, 1.0],
       "combatPlayerFocusCameraAngle": [-1.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0003_POKEMON_VENUSAUR_PURIFIED",
@@ -32659,7 +32639,8 @@
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.0, 2.5, 1.0],
       "combatPlayerFocusCameraAngle": [-1.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0003_POKEMON_VENUSAUR_SHADOW",
@@ -32732,7 +32713,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0004_POKEMON_CHARMANDER",
@@ -33128,7 +33110,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["SCRATCH_FAST"]
     }
   }, {
     "templateId": "V0005_POKEMON_CHARMELEON_NORMAL",
@@ -33197,7 +33180,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["SCRATCH_FAST"]
     }
   }, {
     "templateId": "V0005_POKEMON_CHARMELEON_PURIFIED",
@@ -33266,7 +33250,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["SCRATCH_FAST"]
     }
   }, {
     "templateId": "V0005_POKEMON_CHARMELEON_SHADOW",
@@ -33341,7 +33326,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["SCRATCH_FAST"]
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD",
@@ -33405,7 +33391,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST", "WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["BLAST_BURN", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD_COPY_2019",
@@ -33470,7 +33458,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST", "WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["BLAST_BURN", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD_NORMAL",
@@ -33535,7 +33525,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST", "WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["BLAST_BURN", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD_PURIFIED",
@@ -33600,7 +33592,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST", "WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["BLAST_BURN", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0006_POKEMON_CHARIZARD_SHADOW",
@@ -33671,7 +33665,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST", "WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["BLAST_BURN", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0007_POKEMON_SQUIRTLE",
@@ -34342,7 +34338,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0009_POKEMON_BLASTOISE_COPY_2019",
@@ -34405,7 +34402,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0009_POKEMON_BLASTOISE_NORMAL",
@@ -34468,7 +34466,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0009_POKEMON_BLASTOISE_PURIFIED",
@@ -34531,7 +34530,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0009_POKEMON_BLASTOISE_SHADOW",
@@ -34600,7 +34600,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0010_POKEMON_CATERPIE",
@@ -34792,7 +34793,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0013_MOVE_WRAP",
@@ -35446,7 +35448,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0015_POKEMON_BEEDRILL_NORMAL",
@@ -35511,7 +35514,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0015_POKEMON_BEEDRILL_PURIFIED",
@@ -35576,7 +35580,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0015_POKEMON_BEEDRILL_SHADOW",
@@ -35647,7 +35652,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0016_MOVE_DARK_PULSE",
@@ -35883,7 +35889,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["WING_ATTACK_FAST"],
+      "eliteCinematicMove": ["AIR_CUTTER"]
     }
   }, {
     "templateId": "V0019_POKEMON_RATTATA",
@@ -36638,7 +36646,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteCinematicMove": ["TWISTER"]
     }
   }, {
     "templateId": "V0022_MOVE_MEGAHORN",
@@ -36720,7 +36729,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["TWISTER"]
     }
   }, {
     "templateId": "V0023_POKEMON_EKANS",
@@ -36785,7 +36795,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["GUNK_SHOT"]
     }
   }, {
     "templateId": "V0023_POKEMON_EKANS_NORMAL",
@@ -36851,7 +36862,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["GUNK_SHOT"]
     }
   }, {
     "templateId": "V0023_POKEMON_EKANS_PURIFIED",
@@ -36917,7 +36929,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["GUNK_SHOT"]
     }
   }, {
     "templateId": "V0023_POKEMON_EKANS_SHADOW",
@@ -36989,7 +37002,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["GUNK_SHOT"]
     }
   }, {
     "templateId": "V0024_MOVE_FLAMETHROWER",
@@ -37334,7 +37348,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["PRESENT_FAST"],
+      "eliteCinematicMove": ["SURF", "THUNDER"]
     }
   }, {
     "templateId": "V0025_POKEMON_PIKACHU_COPY_2019",
@@ -37395,7 +37411,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["PRESENT_FAST"],
+      "eliteCinematicMove": ["SURF", "THUNDER"]
     }
   }, {
     "templateId": "V0025_POKEMON_PIKACHU_FALL_2019",
@@ -37456,7 +37474,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["PRESENT_FAST"],
+      "eliteCinematicMove": ["SURF", "THUNDER"]
     }
   }, {
     "templateId": "V0025_POKEMON_PIKACHU_NORMAL",
@@ -37523,7 +37543,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["PRESENT_FAST"],
+      "eliteCinematicMove": ["SURF", "THUNDER"]
     }
   }, {
     "templateId": "V0025_POKEMON_PIKACHU_VS_2019",
@@ -37584,7 +37606,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["PRESENT_FAST"],
+      "eliteCinematicMove": ["SURF", "THUNDER"]
     }
   }, {
     "templateId": "V0026_MOVE_DIG",
@@ -37663,7 +37687,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["THUNDER"]
     }
   }, {
     "templateId": "V0026_POKEMON_RAICHU_ALOLA",
@@ -37788,7 +37813,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["THUNDER"]
     }
   }, {
     "templateId": "V0027_POKEMON_SANDSHREW",
@@ -37853,7 +37879,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB"]
     }
   }, {
     "templateId": "V0027_POKEMON_SANDSHREW_ALOLA",
@@ -37986,7 +38013,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB"]
     }
   }, {
     "templateId": "V0027_POKEMON_SANDSHREW_PURIFIED",
@@ -38052,7 +38080,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB"]
     }
   }, {
     "templateId": "V0027_POKEMON_SANDSHREW_SHADOW",
@@ -38124,7 +38153,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB"]
     }
   }, {
     "templateId": "V0028_MOVE_CROSS_CHOP",
@@ -38937,7 +38967,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["FURY_CUTTER_FAST"]
     }
   }, {
     "templateId": "V0035_MOVE_DISCHARGE",
@@ -39102,7 +39133,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["POUND_FAST"]
     }
   }, {
     "templateId": "V0037_POKEMON_VULPIX",
@@ -39517,7 +39549,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["FIRE_BLAST", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0038_POKEMON_NINETALES_ALOLA",
@@ -39644,7 +39678,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["FIRE_BLAST", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0038_POKEMON_NINETALES_PURIFIED",
@@ -39707,7 +39743,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["FIRE_BLAST", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0038_POKEMON_NINETALES_SHADOW",
@@ -39776,7 +39814,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["FIRE_BLAST", "FLAMETHROWER"]
     }
   }, {
     "templateId": "V0039_MOVE_ICE_BEAM",
@@ -39861,7 +39901,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["PLAY_ROUGH", "BODY_SLAM"]
     }
   }, {
     "templateId": "V0040_MOVE_BLIZZARD",
@@ -40011,7 +40052,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteCinematicMove": ["SLUDGE_BOMB"]
     }
   }, {
     "templateId": "V0041_POKEMON_ZUBAT_NORMAL",
@@ -40080,7 +40122,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteCinematicMove": ["SLUDGE_BOMB"]
     }
   }, {
     "templateId": "V0041_POKEMON_ZUBAT_PURIFIED",
@@ -40149,7 +40192,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteCinematicMove": ["SLUDGE_BOMB"]
     }
   }, {
     "templateId": "V0041_POKEMON_ZUBAT_SHADOW",
@@ -40224,7 +40268,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteCinematicMove": ["SLUDGE_BOMB"]
     }
   }, {
     "templateId": "V0042_MOVE_HEAT_WAVE",
@@ -40311,7 +40356,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["OMINOUS_WIND"]
     }
   }, {
     "templateId": "V0042_POKEMON_GOLBAT_NORMAL",
@@ -40381,7 +40427,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["OMINOUS_WIND"]
     }
   }, {
     "templateId": "V0042_POKEMON_GOLBAT_PURIFIED",
@@ -40451,7 +40498,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["OMINOUS_WIND"]
     }
   }, {
     "templateId": "V0042_POKEMON_GOLBAT_SHADOW",
@@ -40527,7 +40575,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["OMINOUS_WIND"]
     }
   }, {
     "templateId": "V0043_POKEMON_ODDISH",
@@ -41551,7 +41600,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0048_MOVE_MEGA_DRAIN",
@@ -41925,7 +41975,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0049_POKEMON_VENOMOTH_NORMAL",
@@ -41990,7 +42041,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0049_POKEMON_VENOMOTH_PURIFIED",
@@ -42055,7 +42107,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0049_POKEMON_VENOMOTH_SHADOW",
@@ -42126,7 +42179,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["BUG_BITE_FAST"]
     }
   }, {
     "templateId": "V0050_MOVE_POISON_FANG",
@@ -42206,7 +42260,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["MUD_SHOT_FAST"]
     }
   }, {
     "templateId": "V0050_POKEMON_DIGLETT_ALOLA",
@@ -42859,7 +42914,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0052_POKEMON_MEOWTH_ALOLA",
@@ -42992,7 +43048,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0052_POKEMON_MEOWTH_PURIFIED",
@@ -43058,7 +43115,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0052_POKEMON_MEOWTH_SHADOW",
@@ -43130,7 +43188,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0053_MOVE_BUBBLE_BEAM",
@@ -43209,7 +43268,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["NIGHT_SLASH"]
     }
   }, {
     "templateId": "V0053_POKEMON_PERSIAN_ALOLA",
@@ -43334,7 +43394,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["NIGHT_SLASH"]
     }
   }, {
     "templateId": "V0053_POKEMON_PERSIAN_PURIFIED",
@@ -43396,7 +43457,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["NIGHT_SLASH"]
     }
   }, {
     "templateId": "V0053_POKEMON_PERSIAN_SHADOW",
@@ -43464,7 +43526,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["NIGHT_SLASH"]
     }
   }, {
     "templateId": "V0054_MOVE_SUBMISSION",
@@ -44170,7 +44233,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["KARATE_CHOP_FAST"],
+      "eliteCinematicMove": ["CROSS_CHOP"]
     }
   }, {
     "templateId": "V0058_MOVE_AQUA_TAIL",
@@ -44541,7 +44606,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["BITE_FAST"],
+      "eliteCinematicMove": ["BULLDOZE"]
     }
   }, {
     "templateId": "V0059_POKEMON_ARCANINE_NORMAL",
@@ -44604,7 +44671,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["BITE_FAST"],
+      "eliteCinematicMove": ["BULLDOZE"]
     }
   }, {
     "templateId": "V0059_POKEMON_ARCANINE_PURIFIED",
@@ -44667,7 +44736,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["BITE_FAST"],
+      "eliteCinematicMove": ["BULLDOZE"]
     }
   }, {
     "templateId": "V0059_POKEMON_ARCANINE_SHADOW",
@@ -44736,7 +44807,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["BITE_FAST"],
+      "eliteCinematicMove": ["BULLDOZE"]
     }
   }, {
     "templateId": "V0060_MOVE_PSYSHOCK",
@@ -45097,7 +45170,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SCALD"]
     }
   }, {
     "templateId": "V0061_POKEMON_POLIWHIRL_NORMAL",
@@ -45172,7 +45246,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SCALD"]
     }
   }, {
     "templateId": "V0061_POKEMON_POLIWHIRL_PURIFIED",
@@ -45247,7 +45322,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SCALD"]
     }
   }, {
     "templateId": "V0061_POKEMON_POLIWHIRL_SHADOW",
@@ -45328,7 +45404,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SCALD"]
     }
   }, {
     "templateId": "V0062_MOVE_ANCIENT_POWER",
@@ -45409,7 +45486,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0062_POKEMON_POLIWRATH_NORMAL",
@@ -45473,7 +45551,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0062_POKEMON_POLIWRATH_PURIFIED",
@@ -45537,7 +45616,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0062_POKEMON_POLIWRATH_SHADOW",
@@ -45607,7 +45687,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0063_MOVE_ROCK_TOMB",
@@ -46284,7 +46365,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["COUNTER_FAST"],
+      "eliteCinematicMove": ["DAZZLING_GLEAM", "PSYCHIC"]
     }
   }, {
     "templateId": "V0065_POKEMON_ALAKAZAM_NORMAL",
@@ -46347,7 +46430,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["COUNTER_FAST"],
+      "eliteCinematicMove": ["DAZZLING_GLEAM", "PSYCHIC"]
     }
   }, {
     "templateId": "V0065_POKEMON_ALAKAZAM_PURIFIED",
@@ -46410,7 +46495,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["COUNTER_FAST"],
+      "eliteCinematicMove": ["DAZZLING_GLEAM", "PSYCHIC"]
     }
   }, {
     "templateId": "V0065_POKEMON_ALAKAZAM_SHADOW",
@@ -46479,7 +46566,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["COUNTER_FAST"],
+      "eliteCinematicMove": ["DAZZLING_GLEAM", "PSYCHIC"]
     }
   }, {
     "templateId": "V0066_MOVE_SHADOW_SNEAK",
@@ -46561,7 +46650,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["LOW_KICK_FAST"]
     }
   }, {
     "templateId": "V0067_MOVE_SHADOW_PUNCH",
@@ -46648,7 +46738,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["CROSS_CHOP"]
     }
   }, {
     "templateId": "V0068_POKEMON_MACHAMP",
@@ -46710,7 +46801,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["KARATE_CHOP_FAST"],
+      "eliteCinematicMove": ["STONE_EDGE", "SUBMISSION"]
     }
   }, {
     "templateId": "V0069_MOVE_OMINOUS_WIND",
@@ -47091,7 +47184,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["RAZOR_LEAF_FAST"]
     }
   }, {
     "templateId": "V0070_POKEMON_WEEPINBELL_NORMAL",
@@ -47164,7 +47258,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["RAZOR_LEAF_FAST"]
     }
   }, {
     "templateId": "V0070_POKEMON_WEEPINBELL_PURIFIED",
@@ -47237,7 +47332,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["RAZOR_LEAF_FAST"]
     }
   }, {
     "templateId": "V0070_POKEMON_WEEPINBELL_SHADOW",
@@ -47316,7 +47412,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["RAZOR_LEAF_FAST"]
     }
   }, {
     "templateId": "V0071_POKEMON_VICTREEBEL",
@@ -48182,7 +48279,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0075_POKEMON_GRAVELER_ALOLA",
@@ -48327,7 +48425,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0075_POKEMON_GRAVELER_PURIFIED",
@@ -48399,7 +48498,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0075_POKEMON_GRAVELER_SHADOW",
@@ -48476,7 +48576,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0076_POKEMON_GOLEM",
@@ -48883,7 +48984,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["FIRE_BLAST"]
     }
   }, {
     "templateId": "V0078_MOVE_THUNDER",
@@ -48963,7 +49065,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["EMBER_FAST"]
     }
   }, {
     "templateId": "V0079_MOVE_THUNDERBOLT",
@@ -49795,7 +49898,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["CUT_FAST"]
     }
   }, {
     "templateId": "V0084_MOVE_DISARMING_VOICE",
@@ -49879,7 +49983,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SWIFT"]
     }
   }, {
     "templateId": "V0085_MOVE_DRAINING_KISS",
@@ -49961,7 +50066,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["AIR_CUTTER"]
     }
   }, {
     "templateId": "V0086_MOVE_DAZZLING_GLEAM",
@@ -50043,7 +50149,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["WATER_GUN_FAST"],
+      "eliteCinematicMove": ["AQUA_JET"]
     }
   }, {
     "templateId": "V0087_MOVE_MOONBLAST",
@@ -50124,7 +50232,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["ICE_SHARD_FAST"],
+      "eliteCinematicMove": ["AQUA_JET", "ICY_WIND"]
     }
   }, {
     "templateId": "V0088_MOVE_PLAY_ROUGH",
@@ -50567,7 +50677,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["LICK_FAST"]
     }
   }, {
     "templateId": "V0089_POKEMON_MUK_ALOLA",
@@ -50696,7 +50807,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["LICK_FAST"]
     }
   }, {
     "templateId": "V0089_POKEMON_MUK_PURIFIED",
@@ -50760,7 +50872,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["LICK_FAST"]
     }
   }, {
     "templateId": "V0089_POKEMON_MUK_SHADOW",
@@ -50830,7 +50943,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["LICK_FAST"]
     }
   }, {
     "templateId": "V0090_MOVE_SLUDGE_BOMB",
@@ -51199,7 +51313,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLIZZARD"]
     }
   }, {
     "templateId": "V0091_POKEMON_CLOYSTER_NORMAL",
@@ -51264,7 +51379,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLIZZARD"]
     }
   }, {
     "templateId": "V0091_POKEMON_CLOYSTER_PURIFIED",
@@ -51329,7 +51445,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLIZZARD"]
     }
   }, {
     "templateId": "V0091_POKEMON_CLOYSTER_SHADOW",
@@ -51400,7 +51517,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLIZZARD"]
     }
   }, {
     "templateId": "V0092_MOVE_GUNK_SHOT",
@@ -51486,7 +51604,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["SUCKER_PUNCH_FAST"],
+      "eliteCinematicMove": ["OMINOUS_WIND"]
     }
   }, {
     "templateId": "V0093_POKEMON_HAUNTER",
@@ -51557,7 +51677,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteQuickMove": ["LICK_FAST"]
     }
   }, {
     "templateId": "V0094_MOVE_BONE_CLUB",
@@ -51640,7 +51761,9 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [-0.7, -0.7, 0.1],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["LICK_FAST"],
+      "eliteCinematicMove": ["SLUDGE_WAVE", "DARK_PULSE", "PSYCHIC"]
     }
   }, {
     "templateId": "V0095_MOVE_BULLDOZE",
@@ -51722,7 +51845,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["IRON_HEAD", "ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0095_POKEMON_ONIX_NORMAL",
@@ -51787,7 +51911,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["IRON_HEAD", "ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0095_POKEMON_ONIX_PURIFIED",
@@ -51852,7 +51977,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["IRON_HEAD", "ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0095_POKEMON_ONIX_SHADOW",
@@ -51924,7 +52050,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["IRON_HEAD", "ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0096_MOVE_MUD_BOMB",
@@ -52277,7 +52404,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSHOCK"]
     }
   }, {
     "templateId": "V0097_POKEMON_HYPNO_NORMAL",
@@ -52340,7 +52468,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSHOCK"]
     }
   }, {
     "templateId": "V0097_POKEMON_HYPNO_PURIFIED",
@@ -52403,7 +52532,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSHOCK"]
     }
   }, {
     "templateId": "V0097_POKEMON_HYPNO_SHADOW",
@@ -52472,7 +52602,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSHOCK"]
     }
   }, {
     "templateId": "V0098_POKEMON_KRABBY",
@@ -52826,7 +52957,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["MUD_SHOT_FAST"]
     }
   }, {
     "templateId": "V0099_POKEMON_KINGLER_NORMAL",
@@ -52890,7 +53022,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["MUD_SHOT_FAST"]
     }
   }, {
     "templateId": "V0099_POKEMON_KINGLER_PURIFIED",
@@ -52954,7 +53087,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["MUD_SHOT_FAST"]
     }
   }, {
     "templateId": "V0099_POKEMON_KINGLER_SHADOW",
@@ -53024,7 +53158,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["MUD_SHOT_FAST"]
     }
   }, {
     "templateId": "V0100_MOVE_X_SCISSOR",
@@ -53106,7 +53241,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SIGNAL_BEAM"]
     }
   }, {
     "templateId": "V0101_MOVE_FLAME_CHARGE",
@@ -53186,7 +53322,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["TACKLE_FAST"]
     }
   }, {
     "templateId": "V0102_MOVE_FLAME_BURST",
@@ -53562,7 +53699,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0103_POKEMON_EXEGGUTOR_ALOLA",
@@ -53692,7 +53830,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0103_POKEMON_EXEGGUTOR_PURIFIED",
@@ -53756,7 +53895,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0103_POKEMON_EXEGGUTOR_SHADOW",
@@ -53826,7 +53966,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0104_MOVE_BRINE",
@@ -54526,7 +54667,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["STOMP", "BRICK_BREAK"]
     }
   }, {
     "templateId": "V0106_POKEMON_HITMONLEE_NORMAL",
@@ -54588,7 +54730,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["STOMP", "BRICK_BREAK"]
     }
   }, {
     "templateId": "V0106_POKEMON_HITMONLEE_PURIFIED",
@@ -54650,7 +54793,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["STOMP", "BRICK_BREAK"]
     }
   }, {
     "templateId": "V0106_POKEMON_HITMONLEE_SHADOW",
@@ -54718,7 +54862,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["STOMP", "BRICK_BREAK"]
     }
   }, {
     "templateId": "V0107_MOVE_HYDRO_PUMP",
@@ -54796,7 +54941,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_SMASH_FAST"],
+      "eliteCinematicMove": ["BRICK_BREAK"]
     }
   }, {
     "templateId": "V0107_POKEMON_HITMONCHAN_NORMAL",
@@ -54857,7 +55004,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_SMASH_FAST"],
+      "eliteCinematicMove": ["BRICK_BREAK"]
     }
   }, {
     "templateId": "V0107_POKEMON_HITMONCHAN_PURIFIED",
@@ -54918,7 +55067,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_SMASH_FAST"],
+      "eliteCinematicMove": ["BRICK_BREAK"]
     }
   }, {
     "templateId": "V0107_POKEMON_HITMONCHAN_SHADOW",
@@ -54985,7 +55136,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_SMASH_FAST"],
+      "eliteCinematicMove": ["BRICK_BREAK"]
     }
   }, {
     "templateId": "V0108_MOVE_PSYCHIC",
@@ -55067,7 +55220,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0109_MOVE_PSYSTRIKE",
@@ -56053,7 +56207,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["MEGAHORN"]
     }
   }, {
     "templateId": "V0112_POKEMON_RHYDON_NORMAL",
@@ -56124,7 +56279,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["MEGAHORN"]
     }
   }, {
     "templateId": "V0112_POKEMON_RHYDON_PURIFIED",
@@ -56195,7 +56351,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["MEGAHORN"]
     }
   }, {
     "templateId": "V0112_POKEMON_RHYDON_SHADOW",
@@ -56272,7 +56429,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["MEGAHORN"]
     }
   }, {
     "templateId": "V0113_POKEMON_CHANSEY",
@@ -56336,7 +56494,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYBEAM"]
     }
   }, {
     "templateId": "V0114_MOVE_GIGA_DRAIN",
@@ -56418,7 +56577,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["POWER_WHIP"]
     }
   }, {
     "templateId": "V0115_MOVE_FIRE_PUNCH",
@@ -56496,7 +56656,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BRICK_BREAK", "STOMP"]
     }
   }, {
     "templateId": "V0115_POKEMON_KANGASKHAN_NORMAL",
@@ -56557,7 +56718,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BRICK_BREAK", "STOMP"]
     }
   }, {
     "templateId": "V0115_POKEMON_KANGASKHAN_PURIFIED",
@@ -56618,7 +56780,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BRICK_BREAK", "STOMP"]
     }
   }, {
     "templateId": "V0115_POKEMON_KANGASKHAN_SHADOW",
@@ -56685,7 +56848,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BRICK_BREAK", "STOMP"]
     }
   }, {
     "templateId": "V0116_MOVE_SOLAR_BEAM",
@@ -56854,7 +57018,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BLIZZARD"]
     }
   }, {
     "templateId": "V0118_MOVE_POWER_WHIP",
@@ -56999,7 +57164,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["POISON_JAB_FAST"],
+      "eliteCinematicMove": ["ICY_WIND", "DRILL_RUN"]
     }
   }, {
     "templateId": "V0120_POKEMON_STARYU",
@@ -57145,7 +57312,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["TACKLE_FAST"],
+      "eliteCinematicMove": ["PSYBEAM"]
     }
   }, {
     "templateId": "V0122_MOVE_HURRICANE",
@@ -57309,7 +57478,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["STEEL_WING_FAST"],
+      "eliteCinematicMove": ["BUG_BUZZ"]
     }
   }, {
     "templateId": "V0123_POKEMON_SCYTHER_NORMAL",
@@ -57378,7 +57549,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["STEEL_WING_FAST"],
+      "eliteCinematicMove": ["BUG_BUZZ"]
     }
   }, {
     "templateId": "V0123_POKEMON_SCYTHER_PURIFIED",
@@ -57447,7 +57620,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["STEEL_WING_FAST"],
+      "eliteCinematicMove": ["BUG_BUZZ"]
     }
   }, {
     "templateId": "V0123_POKEMON_SCYTHER_SHADOW",
@@ -57522,7 +57697,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["STEEL_WING_FAST"],
+      "eliteCinematicMove": ["BUG_BUZZ"]
     }
   }, {
     "templateId": "V0124_POKEMON_JYNX",
@@ -57584,7 +57761,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["POUND_FAST"],
+      "eliteCinematicMove": ["ICE_PUNCH"]
     }
   }, {
     "templateId": "V0125_MOVE_SWIFT",
@@ -58244,7 +58423,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0127_POKEMON_PINSIR_NORMAL",
@@ -58305,7 +58485,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0127_POKEMON_PINSIR_PURIFIED",
@@ -58366,7 +58547,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.7, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0127_POKEMON_PINSIR_SHADOW",
@@ -58433,7 +58615,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SUBMISSION"]
     }
   }, {
     "templateId": "V0128_POKEMON_TAUROS",
@@ -58839,7 +59022,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["DRAGON_TAIL_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0130_POKEMON_GYARADOS_NORMAL",
@@ -58904,7 +59089,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["DRAGON_TAIL_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0130_POKEMON_GYARADOS_PURIFIED",
@@ -58969,7 +59156,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["DRAGON_TAIL_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0130_POKEMON_GYARADOS_SHADOW",
@@ -59040,7 +59229,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["DRAGON_TAIL_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0131_MOVE_BODY_SLAM",
@@ -59118,7 +59309,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ICE_SHARD_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE", "ICE_BEAM"]
     }
   }, {
     "templateId": "V0131_POKEMON_LAPRAS_NORMAL",
@@ -59179,7 +59372,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ICE_SHARD_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE", "ICE_BEAM"]
     }
   }, {
     "templateId": "V0131_POKEMON_LAPRAS_PURIFIED",
@@ -59240,7 +59435,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ICE_SHARD_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE", "ICE_BEAM"]
     }
   }, {
     "templateId": "V0131_POKEMON_LAPRAS_SHADOW",
@@ -59307,7 +59504,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ICE_SHARD_FAST"],
+      "eliteCinematicMove": ["DRAGON_PULSE", "ICE_BEAM"]
     }
   }, {
     "templateId": "V0132_MOVE_REST",
@@ -59493,7 +59692,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT", "BODY_SLAM"]
     }
   }, {
     "templateId": "V0134_MOVE_SCALD_BLASTOISE",
@@ -59573,7 +59773,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.4, 0.0],
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0135_MOVE_HYDRO_PUMP_BLASTOISE",
@@ -59653,7 +59854,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.4, 0.0],
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0136_MOVE_WRAP_GREEN",
@@ -59733,7 +59935,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatPlayerFocusCameraAngle": [0.0, -0.4, 0.0],
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT", "HEAT_WAVE"]
     }
   }, {
     "templateId": "V0137_MOVE_WRAP_PINK",
@@ -59817,7 +60020,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["TACKLE_FAST", "ZEN_HEADBUTT_FAST"],
+      "eliteCinematicMove": ["SIGNAL_BEAM", "PSYBEAM", "DISCHARGE"]
     }
   }, {
     "templateId": "V0137_POKEMON_PORYGON_NORMAL",
@@ -59884,7 +60089,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["TACKLE_FAST", "ZEN_HEADBUTT_FAST"],
+      "eliteCinematicMove": ["SIGNAL_BEAM", "PSYBEAM", "DISCHARGE"]
     }
   }, {
     "templateId": "V0137_POKEMON_PORYGON_PURIFIED",
@@ -59951,7 +60158,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["TACKLE_FAST", "ZEN_HEADBUTT_FAST"],
+      "eliteCinematicMove": ["SIGNAL_BEAM", "PSYBEAM", "DISCHARGE"]
     }
   }, {
     "templateId": "V0137_POKEMON_PORYGON_SHADOW",
@@ -60024,7 +60233,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["TACKLE_FAST", "ZEN_HEADBUTT_FAST"],
+      "eliteCinematicMove": ["SIGNAL_BEAM", "PSYBEAM", "DISCHARGE"]
     }
   }, {
     "templateId": "V0138_POKEMON_OMANYTE",
@@ -60089,7 +60300,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB", "BRINE"]
     }
   }, {
     "templateId": "V0138_POKEMON_OMANYTE_NORMAL",
@@ -60156,7 +60368,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB", "BRINE"]
     }
   }, {
     "templateId": "V0138_POKEMON_OMANYTE_PURIFIED",
@@ -60223,7 +60436,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB", "BRINE"]
     }
   }, {
     "templateId": "V0138_POKEMON_OMANYTE_SHADOW",
@@ -60296,7 +60510,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["ROCK_TOMB", "BRINE"]
     }
   }, {
     "templateId": "V0139_POKEMON_OMASTAR",
@@ -60359,7 +60574,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_THROW_FAST"],
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0139_POKEMON_OMASTAR_NORMAL",
@@ -60423,7 +60640,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_THROW_FAST"],
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0139_POKEMON_OMASTAR_PURIFIED",
@@ -60487,7 +60706,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_THROW_FAST"],
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0139_POKEMON_OMASTAR_SHADOW",
@@ -60557,7 +60778,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["ROCK_THROW_FAST"],
+      "eliteCinematicMove": ["ROCK_SLIDE"]
     }
   }, {
     "templateId": "V0140_POKEMON_KABUTO",
@@ -60685,7 +60908,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["FURY_CUTTER_FAST"]
     }
   }, {
     "templateId": "V0142_POKEMON_AERODACTYL",
@@ -60810,7 +61034,8 @@
       "isDeployable": true,
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.7, 2.0, 2.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["YAWN_FAST"]
     }
   }, {
     "templateId": "V0143_POKEMON_SNORLAX_NORMAL",
@@ -60874,7 +61099,8 @@
       "isDeployable": true,
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.7, 2.0, 2.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["YAWN_FAST"]
     }
   }, {
     "templateId": "V0143_POKEMON_SNORLAX_PURIFIED",
@@ -60938,7 +61164,8 @@
       "isDeployable": true,
       "combatShoulderCameraAngle": [2.5, 1.0, 1.5],
       "combatDefaultCameraAngle": [2.7, 2.0, 2.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["YAWN_FAST"]
     }
   }, {
     "templateId": "V0143_POKEMON_SNORLAX_SHADOW",
@@ -61008,7 +61235,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["YAWN_FAST"]
     }
   }, {
     "templateId": "V0144_POKEMON_ARTICUNO",
@@ -61069,7 +61297,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteCinematicMove": ["HURRICANE"]
     }
   }, {
     "templateId": "V0144_POKEMON_ARTICUNO_NORMAL",
@@ -61131,7 +61360,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteCinematicMove": ["HURRICANE"]
     }
   }, {
     "templateId": "V0144_POKEMON_ARTICUNO_PURIFIED",
@@ -61193,7 +61423,8 @@
         "candyToUnlock": 80
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteCinematicMove": ["HURRICANE"]
     }
   }, {
     "templateId": "V0144_POKEMON_ARTICUNO_SHADOW",
@@ -61261,7 +61492,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteCinematicMove": ["HURRICANE"]
     }
   }, {
     "templateId": "V0145_POKEMON_ZAPDOS",
@@ -61322,7 +61554,9 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["THUNDER_SHOCK_FAST"],
+      "eliteCinematicMove": ["DISCHARGE"]
     }
   }, {
     "templateId": "V0145_POKEMON_ZAPDOS_NORMAL",
@@ -61384,7 +61618,9 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["THUNDER_SHOCK_FAST"],
+      "eliteCinematicMove": ["DISCHARGE"]
     }
   }, {
     "templateId": "V0145_POKEMON_ZAPDOS_PURIFIED",
@@ -61446,7 +61682,9 @@
         "candyToUnlock": 80
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["THUNDER_SHOCK_FAST"],
+      "eliteCinematicMove": ["DISCHARGE"]
     }
   }, {
     "templateId": "V0145_POKEMON_ZAPDOS_SHADOW",
@@ -61514,7 +61752,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["THUNDER_SHOCK_FAST"],
+      "eliteCinematicMove": ["DISCHARGE"]
     }
   }, {
     "templateId": "V0146_POKEMON_MOLTRES",
@@ -61575,7 +61815,9 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["SKY_ATTACK"]
     }
   }, {
     "templateId": "V0146_POKEMON_MOLTRES_NORMAL",
@@ -61637,7 +61879,9 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["SKY_ATTACK"]
     }
   }, {
     "templateId": "V0146_POKEMON_MOLTRES_PURIFIED",
@@ -61699,7 +61943,9 @@
         "candyToUnlock": 80
       },
       "isTransferable": true,
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["SKY_ATTACK"]
     }
   }, {
     "templateId": "V0146_POKEMON_MOLTRES_SHADOW",
@@ -61767,7 +62013,9 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 7
+      "buddyGroupNumber": 7,
+      "eliteQuickMove": ["EMBER_FAST"],
+      "eliteCinematicMove": ["SKY_ATTACK"]
     }
   }, {
     "templateId": "V0147_POKEMON_DRATINI",
@@ -62386,7 +62634,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["DRACO_METEOR", "DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0149_POKEMON_DRAGONITE_NORMAL",
@@ -62452,7 +62701,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
-      "buddyGroupNumber": 6
+      "buddyGroupNumber": 6,
+      "eliteCinematicMove": ["DRACO_METEOR", "DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0149_POKEMON_DRAGONITE_PURIFIED",
@@ -62518,7 +62768,8 @@
       "isTransferable": true,
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
-      "buddyGroupNumber": 6
+      "buddyGroupNumber": 6,
+      "eliteCinematicMove": ["DRACO_METEOR", "DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0149_POKEMON_DRAGONITE_SHADOW",
@@ -62590,7 +62841,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 6
+      "buddyGroupNumber": 6,
+      "eliteCinematicMove": ["DRACO_METEOR", "DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0150_POKEMON_MEWTWO",
@@ -62650,7 +62902,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
     }
   }, {
     "templateId": "V0150_POKEMON_MEWTWO_A",
@@ -62711,7 +62964,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSTRIKE"]
     }
   }, {
     "templateId": "V0150_POKEMON_MEWTWO_NORMAL",
@@ -62772,7 +63026,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
     }
   }, {
     "templateId": "V0151_POKEMON_MEW",
@@ -63021,7 +63276,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0155_POKEMON_CYNDAQUIL",
@@ -63215,7 +63471,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN"]
     }
   }, {
     "templateId": "V0158_POKEMON_TOTODILE",
@@ -63408,7 +63665,9 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["WATER_GUN_FAST"],
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0161_POKEMON_SENTRET",
@@ -64454,7 +64713,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteCinematicMove": ["PSYCHIC", "BODY_SLAM"]
     }
   }, {
     "templateId": "V0174_POKEMON_IGGLYBUFF",
@@ -64520,7 +64780,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0175_POKEMON_TOGEPI",
@@ -64585,7 +64846,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0176_POKEMON_TOGETIC",
@@ -64653,7 +64915,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["STEEL_WING_FAST", "ZEN_HEADBUTT_FAST"]
     }
   }, {
     "templateId": "V0177_POKEMON_NATU",
@@ -65398,7 +65661,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0181_POKEMON_AMPHAROS_NORMAL",
@@ -65462,7 +65726,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0181_POKEMON_AMPHAROS_PURIFIED",
@@ -65526,7 +65791,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0181_POKEMON_AMPHAROS_SHADOW",
@@ -65596,7 +65862,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["DRAGON_PULSE"]
     }
   }, {
     "templateId": "V0182_POKEMON_BELLOSSOM",
@@ -66098,7 +66365,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["EARTHQUAKE"]
     }
   }, {
     "templateId": "V0186_POKEMON_POLITOED_NORMAL",
@@ -66161,7 +66429,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["EARTHQUAKE"]
     }
   }, {
     "templateId": "V0186_POKEMON_POLITOED_PURIFIED",
@@ -66224,7 +66493,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["EARTHQUAKE"]
     }
   }, {
     "templateId": "V0186_POKEMON_POLITOED_SHADOW",
@@ -66293,7 +66563,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["EARTHQUAKE"]
     }
   }, {
     "templateId": "V0187_POKEMON_HOPPIP",
@@ -66945,7 +67216,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0197_POKEMON_UMBREON",
@@ -67006,7 +67278,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0198_POKEMON_MURKROW",
@@ -70409,7 +70682,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["ICE_SHARD_FAST", "QUICK_ATTACK_FAST"]
     }
   }, {
     "templateId": "V0225_POKEMON_DELIBIRD_NORMAL",
@@ -70469,7 +70743,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["ICE_SHARD_FAST", "QUICK_ATTACK_FAST"]
     }
   }, {
     "templateId": "V0225_POKEMON_DELIBIRD_PURIFIED",
@@ -70529,7 +70804,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["ICE_SHARD_FAST", "QUICK_ATTACK_FAST"]
     }
   }, {
     "templateId": "V0225_POKEMON_DELIBIRD_SHADOW",
@@ -70595,7 +70871,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["ICE_SHARD_FAST", "QUICK_ATTACK_FAST"]
     }
   }, {
     "templateId": "V0226_MOVE_PSYCHO_CUT_FAST",
@@ -71397,7 +71674,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["WATER_GUN_FAST"]
     }
   }, {
     "templateId": "V0231_MOVE_SPLASH_FAST",
@@ -72436,7 +72714,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteQuickMove": ["FROST_BREATH_FAST"]
     }
   }, {
     "templateId": "V0239_MOVE_STEEL_WING_FAST",
@@ -72517,7 +72796,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteCinematicMove": ["THUNDERBOLT"]
     }
   }, {
     "templateId": "V0240_MOVE_FIRE_FANG_FAST",
@@ -72599,7 +72879,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 1
+      "buddyGroupNumber": 1,
+      "eliteCinematicMove": ["FLAMETHROWER"]
     }
   }, {
     "templateId": "V0241_MOVE_ROCK_SMASH_FAST",
@@ -73353,7 +73634,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["HIDDEN_POWER_FAST"]
     }
   }, {
     "templateId": "V0245_POKEMON_SUICUNE_NORMAL",
@@ -73413,7 +73695,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["HIDDEN_POWER_FAST"]
     }
   }, {
     "templateId": "V0245_POKEMON_SUICUNE_PURIFIED",
@@ -73473,7 +73756,8 @@
         "candyToUnlock": 80
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["HIDDEN_POWER_FAST"]
     }
   }, {
     "templateId": "V0245_POKEMON_SUICUNE_SHADOW",
@@ -73539,7 +73823,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["HIDDEN_POWER_FAST"]
     }
   }, {
     "templateId": "V0246_MOVE_DYNAMIC_PUNCH",
@@ -74218,7 +74503,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["SMACK_DOWN_FAST"]
     }
   }, {
     "templateId": "V0248_POKEMON_TYRANITAR_NORMAL",
@@ -74282,7 +74568,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["SMACK_DOWN_FAST"]
     }
   }, {
     "templateId": "V0248_POKEMON_TYRANITAR_PURIFIED",
@@ -74346,7 +74633,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["SMACK_DOWN_FAST"]
     }
   }, {
     "templateId": "V0248_POKEMON_TYRANITAR_SHADOW",
@@ -74416,7 +74704,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteQuickMove": ["SMACK_DOWN_FAST"]
     }
   }, {
     "templateId": "V0249_MOVE_CHARGE_BEAM_FAST",
@@ -74891,7 +75180,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0255_MOVE_AIR_SLASH_FAST",
@@ -75137,7 +75427,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN", "STONE_EDGE"]
     }
   }, {
     "templateId": "V0258_MOVE_SAND_TOMB",
@@ -75795,7 +76086,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0260_POKEMON_SWAMPERT_NORMAL",
@@ -75859,7 +76151,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0260_POKEMON_SWAMPERT_PURIFIED",
@@ -75923,7 +76216,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0260_POKEMON_SWAMPERT_SHADOW",
@@ -75993,7 +76287,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0261_MOVE_STRUGGLE_BUG_FAST",
@@ -79104,7 +79399,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0282_POKEMON_GARDEVOIR_NORMAL",
@@ -79168,7 +79464,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0282_POKEMON_GARDEVOIR_PURIFIED",
@@ -79232,7 +79529,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0282_POKEMON_GARDEVOIR_SHADOW",
@@ -79302,7 +79600,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0283_MOVE_WATERFALL_FAST",
@@ -79625,7 +79924,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["GRASS_KNOT"]
     }
   }, {
     "templateId": "V0287_MOVE_YAWN_FAST",
@@ -79865,7 +80165,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0290_MOVE_PRECIPICE_BLADES",
@@ -80109,7 +80410,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 4
+      "buddyGroupNumber": 4,
+      "eliteQuickMove": ["STRUGGLE_BUG_FAST"]
     }
   }, {
     "templateId": "V0293_MOVE_WEATHER_BALL_ICE",
@@ -84334,7 +84636,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["EARTH_POWER"]
     }
   }, {
     "templateId": "V0330_POKEMON_FLYGON_NORMAL",
@@ -84399,7 +84702,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["EARTH_POWER"]
     }
   }, {
     "templateId": "V0330_POKEMON_FLYGON_PURIFIED",
@@ -84464,7 +84768,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["EARTH_POWER"]
     }
   }, {
     "templateId": "V0330_POKEMON_FLYGON_SHADOW",
@@ -84535,7 +84840,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 5
+      "buddyGroupNumber": 5,
+      "eliteCinematicMove": ["EARTH_POWER"]
     }
   }, {
     "templateId": "V0331_MOVE_FLYING_PRESS",
@@ -89340,7 +89646,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["OUTRAGE"]
     }
   }, {
     "templateId": "V0373_POKEMON_SALAMENCE_NORMAL",
@@ -89405,7 +89712,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["OUTRAGE"]
     }
   }, {
     "templateId": "V0373_POKEMON_SALAMENCE_PURIFIED",
@@ -89470,7 +89778,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["OUTRAGE"]
     }
   }, {
     "templateId": "V0373_POKEMON_SALAMENCE_SHADOW",
@@ -89541,7 +89850,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["OUTRAGE"]
     }
   }, {
     "templateId": "V0374_POKEMON_BELDUM",
@@ -90158,7 +90468,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["METEOR_MASH"]
     }
   }, {
     "templateId": "V0376_POKEMON_METAGROSS_NORMAL",
@@ -90223,7 +90534,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["METEOR_MASH"]
     }
   }, {
     "templateId": "V0376_POKEMON_METAGROSS_PURIFIED",
@@ -90288,7 +90600,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["METEOR_MASH"]
     }
   }, {
     "templateId": "V0376_POKEMON_METAGROSS_SHADOW",
@@ -90359,7 +90672,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["METEOR_MASH"]
     }
   }, {
     "templateId": "V0377_POKEMON_REGIROCK",
@@ -91811,7 +92125,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0389_POKEMON_TORTERRA_NORMAL",
@@ -91875,7 +92190,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0389_POKEMON_TORTERRA_PURIFIED",
@@ -91939,7 +92255,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0389_POKEMON_TORTERRA_SHADOW",
@@ -92009,7 +92326,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["FRENZY_PLANT"]
     }
   }, {
     "templateId": "V0390_POKEMON_CHIMCHAR",
@@ -92627,7 +92945,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN"]
     }
   }, {
     "templateId": "V0392_POKEMON_INFERNAPE_NORMAL",
@@ -92692,7 +93011,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN"]
     }
   }, {
     "templateId": "V0392_POKEMON_INFERNAPE_PURIFIED",
@@ -92757,7 +93077,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN"]
     }
   }, {
     "templateId": "V0392_POKEMON_INFERNAPE_SHADOW",
@@ -92828,7 +93149,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["BLAST_BURN"]
     }
   }, {
     "templateId": "V0393_POKEMON_PIPLUP",
@@ -93024,7 +93346,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["HYDRO_CANNON"]
     }
   }, {
     "templateId": "V0396_POKEMON_STARLY",
@@ -100397,7 +100720,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["BODY_SLAM"]
     }
   }, {
     "templateId": "V0464_POKEMON_RHYPERIOR",
@@ -100463,7 +100787,8 @@
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
       "combatOpponentFocusCameraAngle": [1.9, 0.0, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_WRECKER"]
     }
   }, {
     "templateId": "V0464_POKEMON_RHYPERIOR_NORMAL",
@@ -100530,7 +100855,8 @@
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
       "combatOpponentFocusCameraAngle": [1.9, 0.0, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_WRECKER"]
     }
   }, {
     "templateId": "V0464_POKEMON_RHYPERIOR_PURIFIED",
@@ -100597,7 +100923,8 @@
       "isDeployable": true,
       "combatDefaultCameraAngle": [3.0, 3.5, 2.0],
       "combatOpponentFocusCameraAngle": [1.9, 0.0, 0.0],
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_WRECKER"]
     }
   }, {
     "templateId": "V0464_POKEMON_RHYPERIOR_SHADOW",
@@ -100670,7 +100997,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ROCK_WRECKER"]
     }
   }, {
     "templateId": "V0465_POKEMON_TANGROWTH",
@@ -101440,7 +101768,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0471_POKEMON_GLACEON",
@@ -101503,7 +101832,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["LAST_RESORT"]
     }
   }, {
     "templateId": "V0472_POKEMON_GLISCOR",
@@ -101632,7 +101962,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["ANCIENT_POWER"]
     }
   }, {
     "templateId": "V0474_POKEMON_PORYGON_Z",
@@ -101960,7 +102291,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0475_POKEMON_GALLADE_NORMAL",
@@ -102024,7 +102356,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0475_POKEMON_GALLADE_PURIFIED",
@@ -102088,7 +102421,8 @@
       },
       "isTransferable": true,
       "isDeployable": true,
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0475_POKEMON_GALLADE_SHADOW",
@@ -102158,7 +102492,8 @@
         "purifiedChargeMove": "RETURN",
         "shadowChargeMove": "FRUSTRATION"
       },
-      "buddyGroupNumber": 2
+      "buddyGroupNumber": 2,
+      "eliteCinematicMove": ["SYNCHRONOISE"]
     }
   }, {
     "templateId": "V0476_POKEMON_PROBOPASS",
@@ -115542,7 +115877,8 @@
         "candyToUnlock": 100
       },
       "isTransferable": true,
-      "buddyGroupNumber": 3
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["SACRED_SWORD"]
     }
   }, {
     "templateId": "V0639_POKEMON_TERRAKION",
@@ -119265,15 +119601,6 @@
       "sortOrder": 5,
       "hidden": true,
       "sale": true
-    }
-  }, {
-    "templateId": "bundle.general4.small.2",
-    "iapItemDisplay": {
-      "sku": "bundle.general4.small.2",
-      "category": "IAP_CATEGORY_BUNDLE",
-      "sortOrder": 10,
-      "spriteId": "bundle.general4.small.1",
-      "title": "bundle.general4.small.1_title"
     }
   }, {
     "templateId": "camera_aerialace",
@@ -126637,6 +126964,37 @@
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
+  }, {
+    "templateId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+    "item": {
+      "itemId": "ITEM_MOVE_REROLL_ELITE_FAST_ATTACK",
+      "itemType": "ITEM_TYPE_MOVE_REROLL",
+      "category": "ITEM_CATEGORY_MOVE_REROLL",
+      "dropTrainerLevel": 1
+    }
+  }, {
+    "templateId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+    "item": {
+      "itemId": "ITEM_MOVE_REROLL_ELITE_SPECIAL_ATTACK",
+      "itemType": "ITEM_TYPE_MOVE_REROLL",
+      "category": "ITEM_CATEGORY_MOVE_REROLL",
+      "dropTrainerLevel": 1
+    }
+  }, {
+    "templateId": "LPSKU_bundle.general4.small.2",
+    "limitedPurchaseSkuSettings": {
+      "purchaseLimit": 1,
+      "version": 1
+    }
+  }, {
+    "templateId": "bundle.general4.small.2",
+    "iapItemDisplay": {
+      "sku": "bundle.general4.small.2",
+      "category": "IAP_CATEGORY_BUNDLE",
+      "sortOrder": 10,
+      "spriteId": "bundle.general4.small.1",
+      "title": "bundle.general4.small.1_title"
+    }
   }],
-  "timestampMs": "1587581189967"
+  "timestampMs": "1587693342963"
 }
