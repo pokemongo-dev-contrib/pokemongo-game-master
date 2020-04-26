@@ -17,7 +17,7 @@ public class GenerateAssetDigestJSON {
 			System.out.println();
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println("Generated digests:");
-			System.out.println("	Decoded digests: " + response.getDigestList().size());
+			System.out.println("	Decoded digests: " + response.getDigestCount());
 			System.out.println("	TimestampMs    : " + response.getTimestampMs());
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println();
