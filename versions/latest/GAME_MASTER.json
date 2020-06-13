@@ -11261,6 +11261,13 @@
       "targets": [3, 10, 26]
     }
   }, {
+    "templateId": "BADGE_WAYFARER",
+    "badge": {
+      "badgeType": "BADGE_WAYFARER",
+      "badgeRank": 4,
+      "targets": [50, 500, 1000]
+    }
+  }, {
     "templateId": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
     "badge": {
       "badgeType": "BADGE_YOKOSUKA_1_SEP_2018_VERNY",
@@ -15357,6 +15364,9 @@
         "form": "MEOWTH_PURIFIED"
       }, {
         "form": "MEOWTH_SHADOW"
+      }, {
+        "form": "MEOWTH_GALARIAN",
+        "assetBundleValue": 31
       }]
     }
   }, {
@@ -15657,7 +15667,17 @@
   }, {
     "templateId": "FORMS_V0083_POKEMON_FARFETCHD",
     "formSettings": {
-      "pokemon": "FARFETCHD"
+      "pokemon": "FARFETCHD",
+      "forms": [{
+        "form": "FARFETCHD_NORMAL"
+      }, {
+        "form": "FARFETCHD_SHADOW"
+      }, {
+        "form": "FARFETCHD_PURIFIED"
+      }, {
+        "form": "FARFETCHD_GALARIAN",
+        "assetBundleValue": 31
+      }]
     }
   }, {
     "templateId": "FORMS_V0084_POKEMON_DODUO",
@@ -17108,6 +17128,10 @@
       "forms": [{
         "form": "ZIGZAGOON_NORMAL"
       }, {
+        "form": "ZIGZAGOON_SHADOW"
+      }, {
+        "form": "ZIGZAGOON_PURIFIED"
+      }, {
         "form": "ZIGZAGOON_GALARIAN",
         "assetBundleValue": 31
       }]
@@ -17118,6 +17142,10 @@
       "pokemon": "LINOONE",
       "forms": [{
         "form": "LINOONE_NORMAL"
+      }, {
+        "form": "LINOONE_SHADOW"
+      }, {
+        "form": "LINOONE_PURIFIED"
       }, {
         "form": "LINOONE_GALARIAN",
         "assetBundleValue": 31
@@ -19137,7 +19165,17 @@
   }, {
     "templateId": "FORMS_V0554_POKEMON_DARUMAKA",
     "formSettings": {
-      "pokemon": "DARUMAKA"
+      "pokemon": "DARUMAKA",
+      "forms": [{
+        "form": "DARUMAKA_NORMAL"
+      }, {
+        "form": "DARUMAKA_SHADOW"
+      }, {
+        "form": "DARUMAKA_PURIFIED"
+      }, {
+        "form": "DARUMAKA_GALARIAN",
+        "assetBundleValue": 31
+      }]
     }
   }, {
     "templateId": "FORMS_V0555_POKEMON_DARMANITAN",
@@ -19149,6 +19187,12 @@
       }, {
         "form": "DARMANITAN_ZEN",
         "assetBundleValue": 12
+      }, {
+        "form": "DARMANITAN_GALARIAN_STANDARD",
+        "assetBundleValue": 31
+      }, {
+        "form": "DARMANITAN_GALARIAN_ZEN",
+        "assetBundleValue": 32
       }]
     }
   }, {
@@ -19502,7 +19546,17 @@
   }, {
     "templateId": "FORMS_V0618_POKEMON_STUNFISK",
     "formSettings": {
-      "pokemon": "STUNFISK"
+      "pokemon": "STUNFISK",
+      "forms": [{
+        "form": "STUNFISK_NORMAL"
+      }, {
+        "form": "STUNFISK_SHADOW"
+      }, {
+        "form": "STUNFISK_PURIFIED"
+      }, {
+        "form": "STUNFISK_GALARIAN",
+        "assetBundleValue": 31
+      }]
     }
   }, {
     "templateId": "FORMS_V0619_POKEMON_MIENFOO",
@@ -19731,6 +19785,51 @@
       "pokemon": "MELMETAL"
     }
   }, {
+    "templateId": "FORMS_V0862_POKEMON_OBSTAGOON",
+    "formSettings": {
+      "pokemon": "OBSTAGOON",
+      "forms": [{
+        "form": "OBSTAGOON_NORMAL",
+        "assetBundleValue": 31
+      }, {
+        "form": "OBSTAGOON_SHADOW",
+        "assetBundleValue": 31
+      }, {
+        "form": "OBSTAGOON_PURIFIED",
+        "assetBundleValue": 31
+      }]
+    }
+  }, {
+    "templateId": "FORMS_V0863_POKEMON_PERRSERKER",
+    "formSettings": {
+      "pokemon": "PERRSERKER",
+      "forms": [{
+        "form": "PERRSERKER_NORMAL",
+        "assetBundleValue": 31
+      }, {
+        "form": "PERRSERKER_SHADOW",
+        "assetBundleValue": 31
+      }, {
+        "form": "PERRSERKER_PURIFIED",
+        "assetBundleValue": 31
+      }]
+    }
+  }, {
+    "templateId": "FORMS_V0865_POKEMON_SIRFETCHD",
+    "formSettings": {
+      "pokemon": "SIRFETCHD",
+      "forms": [{
+        "form": "SIRFETCHD_NORMAL",
+        "assetBundleValue": 31
+      }, {
+        "form": "SIRFETCHD_SHADOW",
+        "assetBundleValue": 31
+      }, {
+        "form": "SIRFETCHD_PURIFIED",
+        "assetBundleValue": 31
+      }]
+    }
+  }, {
     "templateId": "FRIENDSHIP_LEVEL_0",
     "friendshipMilestoneSettings": {
       "milestoneXpReward": 1000,
@@ -19798,7 +19897,6 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_AVATAR",
       "sortOrder": 4,
-      "bannerEnabled": true,
       "imageUrl": "https://prodholoholo-public-images.nianticlabs.com/uniqlo.jpg",
       "description": "avatar_shop_description"
     }
@@ -19822,8 +19920,7 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
       "sortOrder": 3,
-      "bannerEnabled": true,
-      "imageUrl": "https://storage.googleapis.com/prod-public-images/1024x512.jpg",
+      "imageUrl": "https://prodholoholo-public-images.nianticlabs.com/gf20.jpg",
       "description": "live_events_shop_category_description"
     }
   }, {
@@ -19837,6 +19934,13 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_POKECOINS",
       "sortOrder": 8
+    }
+  }, {
+    "templateId": "IAP_CATEGORY_STICKER",
+    "iapCategoryDisplay": {
+      "category": "IAP_CATEGORY_STICKER",
+      "name": "shop_sticker",
+      "sortOrder": 4
     }
   }, {
     "templateId": "IAP_CATEGORY_TEAM_CHANGE",
@@ -19971,10 +20075,10 @@
       "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
       "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
       "globalEventTicket": {
-        "eventStartTime": "2020-05-24T11:00:00",
-        "eventEndTime": "2020-05-24T17:00:00",
-        "clientEventStartTimeUtcMs": "1590318000000",
-        "clientEventEndTimeUtcMs": "1590339600000"
+        "eventStartTime": "2020-07-25T10:00:00",
+        "eventEndTime": "2020-07-26T20:00:00",
+        "clientEventStartTimeUtcMs": "1595671200000",
+        "clientEventEndTimeUtcMs": "1595793600000"
       }
     }
   }, {
@@ -20552,7 +20656,7 @@
     "templateId": "LPSKU_incense_bundle.general2.small.1",
     "limitedPurchaseSkuSettings": {
       "purchaseLimit": 1,
-      "version": 7
+      "version": 8
     }
   }, {
     "templateId": "LPSKU_remotepass.bundle.general3.small.1",
@@ -22235,6 +22339,15 @@
       }
     }
   }, {
+    "templateId": "SPAWN_V0052_POKEMON_MEOWTH_GALARIAN",
+    "genderSettings": {
+      "pokemon": "MEOWTH",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
     "templateId": "SPAWN_V0052_POKEMON_MEOWTH_NORMAL",
     "genderSettings": {
       "pokemon": "MEOWTH",
@@ -23074,6 +23187,42 @@
     }
   }, {
     "templateId": "SPAWN_V0083_POKEMON_FARFETCHD",
+    "genderSettings": {
+      "pokemon": "FARFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0083_POKEMON_FARFETCHD_GALARIAN",
+    "genderSettings": {
+      "pokemon": "FARFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0083_POKEMON_FARFETCHD_NORMAL",
+    "genderSettings": {
+      "pokemon": "FARFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0083_POKEMON_FARFETCHD_PURIFIED",
+    "genderSettings": {
+      "pokemon": "FARFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0083_POKEMON_FARFETCHD_SHADOW",
     "genderSettings": {
       "pokemon": "FARFETCHD",
       "gender": {
@@ -26419,6 +26568,24 @@
       }
     }
   }, {
+    "templateId": "SPAWN_V0263_POKEMON_ZIGZAGOON_PURIFIED",
+    "genderSettings": {
+      "pokemon": "ZIGZAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0263_POKEMON_ZIGZAGOON_SHADOW",
+    "genderSettings": {
+      "pokemon": "ZIGZAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
     "templateId": "SPAWN_V0264_POKEMON_LINOONE",
     "genderSettings": {
       "pokemon": "LINOONE",
@@ -26438,6 +26605,24 @@
     }
   }, {
     "templateId": "SPAWN_V0264_POKEMON_LINOONE_NORMAL",
+    "genderSettings": {
+      "pokemon": "LINOONE",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0264_POKEMON_LINOONE_PURIFIED",
+    "genderSettings": {
+      "pokemon": "LINOONE",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0264_POKEMON_LINOONE_SHADOW",
     "genderSettings": {
       "pokemon": "LINOONE",
       "gender": {
@@ -30727,7 +30912,61 @@
       }
     }
   }, {
+    "templateId": "SPAWN_V0554_POKEMON_DARUMAKA_GALARIAN",
+    "genderSettings": {
+      "pokemon": "DARUMAKA",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0554_POKEMON_DARUMAKA_NORMAL",
+    "genderSettings": {
+      "pokemon": "DARUMAKA",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0554_POKEMON_DARUMAKA_PURIFIED",
+    "genderSettings": {
+      "pokemon": "DARUMAKA",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0554_POKEMON_DARUMAKA_SHADOW",
+    "genderSettings": {
+      "pokemon": "DARUMAKA",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
     "templateId": "SPAWN_V0555_POKEMON_DARMANITAN",
+    "genderSettings": {
+      "pokemon": "DARMANITAN",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0555_POKEMON_DARMANITAN_GALARIAN_STANDARD",
+    "genderSettings": {
+      "pokemon": "DARMANITAN",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0555_POKEMON_DARMANITAN_GALARIAN_ZEN",
     "genderSettings": {
       "pokemon": "DARMANITAN",
       "gender": {
@@ -31419,6 +31658,42 @@
       }
     }
   }, {
+    "templateId": "SPAWN_V0618_POKEMON_STUNFISK_GALARIAN",
+    "genderSettings": {
+      "pokemon": "STUNFISK",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0618_POKEMON_STUNFISK_NORMAL",
+    "genderSettings": {
+      "pokemon": "STUNFISK",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0618_POKEMON_STUNFISK_PURIFIED",
+    "genderSettings": {
+      "pokemon": "STUNFISK",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0618_POKEMON_STUNFISK_SHADOW",
+    "genderSettings": {
+      "pokemon": "STUNFISK",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
     "templateId": "SPAWN_V0619_POKEMON_MIENFOO",
     "genderSettings": {
       "pokemon": "MIENFOO",
@@ -31838,6 +32113,212 @@
       "gender": {
         "genderlessPercent": 1.0
       }
+    }
+  }, {
+    "templateId": "SPAWN_V0862_POKEMON_OBSTAGOON",
+    "genderSettings": {
+      "pokemon": "OBSTAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0862_POKEMON_OBSTAGOON_NORMAL",
+    "genderSettings": {
+      "pokemon": "OBSTAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0862_POKEMON_OBSTAGOON_PURIFIED",
+    "genderSettings": {
+      "pokemon": "OBSTAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0862_POKEMON_OBSTAGOON_SHADOW",
+    "genderSettings": {
+      "pokemon": "OBSTAGOON",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0863_POKEMON_PERRSERKER",
+    "genderSettings": {
+      "pokemon": "PERRSERKER",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0863_POKEMON_PERRSERKER_NORMAL",
+    "genderSettings": {
+      "pokemon": "PERRSERKER",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0863_POKEMON_PERRSERKER_PURIFIED",
+    "genderSettings": {
+      "pokemon": "PERRSERKER",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0863_POKEMON_PERRSERKER_SHADOW",
+    "genderSettings": {
+      "pokemon": "PERRSERKER",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0865_POKEMON_SIRFETCHD",
+    "genderSettings": {
+      "pokemon": "SIRFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0865_POKEMON_SIRFETCHD_NORMAL",
+    "genderSettings": {
+      "pokemon": "SIRFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0865_POKEMON_SIRFETCHD_PURIFIED",
+    "genderSettings": {
+      "pokemon": "SIRFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0865_POKEMON_SIRFETCHD_SHADOW",
+    "genderSettings": {
+      "pokemon": "SIRFETCHD",
+      "gender": {
+        "malePercent": 0.5,
+        "femalePercent": 0.5
+      }
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_04_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_04_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_04_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_05_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_05_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_05_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_06_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_06_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_06_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_FUNAWARI_22_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_funwari_22_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_FUNAWARI_22_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 3
+    }
+  }, {
+    "templateId": "STICKER_FUNAWARI_22_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_FUNAWARI_22_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 3
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NAGANO_06_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_06_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_06_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 1
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_06_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_06_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 1
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NAGANO_15_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nagano_15_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312.3",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_15_312.3",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 2
+    }
+  }, {
+    "templateId": "STICKER_NAGANO_15_312.5",
+    "iapItemDisplay": {
+      "sku": "STICKER_NAGANO_15_312.5",
+      "category": "IAP_CATEGORY_STICKER",
+      "sortOrder": 2
+    }
+  }, {
+    "templateId": "STICKER_NIGIYAKA_08_0508_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NIGIYAKA_08_0508_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_08_0508_312.png",
+      "maxCount": 15
+    }
+  }, {
+    "templateId": "STICKER_NIGIYAKA_16_0508_312",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NIGIYAKA_16_0508_312",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_16_0508_312.png",
+      "maxCount": 15
     }
   }, {
     "templateId": "TRAINER_BLANCHE_GREAT",
@@ -43237,6 +43718,7 @@
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 50000,
         "candyToUnlock": 50
@@ -43314,6 +43796,72 @@
       "buddyGroupNumber": 2
     }
   }, {
+    "templateId": "V0052_POKEMON_MEOWTH_GALARIAN",
+    "pokemon": {
+      "uniqueId": "MEOWTH",
+      "modelScale": 1.6,
+      "type1": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.6,
+        "cylinderRadiusM": 0.25,
+        "cylinderHeightM": 0.45,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.45,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.128,
+        "collisionHeightM": 0.4,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 29.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 10.0,
+        "attackProbability": 0.15,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 137,
+        "baseAttack": 115,
+        "baseDefense": 92
+      },
+      "quickMoves": ["SCRATCH_FAST", "METAL_CLAW_FAST"],
+      "cinematicMoves": ["NIGHT_SLASH", "GYRO_BALL", "DIG"],
+      "animTime": [2.0, 0.6667, 1.7333, 1.5, 0.0, 2.0, 1.4, 2.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.4,
+      "pokedexWeightKg": 7.5,
+      "heightStdDev": 0.05,
+      "weightStdDev": 0.9375,
+      "familyId": "FAMILY_MEOWTH",
+      "candyToEvolve": 50,
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.39,
+      "evolutionBranch": [{
+        "evolution": "PERRSERKER",
+        "candyCost": 50,
+        "form": "PERRSERKER_NORMAL"
+      }],
+      "modelScaleV2": 1.2,
+      "form": "MEOWTH_GALARIAN",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
     "templateId": "V0052_POKEMON_MEOWTH_NORMAL",
     "pokemon": {
       "uniqueId": "MEOWTH",
@@ -43371,6 +43919,7 @@
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 50000,
         "candyToUnlock": 50
@@ -43438,6 +43987,7 @@
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 40000,
         "candyToUnlock": 40
@@ -43505,6 +44055,7 @@
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 60000,
         "candyToUnlock": 60
@@ -50221,12 +50772,265 @@
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
       "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 50000,
         "candyToUnlock": 50
       },
       "isTransferable": true,
       "isDeployable": true,
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["CUT_FAST"]
+    }
+  }, {
+    "templateId": "V0083_POKEMON_FARFETCHD_GALARIAN",
+    "pokemon": {
+      "uniqueId": "FARFETCHD",
+      "modelScale": 1.13,
+      "type1": "POKEMON_TYPE_FIGHTING",
+      "camera": {
+        "diskRadiusM": 0.678,
+        "cylinderRadiusM": 0.5,
+        "cylinderHeightM": 0.8475,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.2825,
+        "collisionHeightM": 0.42375,
+        "collisionHeadRadiusM": 0.2825,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 29.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 10.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 141,
+        "baseAttack": 174,
+        "baseDefense": 114
+      },
+      "quickMoves": ["ROCK_SMASH_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["BRICK_BREAK", "BRAVE_BIRD", "LEAF_BLADE"],
+      "animTime": [1.6667, 0.6667, 1.6667, 1.8333, 0.0, 1.8333, 1.6, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 42.0,
+      "heightStdDev": 0.1,
+      "weightStdDev": 5.25,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.78,
+      "modelScaleV2": 1.0,
+      "form": "FARFETCHD_GALARIAN",
+      "buddyOffsetMale": [8.0, 0.0, -32.0],
+      "buddyOffsetFemale": [8.0, 0.0, -32.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0083_POKEMON_FARFETCHD_NORMAL",
+    "pokemon": {
+      "uniqueId": "FARFETCHD",
+      "modelScale": 1.13,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.678,
+        "cylinderRadiusM": 0.452,
+        "cylinderHeightM": 0.8475,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.2825,
+        "collisionHeightM": 0.42375,
+        "collisionHeadRadiusM": 0.2825,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 29.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 10.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.39,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 141,
+        "baseAttack": 124,
+        "baseDefense": 115
+      },
+      "quickMoves": ["AIR_SLASH_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["AERIAL_ACE", "AIR_CUTTER", "LEAF_BLADE"],
+      "animTime": [1.6667, 0.6667, 1.6667, 1.8333, 0.0, 1.8333, 1.6, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 15.0,
+      "heightStdDev": 0.1,
+      "weightStdDev": 1.875,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "FARFETCHD_NORMAL",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["CUT_FAST"]
+    }
+  }, {
+    "templateId": "V0083_POKEMON_FARFETCHD_PURIFIED",
+    "pokemon": {
+      "uniqueId": "FARFETCHD",
+      "modelScale": 1.13,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.678,
+        "cylinderRadiusM": 0.452,
+        "cylinderHeightM": 0.8475,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.2825,
+        "collisionHeightM": 0.42375,
+        "collisionHeadRadiusM": 0.2825,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 29.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 10.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.39,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 141,
+        "baseAttack": 124,
+        "baseDefense": 115
+      },
+      "quickMoves": ["AIR_SLASH_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["AERIAL_ACE", "AIR_CUTTER", "LEAF_BLADE"],
+      "animTime": [1.6667, 0.6667, 1.6667, 1.8333, 0.0, 1.8333, 1.6, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 15.0,
+      "heightStdDev": 0.1,
+      "weightStdDev": 1.875,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "FARFETCHD_PURIFIED",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2,
+      "eliteQuickMove": ["CUT_FAST"]
+    }
+  }, {
+    "templateId": "V0083_POKEMON_FARFETCHD_SHADOW",
+    "pokemon": {
+      "uniqueId": "FARFETCHD",
+      "modelScale": 1.13,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "type2": "POKEMON_TYPE_FLYING",
+      "camera": {
+        "diskRadiusM": 0.678,
+        "cylinderRadiusM": 0.452,
+        "cylinderHeightM": 0.8475,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.2825,
+        "collisionHeightM": 0.42375,
+        "collisionHeadRadiusM": 0.2825,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 29.0,
+        "jumpTimeS": 1.25,
+        "attackTimerS": 10.0,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.39,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 141,
+        "baseAttack": 124,
+        "baseDefense": 115
+      },
+      "quickMoves": ["AIR_SLASH_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["AERIAL_ACE", "AIR_CUTTER", "LEAF_BLADE"],
+      "animTime": [1.6667, 0.6667, 1.6667, 1.8333, 0.0, 1.8333, 1.6, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 15.0,
+      "heightStdDev": 0.1,
+      "weightStdDev": 1.875,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "FARFETCHD_SHADOW",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
       "buddyGroupNumber": 2,
       "eliteQuickMove": ["CUT_FAST"]
     }
@@ -76823,9 +77627,9 @@
       "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDERBOLT"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
-      "pokedexHeightM": 0.41,
+      "pokedexHeightM": 0.4,
       "pokedexWeightKg": 17.5,
-      "heightStdDev": 0.05125,
+      "heightStdDev": 0.05,
       "weightStdDev": 2.1875,
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
@@ -76857,7 +77661,7 @@
       "type2": "POKEMON_TYPE_NORMAL",
       "camera": {
         "diskRadiusM": 0.555,
-        "cylinderRadiusM": 0.8,
+        "cylinderRadiusM": 0.45,
         "cylinderHeightM": 0.7,
         "shoulderModeScale": 0.5
       },
@@ -76875,7 +77679,7 @@
         "dodgeProbability": 0.15,
         "dodgeDurationS": 1.0,
         "dodgeDistance": 1.0,
-        "cameraDistance": 3.0,
+        "cameraDistance": 3.5,
         "minPokemonActionFrequencyS": 0.2,
         "maxPokemonActionFrequencyS": 1.6
       },
@@ -76884,8 +77688,8 @@
         "baseAttack": 58,
         "baseDefense": 80
       },
-      "quickMoves": ["TACKLE_FAST", "ROCK_SMASH_FAST"],
-      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDERBOLT"],
+      "quickMoves": ["TACKLE_FAST", "TAKE_DOWN_FAST"],
+      "cinematicMoves": ["DIG", "BODY_SLAM", "SWIFT"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 0.4,
@@ -76897,13 +77701,13 @@
       "modelHeight": 1.1,
       "evolutionBranch": [{
         "evolution": "LINOONE",
-        "candyCost": 50,
+        "candyCost": 25,
         "form": "LINOONE_GALARIAN"
       }],
       "modelScaleV2": 1.0,
       "form": "ZIGZAGOON_GALARIAN",
-      "buddyOffsetMale": [0.0, 0.0, 0.0],
-      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyOffsetMale": [12.0, 0.0, 0.0],
+      "buddyOffsetFemale": [12.0, 0.0, 0.0],
       "buddyScale": 19.0,
       "buddyPortraitOffset": [0.53, 0.0, 1.33],
       "thirdMove": {
@@ -76953,9 +77757,9 @@
       "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDERBOLT"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
-      "pokedexHeightM": 0.41,
+      "pokedexHeightM": 0.4,
       "pokedexWeightKg": 17.5,
-      "heightStdDev": 0.05125,
+      "heightStdDev": 0.05,
       "weightStdDev": 2.1875,
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
@@ -76977,6 +77781,142 @@
       },
       "isTransferable": true,
       "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0263_POKEMON_ZIGZAGOON_PURIFIED",
+    "pokemon": {
+      "uniqueId": "ZIGZAGOON",
+      "modelScale": 0.96,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.8,
+        "cylinderHeightM": 0.7,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.5,
+        "baseFleeRate": 0.2,
+        "collisionRadiusM": 0.25,
+        "collisionHeightM": 0.6,
+        "collisionHeadRadiusM": 0.25,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.1,
+        "attackTimerS": 20.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 116,
+        "baseAttack": 58,
+        "baseDefense": 80
+      },
+      "quickMoves": ["TACKLE_FAST", "ROCK_SMASH_FAST"],
+      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDERBOLT"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.4,
+      "pokedexWeightKg": 17.5,
+      "heightStdDev": 0.05,
+      "weightStdDev": 2.1875,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 1.0,
+      "modelHeight": 1.1,
+      "evolutionBranch": [{
+        "evolution": "LINOONE",
+        "candyCost": 50,
+        "form": "LINOONE_PURIFIED"
+      }],
+      "modelScaleV2": 1.0,
+      "form": "ZIGZAGOON_PURIFIED",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.53, 0.0, 1.33],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0263_POKEMON_ZIGZAGOON_SHADOW",
+    "pokemon": {
+      "uniqueId": "ZIGZAGOON",
+      "modelScale": 0.96,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.8,
+        "cylinderHeightM": 0.7,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.5,
+        "baseFleeRate": 0.2,
+        "collisionRadiusM": 0.25,
+        "collisionHeightM": 0.6,
+        "collisionHeadRadiusM": 0.25,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.1,
+        "attackTimerS": 20.0,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 116,
+        "baseAttack": 58,
+        "baseDefense": 80
+      },
+      "quickMoves": ["TACKLE_FAST", "ROCK_SMASH_FAST"],
+      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDERBOLT"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.4,
+      "pokedexWeightKg": 17.5,
+      "heightStdDev": 0.05,
+      "weightStdDev": 2.1875,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 1.0,
+      "modelHeight": 1.1,
+      "evolutionBranch": [{
+        "evolution": "LINOONE",
+        "candyCost": 50,
+        "form": "LINOONE_SHADOW"
+      }],
+      "modelScaleV2": 1.0,
+      "form": "ZIGZAGOON_SHADOW",
+      "buddyOffsetMale": [0.0, 0.0, 0.0],
+      "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.53, 0.0, 1.33],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
       "buddyGroupNumber": 2
     }
   }, {
@@ -77037,10 +77977,10 @@
       "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDER"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
-      "pokedexHeightM": 0.51,
+      "pokedexHeightM": 0.5,
       "pokedexWeightKg": 32.5,
       "parentId": "ZIGZAGOON",
-      "heightStdDev": 0.06375,
+      "heightStdDev": 0.0625,
       "weightStdDev": 4.0625,
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
@@ -77067,7 +78007,7 @@
       "type2": "POKEMON_TYPE_NORMAL",
       "camera": {
         "diskRadiusM": 0.555,
-        "cylinderRadiusM": 1.0,
+        "cylinderRadiusM": 0.8,
         "cylinderHeightM": 0.8,
         "shoulderModeScale": 0.5
       },
@@ -77096,8 +78036,8 @@
         "baseAttack": 142,
         "baseDefense": 128
       },
-      "quickMoves": ["SHADOW_CLAW_FAST", "TACKLE_FAST"],
-      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDER"],
+      "quickMoves": ["SNARL_FAST", "LICK_FAST"],
+      "cinematicMoves": ["DIG", "BODY_SLAM", "GUNK_SHOT"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
       "pokedexHeightM": 0.5,
@@ -77108,6 +78048,11 @@
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
       "modelHeight": 1.8,
+      "evolutionBranch": [{
+        "evolution": "OBSTAGOON",
+        "candyCost": 100,
+        "form": "OBSTAGOON_NORMAL"
+      }],
       "modelScaleV2": 1.0,
       "form": "LINOONE_GALARIAN",
       "buddyOffsetMale": [15.0, 0.0, 0.0],
@@ -77163,10 +78108,10 @@
       "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDER"],
       "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
       "evolutionPips": 1,
-      "pokedexHeightM": 0.51,
+      "pokedexHeightM": 0.5,
       "pokedexWeightKg": 32.5,
       "parentId": "ZIGZAGOON",
-      "heightStdDev": 0.06375,
+      "heightStdDev": 0.0625,
       "weightStdDev": 4.0625,
       "familyId": "FAMILY_ZIGZAGOON",
       "kmBuddyDistance": 1.0,
@@ -77183,6 +78128,138 @@
       },
       "isTransferable": true,
       "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0264_POKEMON_LINOONE_PURIFIED",
+    "pokemon": {
+      "uniqueId": "LINOONE",
+      "modelScale": 0.78,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 1.0,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.15,
+        "collisionHeightM": 0.6,
+        "collisionHeadRadiusM": 0.25,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.1,
+        "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 186,
+        "baseAttack": 142,
+        "baseDefense": 128
+      },
+      "quickMoves": ["SHADOW_CLAW_FAST", "TACKLE_FAST"],
+      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDER"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.5,
+      "pokedexWeightKg": 32.5,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.0625,
+      "weightStdDev": 4.0625,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 1.0,
+      "modelHeight": 1.8,
+      "modelScaleV2": 1.0,
+      "form": "LINOONE_PURIFIED",
+      "buddyOffsetMale": [15.0, 0.0, 0.0],
+      "buddyOffsetFemale": [15.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.6, 0.0, 1.56],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0264_POKEMON_LINOONE_SHADOW",
+    "pokemon": {
+      "uniqueId": "LINOONE",
+      "modelScale": 0.78,
+      "type1": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 1.0,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.15,
+        "collisionHeightM": 0.6,
+        "collisionHeadRadiusM": 0.25,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 11.0,
+        "jumpTimeS": 1.1,
+        "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 186,
+        "baseAttack": 142,
+        "baseDefense": 128
+      },
+      "quickMoves": ["SHADOW_CLAW_FAST", "TACKLE_FAST"],
+      "cinematicMoves": ["DIG", "GRASS_KNOT", "THUNDER"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.5,
+      "pokedexWeightKg": 32.5,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.0625,
+      "weightStdDev": 4.0625,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 1.0,
+      "modelHeight": 1.8,
+      "modelScaleV2": 1.0,
+      "form": "LINOONE_SHADOW",
+      "buddyOffsetMale": [15.0, 0.0, 0.0],
+      "buddyOffsetFemale": [15.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.6, 0.0, 1.56],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
       "buddyGroupNumber": 2
     }
   }, {
@@ -84341,6 +85418,7 @@
         "movementTimerS": 11.0,
         "jumpTimeS": 1.1,
         "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 7,
         "attackProbability": 0.2,
         "dodgeProbability": 0.05,
         "dodgeDurationS": 1.0,
@@ -84404,6 +85482,7 @@
         "movementTimerS": 11.0,
         "jumpTimeS": 1.1,
         "attackTimerS": 20.0,
+        "bonusCandyCaptureReward": 7,
         "attackProbability": 0.2,
         "dodgeProbability": 0.05,
         "dodgeDurationS": 1.0,
@@ -94146,7 +95225,6 @@
         "movementTimerS": 10.0,
         "jumpTimeS": 0.9,
         "attackTimerS": 29.0,
-        "bonusCandyCaptureReward": 10,
         "attackProbability": 0.3,
         "dodgeProbability": 0.1,
         "dodgeDurationS": 1.0,
@@ -109863,6 +110941,261 @@
       "buddyGroupNumber": 2
     }
   }, {
+    "templateId": "V0554_POKEMON_DARUMAKA_GALARIAN",
+    "pokemon": {
+      "uniqueId": "DARUMAKA",
+      "type1": "POKEMON_TYPE_ICE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 153,
+        "baseDefense": 86
+      },
+      "quickMoves": ["TACKLE_FAST", "ICE_FANG_FAST"],
+      "cinematicMoves": ["ICE_PUNCH", "ICE_BEAM"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.8667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.7,
+      "pokedexWeightKg": 40.0,
+      "heightStdDev": 0.0875,
+      "weightStdDev": 5.0,
+      "familyId": "FAMILY_DARUMAKA",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.72,
+      "evolutionBranch": [{
+        "evolution": "DARMANITAN",
+        "candyCost": 50,
+        "form": "DARMANITAN_GALARIAN_STANDARD"
+      }],
+      "modelScaleV2": 1.0,
+      "form": "DARUMAKA_GALARIAN",
+      "buddyOffsetMale": [0.0, 0.0, 25.0],
+      "buddyOffsetFemale": [0.0, 0.0, 25.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0554_POKEMON_DARUMAKA_NORMAL",
+    "pokemon": {
+      "uniqueId": "DARUMAKA",
+      "modelScale": 1.0,
+      "type1": "POKEMON_TYPE_FIRE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.7,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.35,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.35,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.8,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.5,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 153,
+        "baseDefense": 86
+      },
+      "quickMoves": ["TACKLE_FAST", "FIRE_FANG_FAST"],
+      "cinematicMoves": ["FIRE_PUNCH", "FLAME_CHARGE"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.6,
+      "pokedexWeightKg": 37.5,
+      "heightStdDev": 0.075,
+      "weightStdDev": 4.6875,
+      "familyId": "FAMILY_DARUMAKA",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "evolutionBranch": [{
+        "evolution": "DARMANITAN",
+        "candyCost": 50,
+        "form": "DARMANITAN_STANDARD"
+      }],
+      "modelScaleV2": 1.1,
+      "form": "DARUMAKA_NORMAL",
+      "buddyOffsetMale": [0.0, 0.0, 25.0],
+      "buddyOffsetFemale": [0.0, 0.0, 25.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0554_POKEMON_DARUMAKA_PURIFIED",
+    "pokemon": {
+      "uniqueId": "DARUMAKA",
+      "modelScale": 1.0,
+      "type1": "POKEMON_TYPE_FIRE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.7,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.35,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.35,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.8,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.5,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 153,
+        "baseDefense": 86
+      },
+      "quickMoves": ["TACKLE_FAST", "FIRE_FANG_FAST"],
+      "cinematicMoves": ["FIRE_PUNCH", "FLAME_CHARGE"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "pokedexHeightM": 0.6,
+      "pokedexWeightKg": 37.5,
+      "heightStdDev": 0.075,
+      "weightStdDev": 4.6875,
+      "familyId": "FAMILY_DARUMAKA",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.1,
+      "form": "DARUMAKA_PURIFIED",
+      "buddyOffsetMale": [0.0, 0.0, 25.0],
+      "buddyOffsetFemale": [0.0, 0.0, 25.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0554_POKEMON_DARUMAKA_SHADOW",
+    "pokemon": {
+      "uniqueId": "DARUMAKA",
+      "modelScale": 1.0,
+      "type1": "POKEMON_TYPE_FIRE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.7,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.3,
+        "baseFleeRate": 0.09,
+        "collisionRadiusM": 0.35,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.35,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.8,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 3.5,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 153,
+        "baseDefense": 86
+      },
+      "quickMoves": ["TACKLE_FAST", "FIRE_FANG_FAST"],
+      "cinematicMoves": ["FIRE_PUNCH", "FLAME_CHARGE"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "pokedexHeightM": 0.6,
+      "pokedexWeightKg": 37.5,
+      "heightStdDev": 0.075,
+      "weightStdDev": 4.6875,
+      "familyId": "FAMILY_DARUMAKA",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.1,
+      "form": "DARUMAKA_SHADOW",
+      "buddyOffsetMale": [0.0, 0.0, 25.0],
+      "buddyOffsetFemale": [0.0, 0.0, 25.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 2
+    }
+  }, {
     "templateId": "V0555_POKEMON_DARMANITAN",
     "pokemon": {
       "uniqueId": "DARMANITAN",
@@ -109913,12 +111246,134 @@
       "kmBuddyDistance": 3.0,
       "buddySize": "BUDDY_BIG",
       "modelHeight": 1.79,
-      "evolutionBranch": [{
-        "candyCost": 50
-      }],
       "modelScaleV2": 1.1,
       "buddyOffsetMale": [0.0, 0.0, 0.0],
       "buddyOffsetFemale": [0.0, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0555_POKEMON_DARMANITAN_GALARIAN_STANDARD",
+    "pokemon": {
+      "uniqueId": "DARMANITAN",
+      "modelScale": 0.9,
+      "type1": "POKEMON_TYPE_ICE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.95,
+        "cylinderHeightM": 1.65,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 233,
+        "baseAttack": 263,
+        "baseDefense": 114
+      },
+      "quickMoves": ["TACKLE_FAST", "ICE_FANG_FAST"],
+      "cinematicMoves": ["OVERHEAT", "AVALANCHE", "SUPER_POWER", "ICE_PUNCH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0, 0.0],
+      "pokedexHeightM": 1.7,
+      "pokedexWeightKg": 120.0,
+      "parentId": "DARUMAKA",
+      "heightStdDev": 0.2125,
+      "weightStdDev": 15.0,
+      "familyId": "FAMILY_DARUMAKA",
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 1.7,
+      "modelScaleV2": 1.1,
+      "form": "DARMANITAN_GALARIAN_STANDARD",
+      "buddyOffsetMale": [16.0, 0.0, -72.0],
+      "buddyOffsetFemale": [16.0, 0.0, -72.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0555_POKEMON_DARMANITAN_GALARIAN_ZEN",
+    "pokemon": {
+      "uniqueId": "DARMANITAN",
+      "modelScale": 0.9,
+      "type1": "POKEMON_TYPE_ICE",
+      "type2": "POKEMON_TYPE_FIRE",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.85,
+        "cylinderHeightM": 2.4,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 233,
+        "baseAttack": 323,
+        "baseDefense": 123
+      },
+      "quickMoves": ["TACKLE_FAST", "ICE_FANG_FAST"],
+      "cinematicMoves": ["OVERHEAT", "AVALANCHE", "SUPER_POWER", "ICE_PUNCH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0, 0.0],
+      "pokedexHeightM": 1.7,
+      "pokedexWeightKg": 120.0,
+      "parentId": "DARUMAKA",
+      "heightStdDev": 0.2125,
+      "weightStdDev": 15.0,
+      "familyId": "FAMILY_DARUMAKA",
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 1.7,
+      "modelScaleV2": 1.1,
+      "form": "DARMANITAN_GALARIAN_ZEN",
+      "buddyOffsetMale": [16.0, 0.0, -128.0],
+      "buddyOffsetFemale": [16.0, 0.0, -128.0],
       "buddyScale": 19.0,
       "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
@@ -109973,8 +111428,8 @@
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 92.9,
       "parentId": "DARUMAKA",
-      "heightStdDev": 0.1625,
-      "weightStdDev": 11.6125,
+      "heightStdDev": 0.05,
+      "weightStdDev": 1.275,
       "familyId": "FAMILY_DARUMAKA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
@@ -110039,8 +111494,8 @@
       "pokedexHeightM": 1.3,
       "pokedexWeightKg": 92.9,
       "parentId": "DARUMAKA",
-      "heightStdDev": 0.1625,
-      "weightStdDev": 11.6125,
+      "heightStdDev": 0.05,
+      "weightStdDev": 1.275,
       "familyId": "FAMILY_DARUMAKA",
       "candyToEvolve": 25,
       "kmBuddyDistance": 3.0,
@@ -110050,7 +111505,7 @@
       "buddyOffsetMale": [5.0, 0.0, -60.0],
       "buddyOffsetFemale": [5.0, 0.0, -60.0],
       "buddyScale": 19.0,
-      "buddyPortraitOffset": [0.0, 0.0, 820.0],
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
       "thirdMove": {
         "stardustToUnlock": 50000,
         "candyToUnlock": 50
@@ -114926,6 +116381,260 @@
       "buddyGroupNumber": 2
     }
   }, {
+    "templateId": "V0618_POKEMON_STUNFISK_GALARIAN",
+    "pokemon": {
+      "uniqueId": "STUNFISK",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_GROUND",
+      "type2": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.4,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.5,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 240,
+        "baseAttack": 144,
+        "baseDefense": 171
+      },
+      "quickMoves": ["MUD_SHOT_FAST", "METAL_CLAW_FAST"],
+      "cinematicMoves": ["EARTHQUAKE", "FLASH_CANNON", "MUDDY_WATER", "ROCK_SLIDE"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.7,
+      "pokedexWeightKg": 20.5,
+      "heightStdDev": 0.0875,
+      "weightStdDev": 2.5625,
+      "familyId": "FAMILY_STUNFISK",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.7,
+      "modelScaleV2": 1.0,
+      "form": "STUNFISK_GALARIAN",
+      "buddyOffsetMale": [8.0, 0.0, 16.0],
+      "buddyOffsetFemale": [8.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 75000,
+        "candyToUnlock": 75
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0618_POKEMON_STUNFISK_NORMAL",
+    "pokemon": {
+      "uniqueId": "STUNFISK",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_GROUND",
+      "type2": "POKEMON_TYPE_ELECTRIC",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.2,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.1,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.1,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.25,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 240,
+        "baseAttack": 144,
+        "baseDefense": 171
+      },
+      "quickMoves": ["THUNDER_SHOCK_FAST", "MUD_SHOT_FAST"],
+      "cinematicMoves": ["MUD_BOMB", "DISCHARGE", "MUDDY_WATER"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.7,
+      "pokedexWeightKg": 11.0,
+      "heightStdDev": 0.0875,
+      "weightStdDev": 1.375,
+      "familyId": "FAMILY_STUNFISK",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.7,
+      "modelScaleV2": 1.0,
+      "form": "STUNFISK_NORMAL",
+      "buddyOffsetMale": [12.75, 0.0, 0.0],
+      "buddyOffsetFemale": [12.75, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 75000,
+        "candyToUnlock": 75
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0618_POKEMON_STUNFISK_PURIFIED",
+    "pokemon": {
+      "uniqueId": "STUNFISK",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_GROUND",
+      "type2": "POKEMON_TYPE_ELECTRIC",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.2,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.1,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.1,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.25,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 240,
+        "baseAttack": 144,
+        "baseDefense": 171
+      },
+      "quickMoves": ["THUNDER_SHOCK_FAST", "MUD_SHOT_FAST"],
+      "cinematicMoves": ["MUD_BOMB", "DISCHARGE", "MUDDY_WATER"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.7,
+      "pokedexWeightKg": 11.0,
+      "heightStdDev": 0.0875,
+      "weightStdDev": 1.375,
+      "familyId": "FAMILY_STUNFISK",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.7,
+      "modelScaleV2": 1.0,
+      "form": "STUNFISK_PURIFIED",
+      "buddyOffsetMale": [12.75, 0.0, 0.0],
+      "buddyOffsetFemale": [12.75, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 75000,
+        "candyToUnlock": 75
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0618_POKEMON_STUNFISK_SHADOW",
+    "pokemon": {
+      "uniqueId": "STUNFISK",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_GROUND",
+      "type2": "POKEMON_TYPE_ELECTRIC",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.2,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.2,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.1,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.1,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 2.25,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 240,
+        "baseAttack": 144,
+        "baseDefense": 171
+      },
+      "quickMoves": ["THUNDER_SHOCK_FAST", "MUD_SHOT_FAST"],
+      "cinematicMoves": ["MUD_BOMB", "DISCHARGE", "MUDDY_WATER"],
+      "animTime": [1.9, 0.6667, 1.8, 1.7667, 0.0, 2.4, 0.8667, 0.0],
+      "evolutionPips": 1,
+      "pokedexHeightM": 0.7,
+      "pokedexWeightKg": 11.0,
+      "heightStdDev": 0.0875,
+      "weightStdDev": 1.375,
+      "familyId": "FAMILY_STUNFISK",
+      "candyToEvolve": 25,
+      "kmBuddyDistance": 5.0,
+      "modelHeight": 0.7,
+      "modelScaleV2": 1.0,
+      "form": "STUNFISK_SHADOW",
+      "buddyOffsetMale": [12.75, 0.0, 0.0],
+      "buddyOffsetFemale": [12.75, 0.0, 0.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 75000,
+        "candyToUnlock": 75
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 2
+    }
+  }, {
     "templateId": "V0619_POKEMON_MIENFOO",
     "pokemon": {
       "uniqueId": "MIENFOO",
@@ -118138,9 +119847,772 @@
       "buddyGroupNumber": 3
     }
   }, {
+    "templateId": "V0862_POKEMON_OBSTAGOON",
+    "pokemon": {
+      "uniqueId": "OBSTAGOON",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_DARK",
+      "type2": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.75,
+        "cylinderHeightM": 1.5,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.04,
+        "baseFleeRate": 0.04,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 212,
+        "baseAttack": 180,
+        "baseDefense": 194
+      },
+      "quickMoves": ["COUNTER_FAST", "LICK_FAST"],
+      "cinematicMoves": ["CROSS_CHOP", "NIGHT_SLASH", "HYPER_BEAM", "GUNK_SHOT"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 46.0,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.2,
+      "weightStdDev": 5.75,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 1.38,
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [16.0, 0.0, -64.0],
+      "buddyOffsetFemale": [16.0, 0.0, -64.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0862_POKEMON_OBSTAGOON_NORMAL",
+    "pokemon": {
+      "uniqueId": "OBSTAGOON",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_DARK",
+      "type2": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.75,
+        "cylinderHeightM": 1.5,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.04,
+        "baseFleeRate": 0.04,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 212,
+        "baseAttack": 180,
+        "baseDefense": 194
+      },
+      "quickMoves": ["COUNTER_FAST", "LICK_FAST"],
+      "cinematicMoves": ["CROSS_CHOP", "NIGHT_SLASH", "HYPER_BEAM", "GUNK_SHOT"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 46.0,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.2,
+      "weightStdDev": 5.75,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 1.38,
+      "modelScaleV2": 1.0,
+      "form": "OBSTAGOON_NORMAL",
+      "buddyOffsetMale": [16.0, 0.0, -64.0],
+      "buddyOffsetFemale": [16.0, 0.0, -64.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0862_POKEMON_OBSTAGOON_PURIFIED",
+    "pokemon": {
+      "uniqueId": "OBSTAGOON",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_DARK",
+      "type2": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.75,
+        "cylinderHeightM": 1.5,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.04,
+        "baseFleeRate": 0.04,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 212,
+        "baseAttack": 180,
+        "baseDefense": 194
+      },
+      "quickMoves": ["COUNTER_FAST", "LICK_FAST"],
+      "cinematicMoves": ["CROSS_CHOP", "NIGHT_SLASH", "HYPER_BEAM", "GUNK_SHOT"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 46.0,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.2,
+      "weightStdDev": 5.75,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 1.38,
+      "modelScaleV2": 1.0,
+      "form": "OBSTAGOON_PURIFIED",
+      "buddyOffsetMale": [16.0, 0.0, -64.0],
+      "buddyOffsetFemale": [16.0, 0.0, -64.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0862_POKEMON_OBSTAGOON_SHADOW",
+    "pokemon": {
+      "uniqueId": "OBSTAGOON",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_DARK",
+      "type2": "POKEMON_TYPE_NORMAL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.75,
+        "cylinderHeightM": 1.5,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.04,
+        "baseFleeRate": 0.04,
+        "collisionRadiusM": 0.5,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 1.0,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 7,
+        "bonusStardustCaptureReward": 400,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 212,
+        "baseAttack": 180,
+        "baseDefense": 194
+      },
+      "quickMoves": ["COUNTER_FAST", "LICK_FAST"],
+      "cinematicMoves": ["CROSS_CHOP", "NIGHT_SLASH", "HYPER_BEAM", "GUNK_SHOT"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 1.6,
+      "pokedexWeightKg": 46.0,
+      "parentId": "ZIGZAGOON",
+      "heightStdDev": 0.2,
+      "weightStdDev": 5.75,
+      "familyId": "FAMILY_ZIGZAGOON",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 1.38,
+      "modelScaleV2": 1.0,
+      "form": "OBSTAGOON_SHADOW",
+      "buddyOffsetMale": [16.0, 0.0, -64.0],
+      "buddyOffsetFemale": [16.0, 0.0, -64.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 10000,
+        "candyToUnlock": 25
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0863_POKEMON_PERRSERKER",
+    "pokemon": {
+      "uniqueId": "PERRSERKER",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 195,
+        "baseDefense": 162
+      },
+      "quickMoves": ["METAL_CLAW_FAST", "SHADOW_CLAW_FAST"],
+      "cinematicMoves": ["IRON_HEAD", "CLOSE_COMBAT", "PLAY_ROUGH", "FOUL_PLAY"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 28.0,
+      "parentId": "MEOWTH",
+      "heightStdDev": 0.1,
+      "weightStdDev": 3.5,
+      "familyId": "FAMILY_MEOWTH",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.8,
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0863_POKEMON_PERRSERKER_NORMAL",
+    "pokemon": {
+      "uniqueId": "PERRSERKER",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 195,
+        "baseDefense": 162
+      },
+      "quickMoves": ["METAL_CLAW_FAST", "SHADOW_CLAW_FAST"],
+      "cinematicMoves": ["IRON_HEAD", "CLOSE_COMBAT", "PLAY_ROUGH", "FOUL_PLAY"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 28.0,
+      "parentId": "MEOWTH",
+      "heightStdDev": 0.1,
+      "weightStdDev": 3.5,
+      "familyId": "FAMILY_MEOWTH",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.8,
+      "modelScaleV2": 1.0,
+      "form": "PERRSERKER_NORMAL",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0863_POKEMON_PERRSERKER_PURIFIED",
+    "pokemon": {
+      "uniqueId": "PERRSERKER",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 195,
+        "baseDefense": 162
+      },
+      "quickMoves": ["METAL_CLAW_FAST", "SHADOW_CLAW_FAST"],
+      "cinematicMoves": ["IRON_HEAD", "CLOSE_COMBAT", "PLAY_ROUGH", "FOUL_PLAY"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 28.0,
+      "parentId": "MEOWTH",
+      "heightStdDev": 0.1,
+      "weightStdDev": 3.5,
+      "familyId": "FAMILY_MEOWTH",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.8,
+      "modelScaleV2": 1.0,
+      "form": "PERRSERKER_PURIFIED",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0863_POKEMON_PERRSERKER_SHADOW",
+    "pokemon": {
+      "uniqueId": "PERRSERKER",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_STEEL",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.4,
+        "cylinderHeightM": 0.8,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 172,
+        "baseAttack": 195,
+        "baseDefense": 162
+      },
+      "quickMoves": ["METAL_CLAW_FAST", "SHADOW_CLAW_FAST"],
+      "cinematicMoves": ["IRON_HEAD", "CLOSE_COMBAT", "PLAY_ROUGH", "FOUL_PLAY"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 28.0,
+      "parentId": "MEOWTH",
+      "heightStdDev": 0.1,
+      "weightStdDev": 3.5,
+      "familyId": "FAMILY_MEOWTH",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.8,
+      "modelScaleV2": 1.0,
+      "form": "PERRSERKER_SHADOW",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0865_POKEMON_SIRFETCHD",
+    "pokemon": {
+      "uniqueId": "SIRFETCHD",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_FIGHTING",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 158,
+        "baseAttack": 248,
+        "baseDefense": 176
+      },
+      "quickMoves": ["COUNTER_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["CLOSE_COMBAT", "BRAVE_BIRD", "LEAF_BLADE", "NIGHT_SLASH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 117.0,
+      "parentId": "FARFETCHD",
+      "heightStdDev": 0.1,
+      "weightStdDev": 14.625,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0865_POKEMON_SIRFETCHD_NORMAL",
+    "pokemon": {
+      "uniqueId": "SIRFETCHD",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_FIGHTING",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 158,
+        "baseAttack": 248,
+        "baseDefense": 176
+      },
+      "quickMoves": ["COUNTER_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["CLOSE_COMBAT", "BRAVE_BIRD", "LEAF_BLADE", "NIGHT_SLASH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 117.0,
+      "parentId": "FARFETCHD",
+      "heightStdDev": 0.1,
+      "weightStdDev": 14.625,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "SIRFETCHD_NORMAL",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0865_POKEMON_SIRFETCHD_PURIFIED",
+    "pokemon": {
+      "uniqueId": "SIRFETCHD",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_FIGHTING",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.3,
+        "dodgeProbability": 0.45,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 158,
+        "baseAttack": 248,
+        "baseDefense": 176
+      },
+      "quickMoves": ["COUNTER_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["CLOSE_COMBAT", "BRAVE_BIRD", "LEAF_BLADE", "NIGHT_SLASH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 117.0,
+      "parentId": "FARFETCHD",
+      "heightStdDev": 0.1,
+      "weightStdDev": 14.625,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "SIRFETCHD_PURIFIED",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "buddyGroupNumber": 2
+    }
+  }, {
+    "templateId": "V0865_POKEMON_SIRFETCHD_SHADOW",
+    "pokemon": {
+      "uniqueId": "SIRFETCHD",
+      "modelScale": 1.26,
+      "type1": "POKEMON_TYPE_FIGHTING",
+      "camera": {
+        "diskRadiusM": 0.378,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 0.9,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.1,
+        "baseFleeRate": 0.07,
+        "collisionRadiusM": 0.2,
+        "collisionHeightM": 0.1,
+        "collisionHeadRadiusM": 0.2,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 10.0,
+        "jumpTimeS": 0.9,
+        "attackTimerS": 29.0,
+        "bonusCandyCaptureReward": 2,
+        "bonusStardustCaptureReward": 200,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 4.0,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 158,
+        "baseAttack": 248,
+        "baseDefense": 176
+      },
+      "quickMoves": ["COUNTER_FAST", "FURY_CUTTER_FAST"],
+      "cinematicMoves": ["CLOSE_COMBAT", "BRAVE_BIRD", "LEAF_BLADE", "NIGHT_SLASH"],
+      "animTime": [1.9, 0.6666, 1.7666, 0.0, 2.4, 0.08667, 0.0],
+      "pokedexHeightM": 0.8,
+      "pokedexWeightKg": 117.0,
+      "parentId": "FARFETCHD",
+      "heightStdDev": 0.1,
+      "weightStdDev": 14.625,
+      "familyId": "FAMILY_FARFETCHD",
+      "kmBuddyDistance": 3.0,
+      "modelHeight": 0.75,
+      "modelScaleV2": 1.0,
+      "form": "SIRFETCHD_SHADOW",
+      "buddyOffsetMale": [10.0, 0.0, 16.0],
+      "buddyOffsetFemale": [10.0, 0.0, 16.0],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.0, 0.0, 0.0],
+      "thirdMove": {
+        "stardustToUnlock": 50000,
+        "candyToUnlock": 50
+      },
+      "isTransferable": true,
+      "isDeployable": true,
+      "shadow": {
+        "purificationStardustNeeded": 3000,
+        "purificationCandyNeeded": 3,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 2
+    }
+  }, {
     "templateId": "VS_SEEKER_CLIENT_SETTINGS",
     "vsSeekerClientSettings": {
-      "allowedVsSeekerLeagueTemplateId": ["COMBAT_LEAGUE_VS_SEEKER_GREAT"]
+      "allowedVsSeekerLeagueTemplateId": ["COMBAT_LEAGUE_VS_SEEKER_ULTRA"]
     }
   }, {
     "templateId": "VS_SEEKER_LOOT_PER_WIN_SETTINGS_RANK_10_FREE",
@@ -120039,7 +122511,7 @@
       "category": "IAP_CATEGORY_BUNDLE",
       "sortOrder": 10,
       "spriteId": "bundle.general2.small.1",
-      "title": "item_remote_raid_ticket_name"
+      "title": "gym_bonus"
     }
   }, {
     "templateId": "bundle.general3.large.1",
@@ -126221,6 +128693,17 @@
       "skuDisableTimeUtcMs": "1552669200000"
     }
   }, {
+    "templateId": "general1.ticket.3",
+    "iapItemDisplay": {
+      "sku": "general1.ticket.3",
+      "category": "IAP_CATEGORY_GLOBAL_EVENT_TICKET",
+      "hidden": true,
+      "skuEnableTime": "2019-03-09T10:00:00",
+      "skuDisableTime": "2019-03-21T17:00:00",
+      "skuEnableTimeUtcMs": "1552125600000",
+      "skuDisableTimeUtcMs": "1553187600000"
+    }
+  }, {
     "templateId": "incenseordinary.8",
     "iapItemDisplay": {
       "sku": "incenseordinary.8",
@@ -127432,5 +129915,5 @@
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
     }
   }],
-  "timestampMs": "1590747570204"
+  "timestampMs": "1592003357071"
 }
