@@ -1,5 +1,5 @@
 package com.pokebattler.gamemaster;
-import POGOProtos.Rpc.*;
+import POGOProtos.Tools.*;
 import POGOProtos.Networking.Responses.*;
 import com.google.protobuf.util.*;
 

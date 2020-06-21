@@ -1,13 +1,13 @@
 package GameDecodeTest;
 
-import POGOProtos.Rpc.*;
+import POGOProtos.Tools.*;
 import com.google.protobuf.util.*;
 import org.junit.*;
 
 import java.io.*;
 
 public class GameMasterDecodeTest {
-	//@Test
+	@Test
 	public void TestFirmwareGameMasterDecode() throws Exception {
 		try (InputStream is = getClass().getResourceAsStream("versions/latest/v2_GAME_MASTER")) {
 			GameMasterDecoderTool response = GameMasterDecoderTool.parseFrom(is);
