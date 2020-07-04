@@ -1,6 +1,5 @@
 package com.pokebattler.gamemaster;
-import POGOProtos.Tools.*;
-import POGOProtos.Networking.Responses.*;
+import POGOProtos.Rpc.*;
 import com.google.protobuf.util.*;
 
 import java.io.*;
@@ -13,20 +12,20 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		GameMasterDecoderTool response = GameMasterDecoderTool.parseFrom(is);
+		PlatformDownloadGmTemplatesResponseProto response = PlatformDownloadGmTemplatesResponseProto.parseFrom(is);
 		//old mode used here....
 		if (use_old_mode) {
-			DownloadItemTemplatesResponse.Builder old_mode = DownloadItemTemplatesResponse.newBuilder();
-			old_mode.setTimestampMs(response.getBatchId());
+			GetGameMasterClientTemplatesOutProto.Builder old_mode = GetGameMasterClientTemplatesOutProto.newBuilder();
+			old_mode.setTimestamp(response.getBatchId());
 
 			int index = 0;
-			for (GameMasterDecoderTool.ClientGameMasterTemplate template : response.getTemplateList()) {
-				DownloadItemTemplatesResponse.GameMasterClientTemplate.Builder item = DownloadItemTemplatesResponse.GameMasterClientTemplate.newBuilder();
+			for (PlatformClientGameMasterTemplateProto template : response.getTemplateList()) {
+				GameMasterClientTemplateProto.Builder item = GameMasterClientTemplateProto.newBuilder();
 				item.mergeFrom(template.getData());
 				item.setTemplateId(response.getTemplate(index).getTemplateId());
 				item.build();
 				index++;
-				old_mode.addItemTemplate(item);
+				old_mode.addItems(item);
 			}
 
 			old_mode.build();
@@ -36,8 +35,8 @@ public class GenerateJSON {
 				System.out.println();
 				System.out.println("-------------------------------------------------------------------------------");
 				System.out.println("Generated templates old mode:");
-				System.out.println("	Decoded templates: " + old_mode.getItemTemplateCount());
-				System.out.println("	TimestampMs      : " + old_mode.getTimestampMs());
+				System.out.println("	Decoded templates: " + old_mode.getItemsCount());
+				System.out.println("	TimestampMs      : " + old_mode.getTimestamp());
 				System.out.println("-------------------------------------------------------------------------------");
 				System.out.println();
 			}
