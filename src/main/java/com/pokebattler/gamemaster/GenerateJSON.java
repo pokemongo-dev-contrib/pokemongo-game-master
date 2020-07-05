@@ -30,7 +30,6 @@ public class GenerateJSON {
 				old_mode.addItems(item);
 			}
 
-			old_mode.build();
 			JsonFormat.Printer printer = JsonFormat.printer();
 			try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 				printer.appendTo(old_mode, writer);
@@ -39,6 +38,7 @@ public class GenerateJSON {
 				System.out.println("Generated templates old mode:");
 				System.out.println("	Decoded templates: " + old_mode.getItemsCount());
 				System.out.println("	TimestampMs      : " + old_mode.getTimestamp());
+				System.out.println("	Result           : " + old_mode.getResult());
 				System.out.println("-------------------------------------------------------------------------------");
 				System.out.println();
 			}
@@ -55,6 +55,7 @@ public class GenerateJSON {
 				System.out.println("	Deleted templates: " + response.getDeletedTemplateCount());
 				System.out.println("	Experiment ids   : " + response.getExperimentIdCount());
 				System.out.println("	BatchId          : " + response.getBatchId());
+				System.out.println("	Result           : " + response.getResult());
 				System.out.println("-------------------------------------------------------------------------------");
 				System.out.println();
 			}
