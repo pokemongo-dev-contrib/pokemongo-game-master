@@ -12,11 +12,13 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		PlatformDownloadGmTemplatesResponseProto response = PlatformDownloadGmTemplatesResponseProto.parseFrom(is);
+		PlatformDownloadGmTemplatesResponseProto.Builder response = PlatformDownloadGmTemplatesResponseProto.parseFrom(is).toBuilder();
+		response.setResult(PlatformDownloadGmTemplatesResponseProto.Result.COMPLETE);
 		//old mode used here....
 		if (use_old_mode) {
 			GetGameMasterClientTemplatesOutProto.Builder old_mode = GetGameMasterClientTemplatesOutProto.newBuilder();
 			old_mode.setTimestamp(response.getBatchId());
+			old_mode.setResult(GetGameMasterClientTemplatesOutProto.Result.SUCCESS);
 
 			int index = 0;
 			for (PlatformClientGameMasterTemplateProto template : response.getTemplateList()) {

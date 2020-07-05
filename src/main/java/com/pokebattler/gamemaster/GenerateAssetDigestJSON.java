@@ -10,7 +10,8 @@ public class GenerateAssetDigestJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		AssetDigestOutProto response = AssetDigestOutProto.parseFrom(is);
+		AssetDigestOutProto.Builder response = AssetDigestOutProto.parseFrom(is).toBuilder();
+		response.setResult(AssetDigestOutProto.Result.SUCCESS);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
