@@ -1,6 +1,6 @@
 package GameDecodeTest;
 
-import POGOProtos.Rpc.*;
+import POGOProtos.Tools.*;
 import com.google.protobuf.util.*;
 import org.junit.*;
 
