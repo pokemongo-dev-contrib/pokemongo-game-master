@@ -15004,7 +15004,7 @@
   }, {
     "templateId": "COMBAT_V0341_MOVE_FLY",
     "combatMove": {
-      "uniqueId": 341,
+      "uniqueId": "FLY",
       "type": "POKEMON_TYPE_FLYING",
       "power": 80.0,
       "vfxName": "fly",
@@ -20139,7 +20139,8 @@
     "iapCategoryDisplay": {
       "category": "IAP_CATEGORY_STICKER",
       "name": "shop_sticker",
-      "sortOrder": 4
+      "sortOrder": 4,
+      "displayRows": 2
     }
   }, {
     "templateId": "IAP_CATEGORY_TEAM_CHANGE",
@@ -32437,7 +32438,11 @@
       }
     }
   }, {
-    "templateId": "SPONSORED_GEOFENCE_GIFT_SETTINGS"
+    "templateId": "SPONSORED_GEOFENCE_GIFT_SETTINGS",
+    "sponsoredGeofenceGiftSettings": {
+      "giftPersistenceTimeMs": 3000,
+      "mapPresentationTimeMs": 7000
+    }
   }, {
     "templateId": "STICKER_FUNAWARI_04_312",
     "stickerMetadata": {
@@ -38485,7 +38490,7 @@
         "baseDefense": 96
       },
       "quickMoves": ["THUNDER_SHOCK_FAST", "QUICK_ATTACK_FAST"],
-      "cinematicMoves": ["DISCHARGE", "THUNDERBOLT", "WILD_CHARGE", 341],
+      "cinematicMoves": ["DISCHARGE", "THUNDERBOLT", "WILD_CHARGE", "FLY"],
       "animTime": [1.8333, 0.6667, 1.6, 1.5667, 0.0, 1.8, 1.1333, 1.066667],
       "evolutionPips": 1,
       "pokedexHeightM": 0.4,
@@ -87603,7 +87608,7 @@
   }, {
     "templateId": "V0341_MOVE_FLY",
     "move": {
-      "movementId": 341,
+      "movementId": "FLY",
       "animationId": "ATTACK_02",
       "pokemonType": "POKEMON_TYPE_FLYING",
       "power": 80.0,
