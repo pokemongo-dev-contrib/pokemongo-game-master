@@ -1,5 +1,5 @@
 package com.pokebattler.gamemaster;
-import POGOProtos.Tools.*;
+
 import POGOProtos.Networking.Responses.*;
 import com.google.protobuf.util.*;
 
@@ -13,14 +13,14 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		GameMasterDecoderTool response = GameMasterDecoderTool.parseFrom(is);
+		DownloadGmTemplatesResponse response = DownloadGmTemplatesResponse.parseFrom(is);
 		//old mode used here....
 		if (use_old_mode) {
 			DownloadItemTemplatesResponse.Builder old_mode = DownloadItemTemplatesResponse.newBuilder();
 			old_mode.setTimestampMs(response.getBatchId());
 
 			int index = 0;
-			for (GameMasterDecoderTool.ClientGameMasterTemplate template : response.getTemplateList()) {
+			for (DownloadGmTemplatesResponse.ClientGameMasterTemplate template : response.getTemplateList()) {
 				DownloadItemTemplatesResponse.GameMasterClientTemplate.Builder item = DownloadItemTemplatesResponse.GameMasterClientTemplate.newBuilder();
 				item.mergeFrom(template.getData());
 				item.setTemplateId(response.getTemplate(index).getTemplateId());
