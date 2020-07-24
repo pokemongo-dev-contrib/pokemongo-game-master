@@ -380,11 +380,11 @@
     "checksum": 1715677160,
     "size": 693401
   }, {
-    "assetId": "06104435-e420-47a9-9241-3a80d3df0226/1584898555095430",
+    "assetId": "06104435-e420-47a9-9241-3a80d3df0226/1594916386776604",
     "bundleName": "pokemon_icon_001",
-    "version": "1584898555095430",
-    "checksum": 2823649984,
-    "size": 17629
+    "version": "1594916386776604",
+    "checksum": 2767960844,
+    "size": 19235
   }, {
     "assetId": "0611b5c4-0a7e-4c73-9b87-625e7f8ffe66/1584924264176440",
     "bundleName": "pm0358_00",
@@ -665,11 +665,11 @@
     "checksum": 411424356,
     "size": 20402
   }, {
-    "assetId": "098beef3-6e27-45f5-9f27-80c43e60a388/1594148616331042",
+    "assetId": "098beef3-6e27-45f5-9f27-80c43e60a388/1595522213388035",
     "bundleName": "global_pokemon",
-    "version": "1594148616331042",
-    "checksum": 3270167426,
-    "size": 531232
+    "version": "1595522213388035",
+    "checksum": 4168324766,
+    "size": 533522
   }, {
     "assetId": "0996a5eb-a5f0-4923-9d40-7e07cad80d9c/1584929864881673",
     "bundleName": "pm0626_00",
@@ -814,6 +814,12 @@
     "version": "1592395794710138",
     "checksum": 3774428523,
     "size": 13054
+  }, {
+    "assetId": "0b3c1e33-a45c-42a1-ac41-e3388130e4a8/1594916320003397",
+    "bundleName": "m_shirt_victinitshirts_bundle",
+    "version": "1594916320003397",
+    "checksum": 720650182,
+    "size": 275955
   }, {
     "assetId": "0b415bbe-b3ff-47ee-8c4b-b2260e430fc1/1584898973642596",
     "bundleName": "pokemon_icon_059",
@@ -1750,11 +1756,11 @@
     "checksum": 492592731,
     "size": 5206
   }, {
-    "assetId": "1bb14249-cfa4-44d4-a0d6-1c58e8261650/1594313615970071",
+    "assetId": "1bb14249-cfa4-44d4-a0d6-1c58e8261650/1595550123757417",
     "bundleName": "json_patch_i18n_italian",
-    "version": "1594313615970071",
-    "checksum": 886797450,
-    "size": 7405
+    "version": "1595550123757417",
+    "checksum": 522437186,
+    "size": 14807
   }, {
     "assetId": "1bdc4adc-4bcb-4aac-b5bb-6dfef458409b/1584926521002640",
     "bundleName": "pm0493_12",
@@ -2551,11 +2557,11 @@
     "checksum": 3692489024,
     "size": 207007
   }, {
-    "assetId": "26fdaf14-b82a-42db-a44c-df5382b11300/1584898578912624",
+    "assetId": "26fdaf14-b82a-42db-a44c-df5382b11300/1594916391265629",
     "bundleName": "pokemon_icon_004",
-    "version": "1584898578912624",
-    "checksum": 104007686,
-    "size": 18357
+    "version": "1594916391265629",
+    "checksum": 295241696,
+    "size": 21424
   }, {
     "assetId": "2706da16-7c14-497d-b6e9-043b51be8b72/1584899633240299",
     "bundleName": "pokemon_icon_144",
@@ -2831,11 +2837,11 @@
     "size": 432833,
     "key": "/FEF7hUM85mDw2hD67WdSQ=="
   }, {
-    "assetId": "2b58a4ea-6704-4b59-baa3-93d3322eb74d/1594313611723375",
+    "assetId": "2b58a4ea-6704-4b59-baa3-93d3322eb74d/1595550119866529",
     "bundleName": "json_patch_i18n_german",
-    "version": "1594313611723375",
-    "checksum": 1550544259,
-    "size": 8507
+    "version": "1595550119866529",
+    "checksum": 4159980767,
+    "size": 14872
   }, {
     "assetId": "2b62593e-546c-4844-ab6d-d5b8c0f5fbea/1584919099887892",
     "bundleName": "pm0045_00",
@@ -3885,11 +3891,11 @@
     "checksum": 1865688159,
     "size": 10141
   }, {
-    "assetId": "3d93143b-a6da-43a5-95c4-153d6045925e/1594313629852578",
+    "assetId": "3d93143b-a6da-43a5-95c4-153d6045925e/1595550137895235",
     "bundleName": "json_patch_i18n_brazilianportuguese",
-    "version": "1594313629852578",
-    "checksum": 2459794954,
-    "size": 7221
+    "version": "1595550137895235",
+    "checksum": 1993568766,
+    "size": 14418
   }, {
     "assetId": "3da83d1a-267a-4f63-9854-420c6f75b881/1584905529344438",
     "bundleName": "badge_39",
@@ -4319,11 +4325,11 @@
     "checksum": 48718008,
     "size": 268880
   }, {
-    "assetId": "44a91a35-755b-4956-9342-3b271c8175ee/1584905146684430",
+    "assetId": "44a91a35-755b-4956-9342-3b271c8175ee/1594916396168499",
     "bundleName": "pokemon_icon_007",
-    "version": "1584905146684430",
-    "checksum": 2898442898,
-    "size": 17173
+    "version": "1594916396168499",
+    "checksum": 2449142730,
+    "size": 18949
   }, {
     "assetId": "44ba3994-9df1-4136-badf-abee93d6600d/1584906059289022",
     "bundleName": "buddy_giftwrap",
@@ -4511,11 +4517,11 @@
     "checksum": 2277534223,
     "size": 10112
   }, {
-    "assetId": "4894c86c-9a45-4814-9215-0a92968690f7/1594313597999591",
+    "assetId": "4894c86c-9a45-4814-9215-0a92968690f7/1595550106405868",
     "bundleName": "json_patch_i18n_japanese",
-    "version": "1594313597999591",
-    "checksum": 1577724669,
-    "size": 7978
+    "version": "1595550106405868",
+    "checksum": 3285872776,
+    "size": 17289
   }, {
     "assetId": "489e8bc1-e751-473f-8ff8-7729dd807d8c/1584917767023332",
     "bundleName": "f_pants_luvdiscpack_bundle",
@@ -5189,6 +5195,12 @@
     "version": "1584916365469734",
     "checksum": 372793779,
     "size": 8572
+  }, {
+    "assetId": "5248ad36-cfc5-48c0-bd16-f3e3ecc1d981/1594916260601742",
+    "bundleName": "f_hat_gofest_pikachuvisor_0_bundle_icon",
+    "version": "1594916260601742",
+    "checksum": 3587111213,
+    "size": 10253
   }, {
     "assetId": "529960c6-f1de-4799-91d2-cc71604429da/1584910138232350",
     "bundleName": "m_shirt_tshirt_geometric_bundle_icon",
@@ -6197,11 +6209,11 @@
     "checksum": 2499593384,
     "size": 19525
   }, {
-    "assetId": "636575d6-7213-4ffc-88e8-5f125e7112d6/1594313625659690",
+    "assetId": "636575d6-7213-4ffc-88e8-5f125e7112d6/1595550132553408",
     "bundleName": "json_patch_i18n_chinesetraditional",
-    "version": "1594313625659690",
-    "checksum": 662595213,
-    "size": 8643
+    "version": "1595550132553408",
+    "checksum": 2943095054,
+    "size": 16556
   }, {
     "assetId": "63747ce3-3770-4b98-bdfb-999dc27bc558/1584905569885984",
     "bundleName": "badge_45",
@@ -6411,6 +6423,12 @@
     "checksum": 3688523804,
     "size": 653816,
     "key": "XHxmQFmbuLHBaZL1DZ1Omw=="
+  }, {
+    "assetId": "668d4400-294c-4443-9276-0e0e4d86f0d6/1594916315650558",
+    "bundleName": "m_shirt_victinitshirts_00_bundle_icon",
+    "version": "1594916315650558",
+    "checksum": 3017837662,
+    "size": 11813
   }, {
     "assetId": "669b8bb2-4286-4c60-b574-96cdc7828e1c/1584914828131891",
     "bundleName": "m_shirt_gofest_2019_bundle_icon",
@@ -6915,11 +6933,11 @@
     "checksum": 4022426395,
     "size": 14467
   }, {
-    "assetId": "6d60788e-c36a-4b51-86e7-b6fd39e53693/1584905953019852",
-    "bundleName": "move_sounds",
-    "version": "1584905953019852",
-    "checksum": 114139664,
-    "size": 3071907
+    "assetId": "6d60788e-c36a-4b51-86e7-b6fd39e53693/1594916458535696",
+    "bundleName": "move_sounds.bundle",
+    "version": "1594916458535696",
+    "checksum": 2741227520,
+    "size": 3135920
   }, {
     "assetId": "6dac9056-a184-4b36-8358-b30fd2c1daa0/1584914704641972",
     "bundleName": "m_shirt_casual_3_bundle",
@@ -7173,11 +7191,11 @@
     "checksum": 28551728,
     "size": 264310
   }, {
-    "assetId": "71a0daa9-da8e-49e4-8630-37b18d0d0fb5/1584918490889999",
+    "assetId": "71a0daa9-da8e-49e4-8630-37b18d0d0fb5/1594916340619999",
     "bundleName": "pm0004_00",
-    "version": "1584918490889999",
-    "checksum": 280630400,
-    "size": 599886
+    "version": "1594916340619999",
+    "checksum": 1017415307,
+    "size": 606421
   }, {
     "assetId": "71adbf99-2bd1-441f-91b4-ae9a1a8150d6/1512759846118833",
     "bundleName": "pm0100",
@@ -7341,6 +7359,12 @@
     "version": "1584913755323400",
     "checksum": 3450679739,
     "size": 183116
+  }, {
+    "assetId": "74fe2799-0c49-4493-8566-fbd399e1124f/1594916272439177",
+    "bundleName": "m_hat_gofest_pikachuvisor_0_bundle_icon",
+    "version": "1594916272439177",
+    "checksum": 1199872099,
+    "size": 10251
   }, {
     "assetId": "7508d69f-d446-400d-abe8-045309a70110/1584913784457393",
     "bundleName": "m_shirt_acetrainersm_0_bundle_icon",
@@ -8140,6 +8164,12 @@
     "version": "1584915409317274",
     "checksum": 2103128745,
     "size": 15467
+  }, {
+    "assetId": "80b070f9-ad32-4997-80fb-74df706663b3/1594916283960783",
+    "bundleName": "f_shirt_gofest_2020_0_bundle_icon",
+    "version": "1594916283960783",
+    "checksum": 559257793,
+    "size": 11102
   }, {
     "assetId": "80ddc9f7-d45e-48a8-8223-b5faaa3e9a63/1584905667078737",
     "bundleName": "badge_58",
@@ -9442,6 +9472,12 @@
     "checksum": 3069166669,
     "size": 170323
   }, {
+    "assetId": "94363047-a6f9-4473-863b-a882627f145e/1594916298663140",
+    "bundleName": "m_shirt_gofest_2020_bundle",
+    "version": "1594916298663140",
+    "checksum": 915624255,
+    "size": 299313
+  }, {
     "assetId": "9450f3b8-418d-4dae-83c5-645999991e23/1584900457958992",
     "bundleName": "pokemon_icon_247",
     "version": "1584900457958992",
@@ -9551,11 +9587,11 @@
     "checksum": 953508180,
     "size": 11729
   }, {
-    "assetId": "96059e50-2800-4754-a6bb-1fb079123a6c/1584918539257121",
+    "assetId": "96059e50-2800-4754-a6bb-1fb079123a6c/1594916352918537",
     "bundleName": "pm0007_00",
-    "version": "1584918539257121",
-    "checksum": 277310668,
-    "size": 585568
+    "version": "1594916352918537",
+    "checksum": 662230027,
+    "size": 588986
   }, {
     "assetId": "960a7296-acb7-414d-a43e-ab8a1c34d023/1584921406365951",
     "bundleName": "pm0182_00",
@@ -10267,6 +10303,12 @@
     "size": 470532,
     "key": "HM7hPArW+EGh+8OF0qM/HA=="
   }, {
+    "assetId": "9f892751-b642-40ac-a42f-f67f9f05264e/1594916499959751",
+    "bundleName": "go_fest_2020",
+    "version": "1594916499959751",
+    "checksum": 246970471,
+    "size": 116259
+  }, {
     "assetId": "9f922943-ac35-4f01-aa11-f8905ed7c714/1584924178704816",
     "bundleName": "pm0352_00",
     "version": "1584924178704816",
@@ -10486,11 +10528,11 @@
     "checksum": 1821229786,
     "size": 9843
   }, {
-    "assetId": "a381995c-f9ca-4de5-93db-38159a7d032c/1594313606740875",
+    "assetId": "a381995c-f9ca-4de5-93db-38159a7d032c/1595550115569165",
     "bundleName": "json_patch_i18n_spanish",
-    "version": "1594313606740875",
-    "checksum": 1024010346,
-    "size": 7868
+    "version": "1595550115569165",
+    "checksum": 2883555768,
+    "size": 14857
   }, {
     "assetId": "a3a69cd2-60da-43f3-9756-9021d92c3400/1584914949243872",
     "bundleName": "m_hat_ruinmaniac_bundle",
@@ -10804,6 +10846,12 @@
     "checksum": 2788694162,
     "size": 263767
   }, {
+    "assetId": "a7a85abc-76a5-42d0-924c-413c1f8a5eec/1594916294806796",
+    "bundleName": "m_shirt_gofest_2020_0_bundle_icon",
+    "version": "1594916294806796",
+    "checksum": 1881472306,
+    "size": 11477
+  }, {
     "assetId": "a7c15521-457f-4e1f-a600-aafa70af6bb8/1584911689590941",
     "bundleName": "f_gloves_frlg_bundle_icon",
     "version": "1584911689590941",
@@ -10943,6 +10991,12 @@
     "version": "1584916166493676",
     "checksum": 728672142,
     "size": 12471
+  }, {
+    "assetId": "aa400e2c-ea04-496d-982a-1e85880e48e4/1594916304800154",
+    "bundleName": "f_shirt_victinitshirts_00_bundle_icon",
+    "version": "1594916304800154",
+    "checksum": 907643543,
+    "size": 12844
   }, {
     "assetId": "aa60b409-a328-44e1-a4b6-b43ecccea2a0/1584900681464912",
     "bundleName": "pokemon_icon_273",
@@ -11252,6 +11306,12 @@
     "checksum": 102578253,
     "size": 8605
   }, {
+    "assetId": "af9e8dc9-6028-4e0c-a06f-cb972c204783/1594916495327184",
+    "bundleName": "global_challenge_tutorials",
+    "version": "1594916495327184",
+    "checksum": 3021814359,
+    "size": 7043
+  }, {
     "assetId": "afba4251-ba20-4e1a-8a05-13b48de05a2f/1584905699563983",
     "bundleName": "badge_2002",
     "version": "1584905699563983",
@@ -11499,6 +11559,12 @@
     "version": "1584930772127476",
     "checksum": 2939308307,
     "size": 1534980
+  }, {
+    "assetId": "b32b4c67-af83-40ac-8379-d0f11746ab7b/1594916407379249",
+    "bundleName": "badge_5071",
+    "version": "1594916407379249",
+    "checksum": 3334399835,
+    "size": 12326
   }, {
     "assetId": "b3334381-fae3-4096-8be9-50109e1185bf/1584914022376278",
     "bundleName": "m_shoes_delibird_bundle",
@@ -12764,11 +12830,11 @@
     "checksum": 2230835691,
     "size": 701570
   }, {
-    "assetId": "c7f43f72-0580-47aa-9d2c-99c1cc1620fc/1584918445993646",
+    "assetId": "c7f43f72-0580-47aa-9d2c-99c1cc1620fc/1594916328650029",
     "bundleName": "pm0001_00",
-    "version": "1584918445993646",
-    "checksum": 2869960391,
-    "size": 546049
+    "version": "1594916328650029",
+    "checksum": 1828461240,
+    "size": 611294
   }, {
     "assetId": "c806df50-5538-4d0d-a593-eef537fb0c70/1584913234398899",
     "bundleName": "m_shirt_ingress_r_bundle",
@@ -13155,11 +13221,11 @@
     "checksum": 3996384355,
     "size": 509961
   }, {
-    "assetId": "cd53a84f-5c55-4563-84b3-edda474e01f1/1594313593250578",
+    "assetId": "cd53a84f-5c55-4563-84b3-edda474e01f1/1595550101499848",
     "bundleName": "json_patch_i18n_english",
-    "version": "1594313593250578",
-    "checksum": 2079692004,
-    "size": 6543
+    "version": "1595550101499848",
+    "checksum": 1356052321,
+    "size": 13523
   }, {
     "assetId": "cd6505ba-8c14-49d2-9bb8-2b8840b60f6a/1584900513103046",
     "bundleName": "pokemon_icon_252",
@@ -13845,6 +13911,12 @@
     "checksum": 516828865,
     "size": 189854
   }, {
+    "assetId": "d79c6129-1e3c-4ffa-b828-5c440d026886/1594916277206438",
+    "bundleName": "m_hat_gofest_pikachuvisor_bundle",
+    "version": "1594916277206438",
+    "checksum": 1576023686,
+    "size": 201848
+  }, {
     "assetId": "d7b644c1-2840-4d87-9cb9-23627b117275/1591122872891272",
     "bundleName": "badge_68",
     "version": "1591122872891272",
@@ -14114,11 +14186,11 @@
     "checksum": 3360374926,
     "size": 497242
   }, {
-    "assetId": "dccbb419-951a-4bf9-8448-8a32e5bae6d1/1594313620308267",
+    "assetId": "dccbb419-951a-4bf9-8448-8a32e5bae6d1/1595550127936194",
     "bundleName": "json_patch_i18n_korean",
-    "version": "1594313620308267",
-    "checksum": 3524018187,
-    "size": 8267
+    "version": "1595550127936194",
+    "checksum": 3593170563,
+    "size": 15517
   }, {
     "assetId": "dcd89218-66fa-4ea3-a549-7d49df98b5d1/1512759924956220",
     "bundleName": "pm0122",
@@ -14579,11 +14651,11 @@
     "checksum": 2708498505,
     "size": 5707
   }, {
-    "assetId": "e3603e13-ceb3-44f7-a0bf-d540334dc51a/1584920612804058",
+    "assetId": "e3603e13-ceb3-44f7-a0bf-d540334dc51a/1594916364241745",
     "bundleName": "pm0150_00",
-    "version": "1584920612804058",
-    "checksum": 2227230052,
-    "size": 563497
+    "version": "1594916364241745",
+    "checksum": 1695357437,
+    "size": 562742
   }, {
     "assetId": "e37dc2c6-8931-4dcf-a618-4632aeaae9e5/1584900632097277",
     "bundleName": "pokemon_icon_267",
@@ -15003,11 +15075,11 @@
     "checksum": 3494292585,
     "size": 158156
   }, {
-    "assetId": "e9aae74c-16d1-48c5-b0d6-27a5100491b8/1587490211541184",
+    "assetId": "e9aae74c-16d1-48c5-b0d6-27a5100491b8/1594916401835850",
     "bundleName": "badge_general",
-    "version": "1587490211541184",
-    "checksum": 2679115328,
-    "size": 144771
+    "version": "1594916401835850",
+    "checksum": 2160497019,
+    "size": 144793
   }, {
     "assetId": "e9b9bbb9-c72d-4a4f-9145-4e7102d23a87/1584900869942528",
     "bundleName": "pokemon_icon_297",
@@ -15106,6 +15178,12 @@
     "checksum": 9690268,
     "size": 10727
   }, {
+    "assetId": "eb12189d-ee5b-4870-b6a4-b9fefb11fa8e/1594916265485332",
+    "bundleName": "f_hat_gofest_pikachuvisor_bundle",
+    "version": "1594916265485332",
+    "checksum": 89498258,
+    "size": 191415
+  }, {
     "assetId": "eb19dafb-679e-4a5c-9b48-528a4f30ffc4/1584925811656937",
     "bundleName": "pm0455_00",
     "version": "1584925811656937",
@@ -15169,6 +15247,12 @@
     "version": "1584916891147063",
     "checksum": 1537761896,
     "size": 10188
+  }, {
+    "assetId": "ec18c4bf-62f6-4d54-b3e5-aac737403ad6/1594916289867525",
+    "bundleName": "f_shirt_gofest_2020_bundle",
+    "version": "1594916289867525",
+    "checksum": 461859538,
+    "size": 265927
   }, {
     "assetId": "ec32ce51-5ae4-46d7-9283-36901d6559aa/1584926425324251",
     "bundleName": "pm0491_00",
@@ -15609,6 +15693,12 @@
     "checksum": 3828700002,
     "size": 10790
   }, {
+    "assetId": "f3751057-6d69-410e-96be-3c3c25765109/1594916416887099",
+    "bundleName": "move_sounds",
+    "version": "1594916416887099",
+    "checksum": 2741227520,
+    "size": 3135920
+  }, {
     "assetId": "f397bac4-e856-4f57-aed0-a99e44b515f6/1584924067538224",
     "bundleName": "pm0346_00",
     "version": "1584924067538224",
@@ -15864,6 +15954,12 @@
     "checksum": 1540645378,
     "size": 303820
   }, {
+    "assetId": "f7a2af83-41ec-49df-a069-09e0987a8a99/1594916309123739",
+    "bundleName": "f_shirt_victinitshirts_bundle",
+    "version": "1594916309123739",
+    "checksum": 1206466951,
+    "size": 258397
+  }, {
     "assetId": "f7a59eae-dd95-449d-8d51-ca7db2b99630/1584915534093486",
     "bundleName": "m_hat_loneearrings_bundle",
     "version": "1584915534093486",
@@ -15894,11 +15990,11 @@
     "checksum": 3779402474,
     "size": 9420
   }, {
-    "assetId": "f81c317b-b38c-454e-ac41-b716acec654f/1594313602355420",
+    "assetId": "f81c317b-b38c-454e-ac41-b716acec654f/1595550111250734",
     "bundleName": "json_patch_i18n_french",
-    "version": "1594313602355420",
-    "checksum": 2961352867,
-    "size": 8558
+    "version": "1595550111250734",
+    "checksum": 962321023,
+    "size": 15077
   }, {
     "assetId": "f826a71a-90f8-46c9-a731-f05a07d215ef/1584914399966786",
     "bundleName": "f_hat_meltan_bundle",
@@ -16427,6 +16523,5 @@
     "checksum": 2083115128,
     "size": 290457
   }],
-  "timestamp": "1594313629852578",
-  "result": "SUCCESS"
+  "timestampMs": "1595550137895235"
 }
