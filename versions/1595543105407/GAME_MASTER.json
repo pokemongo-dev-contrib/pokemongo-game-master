@@ -1016,19 +1016,6 @@
       "iconName": "f_gloves_teamspark_0_bundle_icon"
     }
   }, {
-    "templateId": "AVATAR_f_gofest_pikachuvisor",
-    "avatarCustomization": {
-      "enabled": true,
-      "avatarType": "PLAYER_AVATAR_FEMALE",
-      "slot": ["HAT"],
-      "bundleName": "f_hat_gofest_pikachuvisor_bundle",
-      "assetName": "f_hat_gofest_pikachuvisor_0",
-      "groupName": "group_hat",
-      "sortOrder": 1266,
-      "unlockType": "DEFAULT",
-      "iconName": "f_hat_gofest_pikachuvisor_0_bundle_icon"
-    }
-  }, {
     "templateId": "AVATAR_f_hair_default_0",
     "avatarCustomization": {
       "enabled": true,
@@ -3566,19 +3553,6 @@
       "iconName": "f_shirt_gofest_2019_bundle_icon"
     }
   }, {
-    "templateId": "AVATAR_f_shirt_gofest_2020",
-    "avatarCustomization": {
-      "enabled": true,
-      "avatarType": "PLAYER_AVATAR_FEMALE",
-      "slot": ["SHIRT"],
-      "bundleName": "f_shirt_gofest_2020_bundle",
-      "assetName": "f_shirt_gofest_2020_0",
-      "groupName": "group_shirt",
-      "sortOrder": 1264,
-      "unlockType": "DEFAULT",
-      "iconName": "f_shirt_gofest_2020_0_bundle_icon"
-    }
-  }, {
     "templateId": "AVATAR_f_shirt_gymleader_0",
     "avatarCustomization": {
       "enabled": true,
@@ -4768,20 +4742,6 @@
       "iapSku": "pgorelease.avatar.f_shirt_veterantrainerxy_0",
       "unlockBadgeLevel": 200,
       "iconName": "f_shirt_veterantrainerxy_0_bundle_icon"
-    }
-  }, {
-    "templateId": "AVATAR_f_shirt_victinitshirts",
-    "avatarCustomization": {
-      "enabled": true,
-      "avatarType": "PLAYER_AVATAR_FEMALE",
-      "slot": ["SHIRT"],
-      "bundleName": "f_shirt_victinitshirts_bundle",
-      "assetName": "f_shirt_victinitshirts_0",
-      "groupName": "group_shirt",
-      "sortOrder": 1262,
-      "unlockType": "IAP_CLOTHING",
-      "iapSku": "pgorelease.avatar.f_shirt_victinitshirts_0",
-      "iconName": "f_shirt_victinitshirts_00_bundle_icon"
     }
   }, {
     "templateId": "AVATAR_f_shoes_acetrainerbw",
@@ -6342,18 +6302,6 @@
       "unlockType": "IAP_CLOTHING",
       "iapSku": "pgorelease.avatar.m_gloves_teamspark_0",
       "iconName": "m_gloves_teamspark_0_bundle_icon"
-    }
-  }, {
-    "templateId": "AVATAR_m_gofest_pikachuvisor",
-    "avatarCustomization": {
-      "enabled": true,
-      "slot": ["HAT"],
-      "bundleName": "m_hat_gofest_pikachuvisor_bundle",
-      "assetName": "m_hat_gofest_pikachuvisor_0",
-      "groupName": "group_hat",
-      "sortOrder": 1267,
-      "unlockType": "DEFAULT",
-      "iconName": "m_hat_gofest_pikachuvisor_0_bundle_icon"
     }
   }, {
     "templateId": "AVATAR_m_hair_default_0",
@@ -8458,18 +8406,6 @@
       "iconName": "m_shirt_gofest_2019_bundle_icon"
     }
   }, {
-    "templateId": "AVATAR_m_shirt_gofest_2020",
-    "avatarCustomization": {
-      "enabled": true,
-      "slot": ["SHIRT"],
-      "bundleName": "m_shirt_gofest_2020_bundle",
-      "assetName": "m_shirt_gofest_2020_0",
-      "groupName": "group_shirt",
-      "sortOrder": 1265,
-      "unlockType": "DEFAULT",
-      "iconName": "m_shirt_gofest_2020_0_bundle_icon"
-    }
-  }, {
     "templateId": "AVATAR_m_shirt_gymleader_0",
     "avatarCustomization": {
       "enabled": true,
@@ -9564,19 +9500,6 @@
       "iapSku": "pgorelease.avatar.m_shirt_veterantrainerxy_0",
       "unlockBadgeLevel": 200,
       "iconName": "m_shirt_veterantrainerxy_0_bundle_icon"
-    }
-  }, {
-    "templateId": "AVATAR_m_shirt_victinitshirts",
-    "avatarCustomization": {
-      "enabled": true,
-      "slot": ["SHIRT"],
-      "bundleName": "m_shirt_victinitshirts_bundle",
-      "assetName": "m_shirt_victinitshirts_0",
-      "groupName": "group_shirt",
-      "sortOrder": 1263,
-      "unlockType": "IAP_CLOTHING",
-      "iapSku": "pgorelease.avatar.m_shirt_victinitshirts_0",
-      "iconName": "m_shirt_victinitshirts_00_bundle_icon"
     }
   }, {
     "templateId": "AVATAR_m_shoes_acetrainerbw",
@@ -15224,19 +15147,6 @@
       "energyDelta": -45
     }
   }, {
-    "templateId": "COMBAT_V0342_MOVE_V_CREATE",
-    "combatMove": {
-      "uniqueId": "V_CREATE",
-      "type": "POKEMON_TYPE_FIRE",
-      "power": 95.0,
-      "vfxName": "v_create",
-      "energyDelta": -40,
-      "buffs": {
-        "attackerDefenseStatStageChange": -3,
-        "buffActivationChance": 1.0
-      }
-    }
-  }, {
     "templateId": "CROSS_GAME_SOCIAL_SETTING",
     "crossGameSocialSettings": {
       "onlineStatusEnabledOverrideLevel": true,
@@ -20574,20 +20484,6 @@
       "dropTrainerLevel": 10
     }
   }, {
-    "templateId": "ITEM_EVENT_TICKET_PINK",
-    "item": {
-      "itemId": "ITEM_EVENT_TICKET_PINK",
-      "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
-      "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
-      "globalEventTicket": {
-        "eventStartTime": "2020-07-19T11:00:00",
-        "eventEndTime": "2020-07-19T17:00:00",
-        "itemBagDescriptionKey": "item_event_ticket_pink_details",
-        "clientEventStartTimeUtcMs": "1595156400000",
-        "clientEventEndTimeUtcMs": "1595178000000"
-      }
-    }
-  }, {
     "templateId": "ITEM_FREE_RAID_TICKET",
     "item": {
       "itemId": "ITEM_FREE_RAID_TICKET",
@@ -21239,14 +21135,10 @@
       "powerUpStardustDiscountPercent": 0.5
     }
   }, {
-    "templateId": "MAP_DISPLAY_SETTINGS",
-    "mapDisplaySettings": {
-    }
-  }, {
     "templateId": "MONODEPTH_SETTINGS",
     "monodepthSettings": {
       "enableOcclusions": true,
-      "occlusionsToggleVisible": true
+      "occlusionsDefaultOn": true
     }
   }, {
     "templateId": "ONBOARDING_V2_SETTINGS",
@@ -25666,22 +25558,6 @@
     }
   }, {
     "templateId": "SPAWN_V0150_POKEMON_MEWTWO_NORMAL",
-    "genderSettings": {
-      "pokemon": "MEWTWO",
-      "gender": {
-        "genderlessPercent": 1.0
-      }
-    }
-  }, {
-    "templateId": "SPAWN_V0150_POKEMON_MEWTWO_PURIFIED",
-    "genderSettings": {
-      "pokemon": "MEWTWO",
-      "gender": {
-        "genderlessPercent": 1.0
-      }
-    }
-  }, {
-    "templateId": "SPAWN_V0150_POKEMON_MEWTWO_SHADOW",
     "genderSettings": {
       "pokemon": "MEWTWO",
       "gender": {
@@ -33244,6 +33120,16 @@
       }
     }
   }, {
+    "templateId": "SPONSORED_GEOFENCE_GIFT_SETTINGS",
+    "sponsoredGeofenceGiftSettings": {
+      "giftPersistenceTimeMs": 3000,
+      "mapPresentationTimeMs": 7000,
+      "enableSponsoredGeofenceGift": true,
+      "enablePoiGift": true,
+      "enableRaidGift": true,
+      "enableIncidentGift": true
+    }
+  }, {
     "templateId": "STICKER_FUNAWARI_04_312",
     "stickerMetadata": {
       "stickerId": "STICKER_FUNAWARI_04_312",
@@ -33328,13 +33214,6 @@
       "sortOrder": 2
     }
   }, {
-    "templateId": "STICKER_NIA_LOGO",
-    "stickerMetadata": {
-      "stickerId": "STICKER_NIA_LOGO",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nia_logo.png",
-      "maxCount": 25
-    }
-  }, {
     "templateId": "STICKER_NIGIYAKA_08_0508_312",
     "stickerMetadata": {
       "stickerId": "STICKER_NIGIYAKA_08_0508_312",
@@ -33346,48 +33225,6 @@
     "stickerMetadata": {
       "stickerId": "STICKER_NIGIYAKA_16_0508_312",
       "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nigiyaka_16_0508_312.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_2017",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_2017",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2017.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_2018",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_2018",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2018.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_2019",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_2019",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2019.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_2020",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_2020",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2020.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_2020_LOGO",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_2020_LOGO",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2020_logo.png",
-      "maxCount": 25
-    }
-  }, {
-    "templateId": "STICKER_PGO_FEST_VICTINI_05",
-    "stickerMetadata": {
-      "stickerId": "STICKER_PGO_FEST_VICTINI_05",
-      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_victini_05.png",
       "maxCount": 25
     }
   }, {
@@ -67161,136 +66998,6 @@
       "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
     }
   }, {
-    "templateId": "V0150_POKEMON_MEWTWO_PURIFIED",
-    "pokemon": {
-      "uniqueId": "MEWTWO",
-      "modelScale": 0.74,
-      "type1": "POKEMON_TYPE_PSYCHIC",
-      "camera": {
-        "diskRadiusM": 0.555,
-        "cylinderRadiusM": 0.6,
-        "cylinderHeightM": 2.0,
-        "shoulderModeScale": 0.5
-      },
-      "encounter": {
-        "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.1,
-        "collisionRadiusM": 0.37,
-        "collisionHeightM": 1.184,
-        "collisionHeadRadiusM": 0.185,
-        "movementType": "MOVEMENT_JUMP",
-        "movementTimerS": 8.0,
-        "jumpTimeS": 1.2,
-        "attackTimerS": 3.0,
-        "attackProbability": 0.1,
-        "dodgeProbability": 0.15,
-        "dodgeDurationS": 1.0,
-        "dodgeDistance": 1.0,
-        "cameraDistance": 5.55,
-        "minPokemonActionFrequencyS": 0.2,
-        "maxPokemonActionFrequencyS": 1.6
-      },
-      "stats": {
-        "baseStamina": 214,
-        "baseAttack": 300,
-        "baseDefense": 182
-      },
-      "quickMoves": ["PSYCHO_CUT_FAST", "CONFUSION_FAST"],
-      "cinematicMoves": ["PSYCHIC", "THUNDERBOLT", "ICE_BEAM", "FOCUS_BLAST", "FLAMETHROWER"],
-      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
-      "evolutionPips": 1,
-      "pokemonClass": "POKEMON_CLASS_LEGENDARY",
-      "pokedexHeightM": 2.0,
-      "pokedexWeightKg": 122.0,
-      "heightStdDev": 0.25,
-      "weightStdDev": 15.25,
-      "familyId": "FAMILY_MEWTWO",
-      "kmBuddyDistance": 20.0,
-      "buddySize": "BUDDY_BIG",
-      "modelHeight": 2.0,
-      "modelScaleV2": 1.0,
-      "form": "MEWTWO_PURIFIED",
-      "buddyOffsetMale": [20.0, 0.0, 59.2],
-      "buddyOffsetFemale": [20.0, 0.0, 59.2],
-      "buddyScale": 19.0,
-      "buddyPortraitOffset": [0.09, 0.06, 0.35],
-      "thirdMove": {
-        "stardustToUnlock": 80000,
-        "candyToUnlock": 80
-      },
-      "isTransferable": true,
-      "buddyGroupNumber": 3,
-      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
-    }
-  }, {
-    "templateId": "V0150_POKEMON_MEWTWO_SHADOW",
-    "pokemon": {
-      "uniqueId": "MEWTWO",
-      "modelScale": 0.74,
-      "type1": "POKEMON_TYPE_PSYCHIC",
-      "camera": {
-        "diskRadiusM": 0.555,
-        "cylinderRadiusM": 0.6,
-        "cylinderHeightM": 2.0,
-        "shoulderModeScale": 0.5
-      },
-      "encounter": {
-        "baseCaptureRate": 0.02,
-        "baseFleeRate": 0.1,
-        "collisionRadiusM": 0.37,
-        "collisionHeightM": 1.184,
-        "collisionHeadRadiusM": 0.185,
-        "movementType": "MOVEMENT_JUMP",
-        "movementTimerS": 8.0,
-        "jumpTimeS": 1.2,
-        "attackTimerS": 3.0,
-        "attackProbability": 0.7,
-        "dodgeProbability": 0.2,
-        "dodgeDurationS": 1.0,
-        "dodgeDistance": 1.0,
-        "cameraDistance": 5.55,
-        "minPokemonActionFrequencyS": 0.2,
-        "maxPokemonActionFrequencyS": 1.6
-      },
-      "stats": {
-        "baseStamina": 214,
-        "baseAttack": 300,
-        "baseDefense": 182
-      },
-      "quickMoves": ["PSYCHO_CUT_FAST", "CONFUSION_FAST"],
-      "cinematicMoves": ["PSYCHIC", "THUNDERBOLT", "ICE_BEAM", "FOCUS_BLAST", "FLAMETHROWER"],
-      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
-      "evolutionPips": 1,
-      "pokemonClass": "POKEMON_CLASS_LEGENDARY",
-      "pokedexHeightM": 2.0,
-      "pokedexWeightKg": 122.0,
-      "heightStdDev": 0.25,
-      "weightStdDev": 15.25,
-      "familyId": "FAMILY_MEWTWO",
-      "kmBuddyDistance": 20.0,
-      "buddySize": "BUDDY_BIG",
-      "modelHeight": 2.0,
-      "modelScaleV2": 1.0,
-      "form": "MEWTWO_SHADOW",
-      "buddyOffsetMale": [20.0, 0.0, 59.2],
-      "buddyOffsetFemale": [20.0, 0.0, 59.2],
-      "buddyScale": 19.0,
-      "buddyPortraitOffset": [0.09, 0.06, 0.35],
-      "thirdMove": {
-        "stardustToUnlock": 120000,
-        "candyToUnlock": 120
-      },
-      "isTransferable": true,
-      "shadow": {
-        "purificationStardustNeeded": 20000,
-        "purificationCandyNeeded": 20,
-        "purifiedChargeMove": "RETURN",
-        "shadowChargeMove": "FRUSTRATION"
-      },
-      "buddyGroupNumber": 3,
-      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
-    }
-  }, {
     "templateId": "V0151_POKEMON_MEW",
     "pokemon": {
       "uniqueId": "MEW",
@@ -91340,23 +91047,6 @@
       "isTransferable": true,
       "isDeployable": true,
       "buddyGroupNumber": 2
-    }
-  }, {
-    "templateId": "V0342_MOVE_V_CREATE",
-    "move": {
-      "movementId": "V_CREATE",
-      "animationId": "ATTACK_02",
-      "pokemonType": "POKEMON_TYPE_FIRE",
-      "power": 95.0,
-      "accuracyChance": 1.0,
-      "staminaLossScalar": 0.01,
-      "trainerLevelMin": 1,
-      "trainerLevelMax": 100,
-      "vfxName": "v_create",
-      "durationMs": 2800,
-      "damageWindowStartMs": 1700,
-      "damageWindowEndMs": 2500,
-      "energyDelta": -33
     }
   }, {
     "templateId": "V0342_POKEMON_CRAWDAUNT",
@@ -134416,11 +134106,6 @@
       "sequence": ["anim attacker atk-move", "vfx defender twister", "sfx attacker 239-0_twister", "wait 1.82", "sys ui-sync", "sys complete"]
     }
   }, {
-    "templateId": "sequence_v_create",
-    "moveSequence": {
-      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx v_create", "sfx attacker 557-0_v_create", "wait 1.5", "sys ui-sync", "sys complete"]
-    }
-  }, {
     "templateId": "sequence_vice_grip",
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "anim attacker atk-move", "vfx defender vice_grip", "wait 0.3", "sfx attacker 011-0_vice_grip", "wait 0.75", "sys ui-sync", "sys complete"]
@@ -134519,6 +134204,331 @@
     "templateId": "sequence_zen_headbutt_fast",
     "moveSequence": {
       "sequence": ["anim attacker atk-move", "vfx zen_headbutt_fast", "wait 0.40", "sfx attacker 442-0_iron_head", "wait 0.25", "sys ui-sync", "sys complete"]
+    }
+  }, {
+    "templateId": "ITEM_EVENT_TICKET_PINK",
+    "item": {
+      "itemId": "ITEM_EVENT_TICKET_PINK",
+      "itemType": "ITEM_TYPE_GLOBAL_EVENT_TICKET",
+      "category": "ITEM_CATEGORY_GLOBAL_EVENT_TICKET",
+      "globalEventTicket": {
+        "eventStartTime": "2020-07-19T11:00:00",
+        "eventEndTime": "2020-07-19T17:00:00",
+        "itemBagDescriptionKey": "item_event_ticket_pink_details",
+        "clientEventStartTimeUtcMs": "1595156400000",
+        "clientEventEndTimeUtcMs": "1595178000000"
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0150_POKEMON_MEWTWO_PURIFIED",
+    "genderSettings": {
+      "pokemon": "MEWTWO",
+      "gender": {
+        "genderlessPercent": 1.0
+      }
+    }
+  }, {
+    "templateId": "SPAWN_V0150_POKEMON_MEWTWO_SHADOW",
+    "genderSettings": {
+      "pokemon": "MEWTWO",
+      "gender": {
+        "genderlessPercent": 1.0
+      }
+    }
+  }, {
+    "templateId": "V0150_POKEMON_MEWTWO_PURIFIED",
+    "pokemon": {
+      "uniqueId": "MEWTWO",
+      "modelScale": 0.74,
+      "type1": "POKEMON_TYPE_PSYCHIC",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 2.0,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.02,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.37,
+        "collisionHeightM": 1.184,
+        "collisionHeadRadiusM": 0.185,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 8.0,
+        "jumpTimeS": 1.2,
+        "attackTimerS": 3.0,
+        "attackProbability": 0.1,
+        "dodgeProbability": 0.15,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.55,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 214,
+        "baseAttack": 300,
+        "baseDefense": 182
+      },
+      "quickMoves": ["PSYCHO_CUT_FAST", "CONFUSION_FAST"],
+      "cinematicMoves": ["PSYCHIC", "THUNDERBOLT", "ICE_BEAM", "FOCUS_BLAST", "FLAMETHROWER"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokemonClass": "POKEMON_CLASS_LEGENDARY",
+      "pokedexHeightM": 2.0,
+      "pokedexWeightKg": 122.0,
+      "heightStdDev": 0.25,
+      "weightStdDev": 15.25,
+      "familyId": "FAMILY_MEWTWO",
+      "kmBuddyDistance": 20.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.0,
+      "modelScaleV2": 1.0,
+      "form": "MEWTWO_PURIFIED",
+      "buddyOffsetMale": [20.0, 0.0, 59.2],
+      "buddyOffsetFemale": [20.0, 0.0, 59.2],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.09, 0.06, 0.35],
+      "thirdMove": {
+        "stardustToUnlock": 80000,
+        "candyToUnlock": 80
+      },
+      "isTransferable": true,
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
+    }
+  }, {
+    "templateId": "V0150_POKEMON_MEWTWO_SHADOW",
+    "pokemon": {
+      "uniqueId": "MEWTWO",
+      "modelScale": 0.74,
+      "type1": "POKEMON_TYPE_PSYCHIC",
+      "camera": {
+        "diskRadiusM": 0.555,
+        "cylinderRadiusM": 0.6,
+        "cylinderHeightM": 2.0,
+        "shoulderModeScale": 0.5
+      },
+      "encounter": {
+        "baseCaptureRate": 0.02,
+        "baseFleeRate": 0.1,
+        "collisionRadiusM": 0.37,
+        "collisionHeightM": 1.184,
+        "collisionHeadRadiusM": 0.185,
+        "movementType": "MOVEMENT_JUMP",
+        "movementTimerS": 8.0,
+        "jumpTimeS": 1.2,
+        "attackTimerS": 3.0,
+        "attackProbability": 0.7,
+        "dodgeProbability": 0.2,
+        "dodgeDurationS": 1.0,
+        "dodgeDistance": 1.0,
+        "cameraDistance": 5.55,
+        "minPokemonActionFrequencyS": 0.2,
+        "maxPokemonActionFrequencyS": 1.6
+      },
+      "stats": {
+        "baseStamina": 214,
+        "baseAttack": 300,
+        "baseDefense": 182
+      },
+      "quickMoves": ["PSYCHO_CUT_FAST", "CONFUSION_FAST"],
+      "cinematicMoves": ["PSYCHIC", "THUNDERBOLT", "ICE_BEAM", "FOCUS_BLAST", "FLAMETHROWER"],
+      "animTime": [1.3333, 0.6667, 1.6667, 2.0, 0.0, 2.0, 3.0, 3.0],
+      "evolutionPips": 1,
+      "pokemonClass": "POKEMON_CLASS_LEGENDARY",
+      "pokedexHeightM": 2.0,
+      "pokedexWeightKg": 122.0,
+      "heightStdDev": 0.25,
+      "weightStdDev": 15.25,
+      "familyId": "FAMILY_MEWTWO",
+      "kmBuddyDistance": 20.0,
+      "buddySize": "BUDDY_BIG",
+      "modelHeight": 2.0,
+      "modelScaleV2": 1.0,
+      "form": "MEWTWO_SHADOW",
+      "buddyOffsetMale": [20.0, 0.0, 59.2],
+      "buddyOffsetFemale": [20.0, 0.0, 59.2],
+      "buddyScale": 19.0,
+      "buddyPortraitOffset": [0.09, 0.06, 0.35],
+      "thirdMove": {
+        "stardustToUnlock": 120000,
+        "candyToUnlock": 120
+      },
+      "isTransferable": true,
+      "shadow": {
+        "purificationStardustNeeded": 20000,
+        "purificationCandyNeeded": 20,
+        "purifiedChargeMove": "RETURN",
+        "shadowChargeMove": "FRUSTRATION"
+      },
+      "buddyGroupNumber": 3,
+      "eliteCinematicMove": ["PSYSTRIKE", "SHADOW_BALL", "HYPER_BEAM"]
+    }
+  }, {
+    "templateId": "AVATAR_f_gofest_pikachuvisor",
+    "avatarCustomization": {
+      "enabled": true,
+      "avatarType": "PLAYER_AVATAR_FEMALE",
+      "slot": ["HAT"],
+      "bundleName": "f_hat_gofest_pikachuvisor_bundle",
+      "assetName": "f_hat_gofest_pikachuvisor_0",
+      "groupName": "group_hat",
+      "sortOrder": 1266,
+      "unlockType": "DEFAULT",
+      "iconName": "f_hat_gofest_pikachuvisor_0_bundle_icon"
+    }
+  }, {
+    "templateId": "AVATAR_f_shirt_gofest_2020",
+    "avatarCustomization": {
+      "enabled": true,
+      "avatarType": "PLAYER_AVATAR_FEMALE",
+      "slot": ["SHIRT"],
+      "bundleName": "f_shirt_gofest_2020_bundle",
+      "assetName": "f_shirt_gofest_2020_0",
+      "groupName": "group_shirt",
+      "sortOrder": 1264,
+      "unlockType": "DEFAULT",
+      "iconName": "f_shirt_gofest_2020_0_bundle_icon"
+    }
+  }, {
+    "templateId": "AVATAR_f_shirt_victinitshirts",
+    "avatarCustomization": {
+      "enabled": true,
+      "avatarType": "PLAYER_AVATAR_FEMALE",
+      "slot": ["SHIRT"],
+      "bundleName": "f_shirt_victinitshirts_bundle",
+      "assetName": "f_shirt_victinitshirts_0",
+      "groupName": "group_shirt",
+      "sortOrder": 1262,
+      "unlockType": "IAP_CLOTHING",
+      "iapSku": "pgorelease.avatar.f_shirt_victinitshirts_0",
+      "iconName": "f_shirt_victinitshirts_00_bundle_icon"
+    }
+  }, {
+    "templateId": "AVATAR_m_gofest_pikachuvisor",
+    "avatarCustomization": {
+      "enabled": true,
+      "slot": ["HAT"],
+      "bundleName": "m_hat_gofest_pikachuvisor_bundle",
+      "assetName": "m_hat_gofest_pikachuvisor_0",
+      "groupName": "group_hat",
+      "sortOrder": 1267,
+      "unlockType": "DEFAULT",
+      "iconName": "m_hat_gofest_pikachuvisor_0_bundle_icon"
+    }
+  }, {
+    "templateId": "AVATAR_m_shirt_gofest_2020",
+    "avatarCustomization": {
+      "enabled": true,
+      "slot": ["SHIRT"],
+      "bundleName": "m_shirt_gofest_2020_bundle",
+      "assetName": "m_shirt_gofest_2020_0",
+      "groupName": "group_shirt",
+      "sortOrder": 1265,
+      "unlockType": "DEFAULT",
+      "iconName": "m_shirt_gofest_2020_0_bundle_icon"
+    }
+  }, {
+    "templateId": "AVATAR_m_shirt_victinitshirts",
+    "avatarCustomization": {
+      "enabled": true,
+      "slot": ["SHIRT"],
+      "bundleName": "m_shirt_victinitshirts_bundle",
+      "assetName": "m_shirt_victinitshirts_0",
+      "groupName": "group_shirt",
+      "sortOrder": 1263,
+      "unlockType": "IAP_CLOTHING",
+      "iapSku": "pgorelease.avatar.m_shirt_victinitshirts_0",
+      "iconName": "m_shirt_victinitshirts_00_bundle_icon"
+    }
+  }, {
+    "templateId": "COMBAT_V0342_MOVE_V_CREATE",
+    "combatMove": {
+      "uniqueId": "V_CREATE",
+      "type": "POKEMON_TYPE_FIRE",
+      "power": 95.0,
+      "vfxName": "v_create",
+      "energyDelta": -40,
+      "buffs": {
+        "attackerDefenseStatStageChange": -3,
+        "buffActivationChance": 1.0
+      }
+    }
+  }, {
+    "templateId": "MAP_DISPLAY_SETTINGS",
+    "mapDisplaySettings": {
+    }
+  }, {
+    "templateId": "STICKER_NIA_LOGO",
+    "stickerMetadata": {
+      "stickerId": "STICKER_NIA_LOGO",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_nia_logo.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_2017",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_2017",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2017.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_2018",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_2018",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2018.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_2019",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_2019",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2019.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_2020",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_2020",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2020.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_2020_LOGO",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_2020_LOGO",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_2020_logo.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "STICKER_PGO_FEST_VICTINI_05",
+    "stickerMetadata": {
+      "stickerId": "STICKER_PGO_FEST_VICTINI_05",
+      "stickerUrl": "https://storage.googleapis.com/prod-public-images/sticker_pgo_fest_victini_05.png",
+      "maxCount": 25
+    }
+  }, {
+    "templateId": "V0342_MOVE_V_CREATE",
+    "move": {
+      "movementId": "V_CREATE",
+      "animationId": "ATTACK_02",
+      "pokemonType": "POKEMON_TYPE_FIRE",
+      "power": 95.0,
+      "accuracyChance": 1.0,
+      "staminaLossScalar": 0.01,
+      "trainerLevelMin": 1,
+      "trainerLevelMax": 100,
+      "vfxName": "v_create",
+      "durationMs": 2800,
+      "damageWindowStartMs": 1700,
+      "damageWindowEndMs": 2500,
+      "energyDelta": -33
+    }
+  }, {
+    "templateId": "sequence_v_create",
+    "moveSequence": {
+      "sequence": ["anim attacker atk-move", "wait 0.5", "vfx v_create", "sfx attacker 557-0_v_create", "wait 1.5", "sys ui-sync", "sys complete"]
     }
   }],
   "timestampMs": "1595543105407"
