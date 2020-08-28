@@ -10,17 +10,17 @@ public class GenerateAssetDigestJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		CHNAKIHCMDK.Builder response = CHNAKIHCMDK.parseFrom(is).toBuilder();
-		response.setLcajjpmoafe(CHNAKIHCMDK.NCHFMCHICAB.SUCCESS);
+		KFNOJNMNCKN.Builder response = KFNOJNMNCKN.parseFrom(is).toBuilder();
+		response.setMagjbjmclno(KFNOJNMNCKN.AOHMJGPDKAP.SUCCESS);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
 			System.out.println();
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println("Generated digests:");
-			System.out.println("	Decoded digests: " + response.getKchckcbpgldCount());
-			System.out.println("	TimestampMs    : " + response.getHipmbcfhmjn());
-			System.out.println("	Result         : " + response.getLcajjpmoafe());
+			System.out.println("	Decoded digests: " + response.getEnhafcpkmmlCount());
+			System.out.println("	TimestampMs    : " + response.getAplkbhpgllh());
+			System.out.println("	Result         : " + response.getMagjbjmclno());
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println();
 		}
