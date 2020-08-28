@@ -57,7 +57,7 @@ if [ "${PROTOBUF_FILE}" == "" ]; then
 fi
 
 # Generate JSON
-mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} GAME_MASTER.json --oldmode"
+mvn clean package exec:java -Dexec.mainClass="com.pokebattler.gamemaster.GenerateJSON" -Dexec.args="${PROTOBUF_FILE} GAME_MASTER.json"
 
 if [ "${TIMESTAMP}" == "" ]; then
   # Get timestampMs from new JSON file
