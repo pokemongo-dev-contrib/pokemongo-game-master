@@ -23,7 +23,7 @@ const getVersion = (version, format) => {
             reject(`Only the format .${allowedFormats.join(' .')} are allowed`);
         }
         // Get Date
-        request.get(`${FETCH_URL}/${version}/GAME_MASTER.${format}`, (error, response, body) => {
+        request.get(`${FETCH_URL}/${version}/V2_GAME_MASTER.${format}`, (error, response, body) => {
             if (response.body === '404: Not Found\n') return reject(new Error('Given version could not be found.'));
             if (error) return reject(error);
 
