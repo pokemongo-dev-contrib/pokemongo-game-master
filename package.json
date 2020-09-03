@@ -1,11 +1,11 @@
 {
   "name": "pokemongo-game-master",
-  "version": "2.1.0",
+  "version": "2.1.2",
   "description": "Collection of the decoded GAME_MASTER-protobuf files",
   "main": "src/index.js",
   "scripts": {
     "test": "mocha test",
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",

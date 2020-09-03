@@ -4,3 +4,9 @@ src/main
 dependency-reduced-pom.xml
 Dockerfile
 *.iml
+special/
+.travis.yml
+src/test/java
+*.jar
+*.bat
+contrib/pokebattler
