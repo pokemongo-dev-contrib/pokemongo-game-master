@@ -13,7 +13,7 @@ shell command. This downloads the latest GAME_MASTER.json file of this repositor
 
 ```bash
 
-wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-game-master/master/versions/latest/GAME_MASTER.json
+wget https://raw.githubusercontent.com/pokemongo-dev-contrib/pokemongo-game-master/master/versions/latest/V2_GAME_MASTER.json
 
 ```
 
