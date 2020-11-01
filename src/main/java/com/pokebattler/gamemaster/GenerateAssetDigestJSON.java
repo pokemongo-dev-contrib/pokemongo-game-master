@@ -10,7 +10,7 @@ public class GenerateAssetDigestJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		AssetDigestOutProto.Builder response = AssetDigestOutProto.parseFrom(is).toBuilder();
+		/*AssetDigestOutProto.Builder response = AssetDigestOutProto.parseFrom(is).toBuilder();
 		response.setResult(AssetDigestOutProto.Result.SUCCESS);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
@@ -23,7 +23,7 @@ public class GenerateAssetDigestJSON {
 			System.out.println("	Result         : " + response.getResult());
 			System.out.println("-------------------------------------------------------------------------------");
 			System.out.println();
-		}
+		}*/
 	}
 
 	public static void main(String[] args) throws Exception {
