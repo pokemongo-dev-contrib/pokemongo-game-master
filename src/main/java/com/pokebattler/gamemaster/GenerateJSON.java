@@ -10,8 +10,8 @@ public class GenerateJSON {
 	}
 
 	public void writeJSON(InputStream is, OutputStream os) throws IOException {
-		PlatformDownloadGmTemplatesResponseProto.Builder response = PlatformDownloadGmTemplatesResponseProto.parseFrom(is).toBuilder();
-		response.setResult(PlatformDownloadGmTemplatesResponseProto.Result.COMPLETE);
+		DownloadGmTemplatesResponseProto.Builder response = DownloadGmTemplatesResponseProto.parseFrom(is).toBuilder();
+		response.setResult(DownloadGmTemplatesResponseProto.Result.COMPLETE);
 		JsonFormat.Printer printer = JsonFormat.printer();
 		try (OutputStreamWriter writer = new OutputStreamWriter(os)) {
 			printer.appendTo(response, writer);
