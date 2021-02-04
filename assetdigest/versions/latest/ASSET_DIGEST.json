@@ -972,11 +972,11 @@
     "checksum": 1206204903,
     "size": 380922
   }, {
-    "assetId": "0bdec263-1e45-49ca-a572-4acd0cf8b9b3/1608752442803360",
+    "assetId": "0bdec263-1e45-49ca-a572-4acd0cf8b9b3/1612380802010307",
     "bundleName": "pm0130_00",
-    "version": "1608752442803360",
-    "checksum": 3350119580,
-    "size": 514217
+    "version": "1612380802010307",
+    "checksum": 3304408817,
+    "size": 513456
   }, {
     "assetId": "0c0a841e-2e23-4195-9284-f7a0a57165b9/1608752656116753",
     "bundleName": "pm0082_00",
@@ -2628,11 +2628,11 @@
     "checksum": 4018074673,
     "size": 172510
   }, {
-    "assetId": "2339feca-bec1-4b61-b5bf-61febd2b6771/1584899549734105",
+    "assetId": "2339feca-bec1-4b61-b5bf-61febd2b6771/1612380805063681",
     "bundleName": "pokemon_icon_130",
-    "version": "1584899549734105",
-    "checksum": 338116819,
-    "size": 31838
+    "version": "1612380805063681",
+    "checksum": 1795673208,
+    "size": 55477
   }, {
     "assetId": "23520c82-bd4b-440e-b798-5b697ce3acf5/1584915235895417",
     "bundleName": "f_shirt_teamblanche_bundle",
@@ -17730,6 +17730,12 @@
     "checksum": 3668366904,
     "size": 727276
   }, {
+    "assetId": "f737904e-0660-4ecc-8034-f4938fd62fe1/1612380809186804",
+    "bundleName": "pm0130_51",
+    "version": "1612380809186804",
+    "checksum": 1614742057,
+    "size": 635415
+  }, {
     "assetId": "f73ea584-be92-42d6-99a9-861de0174717/1584914492165074",
     "bundleName": "f_pants_casual_0_bundle",
     "version": "1584914492165074",
@@ -18413,6 +18419,6 @@
     "checksum": 3580061142,
     "size": 290355
   }],
-  "timestamp": "1611964074443112",
+  "timestamp": "1612380809186804",
   "result": "SUCCESS"
 }
