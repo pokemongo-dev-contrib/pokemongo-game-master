@@ -22,15 +22,15 @@
   },
   "homepage": "https://github.com/BrunnerLivio/pokemongo-game-master#readme",
   "devDependencies": {
-    "@types/request": "^2.48.5",
-    "chai": "^4.2.0",
+    "@types/request": "^2.48.8",
+    "chai": "^4.3.6",
     "hoek": "^6.1.3",
     "mocha": "^6.2.3",
     "promise": "^8.1.0"
   },
   "dependencies": {
     "fs-extra": "^8.1.0",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "mv": "^2.1.1",
     "request": "^2.88.2"
   }
