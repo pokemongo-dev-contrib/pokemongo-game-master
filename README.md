@@ -25,13 +25,11 @@ Behind the scenes it will fetch the data from this repository and returns
 the value in a promise.
 
 ```JavaScript
-
 const gameMaster = require('pokemongo-game-master');
-
 gameMaster.getVersion('latest', 'json').then(console.log); // Returns as object: { itemTemplates: [ ... ], timestampMs: '1512514949791' }
-gameMaster.getVersion('0.83.3', 'protobuf').then(console.log); // Returns the version 0.83.3 as string
-
 ```
+<!-- old too old .... gameMaster.getVersion('0.83.3', 'protobuf').then(console.log); // Returns the version 0.83.3 as string -->
+
 
 ## Community Day JSON files
 
