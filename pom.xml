@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.pokebattler</groupId>
     <artifactId>pokemongo-game-master</artifactId>
-    <version>2.48.2-SNAPSHOT</version>
+    <version>2.56.2-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>PokeBattler Fight</name>
     <description>Fight server for PokeBattler</description>
