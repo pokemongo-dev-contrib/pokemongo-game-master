@@ -2,6 +2,8 @@
 
 [![Java CI with Maven](https://github.com/pokemongo-dev-contrib/pokemongo-game-master/actions/workflows/maven.yml/badge.svg?branch=master)](https://github.com/pokemongo-dev-contrib/pokemongo-game-master/actions/workflows/maven.yml) [![Test nodejs](https://github.com/pokemongo-dev-contrib/pokemongo-game-master/actions/workflows/test.yml/badge.svg?branch=master)](https://github.com/pokemongo-dev-contrib/pokemongo-game-master/actions/workflows/test.yml)
 
+<!--odd -->
+
 [![Online Users in pokemongo-game-master Discord Server](https://discordapp.com/api/guilds/293741011665027073/embed.png)](https://discord.gg/ssVqwvX)
 
 This repository is collection of the decoded GAME_MASTER-protobuf files
